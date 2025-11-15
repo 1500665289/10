@@ -1,0 +1,82 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong2_a5">
+      <DisplayName>百炼诀</DisplayName>
+    </Text>
+    <Text Name="Gong2_a5_1">
+      <DisplayName>百炼诀</DisplayName>
+    </Text>
+    <Text Name="Gong2_a5_2">
+      <DisplayName>百炼诀</DisplayName>
+    </Text>
+    <Text Name="Gong2_a5_4">
+      <DisplayName>百炼诀</DisplayName>
+    </Text>
+    <Text Name="Gong2_a9">
+      <DisplayName>博物志</DisplayName>
+    </Text>
+    <Text Name="Gong2_b1">
+      <DisplayName>上清真气</DisplayName>
+    </Text>
+    <Text Name="Gong2_b1_1">
+      <DisplayName>上清真气</DisplayName>
+    </Text>
+    <Text Name="Gong2_b5">
+      <DisplayName>灵淬法</DisplayName>
+    </Text>
+    <Text Name="Gong2_b9">
+      <DisplayName>炼器十要</DisplayName>
+    </Text>
+    <Text Name="Gong2_b11">
+      <DisplayName>灵石炼制</DisplayName>
+    </Text>
+    <Text Name="Gong2_c0">
+      <DisplayName>入定之术</DisplayName>
+    </Text>
+    <Text Name="Gong2_c1">
+      <DisplayName>御木诀</DisplayName>
+    </Text>
+    <Text Name="Gong2_c2">
+      <DisplayName>化伤术</DisplayName>
+    </Text>
+    <Text Name="Gong2_c4">
+      <DisplayName>托体同山</DisplayName>
+    </Text>
+    <Text Name="Gong2_c9">
+      <DisplayName>琢玉册</DisplayName>
+    </Text>
+    <Text Name="Gong2_d4">
+      <DisplayName>丙丁雷火</DisplayName>
+    </Text>
+    <Text Name="Gong2_d4_1">
+      <DisplayName>神火合一</DisplayName>
+    </Text>
+    <Text Name="Gong2_d5">
+      <DisplayName>上清真焰</DisplayName>
+    </Text>
+    <Text Name="Gong2_d5_1">
+      <DisplayName>神火合一</DisplayName>
+    </Text>
+    <Text Name="Gong2_d6">
+      <DisplayName>心焰</DisplayName>
+    </Text>
+    <Text Name="Gong2_d6_1">
+      <DisplayName>神火合一</DisplayName>
+    </Text>
+    <Text Name="Gong2_d7">
+      <DisplayName>伐毛洗髓</DisplayName>
+    </Text>
+    <Text Name="Gong2_d9">
+      <DisplayName>造化真解</DisplayName>
+    </Text>
+    <Text Name="Gong2_d11">
+      <DisplayName>灵晶炼制</DisplayName>
+    </Text>
+    <Text Name="Gong2_e4">
+      <DisplayName>天道神丹</DisplayName>
+    </Text>
+    <Text Name="Gong2_e8">
+      <DisplayName>天道神器</DisplayName>
+    </Text>
+  </List>
+</Texts>

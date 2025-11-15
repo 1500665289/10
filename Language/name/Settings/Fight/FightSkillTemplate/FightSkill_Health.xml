@@ -1,0 +1,22 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="THealthSkill">
+      <DisplayName>恢复技能</DisplayName>
+    </Text>
+    <Text Name="HealthSkill_Gong1_1">
+      <DisplayName>天水化伤术</DisplayName>
+    </Text>
+    <Text Name="HealthSkill_Gong1_2">
+      <DisplayName>天一真法</DisplayName>
+    </Text>
+    <Text Name="HealthSkill_Gong4_1">
+      <DisplayName>回春诀</DisplayName>
+    </Text>
+    <Text Name="HealthSkill_Gong9_1">
+      <DisplayName>轮回逆转</DisplayName>
+    </Text>
+    <Text Name="HealthSkill_Gong9_2">
+      <DisplayName>轮回逆转·秘</DisplayName>
+    </Text>
+  </List>
+</Texts>

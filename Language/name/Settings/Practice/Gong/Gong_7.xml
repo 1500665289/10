@@ -1,0 +1,26 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_7_Huo">
+      <DisplayName>太上忘情道</DisplayName>
+      <Desc>极天宫所传秘法，修行此法必须容貌俊美，魅力惊人之辈才能入门。修行者入门之后需入红尘历练，先有情，再忘情，苦海之中了悟本心真我，飞升成仙。因此法修行方式特殊，常常惹得缘分纠葛，情孽缠身。</Desc>
+      <SelectDesc>此功法擅长剑术与操弄人心之术，只是突破需要频繁历练。是否要选择修习此功法？</SelectDesc>
+      <Stages.0.DisplayName>养吾</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>灵犀</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>破妄</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>水火</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.1.DisplayName>真丹</Stages.1.Necks.1.DisplayName>
+      <Stages.2.DisplayName>极情</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>大欲</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈魅力越低，越难突破。[/color]</Stages.2.Necks.0.Desc>
+      <Stages.2.Necks.1.DisplayName>新生</Stages.2.Necks.1.DisplayName>
+      <Stages.3.DisplayName>得真</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>五蕴</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈魅力越低，越难突破。[/color]</Stages.3.Necks.0.Desc>
+      <Stages.3.Necks.1.DisplayName>劫空</Stages.3.Necks.1.DisplayName>
+      <Stages.4.DisplayName>太上</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>斩念</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.0.Desc>[color=#D06508]\n此瓶颈很难突破，且无经验加成。[/color]</Stages.4.Necks.0.Desc>
+      <Stages.4.Necks.1.DisplayName>忘情</Stages.4.Necks.1.DisplayName>
+    </Text>
+  </List>
+</Texts>

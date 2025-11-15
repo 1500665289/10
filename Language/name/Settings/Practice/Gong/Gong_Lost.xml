@@ -1,0 +1,12 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_LOST">
+      <DisplayName>错误的功法</DisplayName>
+      <Desc>失落之物，没有人认识这个。\n（模组丢失）</Desc>
+      <Stages.0.DisplayName>错误</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>错误</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>错误</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>错误</Stages.1.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>

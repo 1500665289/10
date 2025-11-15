@@ -1,0 +1,262 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Fruit" sParam="Item">
+      <ThingName>龙涎果</ThingName>
+      <Desc>一把龙涎果，服用后可以半天之内不会饥饿，不感到疲劳。但是一旦摘下，会很快腐烂。</Desc>
+      <Item.FabaoSuffix>果,珠,丸,球</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LingWater" sParam="Item">
+      <ThingName>灵初露</ThingName>
+      <Desc>灵草之上的一滴富含生气的露水。一旦离开灵草会很快散化。服用后可以补充大量精元，并短时间内大幅提高身体恢复速度。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_ZaoHuaYuLu" sParam="Item">
+      <ThingName>造化玉露</ThingName>
+      <Desc>天地灵根上凝结的蕴含造化之力的露水。一旦离开灵根，会很快消散。服用后会元神寂灭，进入假死状态九九八十一天，恢复所有伤势。而后脱胎换骨，五维提升1点，道行大幅度下降。此物一人只能服用一次，若再次服用，元神则会永久寂灭，彻底消散。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SilverGrit" sParam="Item">
+      <ThingName>寒晶沙</ThingName>
+      <Desc>寒晶矿石磨成的矿砂，可以入药。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_CopperGrit" sParam="Item">
+      <ThingName>火铜砂</ThingName>
+      <Desc>火铜矿石磨成的矿砂，可以入药。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Cinnabar" sParam="Item">
+      <ThingName>朱砂</ThingName>
+      <Desc>特殊的矿物，是炼丹画符常用的媒介材料。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_JinEssence" sParam="Item">
+      <ThingName>琅琊果</ThingName>
+      <Desc>天地神药，五行属金，蕴含磅礴的灵气。传说天极峰，飞云涧有出产。</Desc>
+      <Item.FabaoSuffix>珠,丸,球</Item.FabaoSuffix>
+      <StoryBnts.0.Name>种植</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>种植以生成灵植。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MuEssence" sParam="Item">
+      <ThingName>木枯藤</ThingName>
+      <Desc>天地神药，五行属木，蕴含磅礴的灵气，不可直接服用。传说龙虎山和南荒虫谷有木枯藤的踪迹。</Desc>
+      <Item.FabaoSuffix>藤,锁,链,绳,索</Item.FabaoSuffix>
+      <StoryBnts.0.Name>种植</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>种植以生成灵植。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_ShuiEssence" sParam="Item">
+      <ThingName>五色金莲</ThingName>
+      <Desc>天地神药，五行属水，蕴含磅礴的灵气，不可直接服用。传说丹霞山五龙池有一株五色金莲。</Desc>
+      <Item.FabaoSuffix>莲,台,印,罩,界</Item.FabaoSuffix>
+      <StoryBnts.0.Name>种植</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>种植以生成灵植。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_HuoEssence" sParam="Item">
+      <ThingName>朱果</ThingName>
+      <Desc>天地神药，五行属火，蕴含磅礴的灵气，不可直接服用。传说蜀山凝碧崖，大漠火穴之中有朱果生长。</Desc>
+      <Item.FabaoSuffix>珠,丸,球</Item.FabaoSuffix>
+      <StoryBnts.0.Name>种植</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>种植以生成灵植。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_TuEssence" sParam="Item">
+      <ThingName>赭黄精</ThingName>
+      <Desc>天地神药，五行属土，蕴含磅礴的灵气，不可直接服用。传说昆仑山龙脉洞窟之中有赭黄精生长。</Desc>
+      <Item.FabaoSuffix>偶,傀,根,印</Item.FabaoSuffix>
+      <StoryBnts.0.Name>种植</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>种植以生成灵植。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_LingMuXueJie" sParam="Item">
+      <ThingName>灵木血竭</ThingName>
+      <Desc>天地灵根蕴养后析出的胶状物，蕴含有大量可被人体直接吸收的精元。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_EarthEssence" sParam="Item">
+      <ThingName>地母灵液</ThingName>
+      <Desc>地壳深处的精华，呈乳白色液体，是炼制多种神丹的材料。直接服用可以大补精元，并扩充气海，从根本上大幅提高灵气最大值。多次服用，扩充气海的效果会大大降低。传说合欢岛和蜀山玉泉洞有地母灵液的泉眼。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_EarthEssence1" sParam="Item">
+      <ThingName>邪脉血泉</ThingName>
+      <Desc>地壳深处的精华，色泽鲜红。直接服用可以大补精元，并扩充气海，提高灵气最大值。此物耐药性很弱，可多次服用，只是煞气内敛，会永久影响心性，若服用过多将严重影响修行。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_EarthEssence_1" sParam="Item">
+      <ThingName>灵髓脂</ThingName>
+      <Desc>地母灵液凝结而成的膏状物，可以将灵气散化为本命元气，从根本上降低灵气最大值，可治疗所有伤势，并提升神识，根骨，悟性各0.5点。只有第一次服用有效。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_EarthEssence1_1" sParam="Item">
+      <ThingName>血髓脂</ThingName>
+      <Desc>邪脉血泉凝结而成的膏状物，可以将本命元气化为灵气，从根本上提高灵气最大值，但是服用后元气大伤，降低神识，根骨，悟性各0.5点。可多次服用。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LifeStream" sParam="Item">
+      <ThingName>长生泉</ThingName>
+      <Desc>传说喝了可以长生的神泉，是炼制多种神丹的材料。直接饮用可延寿九十九年，多次服用效果会大大降低。传说五莲山天池中有长生泉的泉眼。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Ginseng" sParam="Item">
+      <ThingName>人参</ThingName>
+      <Desc>昂贵的药材，直接服用可以在一个时辰内提高人的自然恢复力。外门弟子服用可促进筑基，内门弟子服用可补充少量精元，常用来炼药。但是多次服用效果就会大大降低。</Desc>
+      <Item.FabaoSuffix>偶,傀,儡</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_GanodermaLucidum" sParam="Item">
+      <ThingName>芝草</ThingName>
+      <Desc>昂贵的药材，直接服用能续命三年。外门弟子服用可促进筑基，内门弟子服用可补充少量精元，常用来炼药。但是多次服用效果就会大大降低。</Desc>
+      <Item.FabaoSuffix>如意,芝,散,伞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_RedGinseng" sParam="Item">
+      <ThingName>赤参</ThingName>
+      <Desc>人参中的极品，颜色赤红，外门弟子服用可大幅促进筑基，内门弟子服用可补充少量精元，常常用来炼制一些丹药。直接服用可以在一个时辰内大幅提高人的自然恢复力，并提高些许灵气最大值，但是多次服用效果就会降低。</Desc>
+      <Item.FabaoSuffix>偶,傀,儡</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
+      <ThingName>紫芝</ThingName>
+      <Desc>灵芝中的极品，通体紫红色，外门弟子服用可大幅促进筑基，内门弟子服用可补充少量精元，可以用来炼制一些珍稀丹药。直接服用可以续命十年，且略微提高灵气最大值，但是多次服用效果就会大大降低。</Desc>
+      <Item.FabaoSuffix>如意,芝,散,伞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SoulPearl" sParam="Item">
+      <ThingName>玄牝珠</ThingName>
+      <Desc>妖兽的内丹，内含庞大的阴性灵气。百蛮山千尸洞中有玄牝珠的踪迹。</Desc>
+      <Item.FabaoSuffix>珠,丸,球</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>妖胎</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_MonsterBlood" sParam="Item">
+      <ThingName>妖灵血</ThingName>
+      <Desc>妖兽的血液，含有奔腾的灵气，就算装在瓶子里还是觉得滚烫。在百蛮山万蛇坑与大漠鸣沙村可以获得妖灵血。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Mint" sParam="Item">
+      <ThingName>清心草</ThingName>
+      <Desc>常见的药材，药性清凉，直接服用可以让人安神宁气，如果是内门弟子还可以少量提升心境。</Desc>
+      <Item.FabaoSuffix>花,蕊</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_MagicHerb" sParam="Item">
+      <ThingName>灵仙草</ThingName>
+      <Desc>富含灵力的药草，药性温和，十分泛用，可以配合各种材料练成丹药。</Desc>
+      <Item.FabaoSuffix>花,蕊</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Ginkgo" sParam="Item">
+      <ThingName>银杏果</ThingName>
+      <Desc>银杏树的果实，可以炼制一些补气安神的药物。</Desc>
+      <Item.FabaoSuffix>果,珠,丸,球,罩</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SnakeGallbladder" sParam="Item">
+      <ThingName>蛇胆</ThingName>
+      <Desc>蛇的胆囊，可以补充少量精元，也可入药。凡人生吞可以补益身体，促进筑基。</Desc>
+      <Item.FabaoSuffix>丸,胆</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BearGallbladder" sParam="Item">
+      <ThingName>熊胆</ThingName>
+      <Desc>熊的胆囊，可以补充精元，也可入药。凡人生吞可以补益身体，促进筑基。</Desc>
+      <Item.FabaoSuffix>丸,胆</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Healroot" sParam="Item">
+      <ThingName>药草</ThingName>
+      <Desc>常见的药材，可以用来治疗各种伤病，但是效果有限。</Desc>
+      <Item.FabaoSuffix>叶</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Hemostatics" sParam="Item">
+      <ThingName>金疮药</ThingName>
+      <Desc>常见的药物，可用于治疗皮肉创伤，有明显疗效。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SmallCycle" sParam="Item">
+      <ThingName>小还丹</ThingName>
+      <Desc>常见的药物，可用于治疗内脏伤，有明显疗效。</Desc>
+      <Item.FabaoSuffix>珠,丸,球</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Plaster" sParam="Item">
+      <ThingName>接骨膏</ThingName>
+      <Desc>常见的药物，可用于治疗骨骼损伤，有明显疗效。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_StoneEssenceDrug" sParam="Item">
+      <ThingName>石髓散</ThingName>
+      <Desc>将石髓磨成粉，配合药草而制成的药物。对于治疗外门伤病有奇效。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Anodyne" sParam="Item">
+      <ThingName>止痛散</ThingName>
+      <Desc>常见的药物，能有效的缓解疼痛。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Laxative" sParam="Item">
+      <ThingName>通泻散</ThingName>
+      <Desc>常见的药物，能通泻浊污，治疗腹胀，吃土等症状。但是药效结束后会倍感虚弱。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_ThunderAir" sParam="Item">
+      <ThingName>天劫之息</ThingName>
+      <Desc>以偷天之法盗出的一丝天劫气息，有骇人的威能在其中流转。</Desc>
+      <Item.FabaoSuffix>息,劫</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_XianBone" sParam="Item">
+      <ThingName>仙人遗骨</ThingName>
+      <Desc>毁掉仙人遗蜕后留下的蕴含神力的骸骨。如果能承受住其神力，炼入身体，可以融合天道气息，大幅度降低道行。</Desc>
+      <Item.FabaoSuffix>骨,骸</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_ZaoHuaYuZi" sParam="Item">
+      <ThingName>造化玉籽</ThingName>
+      <Desc>昆仑山龙脉洞窟深处凝结的精华。十分凝练，必须以特殊的秘法才能使用此物。</Desc>
+      <Item.FabaoSuffix>玉,印</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BenYuan_None" sParam="Item">
+      <ThingName>天道本源-无</ThingName>
+      <Desc>蕴含纯粹天道本源的结晶。只有修习无属性功法，才有可能将其炼化。如果成功炼化，则会降低道行，如果失败，则会受伤且增加天谴。道行越高，炼化成功率越高。随着炼化次数，效果会逐渐降低。</Desc>
+      <Item.FabaoSuffix>晶</Item.FabaoSuffix>
+      <StoryBnts.0.Name>炼化</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>尝试炼化天道本源。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BenYuan_Jin" sParam="Item">
+      <ThingName>天道本源-金</ThingName>
+      <Desc>蕴含金系天道本源的结晶。只有修习金属功法，才有可能将其炼化。如果成功炼化，则会降低道行，如果失败，则会受伤且增加天谴。道行越高，炼化成功率越高。随着炼化次数，效果会逐渐降低。</Desc>
+    </Text>
+    <Text Name="Item_BenYuan_Mu" sParam="Item">
+      <ThingName>天道本源-木</ThingName>
+      <Desc>蕴含木系天道本源的结晶。只有修习木属功法，才有可能将其炼化。如果成功炼化，则会降低道行，如果失败，则会受伤且增加天谴。道行越高，炼化成功率越高。随着炼化次数，效果会逐渐降低。</Desc>
+    </Text>
+    <Text Name="Item_BenYuan_Shui" sParam="Item">
+      <ThingName>天道本源-水</ThingName>
+      <Desc>蕴含水系天道本源的结晶。只有修习水属功法，才有可能将其炼化。如果成功炼化，则会降低道行，如果失败，则会受伤且增加天谴。道行越高，炼化成功率越高。随着炼化次数，效果会逐渐降低。</Desc>
+    </Text>
+    <Text Name="Item_BenYuan_Huo" sParam="Item">
+      <ThingName>天道本源-火</ThingName>
+      <Desc>蕴含火系天道本源的结晶。只有修习火属功法，才有可能将其炼化。如果成功炼化，则会降低道行，如果失败，则会受伤且增加天谴。道行越高，炼化成功率越高。随着炼化次数，效果会逐渐降低。</Desc>
+    </Text>
+    <Text Name="Item_BenYuan_Tu" sParam="Item">
+      <ThingName>天道本源-土</ThingName>
+      <Desc>蕴含土系天道本源的结晶。只有修习土属功法，才有可能将其炼化。如果成功炼化，则会降低道行，如果失败，则会受伤且增加天谴。道行越高，炼化成功率越高。</Desc>
+    </Text>
+    <Text Name="Item_YuanHunLu" sParam="Item">
+      <ThingName>元魂露</ThingName>
+      <Desc>蕴含妖兽灵魂精华的露水。服用可以使人思虑放缓，恢复元神损伤。只是思虑放缓的代价多少会影响思考能力，悟性会降低0.5点。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_XieHunLu" sParam="Item">
+      <ThingName>邪魂露</ThingName>
+      <Desc>蕴含妖兽灵魂精华的露水。服用可以使人一季度内思虑敏捷，悟性提高1点，学习能力提高。但此举透支神魂，有损元神。</Desc>
+      <Item.FabaoSuffix>液,水,雾,烟,霭</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_YanDaoGuo" sParam="Item">
+      <ThingName>演道果</ThingName>
+      <Desc>蕴含天劫之息的奇特果实。服用可以观天道演变之妙，大幅度提高道行，并以身合道，大幅度降低天谴。</Desc>
+      <Item.FabaoSuffix>珠,丸,球</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_QieDaoGuo" sParam="Item">
+      <ThingName>窃道果</ThingName>
+      <Desc>蕴含天劫之息的奇特果实。服用可窃天之道，大幅度降低道行，同时遭天道所忌，大幅度提高天谴。</Desc>
+      <Item.FabaoSuffix>珠,丸,球</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_XianDaoShenNian" sParam="Item">
+      <ThingName>仙识神念</ThingName>
+      <Desc>仙人遗骨中析出的一缕神念，修行者可借助此物重塑身心。重生时得仙人遗识护佑，可保留一小部分参悟不散。第一次借助此物重生，在神念滋润下，还可提高一些潜力。</Desc>
+      <Item.FabaoSuffix>魄,魂</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_XianDaoXieNian" sParam="Item">
+      <ThingName>仙识邪念</ThingName>
+      <Desc>飞升仙人的遗骨通过天地灵根而析出的一缕邪念，修行者可借助此物重塑身心。重生时得仙人遗识护佑，可保留大部分参悟，但此物煞性很重，第一次借助此物重生，会透支一些潜力。</Desc>
+      <Item.FabaoSuffix>魄,魂</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

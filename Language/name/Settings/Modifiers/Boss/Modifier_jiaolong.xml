@@ -1,0 +1,42 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_PartFight">
+      <DisplayName>BOSS通用部位战斗属性</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong">
+      <DisplayName>蛟龙</DisplayName>
+    </Text>
+    <Text Name="Boss_JiaolongFight">
+      <DisplayName>蛟龙战斗属性</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_Part">
+      <DisplayName>蛟龙部位</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_Part1">
+      <DisplayName>蛟龙部位虚弱</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_JiSiGongYang">
+      <DisplayName>成长</DisplayName>
+      <Desc>妖龙从祭品中获取力量，灵气变得更浑厚了。</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_Shuiling">
+      <DisplayName>水灵之力</DisplayName>
+      <Desc>凝聚水灵之力，达到100层会释放泽国。</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_LongNu">
+      <DisplayName>龙怒</DisplayName>
+      <Desc>妖龙进入愤怒状态，全属性提高。</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_Longxi">
+      <DisplayName>龙吸术</DisplayName>
+      <Desc>妖龙深深地吸了一口气，角色身体内的水分正在快速流失！</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_zhenlong">
+      <DisplayName>真龙</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_fanshi">
+      <DisplayName>噬-蛟龙反噬</DisplayName>
+      <Desc>一段时间之后将反噬其法宝，法宝灵气削减一半，火属性的法宝效果翻倍，土属性法宝效果减半。</Desc>
+    </Text>
+  </List>
+</Texts>

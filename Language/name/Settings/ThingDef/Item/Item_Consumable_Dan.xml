@@ -1,0 +1,263 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="DanBase" sParam="Item">
+      <Item.FabaoSuffix>珠,丸,球</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BasePracticeDrug" sParam="Item">
+      <ThingName>筑基丹</ThingName>
+      <Desc>仙家修行者炼制的丹药，可调节体内五气，激活身体潜力，在二十四个时辰内暂时提高神识，根骨，悟性各1点。外门弟子服用则可以极大的促进筑基进度。</Desc>
+    </Text>
+    <Text Name="Item_Dan_JingYuan" sParam="Item">
+      <ThingName>精元丹</ThingName>
+      <Desc>在7天之内提高身体产生精元的能力，增加饱食度消耗速度，提高精元转化率。</Desc>
+    </Text>
+    <Text Name="Item_Dan_JingYuan2" sParam="Item">
+      <ThingName>参芝九窍丸</ThingName>
+      <Desc>在14天之内提高身体产生精元的能力，增加饱食度消耗速度，提高精元转化率。</Desc>
+    </Text>
+    <Text Name="Item_Dan_JingYuan3" sParam="Item">
+      <ThingName>血竭散</ThingName>
+      <Desc>在28天之内提高身体产生精元的能力，增加饱食度消耗速度，提高精元转化率。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Ling" sParam="Item">
+      <ThingName>聚灵丹</ThingName>
+      <Desc>富含灵气的丹药，服用可以恢复3000灵气，并在6个时辰内加速灵气恢复。一般结丹期以上才能服用，否则可能会承受不住药性受伤，甚至死亡。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Ling2" sParam="Item">
+      <ThingName>紫阳丹</ThingName>
+      <Desc>通体深紫的丹丸，服用可恢复大量灵气，并提升灵气上限。多次服用下，提升灵气上限的效果会慢慢降低。金丹期以上才能服用，否则可能会承受不住药性受伤，甚至死亡。</Desc>
+    </Text>
+    <Text Name="Item_Dan_PracticeRate" sParam="Item">
+      <ThingName>黄庭丹</ThingName>
+      <Desc>以琅琊果，清心草练成的丹药，能使人神思如电，此时瓶颈突破概率提高一倍，持续二十四个时辰。多次服用下，其药效会慢慢降低。</Desc>
+    </Text>
+    <Text Name="Item_Dan_PracticeSpeed" sParam="Item">
+      <ThingName>黄芽丹</ThingName>
+      <Desc>以朱果炼制的丹药，可以提高修炼速度三成，持续十二个时辰.</Desc>
+    </Text>
+    <Text Name="Item_Dan_CalmDown" sParam="Item">
+      <ThingName>清心丹</ThingName>
+      <Desc>以清心草，寒晶砂炼成的丹药，能稳定心境。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Happiness" sParam="Item">
+      <ThingName>极乐丹</ThingName>
+      <Desc>可以在两天内感到快乐的丹药，但是吃了之后会做事效率会降低五成。</Desc>
+    </Text>
+    <Text Name="Item_Dan_NoHunger" sParam="Item">
+      <ThingName>饮气丹</ThingName>
+      <Desc>食用饮气丹，在两天之内获得饮气能力，自动回复饮食度。</Desc>
+    </Text>
+    <Text Name="Item_Dan_NoHunger2" sParam="Item">
+      <ThingName>辟谷丹</ThingName>
+      <Desc>食用辟谷丹，在两天之内不会饥饿。</Desc>
+    </Text>
+    <Text Name="Item_Dan_NoHunger1" sParam="Item">
+      <ThingName>兵粮丸</ThingName>
+      <Desc>服用后可以补充营养，并降低饥饿速度和疲劳速度，持续两天。</Desc>
+    </Text>
+    <Text Name="Item_Dan_LostSoul" sParam="Item">
+      <ThingName>摄神丹</ThingName>
+      <Desc>很基础的金石丹方，服用后会抑制大脑活性，使之陷入昏迷之中三天三夜。</Desc>
+    </Text>
+    <Text Name="Item_Dan_DredgeQi1" sParam="Item">
+      <ThingName>通脉散</ThingName>
+      <Desc>以人参芝草调配的药粉，可通经活脉，治愈标有“灵”类型的伤。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Dan_DredgeQi" sParam="Item">
+      <ThingName>理气丹</ThingName>
+      <Desc>可以理顺体内杂乱之气的丹药，可有效治愈标有“灵”类型的伤。</Desc>
+    </Text>
+    <Text Name="Item_Dan_WuLingSan" sParam="Item">
+      <ThingName>五灵散</ThingName>
+      <Desc>可以化解标有“金”“木”“水”“火”“土”类型的内门伤势，但是效果较慢。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Dan_CureJinDamage" sParam="Item">
+      <ThingName>庚金万化丸</ThingName>
+      <Desc>瞬间化解标有“木”类型的内门伤害。</Desc>
+    </Text>
+    <Text Name="Item_Dan_CureMuDamage" sParam="Item">
+      <ThingName>碧春丹</ThingName>
+      <Desc>瞬间化解标有“土”类型的内门伤害。</Desc>
+    </Text>
+    <Text Name="Item_Dan_CureShuiDamage" sParam="Item">
+      <ThingName>天一承气散</ThingName>
+      <Desc>瞬间化解标有“火”类型的内门伤害。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Dan_CureHuoDamage" sParam="Item">
+      <ThingName>火真丹</ThingName>
+      <Desc>瞬间化解标有“金”类型的内门伤害。</Desc>
+    </Text>
+    <Text Name="Item_Dan_CureTuDamage" sParam="Item">
+      <ThingName>定坤丹</ThingName>
+      <Desc>瞬间化解标有“水”类型的内门伤害。</Desc>
+    </Text>
+    <Text Name="Item_Dan_CureFiveElementDamage" sParam="Item">
+      <ThingName>五方化伤丹</ThingName>
+      <Desc>可以化解标有“金”“木”“水”“火”“土”类型的内门伤势，疗效较快。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Restore" sParam="Item">
+      <ThingName>归源散</ThingName>
+      <Desc>激发身体的潜能，可以修复大部分肌体残留的老旧伤痕。.</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Dan_ExtremeLofty" sParam="Item">
+      <ThingName>造化神丹</ThingName>
+      <Desc>夺天地造化的神丹，只要还有一口气在，就可以从阎王手中拉回来。</Desc>
+    </Text>
+    <Text Name="Item_Dan_HundredRefine" sParam="Item">
+      <ThingName>九转金丹</ThingName>
+      <Desc>道门的无上神丹，只有初次服用有效，可以让修为大进，但是要金丹期才能服用，否则会承受不住药效而受伤甚至死亡。</Desc>
+    </Text>
+    <Text Name="Item_Dan_IncreaseLife1" sParam="Item">
+      <ThingName>长生丹</ThingName>
+      <Desc>可以延寿三甲子的丹药，只有第一次服用有全效，之后药效会大打折扣。</Desc>
+    </Text>
+    <Text Name="Item_Dan_IncreaseLife2" sParam="Item">
+      <ThingName>玄牝续命散</ThingName>
+      <Desc>可以延寿两百年的丹药，只有第一次服用有全效，之后药效会大打折扣。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Dan_IncreaseLife3" sParam="Item">
+      <ThingName>五极灵丹</ThingName>
+      <Desc>服用可延寿五百年，并提升五维0.3点。只有第一次服用有全效，之后药效会大打折扣。</Desc>
+    </Text>
+    <Text Name="Item_Dan_IncreaseLife4" sParam="Item">
+      <ThingName>再造金丹</ThingName>
+      <Desc>可以延寿二百五十六年的丹药，只有第一次服用有全效，之后药效会大打折扣。</Desc>
+    </Text>
+    <Text Name="Item_Dan_IncreaseLife5" sParam="Item">
+      <ThingName>未来星宿化劫丹</ThingName>
+      <Desc>可以延寿四百九十年的丹药，并能将天劫天召推迟四十九天。只有第一次服用有全效，之后药效会大打折扣。</Desc>
+    </Text>
+    <Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
+      <ThingName>乾元避劫丹</ThingName>
+      <Desc>能将天劫天召推迟一百零八天的丹药。只有第一次服用有全效，之后效果会渐渐降低。</Desc>
+    </Text>
+    <Text Name="Item_Dan_IncreaseNeckCountdown2" sParam="Item">
+      <ThingName>碧血丹青</ThingName>
+      <Desc>以九颗玄牝珠中的妖兽魂灵为掩护，遮蔽天机，可将天劫天召推迟二十七天。可多次服用。</Desc>
+    </Text>
+    <Text Name="Item_Dan_SwordBall" sParam="Item">
+      <ThingName>剑丸</ThingName>
+      <Desc>七杀剑诀记载的丹丸，可在丹炉以五金之精凝练而成。绝对不可以吞服。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Defense" sParam="Item">
+      <ThingName>真罡丹</ThingName>
+      <Desc>服用后可在十二个时辰内增强护体真气的强度。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Ling3" sParam="Item">
+      <ThingName>万灵散</ThingName>
+      <Desc>服用后可恢复300000点灵气，并在二十四个时辰内增强灵气最大值100000点。如果服用者修为太低，可能导致气海爆裂而死亡。</Desc>
+    </Text>
+    <Text Name="Item_Dan_FiveBase1" sParam="Item">
+      <ThingName>通天丸</ThingName>
+      <Desc>服用后激活元气，可在二十四个时辰内增强神识1点。但也会因此折寿3年。</Desc>
+    </Text>
+    <Text Name="Item_Dan_FiveBase2" sParam="Item">
+      <ThingName>纳地丸</ThingName>
+      <Desc>服用后激活元气，可在二十四个时辰内增强根骨1点。但也会因此折寿3年。</Desc>
+    </Text>
+    <Text Name="Item_Dan_FiveBase3" sParam="Item">
+      <ThingName>逸仙丸</ThingName>
+      <Desc>服用后激活元气，可在二十四个时辰内增强魅力1点。但也会因此折寿3年。</Desc>
+    </Text>
+    <Text Name="Item_Dan_FiveBase4" sParam="Item">
+      <ThingName>明通丸</ThingName>
+      <Desc>服用后激活元气，可在二十四个时辰内增强悟性1点。但也会因此折寿3年。</Desc>
+    </Text>
+    <Text Name="Item_Dan_FiveBase5" sParam="Item">
+      <ThingName>神佑丸</ThingName>
+      <Desc>服用后激活元气，可在二十四个时辰内增强机缘1点。但也会因此折寿3年。</Desc>
+    </Text>
+    <Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
+      <ThingName>五毒五炁元神丹</ThingName>
+      <Desc>服用后激发元气，五维属性提高0.5点。但也会因此折寿一甲子。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Fail1" sParam="Item">
+      <ThingName>炼毁的丹药</ThingName>
+      <Desc>炼制失败的丹药残渣，其中有奇特的力量在涌动，吃下去不知道会发生什么事。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Fail2" sParam="Item">
+      <ThingName>炼毁的丹药</ThingName>
+      <Desc>炼制失败的丹药残渣，其中有奇特的力量在涌动，吃下去不知道会发生什么事。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Fail3" sParam="Item">
+      <ThingName>炼毁的丹药</ThingName>
+      <Desc>炼制失败的丹药残渣，其中有奇特的力量在涌动，吃下去不知道会发生什么事。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Fail4" sParam="Item">
+      <ThingName>炼毁的丹药</ThingName>
+      <Desc>炼制失败的丹药，似乎过分吸收了丹炉中的真火之力，可以让食用者五内俱焚，而且会有损寿元。但如若从这种伤势中活下来，也许会获得一些好处。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Fail5" sParam="Item">
+      <ThingName>炼毁的丹药</ThingName>
+      <Desc>炼制失败的丹药残渣，其中有奇特的力量在涌动，吃下去不知道会发生什么事。</Desc>
+    </Text>
+    <Text Name="Item_Dan_TreeEXP" sParam="Item">
+      <ThingName>天道神丹</ThingName>
+      <Desc>蕴含诸天造化的神丹，服用可感受大道运转并从中获得参悟。获得参悟的多少根据服用者悟性与服用时的心境决定。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Thin" sParam="Item">
+      <ThingName>塑身丹</ThingName>
+      <Desc>仙家修行者炼制的丹药，服用可以让角色体型变瘦。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Fat" sParam="Item">
+      <ThingName>壮体丹</ThingName>
+      <Desc>仙家修行者炼制的丹药，服用可以让角色体型变胖。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Soul1" sParam="Item">
+      <ThingName>神泣丹</ThingName>
+      <Desc>以幽珀为引炼制的丹药，服用可以获得参悟，但其药性阴寒，会损9年寿元。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Soul2" sParam="Item">
+      <ThingName>通玄丹</ThingName>
+      <Desc>以灵珀为引炼制的丹药，服用可以获得参悟，但其药性猛烈，服用会有损气海，从根本上降低10点灵气值。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Soul3" sParam="Item">
+      <ThingName>凝珀丹</ThingName>
+      <Desc>以宁珀为引凝练成的丹药，服用可以获得参悟。随着服用次数增多，药效会逐渐增强。然而服用者会因被残余的混乱神识冲击，损伤大脑。</Desc>
+    </Text>
+    <Text Name="Item_Dan_Soul4" sParam="Item">
+      <ThingName>燃魂丹</ThingName>
+      <Desc>以宁珀为引练成的丹药，服用可以燃烧百年寿命，在一个时辰内获取超凡的智慧，极大的提高参悟获取效率。但在药效后会严重伤害神智，永久降低2点悟性。此丹药效会随服用次数而逐渐降低。</Desc>
+    </Text>
+    <Text Name="Item_Dan_LunHui1" sParam="Item">
+      <ThingName>封印的记忆：星途闪耀</ThingName>
+      <Desc>服用后可以从这段记忆中获取参悟值，并被其感动。\n[color=#D06508]以此感谢逍遥散人《星途闪耀》系列视频给与我欢乐和力量！[/color]</Desc>
+    </Text>
+    <Text Name="Item_Dan_ReBorn" sParam="Item">
+      <ThingName>玄牝重生丹</ThingName>
+      <Desc>以珀为引，借玄牝珠之神效炼成的丹药。服用后可以重归凡人之身，再造身躯。哪怕弥留之际，也能救回一条性命。</Desc>
+    </Text>
+    <Text Name="Item_Dan_ReBorn_4" sParam="Item">
+      <ThingName>六道轮回丹</ThingName>
+      <Desc>以轮回之力炼制的神丹，服用可以重回凡人之身，再造身躯，并保留全部参悟。</Desc>
+    </Text>
+    <Text Name="Item_Dan_LingYuanZhong" sParam="Item">
+      <ThingName>灵源种</ThingName>
+      <Desc>以秘法将五行神药与造化玉籽合练而成的至宝，妙用无穷。埋在地下中可自动化作灵脉延展，缓慢将周围地块造化为灵土或灵水。佩戴则可以寒暑不侵，遮蔽天道，降低道行。服用可以大幅从根本上提高灵气最大值。</Desc>
+      <StoryBnts.0.Name>埋下</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>将此物埋在地下。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Dan_LingYuanSha" sParam="Item">
+      <ThingName>造化玉砂</ThingName>
+      <Desc>以秘法将造化玉籽炼化为砂。虽然其灵效减少，但却可以之为媒介多次施展神通，造化沃土。</Desc>
+      <Item.FabaoSuffix>沙,砂,尘,粉,瘴</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Dan_LongDan1" sParam="Item">
+      <ThingName>龙魂真灵丹</ThingName>
+      <Desc>以真龙元神炼制而出的灵丹，服用可将其炼化为一道分神，额外驾驭一件法宝。只有第一次服用有效。</Desc>
+    </Text>
+    <Text Name="Item_Dan_FengDan1" sParam="Item">
+      <ThingName>凤魂真灵丹</ThingName>
+      <Desc>以凶凤元神炼制而成的灵丹，服用可将其炼化为一道分神，额外驾驭一件法宝。只有第一次服用有效。</Desc>
+    </Text>
+    <Text Name="Item_Dan_ZhuLongDan1" sParam="Item">
+      <ThingName>阴阳真灵丹</ThingName>
+      <Desc>以烛龙元神炼制而成的灵丹，服用可将其炼化为一道分神，额外驾驭一件法宝。只有第一次服用有效。</Desc>
+    </Text>
+  </List>
+</Texts>

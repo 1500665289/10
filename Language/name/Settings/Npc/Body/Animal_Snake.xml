@@ -1,0 +1,33 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SnakeBody">
+      <Part.Parts.0.DisplayName>头部</Part.Parts.0.DisplayName>
+      <Part.Parts.0.Parts.0.DisplayName>头骨</Part.Parts.0.Parts.0.DisplayName>
+      <Part.Parts.0.Parts.1.DisplayName>脑</Part.Parts.0.Parts.1.DisplayName>
+      <Part.Parts.0.Parts.2.DisplayName>左眼</Part.Parts.0.Parts.2.DisplayName>
+      <Part.Parts.0.Parts.3.DisplayName>右眼</Part.Parts.0.Parts.3.DisplayName>
+      <Part.Parts.0.Parts.4.DisplayName>鼻</Part.Parts.0.Parts.4.DisplayName>
+      <Part.Parts.0.Parts.5.DisplayName>口</Part.Parts.0.Parts.5.DisplayName>
+      <Part.Parts.0.Parts.6.DisplayName>七寸</Part.Parts.0.Parts.6.DisplayName>
+      <Part.Parts.0.Parts.7.DisplayName>头</Part.Parts.0.Parts.7.DisplayName>
+      <Part.Parts.1.Parts.0.DisplayName>第一节骨</Part.Parts.1.Parts.0.DisplayName>
+      <Part.Parts.1.Parts.1.DisplayName>第二节骨</Part.Parts.1.Parts.1.DisplayName>
+      <Part.Parts.1.Parts.2.DisplayName>第三节骨</Part.Parts.1.Parts.2.DisplayName>
+      <Part.Parts.1.Parts.3.DisplayName>第四节骨</Part.Parts.1.Parts.3.DisplayName>
+      <Part.Parts.1.Parts.4.DisplayName>第五节骨</Part.Parts.1.Parts.4.DisplayName>
+      <Part.Parts.1.Parts.5.DisplayName>第六节骨</Part.Parts.1.Parts.5.DisplayName>
+      <Part.Parts.1.Parts.6.DisplayName>第七节骨</Part.Parts.1.Parts.6.DisplayName>
+      <Part.Parts.1.Parts.7.DisplayName>第八节骨</Part.Parts.1.Parts.7.DisplayName>
+      <Part.Parts.1.Parts.8.DisplayName>脊柱</Part.Parts.1.Parts.8.DisplayName>
+      <Part.Parts.1.Parts.9.DisplayName>心</Part.Parts.1.Parts.9.DisplayName>
+      <Part.Parts.1.Parts.10.DisplayName>肝</Part.Parts.1.Parts.10.DisplayName>
+      <Part.Parts.1.Parts.11.DisplayName>脾</Part.Parts.1.Parts.11.DisplayName>
+      <Part.Parts.1.Parts.12.DisplayName>肺</Part.Parts.1.Parts.12.DisplayName>
+      <Part.Parts.1.Parts.13.DisplayName>肾</Part.Parts.1.Parts.13.DisplayName>
+      <Part.Parts.1.Parts.14.DisplayName>胃</Part.Parts.1.Parts.14.DisplayName>
+      <Part.Parts.1.Parts.15.DisplayName>肠</Part.Parts.1.Parts.15.DisplayName>
+      <Part.Parts.1.Parts.16.DisplayName>躯干</Part.Parts.1.Parts.16.DisplayName>
+      <Part.Parts.2.DisplayName>全身</Part.Parts.2.DisplayName>
+    </Text>
+  </List>
+</Texts>

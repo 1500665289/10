@@ -1,0 +1,50 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="TerrainBase">
+      <DisplayName>地标基础</DisplayName>
+      <StoryDesc>道路上</StoryDesc>
+    </Text>
+    <Text Name="Sand">
+      <DisplayName>沙地</DisplayName>
+      <StoryDesc>黄沙之上,风沙之中,荒沙之上</StoryDesc>
+    </Text>
+    <Text Name="Soil">
+      <DisplayName>土地</DisplayName>
+      <StoryDesc>松柏之侧,绿荫之下</StoryDesc>
+    </Text>
+    <Text Name="Mud">
+      <DisplayName>泥地</DisplayName>
+      <StoryDesc>泥泞之中,污泥之上</StoryDesc>
+    </Text>
+    <Text Name="WetLand">
+      <DisplayName>湿地</DisplayName>
+      <StoryDesc>泥泞之中,湿地之上</StoryDesc>
+    </Text>
+    <Text Name="FertileSoil">
+      <DisplayName>沃土</DisplayName>
+      <StoryDesc>松柏之侧,绿荫之下</StoryDesc>
+    </Text>
+    <Text Name="StoneLand">
+      <DisplayName>岩石地表</DisplayName>
+      <StoryDesc>山崖之畔,崎岖山路上</StoryDesc>
+    </Text>
+    <Text Name="LingSoil">
+      <DisplayName>灵土</DisplayName>
+      <StoryDesc>灵秀之所,灵气环绕中</StoryDesc>
+    </Text>
+    <Text Name="DepthDepthWater">
+      <DisplayName>深水</DisplayName>
+    </Text>
+    <Text Name="DepthWater">
+      <DisplayName>深水</DisplayName>
+    </Text>
+    <Text Name="ShallowWater">
+      <DisplayName>浅水</DisplayName>
+      <StoryDesc>湖畔树下,秀水之侧</StoryDesc>
+    </Text>
+    <Text Name="LingWater">
+      <DisplayName>灵水</DisplayName>
+      <StoryDesc>湖畔树下,秀水之侧</StoryDesc>
+    </Text>
+  </List>
+</Texts>

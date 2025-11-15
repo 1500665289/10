@@ -1,0 +1,13 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="_OnTheWay">
+      <DisplayName>路上</DisplayName>
+    </Text>
+    <Text Name="_InMap">
+      <DisplayName>场景里</DisplayName>
+    </Text>
+    <Text Name="Place_OldSchool">
+      <DisplayName>老门派</DisplayName>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,13 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SYS_LOST">
+      <DisplayName>模组丢失</DisplayName>
+    </Text>
+    <Text Name="TSkillSkill">
+      <DisplayName>术法增强</DisplayName>
+    </Text>
+    <Text Name="SkillSkill_Gong10_1">
+      <DisplayName>焚日真法</DisplayName>
+    </Text>
+  </List>
+</Texts>

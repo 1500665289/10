@@ -1,0 +1,10 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Other_BuryObject">
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+    <Text Name="Other_CreateLingPlant">
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+  </List>
+</Texts>

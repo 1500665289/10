@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="SimpleFoodBase" sParam="Item">
+      <Item.FabaoSuffix>灵宝</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Cake" sParam="Item">
+      <ThingName>面饼</ThingName>
+      <Desc>简单的干粮，可以充饥。</Desc>
+      <Item.FabaoSuffix>饼</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Jerky" sParam="Item">
+      <ThingName>肉干</ThingName>
+      <Desc>简单的干粮，可以充饥。</Desc>
+      <Item.FabaoSuffix>干</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PreservedFruit" sParam="Item">
+      <ThingName>李氏龙涎果脯</ThingName>
+      <Desc>故有果兮，其味如蜜。晾之檐上，以待佳期。今有人兮，美目如蜜。何故盼兮，佳期已逝？\n龙涎果难以储存，唯有金陵李氏独门秘方可以将其制成果脯而药性不失。</Desc>
+      <Item.FabaoSuffix>果</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Yao_BoarMeat" sParam="Item">
+      <ThingName>猪妖的精肉</ThingName>
+      <Desc>猪妖的精华肉，无法用凡火烹制。直接服用可以大补精元。</Desc>
+      <Item.FabaoSuffix>干</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Grass" sParam="Plant">
+      <ThingName>野草</ThingName>
+      <Desc>野草。</Desc>
+    </Text>
+    <Text Name="Reed" sParam="Plant">
+      <ThingName>芦苇</ThingName>
+      <Desc>长于水边的植物，外形美观。</Desc>
+    </Text>
+    <Text Name="LongGrass" sParam="Plant">
+      <ThingName>长草</ThingName>
+      <Desc>野草。</Desc>
+    </Text>
+    <Text Name="Raspberry" sParam="Plant">
+      <ThingName>龙涎果</ThingName>
+      <Desc>龙涎灌溉后的野果，其果实别有灵异，食用可以半天之内不饿不疲。但是一旦摘下会很快腐烂。</Desc>
+    </Text>
+    <Text Name="Lotus" sParam="Plant">
+      <ThingName>莲</ThingName>
+      <Desc>水生植物，外形美丽。其根茎可以食用。</Desc>
+    </Text>
+    <Text Name="LittleRock" sParam="Plant">
+      <ThingName>小岩块</ThingName>
+      <Desc>散落在地表的小石块。</Desc>
+    </Text>
+  </List>
+</Texts>

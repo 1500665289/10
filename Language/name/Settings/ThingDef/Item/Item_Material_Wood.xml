@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="WoodBase" sParam="Item">
+      <Item.FabaoSuffix>木,枝,柱,桩</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Wood" sParam="Item">
+      <ThingName>原木</ThingName>
+      <Desc>优良的木材，常见的制作材料。</Desc>
+      <Item.BeMaterial.NamePrefix>木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_HardWood" sParam="Item">
+      <ThingName>金丝灵木</ThingName>
+      <Desc>珍贵的百年金丝木，质地坚硬，极其沉重。</Desc>
+      <Item.BeMaterial.NamePrefix>金丝木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ParasolWood" sParam="Item">
+      <ThingName>梧桐神木</ThingName>
+      <Desc>凤凰栖息的神木，其表面光滑如洗，质地极其坚硬，富含灵气，举世罕见。</Desc>
+      <Item.BeMaterial.NamePrefix>梧桐木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingWood" sParam="Item">
+      <ThingName>灵木</ThingName>
+      <Desc>受灵气洗练的木材，十分坚硬而不易燃。</Desc>
+      <Item.BeMaterial.NamePrefix>灵木</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

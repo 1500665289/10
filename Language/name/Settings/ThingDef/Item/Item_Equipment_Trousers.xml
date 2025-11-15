@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="TrousersBase" sParam="Item">
+      <Item.FabaoSuffix>衣,甲,御,衫</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SummerTrousers" sParam="Item">
+      <ThingName>薄下裳</ThingName>
+      <Desc>比较透气的衣物，也可轻微御寒。</Desc>
+    </Text>
+    <Text Name="Item_SilkTrousers" sParam="Item">
+      <ThingName>清凉下裳</ThingName>
+      <Desc>清爽宽松的衣物，穿上去会觉得很凉快。</Desc>
+    </Text>
+    <Text Name="Item_PracticeTrousers" sParam="Item">
+      <ThingName>修行下裳</ThingName>
+      <Desc>门派制式衣物，比较保暖，但是不太透气。</Desc>
+    </Text>
+    <Text Name="Item_FormalTrousers" sParam="Item">
+      <ThingName>休闲下裳</ThingName>
+      <Desc>很日常的衣物，比较保暖，但是不太透气。</Desc>
+    </Text>
+    <Text Name="Item_WinterTrousers" sParam="Item">
+      <ThingName>厚制下裳</ThingName>
+      <Desc>做工厚实，十分保暖。</Desc>
+    </Text>
+  </List>
+</Texts>

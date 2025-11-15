@@ -1,0 +1,24 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Tang_Dan">
+      <DisplayName>炼丹</DisplayName>
+      <Desc>专于炼丹，根据堂主能力高低以提高堂下弟子的炼丹相关的能力。</Desc>
+    </Text>
+    <Text Name="Tang_Qi">
+      <DisplayName>炼器</DisplayName>
+      <Desc>专于炼器，根据堂主能力高低以提高堂下弟子的炼器相关的能力。</Desc>
+    </Text>
+    <Text Name="Tang_Zhan">
+      <DisplayName>战斗</DisplayName>
+      <Desc>专于战斗，根据堂主能力高低以提高堂下弟子的战斗相关的能力。</Desc>
+    </Text>
+    <Text Name="Tang_XiuLian">
+      <DisplayName>修炼</DisplayName>
+      <Desc>专于修炼，根据堂主能力高低以提高堂下弟子的修炼相关的能力。</Desc>
+    </Text>
+    <Text Name="Tang_WaiShi">
+      <DisplayName>外事</DisplayName>
+      <Desc>专于外事，根据堂主能力高低以提高堂下弟子的工作，历练等相关的能力。</Desc>
+    </Text>
+  </List>
+</Texts>

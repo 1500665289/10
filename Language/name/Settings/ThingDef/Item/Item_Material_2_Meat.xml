@@ -1,0 +1,72 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="MeatBase" sParam="Item">
+      <Item.FabaoSuffix>糜,幕,陀</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BoarMeat" sParam="Item">
+      <ThingName>野猪肉</ThingName>
+      <Desc>野猪肉。</Desc>
+    </Text>
+    <Text Name="Item_FrogMeat" sParam="Item">
+      <ThingName>蛙肉</ThingName>
+      <Desc>蛙肉。</Desc>
+    </Text>
+    <Text Name="Item_TurtleMeat" sParam="Item">
+      <ThingName>龟肉</ThingName>
+      <Desc>龟肉。</Desc>
+    </Text>
+    <Text Name="Item_BearMeat" sParam="Item">
+      <ThingName>熊肉</ThingName>
+      <Desc>熊肉。</Desc>
+    </Text>
+    <Text Name="Item_Beef" sParam="Item">
+      <ThingName>牛腿肉</ThingName>
+      <Desc>牛腿部的肉。</Desc>
+    </Text>
+    <Text Name="Item_RabbitMeat" sParam="Item">
+      <ThingName>兔肉</ThingName>
+      <Desc>兔肉。</Desc>
+    </Text>
+    <Text Name="Item_ChickenMeat" sParam="Item">
+      <ThingName>鸡肉</ThingName>
+      <Desc>鸡肉。</Desc>
+    </Text>
+    <Text Name="Item_WolfMeat" sParam="Item">
+      <ThingName>狼肉</ThingName>
+      <Desc>狼肉。</Desc>
+    </Text>
+    <Text Name="Item_FishMeat" sParam="Item">
+      <ThingName>鱼肉</ThingName>
+      <Desc>鱼肉。</Desc>
+    </Text>
+    <Text Name="Item_SnakeMeat" sParam="Item">
+      <ThingName>蛇肉</ThingName>
+      <Desc>蛇肉。</Desc>
+    </Text>
+    <Text Name="Item_ChickenEgg" sParam="Item">
+      <ThingName>鸡蛋</ThingName>
+      <Desc>一颗鸡蛋。</Desc>
+      <Item.FabaoSuffix>蛋,珠,球,卵</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SnakeEgg" sParam="Item">
+      <ThingName>蛇蛋</ThingName>
+      <Desc>一颗蛇蛋。</Desc>
+      <Item.FabaoSuffix>蛋,珠,球,卵</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_TurtleEgg" sParam="Item">
+      <ThingName>龟蛋</ThingName>
+      <Desc>一颗龟蛋。</Desc>
+      <Item.FabaoSuffix>蛋,珠,球,卵</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LongEgg" sParam="Item">
+      <ThingName>蛟龙的卵</ThingName>
+      <Desc>还未孵化的蛟龙卵，其中明显有生命孕育的迹象。要孵化必须在低于-200度，灵气极其浓郁，十分利于水属性之地。</Desc>
+      <Item.FabaoSuffix>蛋,珠,球,卵</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FengEgg" sParam="Item">
+      <ThingName>凤凰的卵</ThingName>
+      <Desc>还未孵化的凤凰卵，其中明显有生命孕育的迹象。要孵化必须在高于300度，灵气极其浓郁，十分利于火属性之地。</Desc>
+      <Item.FabaoSuffix>蛋,珠,球,卵</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Box_Cargo" sParam="Plant">
+      <ThingName>陈旧的货箱</ThingName>
+      <Desc>一个保存还算完好的货箱，似乎是逃避战乱的人慌乱中遗失的。</Desc>
+      <StoryBnts.0.Name>搜索</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>搜索这个箱子</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse" sParam="Plant">
+      <ThingName>腐坏的残骸</ThingName>
+      <Desc>一具早已腐朽的尸体，不知道为何死在这里。</Desc>
+      <StoryBnts.0.Name>搜索</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>搜索这个尸体</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse_OldMan1" sParam="Plant">
+      <ThingName>腐坏的残骸</ThingName>
+      <Desc>一具早已腐朽的尸体，不知道为何死在这里。</Desc>
+      <StoryBnts.0.Name>搜索</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>搜索这个尸体</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse_OldMan2" sParam="Plant">
+      <ThingName>腐坏的残骸</ThingName>
+      <Desc>一具早已腐朽的尸体，不知道为何死在这里。</Desc>
+      <StoryBnts.0.Name>搜索</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>搜索这个尸体</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,19 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_SoulCrystalBase" sParam="Item">
+      <Item.FabaoSuffix>珀</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SoulCrystalYou" sParam="Item">
+      <ThingName>幽珀</ThingName>
+      <Desc>幽暗的魂魄结晶，其中蕴含有一些残留痛苦记忆。</Desc>
+    </Text>
+    <Text Name="Item_SoulCrystalNing" sParam="Item">
+      <ThingName>宁珀</ThingName>
+      <Desc>平静的魂魄结晶，其中蕴含有一些残留的记忆。</Desc>
+    </Text>
+    <Text Name="Item_SoulCrystalLing" sParam="Item">
+      <ThingName>灵珀</ThingName>
+      <Desc>剔透的魂魄结晶，其中蕴含有一些残留的幸福记忆。</Desc>
+    </Text>
+  </List>
+</Texts>

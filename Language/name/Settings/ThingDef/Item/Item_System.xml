@@ -1,0 +1,208 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="SYS_LOASITEM" sParam="Item">
+      <ThingName>失落之物</ThingName>
+      <Desc>失落之物，没有人认识这个。\n（模组丢失）</Desc>
+    </Text>
+    <Text Name="Item_HorribleMeal" sParam="Item">
+      <ThingName>搞砸的饭菜</ThingName>
+      <Desc>一道烹饪失败的料理，味道十分勉强，仅仅可以填肚子。</Desc>
+    </Text>
+    <Text Name="Item_HomeFood" sParam="Item">
+      <ThingName>家常菜</ThingName>
+      <Desc>一道简单的家常菜，味道朴素但是很实在。</Desc>
+    </Text>
+    <Text Name="Item_DeliciousFood" sParam="Item">
+      <ThingName>佳肴</ThingName>
+      <Desc>一道佳肴，无论用料与手法都很考究。味道相当不错。</Desc>
+    </Text>
+    <Text Name="Item_DelicacyFood" sParam="Item">
+      <ThingName>珍馐美食</ThingName>
+      <Desc>一道珍馐，必须要高超的厨艺和精致的食材才能完成，美味绝伦。</Desc>
+    </Text>
+    <Text Name="Item_GuanyinMud" sParam="Item">
+      <ThingName>观音土</ThingName>
+      <Desc>观音土.</Desc>
+    </Text>
+    <Text Name="Item_Water" sParam="Item">
+      <ThingName>水</ThingName>
+      <Desc>一份净水。</Desc>
+      <Item.FabaoSuffix>水</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DirtyWater" sParam="Item">
+      <ThingName>野外的水</ThingName>
+      <Desc>不干净的水，里面有什么东西在游动。</Desc>
+      <Item.FabaoSuffix>水</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Garbage" sParam="Item">
+      <ThingName>垃圾</ThingName>
+      <Desc>毫无用处的垃圾。</Desc>
+      <Item.FabaoSuffix>散,毒,渣</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Shit" sParam="Item">
+      <ThingName>粪便</ThingName>
+      <Desc>生物的粪便</Desc>
+      <Item.FabaoSuffix>粪,砂,屎</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DragonShit" sParam="Item">
+      <ThingName>天龙砂</ThingName>
+      <Desc>龙的粪便。</Desc>
+      <Item.FabaoSuffix>粪,砂,屎</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunPainting" sParam="Item">
+      <ThingName>画</ThingName>
+      <Desc>一张画。</Desc>
+      <Item.FabaoSuffix>卷,图</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunPoem" sParam="Item">
+      <ThingName>书</ThingName>
+      <Desc>一本文字著作。</Desc>
+      <Item.FabaoSuffix>册,书,简,卷</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunMusic" sParam="Item">
+      <ThingName>琴谱</ThingName>
+      <Desc>一首琴曲的谱子。</Desc>
+      <Item.FabaoSuffix>谱,卷</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunChess" sParam="Item">
+      <ThingName>棋局</ThingName>
+      <Desc>一张围棋棋谱，记录了一场对决。</Desc>
+      <Item.FabaoSuffix>谱,卷,局</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysAxe" sParam="Item">
+      <ThingName>伐木斧</ThingName>
+      <Desc>一柄斧头，能极大的增加砍伐效率。当然也能当作武器使用。</Desc>
+      <Item.FabaoSuffix>斧</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysPickaxe" sParam="Item">
+      <ThingName>矿镐</ThingName>
+      <Desc>一把镐，能极大的增加采掘速度。当然也能当作武器使用。</Desc>
+      <Item.FabaoSuffix>镐</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysSickle" sParam="Item">
+      <ThingName>农具</ThingName>
+      <Desc>一套农具，能极大的增加种植速度和收获速度。.</Desc>
+      <Item.FabaoSuffix>锄</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysAcupuncture" sParam="Item">
+      <ThingName>针灸</ThingName>
+      <Desc>一套针灸，能提高医疗的质量和成功率。</Desc>
+      <Item.FabaoSuffix>针,刺</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Umbrella" sParam="Item">
+      <ThingName>伞</ThingName>
+      <Desc>一把雨伞。</Desc>
+      <Item.FabaoSuffix>伞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Esoterica" sParam="Item">
+      <ThingName>秘籍</ThingName>
+      <Desc>一本秘籍。</Desc>
+      <Item.FabaoSuffix>书,册,卷</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_StoneBox" sParam="Item">
+      <ThingName>石匣</ThingName>
+      <Desc>神秘石匣，大约一尺见方。其外壳浑然一体，不似凡物。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>试着打开这个匣子</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StoneBox1" sParam="Item">
+      <ThingName>石匣</ThingName>
+      <Desc>南屏村猎户张二娃从某具尸体上获得的石匣，水火不侵，十分灵异。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>试着打开这个匣子</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_FaBaoBox" sParam="Item">
+      <ThingName>太一宝匣</ThingName>
+      <Desc>在灭门之夜，你发现器庐禁法被破，你不忍派中至宝尽数被洗劫，于是拼死闯入其中，将几件珍贵的法宝装入匣中带走。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开太一宝匣。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_DanBox" sParam="Item">
+      <ThingName>太一宝匣</ThingName>
+      <Desc>在灭门之夜，你发现药庐禁法被破，你不忍派中至宝尽数被洗劫，于是拼死闯入其中，将几瓶珍贵的丹药装入匣中带走。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开太一宝匣。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_MiJiBox" sParam="Item">
+      <ThingName>太一宝匣</ThingName>
+      <Desc>在灭门之夜，你发现藏经楼禁法被破，你不忍派中至宝尽数被洗劫，于是拼死闯入其中，将几册珍贵的秘籍装入匣中带走。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开太一宝匣。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_FuBox" sParam="Item">
+      <ThingName>太一宝匣</ThingName>
+      <Desc>在灭门之夜，你发现云箓房禁法被破，你不忍派中至宝尽数被洗劫，于是拼死闯入其中，将几张珍贵的符箓装入匣中带走。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开太一宝匣。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StoneBox2" sParam="Item">
+      <ThingName>古旧石匣</ThingName>
+      <Desc>深埋在山岩中的一方石匣，看上去有些年代了，不知道里面有什么东西。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>试着打开这个匣子</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BuildingBox" sParam="Item">
+      <ThingName>建筑打包</ThingName>
+      <Desc>一个建筑的打包，可以重新放置在某个地方。</Desc>
+    </Text>
+    <Text Name="Item_Baobeier" sParam="Item">
+      <ThingName>宝贝儿</ThingName>
+      <Desc>值得纪念。</Desc>
+      <Item.FabaoSuffix>根</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_Box1" sParam="Item">
+      <ThingName>神奇符咒匣</ThingName>
+      <Desc>陆夫人随身携带的神奇符咒匣，其中装有三张神奇的符咒。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开太一宝匣。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_LunHui_Box2" sParam="Item">
+      <ThingName>神符匣</ThingName>
+      <Desc>杨树随身携带的神符匣，其中装有一张绝品符咒。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开太一宝匣。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_ZuShiZhiCi" sParam="Item">
+      <ThingName>祖师之赐</ThingName>
+      <Desc>祖师之赐，其中藏有珍惜之宝物。</Desc>
+      <Item.FabaoSuffix>匣</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开祖师之赐。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_SuoYingZhiJuan" sParam="Item">
+      <ThingName>万象缩影图</ThingName>
+      <Desc>记录有天地诞生至今所有的生灵历世之缩影。如能知晓对应生灵之真名，可以将其自图卷中召唤具现而出。乃是开天辟地时诞生的十二件混沌灵宝之一。</Desc>
+      <Item.FabaoSuffix>卷</Item.FabaoSuffix>
+      <StoryBnts.0.Name>打开</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>打开缩影之卷。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_XiangHuo1" sParam="Item">
+      <ThingName>三才祭</ThingName>
+      <Desc>基础的祭祀，流程比较简洁。产生1点香火。如用高级食物祭祀，会产生额外香火。</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo2" sParam="Item">
+      <ThingName>五行祭</ThingName>
+      <Desc>中等级别的祭祀，需要一些器具来协助。产生4点香火。如用高级食物祭祀，会产生额外香火。</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo3" sParam="Item">
+      <ThingName>七星祭</ThingName>
+      <Desc>最高等的祭祀，需要复杂的器具与长时间的祷告。产生9点香火。如用高级食物祭祀，会产生额外香火。</Desc>
+    </Text>
+    <Text Name="Item_OldSchool_Letter" sParam="Item">
+      <ThingName>神秘来信</ThingName>
+      <Desc>在灭门逃亡途中，将你们救出险境的神秘修士留下的书信。</Desc>
+      <Item.FabaoSuffix>笺</Item.FabaoSuffix>
+      <StoryBnts.0.Name>阅读</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>阅读信件。</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>

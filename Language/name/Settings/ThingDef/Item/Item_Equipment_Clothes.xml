@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="ClothesBase" sParam="Item">
+      <Item.FabaoSuffix>衣,甲,御,衫</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SummerClothes" sParam="Item">
+      <ThingName>薄衣衫</ThingName>
+      <Desc>比较透气的衣物，也可轻微御寒。</Desc>
+    </Text>
+    <Text Name="Item_SilkClothes" sParam="Item">
+      <ThingName>清凉衣衫</ThingName>
+      <Desc>清爽宽松的衣物，穿上去会觉得很凉快。</Desc>
+    </Text>
+    <Text Name="Item_PracticeClothes" sParam="Item">
+      <ThingName>修行衣衫</ThingName>
+      <Desc>门派制式衣物，比较保暖，但是不太透气。</Desc>
+    </Text>
+    <Text Name="Item_FormalClothes" sParam="Item">
+      <ThingName>休闲衣衫</ThingName>
+      <Desc>很日常的衣物，比较保暖，但是不太透气。</Desc>
+    </Text>
+    <Text Name="Item_WinterClothes" sParam="Item">
+      <ThingName>厚制衣衫</ThingName>
+      <Desc>做工厚实，十分保暖。</Desc>
+    </Text>
+  </List>
+</Texts>

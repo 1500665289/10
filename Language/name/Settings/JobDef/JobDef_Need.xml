@@ -1,0 +1,40 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobAnimalEatFood">
+      <DisplayName>吃东西</DisplayName>
+    </Text>
+    <Text Name="JobBAnimalFree">
+      <DisplayName>移动</DisplayName>
+    </Text>
+    <Text Name="JobBAnimalGiveBirth">
+      <DisplayName>生育</DisplayName>
+    </Text>
+    <Text Name="JobBirthIt">
+      <DisplayName>孵蛋</DisplayName>
+    </Text>
+    <Text Name="JobEatFood">
+      <DisplayName>吃东西</DisplayName>
+    </Text>
+    <Text Name="JobDrinkWater">
+      <DisplayName>喝水</DisplayName>
+    </Text>
+    <Text Name="JobTakeRest">
+      <DisplayName>睡觉</DisplayName>
+    </Text>
+    <Text Name="JobLookAtSky">
+      <DisplayName>看天</DisplayName>
+    </Text>
+    <Text Name="JobFree">
+      <DisplayName>闲逛</DisplayName>
+    </Text>
+    <Text Name="JobRunAway">
+      <DisplayName>逃跑</DisplayName>
+    </Text>
+    <Text Name="JobPlayWithBuilding">
+      <DisplayName>娱乐</DisplayName>
+    </Text>
+    <Text Name="JobBasePractice">
+      <DisplayName>筑基</DisplayName>
+    </Text>
+  </List>
+</Texts>

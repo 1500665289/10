@@ -1,0 +1,64 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Spouse">
+      <DisplayNameF>妻子</DisplayNameF>
+      <DisplayNameM>丈夫</DisplayNameM>
+    </Text>
+    <Text Name="Child">
+      <DisplayNameF>女儿</DisplayNameF>
+      <DisplayNameM>儿子</DisplayNameM>
+    </Text>
+    <Text Name="Brother">
+      <DisplayNameF>姐姐,妹妹</DisplayNameF>
+      <DisplayNameM>哥哥,弟弟</DisplayNameM>
+    </Text>
+    <Text Name="Parent">
+      <DisplayNameF>母亲</DisplayNameF>
+      <DisplayNameM>父亲</DisplayNameM>
+    </Text>
+    <Text Name="GodChild">
+      <DisplayNameF>义女</DisplayNameF>
+      <DisplayNameM>义子</DisplayNameM>
+    </Text>
+    <Text Name="GodParent">
+      <DisplayNameF>义母</DisplayNameF>
+      <DisplayNameM>义父</DisplayNameM>
+    </Text>
+    <Text Name="BiaoBrother">
+      <DisplayNameF>表姐,表妹</DisplayNameF>
+      <DisplayNameM>表哥,表弟</DisplayNameM>
+    </Text>
+    <Text Name="Friend">
+      <DisplayNameF>朋友</DisplayNameF>
+      <DisplayNameM>朋友</DisplayNameM>
+    </Text>
+    <Text Name="Fancy">
+      <DisplayNameF>爱慕对象</DisplayNameF>
+      <DisplayNameM>爱慕对象</DisplayNameM>
+    </Text>
+    <Text Name="FancyFlag">
+      <DisplayNameF>爱慕者</DisplayNameF>
+      <DisplayNameM>爱慕者</DisplayNameM>
+    </Text>
+    <Text Name="Lover">
+      <DisplayNameF>恋人</DisplayNameF>
+      <DisplayNameM>恋人</DisplayNameM>
+    </Text>
+    <Text Name="RivalInlove">
+      <DisplayNameF>情敌</DisplayNameF>
+      <DisplayNameM>情敌</DisplayNameM>
+    </Text>
+    <Text Name="PersonalEnemy">
+      <DisplayNameF>仇家</DisplayNameF>
+      <DisplayNameM>仇家</DisplayNameM>
+    </Text>
+    <Text Name="Reincarnation">
+      <DisplayNameF>前世</DisplayNameF>
+      <DisplayNameM>前世</DisplayNameM>
+    </Text>
+    <Text Name="SYS_LOST">
+      <DisplayNameF>未知(模组丢失)</DisplayNameF>
+      <DisplayNameM>未知(模组丢失)</DisplayNameM>
+    </Text>
+  </List>
+</Texts>

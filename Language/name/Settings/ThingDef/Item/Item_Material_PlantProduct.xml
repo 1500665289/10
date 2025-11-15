@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Cotton" sParam="Item">
+      <ThingName>棉花</ThingName>
+      <Desc>一筐棉花，是纺织布匹的主要材料。除了可以通过种植棉花获得外，还可以通过历练前往小凉山收集。</Desc>
+      <Item.FabaoSuffix>丝,绳,索,绫,线</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

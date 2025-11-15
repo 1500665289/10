@@ -1,0 +1,282 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SysNpcPuppet">
+      <DisplayName>傀儡</DisplayName>
+      <Desc>这是一具傀儡，它会在工作中被磨损，无法修复。</Desc>
+    </Text>
+    <Text Name="SysNewYearLink">
+      <DisplayName>春节快乐</DisplayName>
+    </Text>
+    <Text Name="SysNewYear">
+      <DisplayName>春节快乐</DisplayName>
+      <Desc>这是一只会带来一整年好运的怪物。</Desc>
+    </Text>
+    <Text Name="SysNewYear2">
+      <DisplayName>春节快乐</DisplayName>
+      <Desc>这是一只会带来一整年好运的怪物。</Desc>
+    </Text>
+    <Text Name="SysExploreModifier">
+      <DisplayName>探索中..</DisplayName>
+    </Text>
+    <Text Name="SysCallUp">
+      <DisplayName>叫醒</DisplayName>
+      <Desc>突然被叫醒，完全睡不着。</Desc>
+    </Text>
+    <Text Name="SysDemonColdDown">
+      <DisplayName>入魔CD</DisplayName>
+    </Text>
+    <Text Name="SysGodPractice">
+      <DisplayName>抵抗</DisplayName>
+      <Desc>打坐抵抗并减缓天劫的降临。</Desc>
+    </Text>
+    <Text Name="SysTeacherModifier">
+      <DisplayName>神秘修行者</DisplayName>
+      <Desc>暂时停留，一会便会离开。</Desc>
+    </Text>
+    <Text Name="SysVistorModifier">
+      <DisplayName>访客</DisplayName>
+      <Desc>暂时停留，一会便会离开。</Desc>
+    </Text>
+    <Text Name="SysGodMonsterModifier">
+      <DisplayName>降临</DisplayName>
+      <Desc>暂时停留，一会便会离开。</Desc>
+    </Text>
+    <Text Name="SysFlyingModifier">
+      <DisplayName>飞行状态..</DisplayName>
+    </Text>
+    <Text Name="SysPracticeDie">
+      <DisplayName>道基已毁</DisplayName>
+      <Desc>道基已毁，无论如何修行都再无精进了。</Desc>
+    </Text>
+    <Text Name="SysExploreEatModifier">
+      <DisplayName>享用食物</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Positive">
+      <DisplayName>法宝相生</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Same">
+      <DisplayName>法宝相同</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Negative">
+      <DisplayName>法宝相克</DisplayName>
+    </Text>
+    <Text Name="SysEndureHunger">
+      <DisplayName>耐饿</DisplayName>
+      <Desc>吃了干粮，更加耐饿。</Desc>
+    </Text>
+    <Text Name="NegativeTime">
+      <DisplayName>怠工</DisplayName>
+      <Desc>这种生活真是一团糟，无心干活。[color=#D06508]（情绪45以上消失）[/color]</Desc>
+    </Text>
+    <Text Name="NegativeTime_Hearten">
+      <DisplayName>振奋心情</DisplayName>
+      <Desc>生活还要继续，打起精神来吧。</Desc>
+    </Text>
+    <Text Name="Dissatisfaction">
+      <DisplayName>不满</DisplayName>
+      <Desc>这种生活真的是受够了…</Desc>
+    </Text>
+    <Text Name="SysDoBasePractice">
+      <DisplayName>习武中</DisplayName>
+    </Text>
+    <Text Name="SysTooTired">
+      <DisplayName>劳累过度</DisplayName>
+    </Text>
+    <Text Name="Sys_JieNanShenyu">
+      <DisplayName>身欲劫</DisplayName>
+      <Desc>基础消耗加五倍</Desc>
+    </Text>
+    <Text Name="Sys_JieNanZhenkong">
+      <DisplayName>真空劫</DisplayName>
+      <Desc>失去所有神通</Desc>
+    </Text>
+    <Text Name="Sys_JieNanHuangu">
+      <DisplayName>换骨劫</DisplayName>
+      <Desc>每隔一段时间骨骼上便会产生伤害</Desc>
+    </Text>
+    <Text Name="Sys_WorkBroken">
+      <DisplayName>悟</DisplayName>
+      <Desc>失去了所有神通，在外门进行参悟，尝试突破功法瓶颈。</Desc>
+    </Text>
+    <Text Name="Sys_MasterHelp">
+      <DisplayName>护法</DisplayName>
+      <Desc>师父为你提供了护法，你的心境得到提高并保持稳定。</Desc>
+    </Text>
+    <Text Name="Sys_DrugTime">
+      <DisplayName>药物BUFF</DisplayName>
+    </Text>
+    <Text Name="Sys_FabaoPowerAdd">
+      <DisplayName>提高法宝威力</DisplayName>
+    </Text>
+    <Text Name="Sys_SkillPowerAdd">
+      <DisplayName>提高术法威力</DisplayName>
+    </Text>
+    <Text Name="Sys_SheildPowerAdd">
+      <DisplayName>提高护体强度</DisplayName>
+    </Text>
+    <Text Name="SeeGod">
+      <DisplayName>天道洗练</DisplayName>
+      <Desc>亲眼见证飞升之事，身心为天道洗练。在这段时间内，修行会事半功倍。</Desc>
+    </Text>
+    <Text Name="BasePracticeAchievements1">
+      <DisplayName>筑基小成</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements2">
+      <DisplayName>筑基有成</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements3">
+      <DisplayName>筑基成功</DisplayName>
+    </Text>
+    <Text Name="Sys_Demon">
+      <DisplayName>魔([TXT])</DisplayName>
+      <Desc>由于某种原因入魔了</Desc>
+    </Text>
+    <Text Name="FengShui1">
+      <DisplayName>福地</DisplayName>
+    </Text>
+    <Text Name="FengShui2">
+      <DisplayName>大吉</DisplayName>
+    </Text>
+    <Text Name="FengShui3">
+      <DisplayName>小吉</DisplayName>
+    </Text>
+    <Text Name="FengShui4">
+      <DisplayName>小凶</DisplayName>
+    </Text>
+    <Text Name="FengShui5">
+      <DisplayName>大凶</DisplayName>
+    </Text>
+    <Text Name="FengShui6">
+      <DisplayName>绝地</DisplayName>
+    </Text>
+    <Text Name="Sys_AbsorbGong_5">
+      <DisplayName>他化自在大法</DisplayName>
+      <Desc>该对象被施展了他化自在大法，更容易受情绪影响。当处在极端情绪时（160以上或40以下），会持续向施法者提供修为与参悟。</Desc>
+    </Text>
+    <Text Name="Sys_AbsorbGong_6">
+      <DisplayName>寄生</DisplayName>
+      <Desc>该对象被施展了魂体寄生，每天0点所有筑基值会被转化为对方的修为。同时角色因此虚弱，五维降低，全局工作效率降低。</Desc>
+    </Text>
+    <Text Name="Sys_DaoLv">
+      <DisplayName>道侣同参</DisplayName>
+      <Desc>我与道侣在一起，感觉心有灵犀，连修炼都变得十分有效。</Desc>
+    </Text>
+    <Text Name="Sys_Zombie">
+      <DisplayName>僵尸</DisplayName>
+    </Text>
+    <Text Name="Sys_Jianglingfenshen">
+      <DisplayName>降临分身</DisplayName>
+      <Desc>一位祖师的分身，该分身只能战斗，一会便会离开。</Desc>
+    </Text>
+    <Text Name="Sys_Jianglingjiangdao">
+      <DisplayName>降临分身</DisplayName>
+      <Desc>一位祖师的分身，该分身正在讲道，一会便会离开。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_ZangMenDebuff">
+      <DisplayName>杂念（掌门）</DisplayName>
+      <Desc>掌门因管理门派而产生的负担，降低心境，修炼速度，参悟获取速度，突破几率等修炼相关的属性。门派分堂开设越多，负担越大。会根据掌门的掌管能力而减免。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TangZhuDebuff">
+      <DisplayName>杂念（堂主）</DisplayName>
+      <Desc>堂主因管理分堂弟子而产生的负担，降低心境，修炼速度，参悟获取速度，突破几率等修炼相关的属性。分堂下属弟子越多，负担越大。会根据掌门的掌管能力而减免。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_ZangMenDebuff_Old">
+      <DisplayName>疲惫</DisplayName>
+      <Desc>虽然卸任掌门，但管理门派期间的沉重压力让你短时间无法解脱。降低心境，修炼速度，参悟获取速度，突破几率等修炼相关的属性。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TangZhuDebuff_Old">
+      <DisplayName>疲惫</DisplayName>
+      <Desc>虽然卸任堂主，但管理分堂期间的沉重压力让你短时间无法解脱。降低心境，修炼速度，参悟获取速度，突破几率等修炼相关的属性。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_NoAreaBuff">
+      <DisplayName>无区域加成</DisplayName>
+      <Desc>因堂主能力不足，该堂口弟子无法获得区域加成。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_NoAllBuff">
+      <DisplayName>无常驻加成</DisplayName>
+      <Desc>因堂主能力不足，该堂口弟子无法获得常驻加成。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Dan">
+      <DisplayName>炼丹专精（内门）</DisplayName>
+      <Desc>内门弟子在本堂范围内可提高炼丹速度，成功率，产量。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Dan">
+      <DisplayName>炼丹专精（外门）</DisplayName>
+      <Desc>外门弟子在本堂范围内可获得制药，治疗能力的加强。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Dan">
+      <DisplayName>炼丹专精（常驻）</DisplayName>
+      <Desc>提高岐黄/炼丹技能等级以及神识属性。堂主能力越强，加成越高。（常驻专精刷新周期为1天）</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Qi">
+      <DisplayName>炼器专精（内门）</DisplayName>
+      <Desc>内门弟子在本堂范围内可提高炼器速度，成功率，品阶，品质。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Qi">
+      <DisplayName>炼器专精（外门）</DisplayName>
+      <Desc>外门弟子在本堂范围内可获得制作能力的加强。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Qi">
+      <DisplayName>炼器专精（常驻）</DisplayName>
+      <Desc>提高巧匠/炼器技能等级以及根骨属性。堂主能力越强，加成越高。（常驻专精刷新周期为1天）</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Zhan">
+      <DisplayName>战斗专精（内门）</DisplayName>
+      <Desc>内门弟子在本堂范围内可获得恢复力，疼痛忍耐的加强。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Zhan">
+      <DisplayName>战斗专精（外门）</DisplayName>
+      <Desc>外门弟子在本堂范围内可获得恢复力，疼痛忍耐的加强。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Zhan">
+      <DisplayName>战斗专精（常驻）</DisplayName>
+      <Desc>提高战斗相关能力，战斗技能等级以及神识，根骨属性。堂主能力越强，加成越高。（常驻专精刷新周期为1天）</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_XiuLian">
+      <DisplayName>修行专精（内门）</DisplayName>
+      <Desc>内门弟子在本堂范围内可提高心境，修炼速度，参悟获取，突破概率。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_XiuLian">
+      <DisplayName>修行专精（外门）</DisplayName>
+      <Desc>外门弟子在本堂范围内可提高筑基速度。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_XiuLian">
+      <DisplayName>修行专精（常驻）</DisplayName>
+      <Desc>提高气感技能等级以及悟性属性。堂主能力越强，加成越高。（常驻专精刷新周期为1天）</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_WaiShi">
+      <DisplayName>外事专精（内门）</DisplayName>
+      <Desc>内门弟子在本堂范围内可获得全局效率的加成。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_WaiShi">
+      <DisplayName>外事专精（外门）</DisplayName>
+      <Desc>外门弟子在本堂范围内可获得全局效率的加成。堂主能力越强，加成越高。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_WaiShi">
+      <DisplayName>外事专精（常驻）</DisplayName>
+      <Desc>提高历练速度，声望获取加成，历练瓶颈突破速度等属性，处世技能等级以及魅力，机缘属性。堂主能力越强，加成越高。（常驻专精刷新周期为1天）</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Magic_Prophesy">
+      <DisplayName>周天神算</DisplayName>
+      <Desc>当有事件发生前， 会预先给出提示。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CanNotExperience">
+      <DisplayName>静修</DisplayName>
+      <Desc>该弟子刚刚从长时间的历练中回山，需要一段时间静修稳固修为。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TameCD">
+      <DisplayName>喂养间隔</DisplayName>
+      <Desc>该动物刚刚被喂养过。</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_GodMode">
+      <DisplayName>无敌</DisplayName>
+      <Desc>无敌状态</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CantSelect">
+      <DisplayName>不可选中</DisplayName>
+    </Text>
+    <Text Name="Mini_Follow">
+      <DisplayName>跟宠</DisplayName>
+    </Text>
+  </List>
+</Texts>

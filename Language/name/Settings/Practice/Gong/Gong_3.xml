@@ -1,0 +1,30 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_3_Jin">
+      <DisplayName>七杀剑诀</DisplayName>
+      <Desc>相传是从魔界流出的专修剑术之修行秘法。有七层境界，入门艰难，进阶也极难。修此秘法战斗力极其惊人，但却因杀意过重，有三重雷劫考验，凶险万分。乃是不折不扣的杀伐之术。</Desc>
+      <SelectDesc>此功法擅长御器之术，战斗力惊人，然而因杀劫太重，要经历层层天劫。是否要选择修习此功法？</SelectDesc>
+      <Stages.0.DisplayName>剑心</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>剑心</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>以心证剑，寻找属于自己的剑之道。一旦失败，则需要从头再来。[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈神识越低，越难突破。\n突破失败可能会受伤。[/color]</Stages.0.Necks.0.Desc>
+      <Stages.1.DisplayName>剑气</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>剑气</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>凝聚一身精血，燃烧寿命，化为剑气，以大决心斩开玄关。[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈神识越低，越难突破。\n突破失败可能会受伤。[/color]</Stages.1.Necks.0.Desc>
+      <Stages.2.DisplayName>剑丸</Stages.2.DisplayName>
+      <Stages.2.Desc>神气凝结为一粒剑丸，如道家金丹，混元如一。</Stages.2.Desc>
+      <Stages.2.Necks.0.DisplayName>剑丸</Stages.2.Necks.0.DisplayName>
+      <Stages.3.DisplayName>剑意</Stages.3.DisplayName>
+      <Stages.3.Desc>剑丸初成，天降神雷，借之凝聚剑之意志。</Stages.3.Desc>
+      <Stages.3.Necks.0.DisplayName>剑意</Stages.3.Necks.0.DisplayName>
+      <Stages.4.DisplayName>剑胎</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>剑胎</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.0.Desc>天劫淬炼，返璞归真，自剑丸中孕育剑胎。</Stages.4.Necks.0.Desc>
+      <Stages.5.DisplayName>剑魂</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>剑魂</Stages.5.Necks.0.DisplayName>
+      <Stages.5.Necks.0.Desc>以剑意窃取累劫中毁灭之天道，抵达剑神境界，一旦成功，天意震怒，将会直面最终天劫。</Stages.5.Necks.0.Desc>
+      <Stages.6.DisplayName>剑神</Stages.6.DisplayName>
+      <Stages.6.Necks.0.DisplayName>剑神</Stages.6.Necks.0.DisplayName>
+      <Stages.6.Necks.0.Desc>以天雷淬炼剑魂，以证纯阳，飞升天衢。</Stages.6.Necks.0.Desc>
+    </Text>
+  </List>
+</Texts>

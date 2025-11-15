@@ -1,0 +1,69 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Zhulong">
+      <DisplayName>烛龙</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongFight">
+      <DisplayName>烛龙</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_ShadowFight">
+      <DisplayName>幻影战斗缩放</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_YangShadow">
+      <DisplayName>光之幻影</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_YinShadow">
+      <DisplayName>暗之幻影</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_LongPuFix">
+      <DisplayName>龙仆修正</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhuLong_Part">
+      <DisplayName>烛龙部位</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongShadow">
+      <DisplayName>烛龙影子</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_NightGod">
+      <DisplayName>永夜之神</DisplayName>
+      <Desc>每6秒获得1层[玄阴之息]，只有阳属性（火木）的法宝和技能才能造成全部伤害。土属性的法宝可以造成较少伤害。阴属性法宝造成的伤害会被吸收。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Night">
+      <DisplayName>玄阴之息</DisplayName>
+      <Desc>100层玄阴之息将会释放心魔化形。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_DayGod">
+      <DisplayName>白昼之神</DisplayName>
+      <Desc>每6秒获得1层[至阳之息]，只有阴属性（金水）的法宝和技能才能造成全部伤害。土属性的法宝可以造成较少伤害。阳属性法宝造成的伤害会被吸收。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Day">
+      <DisplayName>至阳之息</DisplayName>
+      <Desc>100层至阳之息将会释放业力化形。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Shennian">
+      <DisplayName>神念震荡</DisplayName>
+      <Desc>每层降低2点心境，烛龙切换阶段时会被清除。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Zuinie">
+      <DisplayName>罪孽缠身</DisplayName>
+      <Desc>每层提高2点天谴，烛龙切换阶段时会被清除。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_yehuocanshen">
+      <DisplayName>业火缠身</DisplayName>
+      <Desc>天谴提高1000点，结束时永远降低200点。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_yehuocanshen_end">
+      <DisplayName>业火缠身</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_xinlingzezao">
+      <DisplayName>心灵遮罩</DisplayName>
+      <Desc>心境降低100点，结束时永远提高20点。</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_xinlingzezao_end">
+      <DisplayName>心灵遮罩</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongIdleEffect">
+      <DisplayName>烛龙特效</DisplayName>
+    </Text>
+  </List>
+</Texts>

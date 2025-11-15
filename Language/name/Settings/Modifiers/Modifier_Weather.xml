@@ -1,0 +1,106 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Weather_SunnyDay">
+      <DisplayName>晴天</DisplayName>
+    </Text>
+    <Text Name="Weather_Overcast">
+      <DisplayName>阴天</DisplayName>
+    </Text>
+    <Text Name="Weather_LightRain">
+      <DisplayName>小雨</DisplayName>
+    </Text>
+    <Text Name="Weather_HeavyRain">
+      <DisplayName>大雨</DisplayName>
+    </Text>
+    <Text Name="Weather_LightSnow">
+      <DisplayName>小雪</DisplayName>
+    </Text>
+    <Text Name="Weather_HeavySnow">
+      <DisplayName>大雪</DisplayName>
+    </Text>
+    <Text Name="Weather_DenseFog">
+      <DisplayName>大雾</DisplayName>
+    </Text>
+    <Text Name="Weather_SpringAir">
+      <DisplayName>春天气息</DisplayName>
+    </Text>
+    <Text Name="Weather_Melancholy">
+      <DisplayName>愁绪弥漫</DisplayName>
+    </Text>
+    <Text Name="Weather_HarvestAir">
+      <DisplayName>丰收气息</DisplayName>
+    </Text>
+    <Text Name="Weather_Impetuous">
+      <DisplayName>浮躁之风</DisplayName>
+    </Text>
+    <Text Name="Weather_Hail">
+      <DisplayName>冰雹</DisplayName>
+    </Text>
+    <Text Name="Weather_MouldRains">
+      <DisplayName>梅雨</DisplayName>
+    </Text>
+    <Text Name="Weather_Drought">
+      <DisplayName>干旱</DisplayName>
+    </Text>
+    <Text Name="Weather_Rainstorm">
+      <DisplayName>暴雨</DisplayName>
+    </Text>
+    <Text Name="Weather_Fohn">
+      <DisplayName>焚风</DisplayName>
+    </Text>
+    <Text Name="Weather_DustStorm">
+      <DisplayName>尘暴</DisplayName>
+    </Text>
+    <Text Name="Weather_LingRarefiedWave">
+      <DisplayName>灵气枯潮</DisplayName>
+    </Text>
+    <Text Name="Weather_LingUpWave">
+      <DisplayName>灵气爆发</DisplayName>
+    </Text>
+    <Text Name="Weather_HeatWave">
+      <DisplayName>热浪</DisplayName>
+    </Text>
+    <Text Name="Weather_ColdWave">
+      <DisplayName>寒流</DisplayName>
+    </Text>
+    <Text Name="Weather_HeatWaveInWinter">
+      <DisplayName>热浪</DisplayName>
+    </Text>
+    <Text Name="Weather_ColdWaveInSummer">
+      <DisplayName>寒流</DisplayName>
+    </Text>
+    <Text Name="Weather_PermanentNight">
+      <DisplayName>永夜</DisplayName>
+    </Text>
+    <Text Name="Weather_Miasma">
+      <DisplayName>瘴气</DisplayName>
+    </Text>
+    <Text Name="Weather_LightningStorm">
+      <DisplayName>雷暴</DisplayName>
+    </Text>
+    <Text Name="Weather_LuShu_SunnyDay">
+      <DisplayName>晴天</DisplayName>
+    </Text>
+    <Text Name="Weather_Fei_HeavyRain">
+      <DisplayName>大雨</DisplayName>
+    </Text>
+    <Text Name="Weather_SpringFestival">
+      <DisplayName>春节</DisplayName>
+    </Text>
+    <Text Name="Weather_ZuShiBiHu">
+      <DisplayName>祖师庇护</DisplayName>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
+      <DisplayName>九阴真水界</DisplayName>
+      <Desc>在九阴真水界中，自然恢复力，灵气恢复速度大幅提高。</Desc>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_BeiDouJianJie">
+      <DisplayName>北斗剑界</DisplayName>
+      <Desc>在北斗剑界中，法宝威力大幅提高。</Desc>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
+      <DisplayName>九阳神火界</DisplayName>
+      <Desc>在九阳神火界中，术法威力大幅提高。</Desc>
+    </Text>
+  </List>
+</Texts>

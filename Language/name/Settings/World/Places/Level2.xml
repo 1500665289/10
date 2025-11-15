@@ -1,0 +1,219 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Place_Level2Base">
+      <Desc>2级地点模板</Desc>
+    </Text>
+    <Text Name="Place_DanXia1">
+      <DisplayName>上清洞</DisplayName>
+      <Desc>丹霞山下的一处天然溶洞，其中曲径幽折，奇景叠参，洞穴深处供奉有上清灵宝天尊的雕像。是闭关修炼的好去处。</Desc>
+    </Text>
+    <Text Name="Place_DanXia2">
+      <DisplayName>丹霞绝壁</DisplayName>
+      <Desc>丹霞山顶的一处绝壁，落日时分霞光映照之下绮丽壮美，堪称人间绝景。</Desc>
+    </Text>
+    <Text Name="Place_DanXia3">
+      <DisplayName>五龙池</DisplayName>
+      <Desc>丹霞山深处的一方灵池，池中遍生莲花，其深不见底，直通地壳水脉，据说丹霞洞天的天地灵根五色金莲就种植于此。</Desc>
+    </Text>
+    <Text Name="Place_KunLun1">
+      <DisplayName>登仙台</DisplayName>
+      <Desc>昆仑山南麓的一座石台，其上铭刻许多意义不明的纹理。据说上古时期东王公于此分封群仙，飞升仙境，并于此留下道统以待有缘人。 </Desc>
+    </Text>
+    <Text Name="Place_KunLun2">
+      <DisplayName>龙脉洞窟</DisplayName>
+      <Desc>昆仑山深处一座深不见底的洞窟，千沟万壑复杂非常。传说此洞穴直通大地龙脉，受龙脉之气滋养，昆仑宫在此地种植天地灵根赭黄精。</Desc>
+    </Text>
+    <Text Name="Place_KunLun2_1">
+      <DisplayName>奇特空洞</DisplayName>
+      <Desc>这是一处在龙脉洞窟中到处可见的空洞，虽然看上去平平无奇，但却有一种奇特的违和感。如果不是对龙脉洞窟十分了解的人绝对察觉不出来。这处空洞入口有一些似乎是天然的纹理，看上去十分奇特。</Desc>
+    </Text>
+    <Text Name="Place_TianJi1">
+      <DisplayName>飞云涧</DisplayName>
+      <Desc>天极峰万仞绝壁之间的一道深涧，其间庞大的灵气漩涡终日旋转不休，飞鸟难度。传闻极天宫就将天地灵根琅琊果种植于飞云涧绝壁之上。</Desc>
+    </Text>
+    <Text Name="Place_TianJi2">
+      <DisplayName>绝天关</DisplayName>
+      <Desc>天极峰登山路途上的一道狭缝，狭缝两侧上长满清心草，靠近之人会觉得身心清凉，远离尘世，故称此地为绝天关。穿越之后便是天极峰绝顶，极天宫宗门所在。</Desc>
+    </Text>
+    <Text Name="Place_JiuHua1">
+      <DisplayName>九华村</DisplayName>
+      <Desc>九华山下的一座村落，因受紫霄宗庇护，村里人丁兴旺，安居乐业。附近有一座庞大的玉石矿脉，是以此地村民以采集玉石，贩卖给紫霄宗为生。</Desc>
+    </Text>
+    <Text Name="Place_JiuHua2">
+      <DisplayName>潜龙渊</DisplayName>
+      <Desc>九华山名胜，站在潜龙渊畔可见云海翻腾，景色奇丽。传说上古时，有大能牧龙于此。</Desc>
+    </Text>
+    <Text Name="Place_JiuHua3">
+      <DisplayName>凤栖崖</DisplayName>
+      <Desc>九华山名胜，至今有两株梧桐巨木的残骸留存。传说上古时，此地栖息有一只凤凰。</Desc>
+    </Text>
+    <Text Name="Place_LongHu1">
+      <DisplayName>飞流瀑</DisplayName>
+      <Desc>龙虎山一道绝景，万丈飞流自云端而下，如玉龙经天，轰鸣声震百里。</Desc>
+    </Text>
+    <Text Name="Place_LongHu2">
+      <DisplayName>神木林</DisplayName>
+      <Desc>龙虎山山脚的一片茂密的树林，其中生长有许多百年老树，甚至有传言其中有梧桐神木存在。因其木气充沛，龙虎山将天地灵根种植于此。</Desc>
+    </Text>
+    <Text Name="Place_Shu1">
+      <DisplayName>凝碧崖</DisplayName>
+      <Desc>位于蜀山西峰，景色秀美，灵兽仙禽出没不绝。此地乃是地脉宣泄之地，山体之中多生火铜矿等珍稀矿脉，因火气浓郁，青莲仙人将神药朱果种植于此。</Desc>
+    </Text>
+    <Text Name="Place_Shu2">
+      <DisplayName>飞雷洞</DisplayName>
+      <Desc>蜀山十二洞之一，也是青莲剑宗开派祖师闭关飞升之所，传说青莲仙人飞升前于此留下一个天大的秘密，可惜千百年来无人找到。</Desc>
+    </Text>
+    <Text Name="Place_Shu3">
+      <DisplayName>餐霞洞</DisplayName>
+      <Desc>蜀山十二洞之一，位于蜀山北峰之上。洞内多生露天火铜，千万年来火气于洞内凝聚不散，仿佛云霞蒸腾。故称餐霞洞，是修炼的好去处。</Desc>
+    </Text>
+    <Text Name="Place_Shu4">
+      <DisplayName>玉泉洞</DisplayName>
+      <Desc>蜀山十二洞之一。传说更有一口地母灵液的泉眼深藏洞中，非有缘人不可得。</Desc>
+    </Text>
+    <Text Name="Place_Shu5">
+      <DisplayName>剑冢</DisplayName>
+      <Desc>蜀山山中一座幽深的洞穴，其中收藏有历代青莲剑宗剑仙的佩剑。</Desc>
+    </Text>
+    <Text Name="Place_WuLian1">
+      <DisplayName>天池</DisplayName>
+      <Desc>五莲山山巅的圣地，本是一座火山口，时常喷发。五莲真人施展偷天换地的神通将火山封印，并于此立派。传说天池之中有一脉长生泉，非有缘人不可得。</Desc>
+    </Text>
+    <Text Name="Place_WuLian2">
+      <DisplayName>木白雨林</DisplayName>
+      <Desc>五莲山后山的神秘树林，雨落时云气蒸腾，如烟如雾，恍如仙境。曾有重疾儒生入而复返，说林中有一仙人，左手持一木剑可呼风唤雨，右手托一白玉石可愈百病，自号木白仙人。木白雨林便成此林之名。</Desc>
+    </Text>
+    <Text Name="Place_BaiMan1">
+      <DisplayName>千尸洞</DisplayName>
+      <Desc>百蛮山的弟子猎杀妖兽后，会将尸体运往千尸洞封存，妖兽尸体在尸气的转化下成为傀儡，镇守百蛮山。若有刚运入其中的尸首还未来得及转化，或可将其玄牝珠取出。</Desc>
+    </Text>
+    <Text Name="Place_BaiMan2">
+      <DisplayName>万蛇坑</DisplayName>
+      <Desc>百蛮山豢养妖蛇之地，坑中一旦出现初成气候的妖蛇就会被抓出采，集妖灵血供百蛮山弟子修炼。</Desc>
+    </Text>
+    <Text Name="Place_XianKong1">
+      <DisplayName>无底洞</DisplayName>
+      <Desc>陷空山中的一座无底大坑，因泄露出元磁之气，故而常有陨星坠落于此。传闻有修行者在此寻得星髓。不过宝物有灵，大多数人还是空手而归。</Desc>
+    </Text>
+    <Text Name="Place_Hei1">
+      <DisplayName>炼魔洞（重做中）</DisplayName>
+      <Desc>黑山三柱顶峰之一，被七杀大阵环绕，无人能进。</Desc>
+    </Text>
+    <Text Name="Place_Hei2">
+      <DisplayName>接天洞（重做中）</DisplayName>
+      <Desc>黑山三柱顶峰之一，被七杀大阵环绕，无人能进。</Desc>
+    </Text>
+    <Text Name="Place_Hei3">
+      <DisplayName>凌霄洞（重做中）</DisplayName>
+      <Desc>黑山三柱顶峰之一，被七杀大阵环绕，无人能进。</Desc>
+    </Text>
+    <Text Name="Place_Hei4">
+      <DisplayName>千棘林</DisplayName>
+      <Desc>黑山脚下的一座丛林，林中遍布荆棘，人兽难行，自古以来便罕有人迹。亦因此，林中千年古木随处可见，木属性灵气异常充沛，是修炼的好去处。</Desc>
+    </Text>
+    <Text Name="Place_HeHuan1">
+      <DisplayName>离恨海</DisplayName>
+      <Desc>合欢岛附近有一座大岛屿，岛中有一湖，终年迷雾笼罩，称为离恨海。若进入其中则可见万般爱恨演绎，稍不留神就会沉溺其中。</Desc>
+    </Text>
+    <Text Name="Place_HeHuan2">
+      <DisplayName>毒龙潭</DisplayName>
+      <Desc>合欢岛上的一片深潭，传说此潭深处有一窝毒龙盘踞，经常袭击附近的修行者。又有传言此潭深处有一口地母灵液，毒龙出没的传闻只是合欢岛放出的烟雾弹。</Desc>
+    </Text>
+    <Text Name="Place_Desert1">
+      <DisplayName>万妖殿</DisplayName>
+      <Desc>深藏在大漠深处的邪教大派，其行事作风低调，罕为人知。</Desc>
+    </Text>
+    <Text Name="Place_Desert2">
+      <DisplayName>幻沙原</DisplayName>
+      <Desc>大漠深处的一片生灵绝地，终日狂沙飞舞。过于浓烈的土属性灵气充斥着这里的天空。如果能忍受这里恶劣的环境，倒是一个修炼的好去处。</Desc>
+    </Text>
+    <Text Name="Place_Desert3">
+      <DisplayName>火穴</DisplayName>
+      <Desc>大漠深处的一片奇异洞穴，其中炙热非常，据说拥有先天火德之宝。</Desc>
+    </Text>
+    <Text Name="Place_Desert4">
+      <DisplayName>鸣沙村</DisplayName>
+      <Desc>大漠边缘的一座小村庄，村中多魔族血脉，好斗不畏死，以猎杀沙漠中的妖兽为生。</Desc>
+    </Text>
+    <Text Name="Place_SouthForest1">
+      <DisplayName>万古桃花瘴</DisplayName>
+      <Desc>南荒穷山恶水中本有一片数百里的桃林，因人迹罕至，桃子成熟无人采摘落地腐烂，千万年来逐渐累积成这一片桃花瘴气，终年不散。</Desc>
+    </Text>
+    <Text Name="Place_SouthForest2">
+      <DisplayName>邪帝陵</DisplayName>
+      <Desc>南方魔教教祖邪帝之陵寝，寝宫为一整块天星陨铁炼铸，深埋地下。整座陵墓被九天十地灭神煞紧紧环绕，如果没有秘法开路，不论多高的修为，触之立毙。</Desc>
+    </Text>
+    <Text Name="Place_SouthForest3">
+      <DisplayName>虫谷</DisplayName>
+      <Desc>南荒深处的一块盆地，密林遍布多生虫豸，环境非常险恶。但此处湿热之环境特别适合神药木枯藤生长，因此常见修行者深入其中寻觅仙缘。</Desc>
+    </Text>
+    <Text Name="Place_Snowfield1">
+      <DisplayName>天螺峪</DisplayName>
+      <Desc>大雪原之中的一座山谷，灵气浓郁，人迹罕至。谷中多生百年老参。</Desc>
+    </Text>
+    <Text Name="Place_Snowfield2">
+      <DisplayName>玉晶潭</DisplayName>
+      <Desc>大雪原深处的一口永不结冰的神泉，据说其中有一朵五色金莲生存，非有缘人难觅其踪。其泉眼直通地壳深处元磁之心，一旦陷入就永无出头之日。昔日一统修行界的绝世霸主魔帝付辟空遭天谴之前，将全部身家藏于金匣沉入潭中，金匣被元磁之心捕获，再无人可以取出。</Desc>
+    </Text>
+    <Text Name="Place_Snowfield3">
+      <DisplayName>雪风原</DisplayName>
+      <Desc>一望无际的大雪原，寒风终日不息。盛产寒晶矿。</Desc>
+    </Text>
+    <Text Name="Place_FertileField1">
+      <DisplayName>寒山镇</DisplayName>
+      <Desc>大河北部的一座小镇</Desc>
+    </Text>
+    <Text Name="Place_FertileField2">
+      <DisplayName>落霞镇</DisplayName>
+      <Desc>江北平原的一座小镇，民风淳朴，与世无争。村民多以开采周围的玉石矿为生。</Desc>
+    </Text>
+    <Text Name="Place_FertileField3">
+      <DisplayName>稻香村</DisplayName>
+      <Desc>临湖而建的村落，村人以务农捕鱼为生。</Desc>
+    </Text>
+    <Text Name="Place_FertileField4">
+      <DisplayName>桂山</DisplayName>
+      <Desc>江南名山，山中景色秀美，气候温和，盛产灵芝。</Desc>
+    </Text>
+    <Text Name="Place_FertileField5">
+      <DisplayName>卢山</DisplayName>
+      <Desc>江南名山，山势幽深多变，猿猱难登。山中有零星的露天灵石矿藏，虽然没有大规模的开采价值，但也常有散修入山寻觅自用。据说有修行者于此感应到强烈的金属性灵气，似乎有天地灵根琅琊果藏于山中。</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains1">
+      <DisplayName>云台山</DisplayName>
+      <Desc>中原腹地的名山，以山中云层厚重而得名。山上多产朱砂，常有方士修行者来次收采。</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains2">
+      <DisplayName>炼丹峰</DisplayName>
+      <Desc>昔日医仙于此炼丹，至今只留下一座废弃的洞府，空空如也。山上药田中种植的仙草多已枯死，只有易于生长的灵仙草漫山遍野的繁衍开来。据说昔日医仙曾于此培植天地灵根赭黄精，早已通灵，非有缘人不得见。</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains3">
+      <DisplayName>平顶山</DisplayName>
+      <Desc>中原腹地的一座奇山，山顶平坦如野，造化天成。山巅有一三才榜，记录有天地间奇人之名讳。受此影响，此地金属性灵气特别浓郁，是个修炼的好去处。</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains4">
+      <DisplayName>五华村</DisplayName>
+      <Desc>中原腹地依山而建的一座村落。村人世代行医，以附近山中开垦药田为生。</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains5">
+      <DisplayName>芦墟村</DisplayName>
+      <Desc>中原腹地的一座村落，以纺织闻名天下。</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace11">
+      <DisplayName>南屏村</DisplayName>
+      <Desc>一座小型村落，村中居民多为农夫猎户，以种植打猎为生。</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace12">
+      <DisplayName>月轮山</DisplayName>
+      <Desc>南方边境的一座小山，山林覆盖，植被茂密，常有采药人进山采药为生。</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace13">
+      <DisplayName>小凉山</DisplayName>
+      <Desc>一座棕石山，原本有一座朝廷的采石场，后因战乱而被废弃。如今山下有不少居民以种植棉花为生。</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace14">
+      <DisplayName>铜陵山</DisplayName>
+      <Desc>一座石山，山中多金属矿藏，罕有人迹。</Desc>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,28 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="TDamageSkill">
+      <DisplayName>伤害技能</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_1">
+      <DisplayName>先天罡气</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_2">
+      <DisplayName>烈焰决</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_3">
+      <DisplayName>庚金神雷</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_4">
+      <DisplayName>元磁灭绝神光</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_Gong4_1">
+      <DisplayName>玉清太虚神雷</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_Gong7_1">
+      <DisplayName>斩念剑</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_Teach">
+      <DisplayName>教学技能</DisplayName>
+    </Text>
+  </List>
+</Texts>

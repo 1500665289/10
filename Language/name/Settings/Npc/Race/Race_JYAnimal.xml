@@ -1,0 +1,51 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JYRabbit">
+      <DisplayName>兔子</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="JYWolf">
+      <DisplayName>狼</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="JYSnake">
+      <DisplayName>蛇</DisplayName>
+      <MaleName>雄</MaleName>
+      <FemaleName>雌</FemaleName>
+    </Text>
+    <Text Name="JYBoar">
+      <DisplayName>野猪</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="JYBear">
+      <DisplayName>熊</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="JYFrog">
+      <DisplayName>青蛙</DisplayName>
+      <MaleName>雄</MaleName>
+      <FemaleName>雌</FemaleName>
+    </Text>
+    <Text Name="JYTurtle">
+      <DisplayName>龟</DisplayName>
+      <MaleName>雄</MaleName>
+      <FemaleName>雌</FemaleName>
+    </Text>
+    <Text Name="JYLongpuNight">
+      <DisplayName>龙之仆役(夜)</DisplayName>
+    </Text>
+    <Text Name="JYLongpuDay">
+      <DisplayName>龙之仆役(昼)</DisplayName>
+    </Text>
+    <Text Name="JYZhuLongENian">
+      <DisplayName>恶念龙形</DisplayName>
+    </Text>
+    <Text Name="JYZhuLongShanNian">
+      <DisplayName>善念龙形</DisplayName>
+    </Text>
+  </List>
+</Texts>

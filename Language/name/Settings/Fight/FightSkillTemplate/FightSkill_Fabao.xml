@@ -1,0 +1,13 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="TFabaoSkill">
+      <DisplayName>法宝增强</DisplayName>
+    </Text>
+    <Text Name="FabaoSkill_Gong3_1">
+      <DisplayName>神剑共鸣</DisplayName>
+    </Text>
+    <Text Name="FabaoSkill_Gong8_1">
+      <DisplayName>北极剑煞</DisplayName>
+    </Text>
+  </List>
+</Texts>

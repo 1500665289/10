@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="GrassRoof" sParam="Building">
+      <Desc>屋顶，仅仅是装饰，并不会影响风水。</Desc>
+      <ThingName>草顶棚</ThingName>
+    </Text>
+    <Text Name="CaveRoof" sParam="Building">
+      <ThingName>山洞顶</ThingName>
+    </Text>
+    <Text Name="WoodRoof" sParam="Building">
+      <ThingName>屋顶</ThingName>
+      <Desc>屋顶，仅仅是装饰，并不会影响风水。</Desc>
+    </Text>
+    <Text Name="StoneRoof" sParam="Building">
+      <ThingName>屋顶</ThingName>
+      <Desc>屋顶，仅仅是装饰，并不会影响风水。</Desc>
+    </Text>
+    <Text Name="WoodRoof_SpringFestival" sParam="Building">
+      <ThingName>屋顶-迎春</ThingName>
+      <Desc>春节特供屋顶，增添了喜庆气息，仅仅是装饰，并不会影响风水。</Desc>
+    </Text>
+    <Text Name="StoneRoof_SpringFestival" sParam="Building">
+      <ThingName>屋顶-纳福</ThingName>
+      <Desc>春节特供屋顶，增添了喜庆气息，仅仅是装饰，并不会影响风水。</Desc>
+    </Text>
+  </List>
+</Texts>

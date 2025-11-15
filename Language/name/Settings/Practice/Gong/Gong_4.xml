@@ -1,0 +1,37 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_4_None">
+      <DisplayName>玉清仙法</DisplayName>
+      <Desc>元始天尊留在人间的道统，昆仑宫不传之秘，号称玄门正宗，万法源流。此术共分六境十二门，修习者法力极其雄厚，且法术威力惊人。但破关极为艰难，若非悟性超绝，且有大机缘在身，万难修行成功。</Desc>
+      <SelectDesc>此功法擅长各类术法且根基深厚，只是进阶需要各种至宝，突破十分艰难。是否要选择修习此功法？</SelectDesc>
+      <Stages.0.DisplayName>练气境</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>意门</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈机缘越低，越难突破。[/color]</Stages.0.Necks.0.Desc>
+      <Stages.0.Necks.1.DisplayName>精门</Stages.0.Necks.1.DisplayName>
+      <Stages.0.Necks.1.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈机缘越低，越难突破。[/color]</Stages.0.Necks.1.Desc>
+      <Stages.1.DisplayName>合气境</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>气门</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈悟性越低，越难突破。[/color]</Stages.1.Necks.0.Desc>
+      <Stages.1.Necks.1.DisplayName>玄门</Stages.1.Necks.1.DisplayName>
+      <Stages.1.Necks.1.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈机缘越低，越难突破。[/color]</Stages.1.Necks.1.Desc>
+      <Stages.2.DisplayName>结丹境</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>赤门</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈悟性越低，越难突破。[/color]</Stages.2.Necks.0.Desc>
+      <Stages.2.Necks.1.DisplayName>丹门</Stages.2.Necks.1.DisplayName>
+      <Stages.3.DisplayName>归一境</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>金门</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.1.DisplayName>水门</Stages.3.Necks.1.DisplayName>
+      <Stages.3.Necks.2.DisplayName>木门</Stages.3.Necks.2.DisplayName>
+      <Stages.3.Necks.3.DisplayName>火门</Stages.3.Necks.3.DisplayName>
+      <Stages.3.Necks.4.DisplayName>土门</Stages.3.Necks.4.DisplayName>
+      <Stages.3.Necks.5.DisplayName>牝门</Stages.3.Necks.5.DisplayName>
+      <Stages.4.DisplayName>化神境</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>分门</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.1.DisplayName>化门</Stages.4.Necks.1.DisplayName>
+      <Stages.5.DisplayName>渡劫境</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>死门</Stages.5.Necks.0.DisplayName>
+      <Stages.5.Necks.0.Desc>以元神得天道之妙，一旦过此关，将直面天劫。[color=#D06508]\n此瓶颈很难突破，且无经验加成。[/color]</Stages.5.Necks.0.Desc>
+      <Stages.5.Necks.1.DisplayName>生门</Stages.5.Necks.1.DisplayName>
+    </Text>
+  </List>
+</Texts>

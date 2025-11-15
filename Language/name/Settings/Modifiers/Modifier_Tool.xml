@@ -1,0 +1,91 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SysTool_Fun1">
+      <DisplayName>骰子</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun2">
+      <DisplayName>铃铛</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun3">
+      <DisplayName>手镯</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun4">
+      <DisplayName>手帕</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun5">
+      <DisplayName>香囊</DisplayName>
+    </Text>
+    <Text Name="SysTool_Axe">
+      <DisplayName>斧头</DisplayName>
+    </Text>
+    <Text Name="SysTool_Pickaxe">
+      <DisplayName>镐子</DisplayName>
+    </Text>
+    <Text Name="SysTool_Sickle">
+      <DisplayName>农具</DisplayName>
+    </Text>
+    <Text Name="SysTool_Acupuncture">
+      <DisplayName>针灸</DisplayName>
+    </Text>
+    <Text Name="SysTool_Umbrella">
+      <DisplayName>伞</DisplayName>
+    </Text>
+    <Text Name="SysTool_LunHui1">
+      <DisplayName>美好世界</DisplayName>
+    </Text>
+    <Text Name="SysTool_LunHui_QiYuan1">
+      <DisplayName>祈愿之心</DisplayName>
+      <Desc>持有祈愿之心，周围的人感到平安喜乐。</Desc>
+    </Text>
+    <Text Name="SysTool_LunHui_QiYuan2">
+      <DisplayName>祈愿之力</DisplayName>
+    </Text>
+    <Text Name="SysTool_SP_BaiYuShi">
+      <DisplayName>白玉石</DisplayName>
+      <Desc>受白玉石影响，自身恢复力提高1倍。</Desc>
+    </Text>
+    <Text Name="SysTool_QingLianShan_SiXiang">
+      <DisplayName>遮天</DisplayName>
+      <Desc>遮蔽天机，可九年之内不受天劫困扰。</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Yao_WolfAtk">
+      <DisplayName>妖狼的尖牙</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_RabbitLuck">
+      <DisplayName>兔妖的脚</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_SnakeHanLin">
+      <DisplayName>妖蛇的寒鳞</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_BearPiMao">
+      <DisplayName>熊妖的脖颈毛</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_TurtleKe">
+      <DisplayName>巨龟的坚壳</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_DragonScale">
+      <DisplayName>龙鳞</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossFeng_HuoYu">
+      <DisplayName>凤羽</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossFeng_TouYu">
+      <DisplayName>凤头羽</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossLong_Jiao">
+      <DisplayName>龙天角</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossZhuLong_TianLin">
+      <DisplayName>烛龙天鳞</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossZhuLong_LongYu">
+      <DisplayName>混沌龙玉</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossLong_NiLin">
+      <DisplayName>蛟龙逆鳞</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossFeng_HongYu">
+      <DisplayName>凤凰焱玉</DisplayName>
+    </Text>
+  </List>
+</Texts>

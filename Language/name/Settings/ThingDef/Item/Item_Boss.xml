@@ -1,0 +1,133 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Boss_Jiaowangci" sParam="Item">
+      <ThingName>蛟王刺</ThingName>
+    </Text>
+    <Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+      <ThingName>凤凰内丹</ThingName>
+    </Text>
+    <Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+      <ThingName>凤凰火羽</ThingName>
+    </Text>
+    <Text Name="Item_BossFeng_HuoYu" sParam="Item">
+      <ThingName>炽烈的火羽</ThingName>
+      <Desc>一支奇特的羽毛，虽然触手温度不高，但持续的散发着温度，可以大幅度提高房间等密闭空间内的温度。除了有较强的聚灵效果，似乎没什么其他用处。</Desc>
+      <Item.FabaoSuffix>羽</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_GangYu" sParam="Item">
+      <ThingName>凶凤的刚羽</ThingName>
+      <Desc>凶凤身上完整的羽毛，热力完全内敛，锋锐而坚硬。佩戴可以使人不畏严寒，气血流转加快，加速食物消耗。</Desc>
+      <Item.FabaoSuffix>羽</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_TouYu" sParam="Item">
+      <ThingName>凶凤的烬灭羽</ThingName>
+      <Desc>凶凤头顶燃烧着不灭火焰的华丽羽毛，是凶凤精华凝聚。凶凰擅长御法之道，佩戴此物可借凶凰之力，突破术法技能极限3级。</Desc>
+      <Item.FabaoSuffix>羽</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_WeiYu" sParam="Item">
+      <ThingName>凶凤的蔽天羽</ThingName>
+      <Desc>凶凤巨大的尾羽，其上光焰流转，但却触手温润，不觉炎热，十分神奇。以特殊手法处理后，应该会有特别的妙用。</Desc>
+      <Item.FabaoSuffix>羽</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_Gu" sParam="Item">
+      <ThingName>凶凤的坚空骨</ThingName>
+      <Desc>凶凤双翅上的空心骨骼，异常坚硬，且丝毫感受不到重量。以特殊手法处理后，应该会有特别的妙用。</Desc>
+      <Item.FabaoSuffix>羽</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_HongYu" sParam="Item">
+      <ThingName>凶凤的真焱玉</ThingName>
+      <Desc>凶凤的力量源泉，其中寄宿着凶凤的元神。若以元神沟通，或许可以领悟到一些有用的信息。佩戴此物可以借助凶凤的元神之力，减少10%的火行伤害。</Desc>
+      <Item.FabaoSuffix>玉</Item.FabaoSuffix>
+      <StoryBnts.0.Name>参悟</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>试图从中获取一些有效的信息。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossFeng_Meat" sParam="Item">
+      <ThingName>凶凤的血肉</ThingName>
+      <Desc>凶凤最精华的血肉，服用可以从根本上补充灵气最大值25点，并延长寿命10年。随着服用次数提高，效果会逐渐降低。</Desc>
+      <Item.FabaoSuffix>肉</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DragonScale" sParam="Item">
+      <ThingName>脱落的龙鳞</ThingName>
+      <Desc>龙身上脱落的鳞片，除了有较强的聚灵效果，已经失去了大部分神效。</Desc>
+      <Item.FabaoSuffix>鳞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Jiao" sParam="Item">
+      <ThingName>蛟龙的天角</ThingName>
+      <Desc>蛟龙头顶的角，乃是蛟龙精华之凝聚。蛟龙擅长御器之道，佩戴此物可借蛟龙之力，突破御剑技能极限3级。</Desc>
+      <Item.FabaoSuffix>刺</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Zhua" sParam="Item">
+      <ThingName>蛟龙的罗刹爪</ThingName>
+      <Desc>蛟龙的尖爪，富含锋锐之气，无坚不摧。以特殊手法处理后，应该会有特别的妙用。</Desc>
+      <Item.FabaoSuffix>刺</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Lin" sParam="Item">
+      <ThingName>蛟龙的玄鳞</ThingName>
+      <Desc>蛟龙身上完整的鳞片，坚不可摧。佩戴可抵御灵气伤害。</Desc>
+      <Item.FabaoSuffix>鳞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_NiLin" sParam="Item">
+      <ThingName>蛟龙的逆鳞</ThingName>
+      <Desc>蛟龙的力量源泉，其中寄宿着蛟龙的元神。若以元神沟通，或许可以领悟到一些有用的信息。佩戴此物可以借助蛟龙元神之力，减少10%的水行伤害。</Desc>
+      <Item.FabaoSuffix>鳞</Item.FabaoSuffix>
+      <StoryBnts.0.Name>参悟</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>试图从中获取一些有效的信息。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossLong_Jing" sParam="Item">
+      <ThingName>蛟龙的崩天筋</ThingName>
+      <Desc>蛟龙尾部最坚韧的筋络，具有绝佳的灵气导性。以特殊手法处理后，应该会有特别的妙用。</Desc>
+      <Item.FabaoSuffix>筋</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Meat" sParam="Item">
+      <ThingName>蛟龙的血肉</ThingName>
+      <Desc>蛟龙最精华的血肉，服用可以从根本上补充灵气最大值25点，并延长寿命10年。随着服用次数提高，效果会逐渐降低。</Desc>
+      <Item.FabaoSuffix>肉</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+      <ThingName>洁白的大鳞</ThingName>
+      <Desc>烛龙身上的洁白龙鳞。</Desc>
+      <Item.FabaoSuffix>鳞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+      <ThingName>漆黑的大鳞</ThingName>
+      <Desc>烛龙身上的漆黑龙鳞。</Desc>
+      <Item.FabaoSuffix>鳞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_Eye" sParam="Item">
+      <ThingName>阴阳之结晶</ThingName>
+      <Desc>烛龙双眼中凝聚的黑白二色混杂的透明结晶，透过结晶仿佛能看到阴阳之道变幻的奥秘。以特殊手法处理后，应该会有特别的妙用。</Desc>
+      <Item.FabaoSuffix>晶</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+      <ThingName>烛龙的天鳞</ThingName>
+      <Desc>烛龙眉心的奇型鳞片，是烛龙精华的凝聚。烛龙化阴阳而御五行，佩戴此物可借烛龙之力，突破护盾技能极限3级。</Desc>
+      <Item.FabaoSuffix>鳞</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+      <ThingName>混沌的龙玉</ThingName>
+      <Desc>烛龙的力量源泉，其中寄宿着一缕残留的烛龙元神。若以元神沟通，或许可以领悟到一些有用的信息。佩戴此物可以借助烛龙的元神之力，减少5%的五行伤害。</Desc>
+      <Item.FabaoSuffix>玉</Item.FabaoSuffix>
+      <StoryBnts.0.Name>参悟</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>试图从中获取一些有效的信息。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossZhuLong_Meat" sParam="Item">
+      <ThingName>原初血肉</ThingName>
+      <Desc>烛龙身上的血肉，被阴阳侵染而别具妙用。服用可降低道行2点，并延长寿命10年。随着服用次数提高，效果会逐渐降低。</Desc>
+      <Item.FabaoSuffix>肉</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_FengYin" sParam="Item">
+      <ThingName>凤纹古玉</ThingName>
+      <Desc>从龙台宝藏中找到的一枚古玉，似乎是一套物品中的一件。</Desc>
+      <Item.FabaoSuffix>玉</Item.FabaoSuffix>
+      <StoryBnts.0.Name>查看</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>查看凤纹古玉。</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+      <ThingName>黑白色的古玉</ThingName>
+      <Desc>从仙魔战场中寻获的奇特玉块，其中阴阳忽隐忽现，似乎孕育着什么。</Desc>
+      <Item.FabaoSuffix>玉</Item.FabaoSuffix>
+      <StoryBnts.0.Name>查看</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>查看黑白色的古玉。</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>

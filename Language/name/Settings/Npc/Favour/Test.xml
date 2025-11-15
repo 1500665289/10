@@ -1,0 +1,282 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SYS_LOST">
+      <DisplayName>[遗失]</DisplayName>
+      <Desc>这是一个已遗失的好感标签，没有人知道任何信息。(模组丢失)。</Desc>
+    </Text>
+    <Text Name="Opinion">
+      <DisplayName>看法</DisplayName>
+      <Desc>这是一个特殊的好感标签，用来处理各种看法</Desc>
+    </Text>
+    <Text Name="Distrust">
+      <DisplayName>冷漠</DisplayName>
+      <Desc>这个世界上都是利益，我对谁也不信任</Desc>
+    </Text>
+    <Text Name="Enthusiasm">
+      <DisplayName>热情</DisplayName>
+      <Desc>大家相逢就是有缘，都是朋友！</Desc>
+    </Text>
+    <Text Name="BeReceived">
+      <DisplayName>受欢迎</DisplayName>
+      <Desc>[HENAME]很有魅力，天生受人欢迎</Desc>
+    </Text>
+    <Text Name="BeTrueMan">
+      <DisplayName>真实之人</DisplayName>
+      <Desc>[HENAME]此人的真实经历令其他人刮目相看。</Desc>
+    </Text>
+    <Text Name="Loyal">
+      <DisplayName>仗义</DisplayName>
+      <Desc>[HENAME]很仗义，值得深交。</Desc>
+    </Text>
+    <Text Name="BeiGuoXia">
+      <DisplayName>背锅侠</DisplayName>
+      <Desc>[HENAME]经常背锅，深的周围人的喜爱。</Desc>
+    </Text>
+    <Text Name="DongShiZhang">
+      <DisplayName>董事长</DisplayName>
+      <Desc>[HENAME]是我们的董事长！</Desc>
+    </Text>
+    <Text Name="HaoShuang">
+      <DisplayName>豪爽</DisplayName>
+      <Desc>[HENAME]侠义心肠，为人豪爽，让人生出结交之心！</Desc>
+    </Text>
+    <Text Name="BeginTogether">
+      <DisplayName>闯荡江湖</DisplayName>
+      <Desc>[HENAME]和我一起闯荡江湖</Desc>
+    </Text>
+    <Text Name="Charisma0">
+      <Desc>魅力好感0</Desc>
+      <Layers.0.DisplayName>粗鄙之人</Layers.0.DisplayName>
+      <Layers.0.Desc>世界上怎么会有[HENAME]这样的人……</Layers.0.Desc>
+      <Layers.1.DisplayName>不通人情</Layers.1.DisplayName>
+      <Layers.1.Desc>和[HENAME]相处可真难受。</Layers.1.Desc>
+      <Layers.2.DisplayName>不善交际</Layers.2.DisplayName>
+      <Layers.2.Desc>[HENAME]虽然不善与人相处，但其实是个很好的人。</Layers.2.Desc>
+    </Text>
+    <Text Name="Charisma1">
+      <Desc>魅力好感1</Desc>
+      <Layers.0.DisplayName>伪君子</Layers.0.DisplayName>
+      <Layers.0.Desc>[HENAME]真会装，道貌岸然的伪君子。</Layers.0.Desc>
+      <Layers.1.DisplayName>有修养</Layers.1.DisplayName>
+      <Layers.1.Desc>[HENAME]看上去是个不错的人。</Layers.1.Desc>
+      <Layers.2.DisplayName>善解人意</Layers.2.DisplayName>
+      <Layers.2.Desc>[HENAME]很善解人意，和他相处很愉快</Layers.2.Desc>
+    </Text>
+    <Text Name="Charisma2">
+      <Desc>魅力好感2</Desc>
+      <Layers.0.DisplayName>君子</Layers.0.DisplayName>
+      <Layers.0.Desc>我虽然很讨厌[HENAME]，但他是一个真君子。</Layers.0.Desc>
+      <Layers.1.DisplayName>风度翩翩</Layers.1.DisplayName>
+      <Layers.1.Desc>[HENAME]看上去风度翩翩，很有气质和修养。</Layers.1.Desc>
+      <Layers.2.DisplayName>如沐春风</Layers.2.DisplayName>
+      <Layers.2.Desc>和[HENAME]相处真的太愉快了，如沐春风，有这样的朋友很开心。</Layers.2.Desc>
+    </Text>
+    <Text Name="Relative">
+      <Desc>[HENAME]是我的[TXT]</Desc>
+    </Text>
+    <Text Name="Practice">
+      <Desc>[HENAME]是我的[TXT]</Desc>
+    </Text>
+    <Text Name="PracticeOther">
+      <Desc>[HENAME]是我的[TXT]</Desc>
+    </Text>
+    <Text Name="Family">
+      <Desc>[HENAME]是我的[TXT]</Desc>
+    </Text>
+    <Text Name="Friend">
+      <Desc>朋友好感2</Desc>
+      <Layers.0.DisplayName>朋友</Layers.0.DisplayName>
+      <Layers.0.Desc>[HENAME]是我的朋友，但最近我们之间出了点问题</Layers.0.Desc>
+      <Layers.1.DisplayName>朋友</Layers.1.DisplayName>
+      <Layers.1.Desc>[HENAME]是我的好友</Layers.1.Desc>
+      <Layers.2.DisplayName>挚友</Layers.2.DisplayName>
+      <Layers.2.Desc>[HENAME]是我的挚友。</Layers.2.Desc>
+    </Text>
+    <Text Name="Scar">
+      <DisplayName>疤痕</DisplayName>
+      <Desc>[HENAME]脸上有难看的疤痕</Desc>
+    </Text>
+    <Text Name="Fancy">
+      <DisplayName>爱慕</DisplayName>
+      <Desc>爱慕</Desc>
+      <Layers.0.DisplayName>爱慕</Layers.0.DisplayName>
+      <Layers.0.Desc>[HENAME]..哎.</Layers.0.Desc>
+      <Layers.1.DisplayName>爱慕</Layers.1.DisplayName>
+    </Text>
+    <Text Name="Lover">
+      <DisplayName>恋人</DisplayName>
+      <Desc>[HENAME]是我的恋人</Desc>
+    </Text>
+    <Text Name="VisceralScar">
+      <DisplayName>恐怖的疤痕</DisplayName>
+      <Desc>[HENAME]身上有让人无法直视的恐怖疤痕</Desc>
+    </Text>
+    <Text Name="Evilfaced">
+      <DisplayName>面相丑陋</DisplayName>
+      <Desc>[HENAME]长得很丑，让人看了就不舒服</Desc>
+    </Text>
+    <Text Name="BeautifulFace">
+      <DisplayName>容貌俊美</DisplayName>
+      <Desc>[HENAME]长的十分美丽，让人看了心生好感。</Desc>
+    </Text>
+    <Text Name="Cruel">
+      <DisplayName>待人严苛</DisplayName>
+      <Desc>[HENAME]对人态度极差，让人讨厌。</Desc>
+    </Text>
+    <Text Name="Affinity">
+      <DisplayName>待人亲和</DisplayName>
+      <Desc>[HENAME]对人友善热情，让人亲近。</Desc>
+    </Text>
+    <Text Name="SayHi">
+      <DisplayName>打招呼</DisplayName>
+      <Desc>我跟[HENAME]互相打了个招呼。</Desc>
+    </Text>
+    <Text Name="AfterTalk">
+      <DisplayName>闲聊</DisplayName>
+      <Desc>我跟[HENAME]聊了聊天，这真的很不错。</Desc>
+    </Text>
+    <Text Name="DeepTalk">
+      <DisplayName>谈心</DisplayName>
+      <Desc>我跟[HENAME]谈了谈心事，这让我们互相了解，我觉得我们的关系进了一大步。</Desc>
+    </Text>
+    <Text Name="Neglect">
+      <DisplayName>怠慢</DisplayName>
+      <Desc>我和[HENAME]说两句话，[HE]似乎懒得理我，刚好我也懒得理[HE]。</Desc>
+    </Text>
+    <Text Name="Quarrel">
+      <DisplayName>发生口角</DisplayName>
+      <Desc>我跟[HENAME]发生了口角，这个人真是不讲道理，很讨厌。</Desc>
+    </Text>
+    <Text Name="Insult">
+      <DisplayName>侮辱</DisplayName>
+      <Desc>我和[HENAME]互相侮辱了对方，我真的看不惯这个混蛋。</Desc>
+    </Text>
+    <Text Name="SayHiFight">
+      <DisplayName>打架</DisplayName>
+      <Desc>我跟[HENAME]寒暄了一下，但是不知道为什么双方都莫名动了火气，结果打了一架，真是糟糕。</Desc>
+    </Text>
+    <Text Name="AfterTalkFight">
+      <DisplayName>打架</DisplayName>
+      <Desc>我跟[HENAME]聊了聊天，但是不知道为什么双方都莫名动了火气，结果打了一架，真是糟糕。</Desc>
+    </Text>
+    <Text Name="DeepTalkFight">
+      <DisplayName>打架</DisplayName>
+      <Desc>我跟[HENAME]谈了谈心里话，但是我们却发生了激烈的分歧，最终甚至动了手。这真的很伤感情。</Desc>
+    </Text>
+    <Text Name="NeglectFight">
+      <DisplayName>打架</DisplayName>
+      <Desc>我和[HENAME]说两句话，但是我们轻慢的态度惹火了对方，忍不住动手打了一架。</Desc>
+    </Text>
+    <Text Name="QuarrelFight">
+      <DisplayName>打架</DisplayName>
+      <Desc>我跟[HENAME]发生了口角，既然话不投机，只能动手解决问题了。</Desc>
+    </Text>
+    <Text Name="InsultFight">
+      <DisplayName>打架</DisplayName>
+      <Desc>我和[HENAME]互相侮辱了对方，这种没教养的家伙只能用拳头教育。</Desc>
+    </Text>
+    <Text Name="WithYoung">
+      <Desc>对小辈的态度</Desc>
+      <Layers.0.DisplayName>目无尊长</Layers.0.DisplayName>
+      <Layers.0.Desc>我认为[HENAME]是个小混蛋</Layers.0.Desc>
+      <Layers.1.DisplayName>疼爱</Layers.1.DisplayName>
+      <Layers.1.Desc>我觉得[HENAME]还是个孩子</Layers.1.Desc>
+      <Layers.2.DisplayName>年少有为</Layers.2.DisplayName>
+      <Layers.2.Desc>我觉得[HENAME]年少有为</Layers.2.Desc>
+    </Text>
+    <Text Name="WithElder">
+      <Desc>对长辈的态度</Desc>
+      <Layers.0.DisplayName>叛逆</Layers.0.DisplayName>
+      <Layers.0.Desc>我在[HENAME]面前觉得别扭</Layers.0.Desc>
+      <Layers.1.DisplayName>尊老</Layers.1.DisplayName>
+      <Layers.1.Desc>我觉得[HENAME]年龄大应该尊敬</Layers.1.Desc>
+      <Layers.2.DisplayName>崇敬</Layers.2.DisplayName>
+      <Layers.2.Desc>我很崇敬[HENAME]</Layers.2.Desc>
+    </Text>
+    <Text Name="RivalInlove">
+      <Desc>情敌</Desc>
+      <Layers.0.DisplayName>憎恶</Layers.0.DisplayName>
+      <Layers.0.Desc>我恨不得一刀捅死[HENAME]</Layers.0.Desc>
+      <Layers.1.DisplayName>同情</Layers.1.DisplayName>
+      <Layers.1.Desc>我觉得[HENAME]跟自己挺像的</Layers.1.Desc>
+    </Text>
+    <Text Name="PersonalEnemyBegin">
+      <DisplayName>仇恨</DisplayName>
+      <Desc>我与[HENAME]势不两立</Desc>
+    </Text>
+    <Text Name="FeatureOpposition">
+      <DisplayName>特性对立</DisplayName>
+      <Desc>我讨厌[HE]，[HE]居然是这种人。([TXT])</Desc>
+    </Text>
+    <Text Name="FeatureClose">
+      <DisplayName>特性亲近</DisplayName>
+      <Desc>我喜欢[HE]这种人，我们有相同的特质。([TXT])</Desc>
+    </Text>
+    <Text Name="SameBackstory">
+      <DisplayName>相同的经历</DisplayName>
+      <Desc>我们的经历是如此的相似([TXT])</Desc>
+    </Text>
+    <Text Name="FeedGood">
+      <DisplayName>照顾</DisplayName>
+      <Desc>谢谢你的照顾</Desc>
+    </Text>
+    <Text Name="FeedBad">
+      <DisplayName>这是什么</DisplayName>
+      <Desc>你给我吃了什么？</Desc>
+    </Text>
+    <Text Name="ThankTreat">
+      <DisplayName>治疗</DisplayName>
+      <Desc>谢谢你的治疗</Desc>
+    </Text>
+    <Text Name="ThankHufa">
+      <DisplayName>护法</DisplayName>
+      <Desc>谢谢师父</Desc>
+    </Text>
+    <Text Name="BeAttack">
+      <DisplayName>被攻击</DisplayName>
+      <Desc>你想杀我？</Desc>
+    </Text>
+    <Text Name="BeMagicBood">
+      <DisplayName>感激</DisplayName>
+      <Desc>谢谢你对我做的一切</Desc>
+    </Text>
+    <Text Name="BeMagicBad">
+      <DisplayName>伤害</DisplayName>
+      <Desc>你对我做了什么？</Desc>
+    </Text>
+    <Text Name="AmuseME">
+      <DisplayName>逗乐</DisplayName>
+      <Desc>[HENAME]真是个有趣的人</Desc>
+    </Text>
+    <Text Name="PersonalEnemy">
+      <DisplayName>仇恨</DisplayName>
+      <Desc>[HENAME]杀害了[TXT]</Desc>
+    </Text>
+    <Text Name="MagicBad">
+      <DisplayName>伤害</DisplayName>
+      <Desc>目睹[HENAME]伤害了[TXT]</Desc>
+    </Text>
+    <Text Name="MagicGood">
+      <DisplayName>感激</DisplayName>
+      <Desc>目睹[HENAME]对[TXT]施展了仙术</Desc>
+    </Text>
+    <Text Name="BeDeclaration">
+      <Layers.0.DisplayName>表白</Layers.0.DisplayName>
+      <Layers.0.Desc>居然被[HENAME]表白，呵呵</Layers.0.Desc>
+      <Layers.1.DisplayName>表白</Layers.1.DisplayName>
+      <Layers.1.Desc>[HENAME]对我表白了，心跳好快</Layers.1.Desc>
+    </Text>
+    <Text Name="Favour_School_FiveTangZhu">
+      <DisplayName>鄙视</DisplayName>
+      <Desc>[HENAME]这水平都能当堂主？</Desc>
+    </Text>
+    <Text Name="Favour_School_ZhangMen">
+      <DisplayName>掌门</DisplayName>
+      <Desc>[HENAME]是我们的掌门。</Desc>
+    </Text>
+    <Text Name="Favour_School_TangZhu">
+      <DisplayName>堂主</DisplayName>
+      <Desc>[HENAME]是我们的堂主。</Desc>
+    </Text>
+  </List>
+</Texts>

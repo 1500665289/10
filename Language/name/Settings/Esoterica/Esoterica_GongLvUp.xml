@@ -1,0 +1,468 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong1_LvUpEsoterica_1">
+      <DisplayName>天霖诀</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：天霖诀\n引动天地生发之气，灌注到目标植物中，将其生长速度少量提高，持续7天。目标植物品阶越高，效果越差。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_2">
+      <DisplayName>天一真法</DisplayName>
+      <Desc>以法力引动天地灵气，为所有友方恢复大量灵气，但是调息时间极长。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：天一真法[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_3">
+      <DisplayName>水镜观心定</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：水镜观心定\n太和十六洞天所记载的入定秘法，在元神定境中观想水镜，进入定中之定，快速消耗寿元炼化精元。在这一状态下，修行者元神进入空无之境，思虑静止，因此修为不会提升。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_4">
+      <DisplayName>同风诀</DisplayName>
+      <Desc>研习此术可以御风同调，身剑合一，彻底化入风中，巨幅提高历练飞行的速度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]巨幅提高历练飞行速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_5">
+      <DisplayName>归海诀</DisplayName>
+      <Desc>真元如海，万脉归流，修习此法可以大幅提高角色气感。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高气感[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_6">
+      <DisplayName>九阴真水界</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：九阴真水界\n以大法力在此方区域布下真水结界，使场景温度大幅下降，所有我方角色自然恢复力，灵气恢复速度大幅提高。同一时间只能存在一个结界。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_7">
+      <DisplayName>罡煞合流</DisplayName>
+      <Desc>将天地间的罡气煞气炼化入元神之中的秘法。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高法术威力\n提高灵气最大值[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_8">
+      <DisplayName>罡煞合流</DisplayName>
+      <Desc>将天地间的罡气煞气炼化入元神之中的秘法。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高法术威力\n大幅提高灵气最大值[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong1_LvUpEsoterica_9">
+      <DisplayName>风水凝练</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：风水凝练\n  消耗本源精血为一件物品赋予风水镇物属性。然而未经岁月凝练，使用此法生成的镇物效果较弱，且永远不可能生成通灵镇物。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_1">
+      <DisplayName>天枢剑意</DisplayName>
+      <Desc>采集天枢星之力为己用，将其化为凌然剑意，突破剑道极限。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限1级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_2">
+      <DisplayName>天璇剑意</DisplayName>
+      <Desc>采集天璇星之力为己用，将其化为凌然剑意，突破剑道极限。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限1级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_3">
+      <DisplayName>天玑剑意</DisplayName>
+      <Desc>采集天玑星之力为己用，将其化为凌然剑意，突破剑道极限。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限1级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_4">
+      <DisplayName>天权剑意</DisplayName>
+      <Desc>采集天权星之力为己用，将其化为凌然剑意，突破剑道极限。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限1级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_5">
+      <DisplayName>玉衡剑意</DisplayName>
+      <Desc>采集玉衡星之力为己用，将其化为凌然剑意，突破剑道极限。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限1级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_6">
+      <DisplayName>开阳剑意</DisplayName>
+      <Desc>采集开阳星之力为己用，将其化为凌然剑意，突破剑道极限。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限1级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_7">
+      <DisplayName>摇光剑意</DisplayName>
+      <Desc>采集摇光星之力为己用，将其化为凌然剑意，突破剑道极限。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限1级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_8">
+      <DisplayName>赦心咒</DisplayName>
+      <Desc>逆转劫心之力，近一步提升五维。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高五维0.75点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_9">
+      <DisplayName>北斗剑界</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：北斗剑界\n以大法力在此方区域布下北斗剑界，使场景中所有我方角色法宝威力大幅提高。同一时间只能存在一个结界。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_10">
+      <DisplayName>北斗绝式-北极剑</DisplayName>
+      <Desc>北斗洞心劫法最高秘诀，威力绝伦。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高法宝威力\n习得秘术：北极剑煞[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong8_LvUpEsoterica_11">
+      <DisplayName>北斗绝式-归一剑</DisplayName>
+      <Desc>北斗洞心劫法最高秘诀，威力绝伦。</Desc>
+      <EffectDesc>[size=10][color=#D06508]法宝数量加一[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_1">
+      <DisplayName>万木回春</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：万木回春\n以精纯的木属性灵气激发植株全部的生机，可以在一天内大幅提高其生长速度。目标植物品阶越高，效果越差。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_2">
+      <DisplayName>六道轮回丹</DisplayName>
+      <Desc>以轮回之力炼制的神丹，服用可以重回凡人之身，再造身躯，并保留全部参悟。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得 丹方：\n六道轮回丹[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_3">
+      <DisplayName>元央归息法</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：元央归息法\n利用轮回之力催动鼎炉吸真的法诀，可以更高效的吸取一个无修为活物的寿命，并增加自身修为，并同时获取参悟。目标体质越高，效果越强。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_4">
+      <DisplayName>不昧真灵</DisplayName>
+      <Desc>凝聚万世记忆，抵达不昧心境。修习此法可使心境通明，永不退转，并大幅提高法术调息时间与释放速度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高心境至满值\n大幅降低法术调息间隔\n大幅增加法术速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_5">
+      <DisplayName>逆转轮回·秘</DisplayName>
+      <Desc>运用轮回之力，极大的恢复灵气最低的友方角色之灵气。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：轮回逆转·秘[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_6">
+      <DisplayName>天人之体·二阶</DisplayName>
+      <Desc>将身躯转化为天人之体，大幅提高寿命以及自然恢复力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高寿命\n大幅提高自然恢复力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_7">
+      <DisplayName>真吾之体·二阶</DisplayName>
+      <Desc>将自身身躯借六道神妙凝练完美，适宜快速突破境界后，根基不稳之人学习，可从根本上大幅提高灵气最大值，弥补根基。</Desc>
+      <EffectDesc>[size=10][color=#D06508]从根本上巨幅提高灵气最大值[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_8">
+      <DisplayName>修罗之体·二阶</DisplayName>
+      <Desc>借修罗道之神妙将身躯转化为修罗之体，大幅提高战斗能力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高战斗技能20级\n大幅提高法宝威力\n大幅提高法术威力\n大幅提高灵气护盾效果[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_9">
+      <DisplayName>天人之体·三阶</DisplayName>
+      <Desc>将身躯转化为天人之体，大幅提高法术威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高法术威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_10">
+      <DisplayName>真吾之体·三阶</DisplayName>
+      <Desc>将自身身躯借六道神妙凝练完美，适宜快速突破境界后，根基不稳之人学习，可从根本上大幅提高灵气最大值，弥补根基。</Desc>
+      <EffectDesc>[size=10][color=#D06508]从根本上超巨幅提高灵气最大值[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong9_LvUpEsoterica_11">
+      <DisplayName>修罗之体·三阶</DisplayName>
+      <Desc>借修罗道之神妙将身躯转化为修罗之体，大幅提高战斗能力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟战斗真意，突破战斗技能极限5级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong10_LvUpEsoterica_1">
+      <DisplayName>五内蕴火</DisplayName>
+      <Desc>凝聚丙火之力淬炼五脏，提高脏器功能，可提高五维，并大幅提高精元转化率。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高五维各0.3点\n大幅提高精元转化率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong10_LvUpEsoterica_2">
+      <DisplayName>五内蕴火</DisplayName>
+      <Desc>凝聚丙火之力淬炼五脏，提高脏器功能，可大幅提高五维，并巨幅提高精元转化率。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高五维各0.5点\n巨幅提高精元转化率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong10_LvUpEsoterica_3">
+      <DisplayName>焚日真法</DisplayName>
+      <Desc>借助天地间至阳之力，使法术威力大幅增强。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：焚日真法[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong10_LvUpEsoterica_4">
+      <DisplayName>九阳神火界</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：九阳神火界\n以大法力在此方区域布下九阳神火之界，使场景温度大幅上升，所有我方角色法术威力大幅提高。同一时间只能存在一个结界。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong10_LvUpEsoterica_5">
+      <DisplayName>心炎</DisplayName>
+      <Desc>点燃心念之火，大幅度降低施法间隔和施法消耗。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅降低法术调息间隔\n从根本上降低法术灵气消耗[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong10_LvUpEsoterica_6">
+      <DisplayName>火真之体</DisplayName>
+      <Desc>借助天地真火转化为火真之体。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高极限温度\n获得一定的内门伤害的自愈能力\n大幅提高法术威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong10_LvUpEsoterica_7">
+      <DisplayName>天火同人</DisplayName>
+      <Desc>天火同人，天下大同。修习此法可大幅提高机缘。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高机缘0.75点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_1">
+      <DisplayName>少阴锻体</DisplayName>
+      <Desc>以少阴之气淬炼身躯。如是男儿身修炼，性别会发生逆转。</Desc>
+      <EffectDesc>[size=10][color=#D06508]转化为少阴之体\n从根本上提高灵气上限\n从根本上提高法宝威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_2">
+      <DisplayName>玄阴锻体</DisplayName>
+      <Desc>以玄阴之气淬炼身躯。如是男儿身修炼，性别会发生逆转。</Desc>
+      <EffectDesc>[size=10][color=#D06508]转化为玄阴之体\n从根本上提高灵气上限\n领悟御器真意，突破御器技能极限3级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_3">
+      <DisplayName>瞬形法</DisplayName>
+      <Desc>缩地成寸，以为神行。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高历练飞行速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_4">
+      <DisplayName>九幽炼神</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：九幽炼神\n以九幽之力炼化一个无修为生物的魂魄，以此增加自身修为，并同时获取参悟。目标悟性越高，效果越强。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_5">
+      <DisplayName>太虚神盾</DisplayName>
+      <Desc>讲述借助坤元之力凝练灵气护盾的秘册。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提升灵气护盾效果\n习得秘术：太虚神盾[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_6">
+      <DisplayName>少阴诀</DisplayName>
+      <Desc>传承自幽冥的剑法，以少阴之息凝聚剑意，能极大的提高飞剑击退能力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高法宝击退能力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_7">
+      <DisplayName>玄阴诀</DisplayName>
+      <Desc>传承自幽冥的剑法，以玄阴之息凝聚剑意，是自己驾驭法宝的数量增加。</Desc>
+      <EffectDesc>[size=10][color=#D06508]法宝数量加一[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_8">
+      <DisplayName>幽狱诀</DisplayName>
+      <Desc>传承自幽冥的剑法，通过修习此法可领悟御器真意，使御器技能极限大幅提高。</Desc>
+      <EffectDesc>[size=10][color=#D06508]领悟御器真意，突破御器技能极限7级。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_9">
+      <DisplayName>坤元真气</DisplayName>
+      <Desc>炼化一缕先天坤元之气，大幅提高灵气最大值。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高灵气最大值30000点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_10">
+      <DisplayName>坤元真气</DisplayName>
+      <Desc>炼化一缕先天坤元之气，大幅提高灵气最大值。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高灵气最大值60000点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_11">
+      <DisplayName>坤元真气</DisplayName>
+      <Desc>炼化一缕先天坤元之气，大幅提高灵气最大值。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高灵气最大值120000点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong11_LvUpEsoterica_12">
+      <DisplayName>一剑</DisplayName>
+      <Desc>幽冥绝剑，一次出剑只有一击。</Desc>
+      <EffectDesc>[size=10][color=#D06508]从根本上大幅提高法宝威力\n巨幅降低法宝灵气最大值\n巨幅降低法宝灵气恢复速度\n只能驾驭一个法宝[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong2_LvUpEsoterica_1">
+      <DisplayName>百炼诀</DisplayName>
+      <Desc>丹霞山入门功课，可反复修炼淬炼身躯，夯实基础。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高神识0.2点\n提高根骨0.2点\n小幅提高灵气上限\n小幅提高法宝炼制成功率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong2_LvUpEsoterica_2">
+      <DisplayName>百炼诀</DisplayName>
+      <Desc>丹霞山入门功课，可反复修炼淬炼身躯，夯实基础。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高神识0.3点\n提高根骨0.3点\n小幅提高灵气上限\n小幅提高法宝炼制成功率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong2_LvUpEsoterica_4">
+      <DisplayName>百炼诀</DisplayName>
+      <Desc>丹霞山入门功课，可反复修炼淬炼身躯，夯实基础。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高神识0.4点\n提高根骨0.4点\n提高灵气上限\n提高法宝炼制成功率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong2_LvUpEsoterica_5">
+      <DisplayName>上清真气</DisplayName>
+      <Desc>采先天清气凝练成上清真气。可以提升气感。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高气感5级[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong2_LvUpEsoterica_6">
+      <DisplayName>神火合一·雷泽</DisplayName>
+      <Desc>以元神合雷泽之火，神火合一。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高法术威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong2_LvUpEsoterica_7">
+      <DisplayName>神火合一·上清</DisplayName>
+      <Desc>以元神合上清先天真焰，神火合一。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高神器练成几率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong2_LvUpEsoterica_8">
+      <DisplayName>神火合一·心焰</DisplayName>
+      <Desc>以元神合心焰，神火合一。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高灵气上限\n提高悟性1点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_1">
+      <DisplayName>杀意</DisplayName>
+      <Desc>七杀剑诀之入门，凝练纯粹的杀意，可以从根本上提高法宝威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高心境\n从根本上提高法宝威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_2">
+      <DisplayName>杀意</DisplayName>
+      <Desc>七杀剑诀之入门，凝练纯粹的杀意，可以从根本上提高法宝威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高心境\n从根本上提高法宝威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_3">
+      <DisplayName>御剑术</DisplayName>
+      <Desc>七杀剑诀记载的御器入门之术，依此法御物可使气脉悠长。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提升法宝回灵倍率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_4">
+      <DisplayName>御剑术</DisplayName>
+      <Desc>七杀剑诀记载的御器入门之术，依此法御物可使气脉悠长。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提升法宝回灵倍率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_5">
+      <DisplayName>剑灵</DisplayName>
+      <Desc>以魔流剑意凝聚剑灵，可提升御器数量。</Desc>
+      <EffectDesc>[size=10][color=#D06508]法宝数量加一[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_6">
+      <DisplayName>极剑</DisplayName>
+      <Desc>以剑唯一，舍剑无物，此法可大幅提升法宝威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高法宝威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_7">
+      <DisplayName>我剑</DisplayName>
+      <Desc>以元神合剑的绝世剑法秘诀，此法可大幅提升法宝威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高法宝威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_8">
+      <DisplayName>极剑</DisplayName>
+      <Desc>以剑唯一，舍剑无物，修到极致可提高驾驭法宝数量。</Desc>
+      <EffectDesc>[size=10][color=#D06508]法宝数量加一[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong3_LvUpEsoterica_9">
+      <DisplayName>我剑</DisplayName>
+      <Desc>以元神合剑的绝世剑法秘诀，修到极致可提高驾驭法宝数量。</Desc>
+      <EffectDesc>[size=10][color=#D06508]法宝数量加一[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_1">
+      <DisplayName>元磁灭绝神光</DisplayName>
+      <Desc>凝聚元磁之力化为神光射出，虽然极耗灵气，但调息迅速威力惊人。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：元磁灭绝神光[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_2">
+      <DisplayName>玉清定境</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：玉清定境\n玉清仙法所记载的入定秘法，可以以元神遨游天地初开的元始之境，相比世传入定之法而言效率更高，消耗寿元更少。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_3">
+      <DisplayName>万法归藏</DisplayName>
+      <Desc>将自身所学融会贯通，以盗天机。可以在不影响实力的情况下，降低自身道行。</Desc>
+      <EffectDesc>[size=10][color=#D06508]降低道行15点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_4">
+      <DisplayName>万法归藏</DisplayName>
+      <Desc>将自身所学融会贯通，以盗天机。可以在不影响实力的情况下，降低自身道行。</Desc>
+      <EffectDesc>[size=10][color=#D06508]降低道行20点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_5">
+      <DisplayName>万法归藏</DisplayName>
+      <Desc>将自身所学融会贯通，以盗天机。可以在不影响实力的情况下，降低自身道行。</Desc>
+      <EffectDesc>[size=10][color=#D06508]降低道行30点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_6">
+      <DisplayName>庚金元神·圆满</DisplayName>
+      <Desc>凝练庚金元神，提高神识，大幅提高御器威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高神识0.3点\n大幅提高御器威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_7">
+      <DisplayName>甲木元神·圆满</DisplayName>
+      <Desc>凝练甲木元神，提高根骨，大幅提高寿命。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高根骨0.3点\n大幅提高寿命[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_8">
+      <DisplayName>壬水元神·圆满</DisplayName>
+      <Desc>凝练壬水元神，提高魅力，提高灵气最大值。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高魅力0.3点\n大幅提高灵气最大值[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_9">
+      <DisplayName>丙火元神·圆满</DisplayName>
+      <Desc>凝练丙火元神，提高悟性，提高法术威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高悟性0.3\n大幅提高法术威力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong4_LvUpEsoterica_10">
+      <DisplayName>戊土元神·圆满</DisplayName>
+      <Desc>凝练戊土元神，提高机缘，提高灵气护盾强度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高机缘0.3点\n大幅提高灵气护盾效果[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong5_LvUpEsoterica_1">
+      <DisplayName>形容返照</DisplayName>
+      <Desc>凝练浊之躯后偷天换日，将形容返照，并借此提升潜力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]小幅提高潜力\n提高魅力1点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong5_LvUpEsoterica_2">
+      <DisplayName>五感返照</DisplayName>
+      <Desc>凝练浊之躯后偷天换日，将五感返照，并借此提升潜力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]小幅提高潜力\n提高神识1点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong5_LvUpEsoterica_3">
+      <DisplayName>神智返照</DisplayName>
+      <Desc>凝练浊之躯后偷天换日，将神智返照，并借此提升潜力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]小幅提高潜力\n提高悟性1点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong5_LvUpEsoterica_4">
+      <DisplayName>气运返照</DisplayName>
+      <Desc>凝练浊之躯后偷天换日，将气运返照，并借此提升潜力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]小幅提高潜力\n提高机缘1点[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong5_LvUpEsoterica_5">
+      <DisplayName>浊之躯</DisplayName>
+      <Desc>四返之后，借助偷天之力，彻底凝练浊之躯。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高灵气最大值\n大幅提高饮气效率\n大幅提高食物消耗速度\n大幅提高潜力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong5_LvUpEsoterica_6">
+      <DisplayName>凝血神盾</DisplayName>
+      <Desc>上古时期的修行者从无尽的战斗中总结出的技巧，可以短时间将精血融入护体罡气中，提升其强度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：凝血神盾[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong5_LvUpEsoterica_7">
+      <DisplayName>换日</DisplayName>
+      <Desc>偷天而后换日，降低寿元流逝速度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]降低寿元流逝速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong6_LvUpEsoterica_1">
+      <DisplayName>新体诀</DisplayName>
+      <Desc>将残余的药力完整炼化，肉体如焕然一新，可提高灵气最大值，并提高饮气效率。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高灵气最大值\n提高饮气效率[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong6_LvUpEsoterica_2">
+      <DisplayName>无漏之身</DisplayName>
+      <Desc>太上门下对人身皮囊研究之精粹，修习可提高自然恢复力，降低寿命流逝速度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]降低寿命流逝速度\n大幅提高自然恢复力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong6_LvUpEsoterica_3">
+      <DisplayName>道心</DisplayName>
+      <Desc>道教至高心法，修持道德之念，得清净之心。修成之后可保心境清明。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高心境基础值[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong6_LvUpEsoterica_4">
+      <DisplayName>炼身法-速</DisplayName>
+      <Desc>太上门下秘法，以身为丹，以速炼之法淬之，以激发潜力。不过以身为丹炼化十分凶险，会透支生命，加速寿元流逝。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高潜力\n提高寿元流逝速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong6_LvUpEsoterica_5">
+      <DisplayName>炼身法-精</DisplayName>
+      <Desc>太上门下秘法，以身为丹，以精炼之法淬之，以激发潜力。不过以身为丹炼化十分凶险，会透支生命，加速寿元流逝。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高潜力\n提高寿元流逝速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong6_LvUpEsoterica_6">
+      <DisplayName>炼身法-神</DisplayName>
+      <Desc>太上门下秘法，以身为丹，以神炼之法淬之，以激发潜力。不过以身为丹炼化十分凶险，会透支生命，加速寿元流逝。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高潜力\n提高寿元流逝速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong7_LvUpEsoterica_1">
+      <DisplayName>心斋</DisplayName>
+      <Desc>心斋之法以收束意念，此举可提高心情基础值，增加修炼速度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高心情基础值\n提高修炼速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong7_LvUpEsoterica_2">
+      <DisplayName>心斋</DisplayName>
+      <Desc>心斋之法以收束意念，此举可提高心情基础值，增加修炼速度。</Desc>
+      <EffectDesc>[size=10][color=#D06508]提高心情基础值\n提高修炼速度[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong7_LvUpEsoterica_3">
+      <DisplayName>如意幻境</DisplayName>
+      <EffectDesc>[size=10][color=#D06508]习得神通：如意幻境\n利用幻境迷惑一个无修为的同类异性，在幻境中夺取其寿命，增加自身修为，并同时获取参悟。目标魅力越高，效果越强。[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong7_LvUpEsoterica_4">
+      <DisplayName>长生诀</DisplayName>
+      <Desc>传自上古仙家的奇书，能开发身体奇穴之潜力，极大的延长寿命，提高潜力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]大幅提高潜力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong7_LvUpEsoterica_5">
+      <DisplayName>太上忘情</DisplayName>
+      <Desc>阅览万情，而后忘情。以忘情之心阅人间，万事具足。</Desc>
+      <EffectDesc>[size=10][color=#D06508]全面提高各项能力[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Gong7_LvUpEsoterica_6">
+      <DisplayName>斩念剑</DisplayName>
+      <Desc>太上忘情道最高心法，慧剑斩道，得见真我。以此法凝练无物不可斩的无上剑意，可以自心灵之中斩杀最弱小的敌人。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：斩念剑[/color][/size]</EffectDesc>
+    </Text>
+  </List>
+</Texts>

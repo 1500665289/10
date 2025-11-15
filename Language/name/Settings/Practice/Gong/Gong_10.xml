@@ -1,0 +1,26 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_10_Huo">
+      <DisplayName>三阳三昧丙丁炼火诀</DisplayName>
+      <Desc>太一门镇派五行真诀之一，借少阳，阳明，太阳三阳经略，凝结天地人三才之火，无物不燃，极具破坏力。但是修炼过程十分危险，一旦疏忽，真火反噬，甚至会神形俱灭。</Desc>
+      <SelectDesc>此功法擅长术法攻击，但突破瓶颈时需要冒较大风险。是否要选择修习此功法？</SelectDesc>
+      <Stages.0.DisplayName>人火之境</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>火种</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>感悟身体先天火种，并将其引燃，此乃修炼之始。[color=#D06508]\n一旦失败可致经脉受创。[/color]</Stages.0.Necks.0.Desc>
+      <Stages.0.Necks.1.DisplayName>人火</Stages.0.Necks.1.DisplayName>
+      <Stages.0.Necks.1.Desc>以真火凝聚玄关，点亮顶上之火，沟通天地。[color=#D06508]\n一旦失败真火溢出可致全身血肉灼痛，苦不堪言。[/color]</Stages.0.Necks.1.Desc>
+      <Stages.1.DisplayName>地火之境</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>橐龠</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>运用真火锻烧全身骨骼，以身为橐龠，鼓动神风，为凝练地火真丹做准备。[color=#D06508]\n一旦失败真火侵入骨骸，将受枯髓之刑，突破时需慎重。[/color]</Stages.1.Necks.0.Desc>
+      <Stages.1.Necks.1.DisplayName>地火</Stages.1.Necks.1.DisplayName>
+      <Stages.2.DisplayName>天火之境</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>燃灯</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>运用全身真元凝聚于心脏，点燃心火。[color=#D06508]\n一旦失败则会真气爆散，受焚心之刑。突破之时务必做好准备。[/color]</Stages.2.Necks.0.Desc>
+      <Stages.2.Necks.1.DisplayName>天火</Stages.2.Necks.1.DisplayName>
+      <Stages.3.DisplayName>神火之境</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>窥天</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.0.Desc>以元神得天道之妙，一旦过此关，将直面天劫。[color=#D06508]\n此瓶颈很难突破，且无经验加成。[/color]</Stages.3.Necks.0.Desc>
+      <Stages.3.Necks.1.DisplayName>飞升</Stages.3.Necks.1.DisplayName>
+    </Text>
+  </List>
+</Texts>

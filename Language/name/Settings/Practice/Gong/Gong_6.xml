@@ -1,0 +1,34 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_6_Huo">
+      <DisplayName>九转金丹直指</DisplayName>
+      <Desc>老君嫡传真法，道门外丹术之无上宝典。修行此法不擅神通争斗，只求以外丹饵药辅佐，勇猛精进。此法共九重境界，九转功成大道坦途直指金仙。</Desc>
+      <SelectDesc>此功法擅长炼丹术，每次突破需要外丹辅助。是否要选择修习此功法？</SelectDesc>
+      <Stages.0.DisplayName>九窍</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>九窍</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>[color=#D06508]\n此瓶颈神识越低，越难突破。[/color]</Stages.0.Necks.0.Desc>
+      <Stages.1.DisplayName>周天</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>周天</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>[color=#D06508]\n此瓶颈神识越低，越难突破。[/color]</Stages.1.Necks.0.Desc>
+      <Stages.2.DisplayName>铅汞</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>铅汞</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>[color=#D06508]\n此瓶颈神识越低，越难突破。[/color]</Stages.2.Necks.0.Desc>
+      <Stages.3.DisplayName>金丸</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>金丸</Stages.3.Necks.0.DisplayName>
+      <Stages.4.DisplayName>摄御</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>摄御</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈神识越低，越难突破。[/color]</Stages.4.Necks.0.Desc>
+      <Stages.5.DisplayName>还珠</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>还珠</Stages.5.Necks.0.DisplayName>
+      <Stages.5.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈神识越低，越难突破。[/color]</Stages.5.Necks.0.Desc>
+      <Stages.6.DisplayName>婴孩</Stages.6.DisplayName>
+      <Stages.6.Necks.0.DisplayName>婴孩</Stages.6.Necks.0.DisplayName>
+      <Stages.6.Necks.0.Desc>[color=#D06508]\n此瓶颈需反复尝试，方能逐步突破。\n此瓶颈神识越低，越难突破。[/color]</Stages.6.Necks.0.Desc>
+      <Stages.7.DisplayName>苦海</Stages.7.DisplayName>
+      <Stages.7.Necks.0.DisplayName>苦海</Stages.7.Necks.0.DisplayName>
+      <Stages.7.Necks.0.Desc>以元神游苦海觅天道之妙，一旦过此关，将直面天劫。</Stages.7.Necks.0.Desc>
+      <Stages.8.DisplayName>纯阳</Stages.8.DisplayName>
+      <Stages.8.Necks.0.DisplayName>纯阳</Stages.8.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>

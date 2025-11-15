@@ -1,0 +1,31 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_11_Tu">
+      <DisplayName>葵花炼神大法</DisplayName>
+      <Desc>太一门镇派五行真诀之一，只有女性才能修炼。借厚土至阴之力成就纯阴元神以脱离凡胎飞升成仙。如果男性强行修炼，性别会发生逆转。</Desc>
+      <SelectDesc>此功法适合女性修炼，如果男性强行修炼，性别会发生逆转。此功法擅长御器之术，只是在成丹时会承受初劫洗礼。是否要选择修习此功法？</SelectDesc>
+      <Stages.0.DisplayName>少阴之体</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>婴宁</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>[color=#D06508]\n此瓶颈神识越低，越难突破。[/color]</Stages.0.Necks.0.Desc>
+      <Stages.0.Necks.1.DisplayName>交感</Stages.0.Necks.1.DisplayName>
+      <Stages.0.Necks.1.Desc>[color=#D06508]\n此瓶颈神识越低，越难突破。[/color]</Stages.0.Necks.1.Desc>
+      <Stages.0.Necks.2.DisplayName>入体</Stages.0.Necks.2.DisplayName>
+      <Stages.1.DisplayName>中阴成丹</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>通衢</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>[color=#D06508]\n此瓶颈神识越低，越难突破。[/color]</Stages.1.Necks.0.Desc>
+      <Stages.1.Necks.1.DisplayName>百汇</Stages.1.Necks.1.DisplayName>
+      <Stages.1.Necks.1.Desc>[color=#D06508]\n此瓶颈神识越低，越难突破。[/color]</Stages.1.Necks.1.Desc>
+      <Stages.1.Necks.2.DisplayName>成丹</Stages.1.Necks.2.DisplayName>
+      <Stages.2.DisplayName>太阴元神</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>忘我</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.1.DisplayName>从真</Stages.2.Necks.1.DisplayName>
+      <Stages.2.Necks.2.DisplayName>返虚</Stages.2.Necks.2.DisplayName>
+      <Stages.3.DisplayName>破碎虚空</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>具足</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.0.Desc>以妖兽成年的玄牝珠合入太阴元神，借助其中太阴之气完满具足。</Stages.3.Necks.0.Desc>
+      <Stages.3.Necks.1.DisplayName>化神</Stages.3.Necks.1.DisplayName>
+      <Stages.3.Necks.1.Desc>以具足之元神分化万千，各悟生死，以窥天道。[color=#D06508]\n此瓶颈很难突破，且无经验加成。[/color]</Stages.3.Necks.1.Desc>
+      <Stages.3.Necks.2.DisplayName>合道</Stages.3.Necks.2.DisplayName>
+    </Text>
+  </List>
+</Texts>

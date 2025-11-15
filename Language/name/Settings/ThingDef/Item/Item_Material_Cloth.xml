@@ -1,0 +1,49 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="ClothBase" sParam="Item">
+      <Desc>棉花织成的布料，可以用来制作衣物等。</Desc>
+      <Item.FabaoSuffix>帛,纱,罗</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CottonCloth" sParam="Item">
+      <ThingName>花布</ThingName>
+      <Desc>棉花织成的【花色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>花布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DeepBlueCloth" sParam="Item">
+      <ThingName>靛蓝布</ThingName>
+      <Desc>棉花织成的【靛蓝色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>靛蓝布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_PurpleCloth" sParam="Item">
+      <ThingName>紫布</ThingName>
+      <Desc>棉花织成的【紫色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>紫布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YellowCloth" sParam="Item">
+      <ThingName>黄布</ThingName>
+      <Desc>棉花织成的【黄色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>黄布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BlueCloth" sParam="Item">
+      <ThingName>蓝布</ThingName>
+      <Desc>棉花织成的【蓝色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>蓝布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_RedCloth" sParam="Item">
+      <ThingName>红布</ThingName>
+      <Desc>棉花织成的【红色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>红布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_WhiteCloth" sParam="Item">
+      <ThingName>白布</ThingName>
+      <Desc>棉花织成的【白色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>白布</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BlackCloth" sParam="Item">
+      <ThingName>黑布</ThingName>
+      <Desc>棉花织成的【黑色】布料，可以用来制作衣物等。</Desc>
+      <Item.BeMaterial.NamePrefix>黑布</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

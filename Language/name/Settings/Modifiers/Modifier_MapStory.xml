@@ -1,0 +1,44 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Story_PracticeSpeed1">
+      <DisplayName>提高5%的修炼速度。</DisplayName>
+      <Desc>提高5%的修炼速度。</Desc>
+    </Text>
+    <Text Name="Story_LingMax1">
+      <DisplayName>从根本上提高2%灵气最大值。</DisplayName>
+      <Desc>从根本上提高2%灵气最大值。</Desc>
+    </Text>
+    <Text Name="Story_FabaoPower1">
+      <DisplayName>从根本上提高5%的法宝威力。</DisplayName>
+      <Desc>从根本上提高5%的法宝威力。</Desc>
+    </Text>
+    <Text Name="Story_LingAbsorbSpeed1">
+      <DisplayName>从根本上提高10%的灵气吸收速度。</DisplayName>
+      <Desc>从根本上提高10%的灵气吸收速度。</Desc>
+    </Text>
+    <Text Name="Story_WorldMapFlySpeedAddP1">
+      <DisplayName>提高50%的御剑飞行速度。</DisplayName>
+      <Desc>提高50%的御剑飞行速度。</Desc>
+    </Text>
+    <Text Name="Story_ShieldConversionRate1">
+      <DisplayName>提高10%的灵气护盾效率。</DisplayName>
+      <Desc>提高10%的灵气护盾效率。</Desc>
+    </Text>
+    <Text Name="Story_DragonBlood">
+      <DisplayName>龙之血脉</DisplayName>
+      <Desc>龙之血脉觉醒：根骨提高2点;神识提高2点;从根本上提高25%的灵气最大值。</Desc>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish1">
+      <DisplayName>馈赠</DisplayName>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish2">
+      <DisplayName>馈赠</DisplayName>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish3">
+      <DisplayName>馈赠</DisplayName>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish4">
+      <DisplayName>馈赠</DisplayName>
+    </Text>
+  </List>
+</Texts>

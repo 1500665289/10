@@ -1,0 +1,8 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SYS_LOST">
+      <DisplayName>[遗失]</DisplayName>
+      <Desc>此特性已经遗失，没有人知道任何信息。(模组丢失)。</Desc>
+    </Text>
+  </List>
+</Texts>

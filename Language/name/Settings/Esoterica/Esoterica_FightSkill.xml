@@ -1,0 +1,54 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FightSkillEsoterica_1">
+      <DisplayName>先天罡气</DisplayName>
+      <Desc>修行者的入门法术，将真气凝聚于掌心向目标发出即可。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：先天罡气[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_2">
+      <DisplayName>烈焰决</DisplayName>
+      <Desc>调动天地间的火系灵能，猛烈焚烧目标。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：烈焰决[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_3">
+      <DisplayName>庚金神雷</DisplayName>
+      <Desc>调动天地间的金系灵能，化为庚金神雷攻击目标。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：庚金神雷[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_4">
+      <DisplayName>元磁灭绝神光</DisplayName>
+      <Desc>发出一道迅捷无比的神光毁灭目标元神。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：灭绝神光[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong1_1">
+      <DisplayName>天水化伤术</DisplayName>
+      <Desc>引动天地间的癸水之力，给所有友方恢复灵气。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：天水化伤术[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong3_1">
+      <DisplayName>神剑共鸣</DisplayName>
+      <Desc>将自身元神与法宝共鸣，极大的提高法宝威力。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：神剑共鸣[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong4_1">
+      <DisplayName>玉清太虚神雷</DisplayName>
+      <Desc>引动混元玉清太虚神雷，对所有敌对目标造成大量伤害。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：玉清太虚神雷[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong4_2">
+      <DisplayName>厚土之盾</DisplayName>
+      <Desc>增强所有己方的灵气护盾效果。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：厚土之盾[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong4_3">
+      <DisplayName>回春诀</DisplayName>
+      <Desc>呼唤木之气息，恢复自身灵气。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：回春诀[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong9_1">
+      <DisplayName>逆转轮回</DisplayName>
+      <Desc>运用轮回之力，极大的恢复自身的灵气。</Desc>
+      <EffectDesc>[size=10][color=#D06508]习得秘术：轮回逆转[/color][/size]</EffectDesc>
+    </Text>
+  </List>
+</Texts>

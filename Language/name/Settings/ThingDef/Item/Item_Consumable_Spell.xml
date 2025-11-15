@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_SpellPaper" sParam="Item">
+      <ThingName>符纸</ThingName>
+      <Desc>特殊制作的纸张，用神念将纸上的朱砂拖曳出特定的符号即可形成符咒。</Desc>
+      <Item.FabaoSuffix>符,咒,禁</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SpellPaperLv2" sParam="Item">
+      <ThingName>灵血符</ThingName>
+      <Desc>以妖灵血制作的纸张，用神念将纸上的朱砂拖曳出特定的符号即可形成符咒。</Desc>
+    </Text>
+    <Text Name="Item_SpellPaperLv3" sParam="Item">
+      <ThingName>神珀符</ThingName>
+      <Desc>以宁珀绘制的符咒，用神念将纸上的朱砂拖曳出特定的符号即可形成符咒。</Desc>
+    </Text>
+    <Text Name="Item_Spell" sParam="Item">
+      <ThingName>符咒</ThingName>
+      <Desc>绘制成功的符咒，佩戴在身上可以拥有一定的能力加成。</Desc>
+      <Item.FabaoSuffix>符,咒,禁</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SpellLv2" sParam="Item">
+      <ThingName>符咒</ThingName>
+      <Desc>绘制成功的符咒，佩戴在身上可以拥有一定的能力加成。</Desc>
+    </Text>
+    <Text Name="Item_SpellLv3" sParam="Item">
+      <ThingName>符咒</ThingName>
+      <Desc>绘制成功的符咒，佩戴在身上可以拥有一定的能力加成。</Desc>
+    </Text>
+  </List>
+</Texts>

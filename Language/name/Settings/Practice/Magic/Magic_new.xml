@@ -1,0 +1,77 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="BuildMine">
+      <DisplayName>造山术</DisplayName>
+      <Desc>消耗大量灵力，将地埋深处的矿产拔出地表。</Desc>
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+    <Text Name="BuildRain">
+      <DisplayName>甘霖术</DisplayName>
+      <Desc>在一片区域中召唤一片甘霖，可以熄灭火焰，并稍微提高植物的生长速度。</Desc>
+      <TargetDesc>请选择一个地点</TargetDesc>
+    </Text>
+    <Text Name="Prophesy">
+      <DisplayName>周天神算</DisplayName>
+      <Desc>消耗寿命推算天机，试图在未来一个月中获得前知之力。道行，悟性，机缘越高，成功率也越高。</Desc>
+    </Text>
+    <Text Name="Prophesy_MapStory">
+      <DisplayName>大衍神算</DisplayName>
+      <Desc>消耗寿命推算天机，试图获取一条秘闻。道行，悟性，机缘越高，成功率也越高。</Desc>
+    </Text>
+    <Text Name="BuildSea">
+      <DisplayName>开湖术</DisplayName>
+      <Desc>施展神通，将一片区域改造为浅水。</Desc>
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+    <Text Name="BuildLand">
+      <DisplayName>造陆术</DisplayName>
+      <Desc>施展神通，将一片区域改造为土地。</Desc>
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+    <Text Name="BuildLing">
+      <DisplayName>造化灵土</DisplayName>
+      <Desc>以秘法一次性激发造化玉籽之灵效，将一片区域化为灵土。</Desc>
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+    <Text Name="BuildLingWater">
+      <DisplayName>造化灵池</DisplayName>
+      <Desc>以秘法一次性激发造化玉籽之灵效，将一片区域化为灵水。</Desc>
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+    <Text Name="BuildFertileSoil">
+      <DisplayName>造化沃土</DisplayName>
+      <Desc>以秘法激发一颗造化玉砂之灵效，将一片区域化为沃土。</Desc>
+      <TargetDesc>请选择一块空地</TargetDesc>
+    </Text>
+    <Text Name="FengshuiItemOpen">
+      <DisplayName>风水鉴定</DisplayName>
+      <Desc>消耗灵石，激发风水镇物，以识别其特性。</Desc>
+      <TargetDesc>请选择一个未鉴定的风水镇物</TargetDesc>
+    </Text>
+    <Text Name="FengshuiItemCreate">
+      <DisplayName>风水凝练</DisplayName>
+      <Desc>消耗本源精血为一件物品赋予风水镇物属性。然而未经岁月凝练，使用此法生成的镇物效果较弱，且永远不可能生成通灵镇物。</Desc>
+      <TargetDesc>请选择一个非风水镇物道具</TargetDesc>
+    </Text>
+    <Text Name="LingXiZhou">
+      <DisplayName>灵犀咒</DisplayName>
+      <Desc>以神念交感对方神念，尝试说服对方加入我方阵营。自身道行越高，双方境界与感知差距越大，越容易成功。如果目标有修为，则目标必须处于昏迷状态。对同一个目标只能使用一次。</Desc>
+      <TargetDesc>请选择一个敌人</TargetDesc>
+    </Text>
+    <Text Name="XinYinJue">
+      <DisplayName>心印诀</DisplayName>
+      <Desc>以心相印，产生共鸣，以说服对方加入我方阵营。自身道行越高，双方境界差距越大，越容易成功。如果双方有相似的出生历世特性或亲戚关系，则大幅度提高成功率。如果目标有修为，则目标必须处于昏迷状态。此法十分凶险，一旦失败，目标死亡，自身也会受伤。</Desc>
+      <TargetDesc>请选择一个敌人</TargetDesc>
+    </Text>
+    <Text Name="TianMoWu">
+      <DisplayName>天魔舞</DisplayName>
+      <Desc>施展天魔舞，将目标转化到我方阵营。随着时间流逝，目标清醒的可能性逐渐提高。双方境界与魅力差距越大，清醒的几率越低。如果目标有修为，则目标必须处于昏迷状态。此法每次施展都会损伤目标神志。</Desc>
+      <TargetDesc>请选择一个敌人</TargetDesc>
+    </Text>
+    <Text Name="WuYinKeShen">
+      <DisplayName>五印刻神</DisplayName>
+      <Desc>以霸道的法术强行洗脑，将目标转化到我方阵营一段时间。双方境界与悟性差距越大，持续的时间越长。如果目标有修为，则目标必须处于昏迷状态。此法每次施展都会极大的延长持续时间，但是会对目标神识产生不可逆转的损害。</Desc>
+      <TargetDesc>请选择一个敌人</TargetDesc>
+    </Text>
+  </List>
+</Texts>

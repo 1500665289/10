@@ -1,0 +1,190 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="sys_getnothing">
+      <DisplayName>一无所获</DisplayName>
+      <Desc>我们没能得到任何有用的东西。</Desc>
+    </Text>
+    <Text Name="sys_noreaction">
+      <DisplayName>毫无反应</DisplayName>
+      <Desc>似乎毫无反应。</Desc>
+    </Text>
+    <Text Name="sys_brokenneck">
+      <DisplayName>顿悟</DisplayName>
+      <Desc>[NAME]突然有所感悟，久久没有反应的功法瓶颈瓶颈似乎有了松动的现象，[IT]赶紧坐了下来。</Desc>
+      <GlobleOKResult>me:AddMsg("瓶颈突破成功！");</GlobleOKResult>
+    </Text>
+    <Text Name="sys_openplacelink">
+      <DisplayName>初次抵达</DisplayName>
+      <Desc>第一次来到[PLACE]，[NAME]找人打探了一下周边的消息。</Desc>
+    </Text>
+    <Text Name="sys_openplace">
+      <DisplayName>解锁地点</DisplayName>
+      <Desc>多次来到[PLACE]，[NAME]对此地渐渐熟悉，发现了一个有趣的去处。</Desc>
+    </Text>
+    <Text Name="sys_test">
+      <DisplayName>顿悟</DisplayName>
+      <Desc>[NAME]突然有所感悟，久久没有反应的功法瓶颈似乎有了松动的现象，[IT]赶紧坐了下来。</Desc>
+      <GlobleOKResult>me:DropFabao(0,"Item_SummerTrousers",nil,"好牛逼","好牛逼的法宝")</GlobleOKResult>
+    </Text>
+    <Text Name="Story_SoulSeach">
+      <DisplayName>搜魂</DisplayName>
+      <Desc>[NAME]对这个弥留的修行者施展了搜魂大法，试图获得一些有用的信息。</Desc>
+      <GlobleOKResult><![CDATA[	
+			local tnpc = story:GetBindNpc();
+			local rs = false;
+			local nK = 1 
+			if tnpc ~= nil then
+				if me:GetRoomFengshui() == 4 then
+					nK = 1.2
+				elseif me:GetRoomFengshui() == 5 then
+					nK = 1.5
+				elseif me:GetRoomFengshui() == 6 then
+					nK = 2
+				end
+				if tnpc.npcObj.bDaNeng == true then
+					if rs == false then
+						--获得秘籍
+						for i = 1, world:RandomInt(2,6) do
+							me:DropEsotericCustomize("上古秘术-", world:RandomInt(0,6), 0, world:RandomFloat(0.75,1.5), 9, 4, "巨量的");
+						end
+						rs = true;
+					end
+				elseif (tnpc.npcObj.IsEliteEnemy) then
+					rs = false
+				else
+					if rs == false and world:CheckRate(0.05 * nK) then
+						--获得功法
+						local gname = tnpc:GetGongName();
+						if gname ~= nil then
+							me:UnLockGong(gname);
+							rs = true;
+						end
+					end
+					if world:CheckRate(0.15 * nK) then
+						--获得秘闻
+						me:AddSecret(me:RandomInt(1, 23));
+						rs = true;
+					end
+					if rs == false and world:CheckRate(0.3 * nK) then
+						--获得秘籍
+						local ename = tnpc:GetRandomEsotericName();
+						if ename ~= nil then
+							me:DropEsoteric(ename);
+							rs = true;
+						end
+					end
+				end
+			end
+			if rs == false then
+				me:AddMsg("一无所获");
+			end
+		]]></GlobleOKResult>
+    </Text>
+    <Text Name="Story_JiangDao">
+      <DisplayName>忽有所悟</DisplayName>
+      <Desc>[NAME]沉浸在玄妙之道中，</Desc>
+      <GlobleOKResult><![CDATA[	
+			local nR = me:RandomInt(0,11)
+			if nR <=4 then
+				me:AddMsg("[NAME]虽然听的似懂非懂，但依然大有所获。");me:AddTreeExp(me:GetGLevel() * 1000);
+			elseif nR > 4 and nR <= 6 then
+				me:AddMsg("[NAME]渐渐听得入迷，条条玄妙流淌中大有参悟。");me:AddTreeExp(me:GetGLevel() * 4000);
+			elseif nR > 6 and nR <= 9 then
+				me:AddMsg("[NAME]从玄妙的声音中竟然领悟出一套秘法。");me:DropRandomItem("Esoterica");
+			elseif nR > 9  then
+				local nR = me:RandomInt(4, 4 + me:GetIntelligence() + me:GetLuck())
+				me:AddMsg("[NAME]听得仙人讲法，竟然福至心灵的领悟到一丝偷天机的法门。" );me:AddMsg("[NAME]道行降低了"..nR.."点。" );me:ModifierProperty("AbilityLvAddV",-nR);
+			end
+		]]></GlobleOKResult>
+    </Text>
+    <Text Name="Story_TitleGold">
+      <DisplayName>成丹</DisplayName>
+      <Desc>[NAME]修为达到金丹之境，修行界的同道给予其一个称号。</Desc>
+      <GlobleOKResult><![CDATA[
+				if me:GetGoldLevel() == 1 then
+					if me:GetGoldValue() >= 300000 then
+						local tR = {"鸿蒙","混沌","玄黄","太昊","太初","元初","太始","玄穹","通天","玄德","造化","万灵","紫薇","周天","阴阳","六道"}
+						local titlepre = tR[me:RandomInt(1, #tR + 1)]
+						me:AddTitle(titlepre .. "真人", "结丹超品，冠绝当世！", 4);
+					else
+						me:AddRandomTitle(1, "结丹一品！", 3);
+					end
+				elseif me:GetGoldLevel() <= 3 then
+					me:AddRandomTitle(1, "结丹上品！", 2);
+				elseif me:GetGoldLevel() <= 6 then
+					me:AddRandomTitle(1, "结丹中品！", 1);
+				else
+					me:AddRandomTitle(1, "结丹下品！", 0);
+				end
+			]]></GlobleOKResult>
+    </Text>
+    <Text Name="Story_TitleRandom">
+      <DisplayName>渐有名号</DisplayName>
+      <Desc>[NAME]下山历练，在修行界也渐渐传开了名号。</Desc>
+      <GlobleOKResult><![CDATA[
+				local nR = me:RandomInt(1,11)
+				local nL = 0
+				if nR == 10 then
+					nL = 4
+				elseif nR <10 and nR >=8  then
+					nL = 3
+				elseif nR <8 and nR >=5  then
+					nL = 2
+				elseif nR <5 and nR >=1  then
+					nL = 1
+				end
+				me:AddRandomTitle(-1, "行走天下所得", nL);
+			]]></GlobleOKResult>
+    </Text>
+    <Text Name="Story_sys_BossLong_Wish">
+      <DisplayName>许愿</DisplayName>
+      <Desc>神秘洞穴中的意念似乎别具神通，可以付出一些代价来请求它做一些特殊的事。但如果不能满足它提出的要求，也会召来它的愤怒。</Desc>
+      <Selections.0.Display>祈求获得秘闻</Selections.0.Display>
+      <Selections.0.OKResult><![CDATA[	
+				local meName = me.npcObj:GetName()
+				me:AddMsg("[NAME]对着神秘洞穴祈求，希望能获得一些修行界的秘闻。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了[NAME]的祈求。");
+				MessageMgr:AddChainEventMessage(1, -1, "    " ..meName.."对着神秘洞穴祈求，希望能获得一些修行界的秘闻。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了"..meName.."的祈求。", 0, 0, null, "神秘洞穴");
+				story.target:Wish(me, 1);
+				]]></Selections.0.OKResult>
+      <Selections.1.Display>祈求灵气弥漫</Selections.1.Display>
+      <Selections.1.OKResult><![CDATA[	
+				local meName = me.npcObj:GetName()
+				me:AddMsg("[NAME]对着神秘洞穴祈求，希望能使附近的灵气浓郁一些。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了[NAME]的祈求。");
+				MessageMgr:AddChainEventMessage(1, -1, "    " ..meName.."对着神秘洞穴祈求，希望能使附近的灵气浓郁一些。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了"..meName.."的祈求。", 0, 0, null, "神秘洞穴");story.target:Wish(me, 2);
+				]]></Selections.1.OKResult>
+      <Selections.2.Display>祈求自我提升</Selections.2.Display>
+      <Selections.2.OKResult><![CDATA[					
+				if me:GetFlag(85) == 0 then
+					local meName = me.npcObj:GetName()
+					me:AddMsg("[NAME]对着神秘洞穴祈求，希望能获一些能力提升。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了[NAME]的祈求。");
+					MessageMgr:AddChainEventMessage(1, -1, "    " ..meName.."对着神秘洞穴祈求，希望能获一些能力提升。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了"..meName.."的祈求。", 0, 0, null, "神秘洞穴");story.target:Wish(me, 3);
+				else
+					me:AddMsg("[NAME]已经享受过神秘洞穴的馈赠了。");
+				end
+				]]></Selections.2.OKResult>
+      <Selections.3.Display>离开</Selections.3.Display>
+      <Selections.3.OKResult><![CDATA[	
+				me:AddMsg("[NAME]想了想，决定还是放弃对神秘洞穴许愿。");
+				]]></Selections.3.OKResult>
+    </Text>
+    <Text Name="Story_sys_BossLong_WishSuccess">
+      <DisplayName>实现愿望</DisplayName>
+      <Desc>神秘洞穴很满意这次献祭，它实现了[NAME]的祈求。</Desc>
+      <GlobleOKResult><![CDATA[
+				local nT = story.target
+				local meName = me.npcObj:GetName()
+				if nT == 1 then
+					local tS = {1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,49}
+					me:AddSecret(tS[me:RandomInt(1, #tS + 1)]);
+					MessageMgr:AddChainEventMessage(1, -1, "    神秘洞穴对祭祀很满意，它实现了"..meName.."的愿望。", 0, 0, null, "神秘洞穴");
+				elseif nT == 2 then
+					world:BeginWeather("LingUpWave_Little");
+					MessageMgr:AddChainEventMessage(1, -1, "    神秘洞穴对祭祀很满意，它实现了"..meName.."的愿望。", 0, 0, null, "神秘洞穴");
+				elseif nT == 3 then
+					me:AddModifier("Modifier_Story_BossLong_Wish"..world:RandomInt(1,5));me:SetFlag(85,1);
+					MessageMgr:AddChainEventMessage(1, -1, "    神秘洞穴对祭祀很满意，它实现了"..meName.."的愿望。", 0, 0, null, "神秘洞穴");
+				end
+			]]></GlobleOKResult>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,202 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Shit">
+      <DisplayName>恶臭</DisplayName>
+    </Text>
+    <Text Name="BurnScar">
+      <DisplayName>烫伤伤疤</DisplayName>
+    </Text>
+    <Text Name="Scar">
+      <DisplayName>伤疤</DisplayName>
+    </Text>
+    <Text Name="Osteodynia">
+      <DisplayName>骨痛</DisplayName>
+    </Text>
+    <Text Name="DeformedSkeleton">
+      <DisplayName>畸形骨骼</DisplayName>
+    </Text>
+    <Text Name="ViscusInjury">
+      <DisplayName>脏腑旧损</DisplayName>
+    </Text>
+    <Text Name="Deaf">
+      <DisplayName>耳疾</DisplayName>
+    </Text>
+    <Text Name="MeridianBlocking">
+      <DisplayName>滞塞</DisplayName>
+    </Text>
+    <Text Name="Palpitation">
+      <DisplayName>心悸</DisplayName>
+    </Text>
+    <Text Name="Poisoning1">
+      <DisplayName>中毒（轻）</DisplayName>
+    </Text>
+    <Text Name="Poisoning2">
+      <DisplayName>中毒（中）</DisplayName>
+    </Text>
+    <Text Name="Poisoning3">
+      <DisplayName>中毒（重）</DisplayName>
+    </Text>
+    <Text Name="BloodFreezing1">
+      <DisplayName>凝血症（轻）</DisplayName>
+    </Text>
+    <Text Name="BloodFreezing2">
+      <DisplayName>凝血症（重）</DisplayName>
+    </Text>
+    <Text Name="Cold1">
+      <DisplayName>风邪（轻）</DisplayName>
+    </Text>
+    <Text Name="Cold2">
+      <DisplayName>风邪（重）</DisplayName>
+    </Text>
+    <Text Name="Fracture1">
+      <DisplayName>开裂</DisplayName>
+    </Text>
+    <Text Name="Fracture2">
+      <DisplayName>折断</DisplayName>
+    </Text>
+    <Text Name="Fracture3">
+      <DisplayName>碎裂</DisplayName>
+    </Text>
+    <Text Name="Fracture4">
+      <DisplayName>粉碎</DisplayName>
+    </Text>
+    <Text Name="Fabao_CutOff">
+      <DisplayName>斩断</DisplayName>
+    </Text>
+    <Text Name="FightSkill_Disintegrate">
+      <DisplayName>崩碎</DisplayName>
+    </Text>
+    <Text Name="Corrosion">
+      <DisplayName>腐蚀</DisplayName>
+    </Text>
+    <Text Name="ForgLick">
+      <DisplayName>湿哒哒</DisplayName>
+    </Text>
+    <Text Name="Boil">
+      <DisplayName>疖子</DisplayName>
+    </Text>
+    <Text Name="Toothache">
+      <DisplayName>牙疼</DisplayName>
+    </Text>
+    <Text Name="Faint">
+      <DisplayName>昏厥</DisplayName>
+    </Text>
+    <Text Name="Hemorrhoids">
+      <DisplayName>痔疮</DisplayName>
+    </Text>
+    <Text Name="HemorrhoidsEX">
+      <DisplayName>永久之痔</DisplayName>
+    </Text>
+    <Text Name="Frostbite1">
+      <DisplayName>冻伤（轻）</DisplayName>
+    </Text>
+    <Text Name="Frostbite2">
+      <DisplayName>冻伤（中）</DisplayName>
+    </Text>
+    <Text Name="Frostbite3">
+      <DisplayName>冻伤（重）</DisplayName>
+    </Text>
+    <Text Name="Scald1">
+      <DisplayName>烫伤（轻）</DisplayName>
+    </Text>
+    <Text Name="Scald2">
+      <DisplayName>烫伤（中）</DisplayName>
+    </Text>
+    <Text Name="Scald3">
+      <DisplayName>烫伤（重）</DisplayName>
+    </Text>
+    <Text Name="Bruise1">
+      <DisplayName>瘀伤（轻）</DisplayName>
+    </Text>
+    <Text Name="Bruise2">
+      <DisplayName>瘀伤（中）</DisplayName>
+    </Text>
+    <Text Name="Bruise3">
+      <DisplayName>瘀伤（重）</DisplayName>
+    </Text>
+    <Text Name="Infection">
+      <DisplayName>恶化感染</DisplayName>
+    </Text>
+    <Text Name="Cut1">
+      <DisplayName>割裂（轻）</DisplayName>
+    </Text>
+    <Text Name="Cut2">
+      <DisplayName>割裂（中）</DisplayName>
+    </Text>
+    <Text Name="Cut3">
+      <DisplayName>割裂（重）</DisplayName>
+    </Text>
+    <Text Name="Puncture">
+      <DisplayName>穿刺</DisplayName>
+    </Text>
+    <Text Name="Fabao_Tear">
+      <DisplayName>撕碎</DisplayName>
+    </Text>
+    <Text Name="FightSkill_Evaporate">
+      <DisplayName>蒸发</DisplayName>
+    </Text>
+    <Text Name="Deterioration">
+      <DisplayName>坏变</DisplayName>
+    </Text>
+    <Text Name="VisceralRupture">
+      <DisplayName>破裂</DisplayName>
+    </Text>
+    <Text Name="VisceralCut">
+      <DisplayName>割裂</DisplayName>
+    </Text>
+    <Text Name="Destroy">
+      <DisplayName>摧毁</DisplayName>
+    </Text>
+    <Text Name="Wound">
+      <DisplayName>伤口</DisplayName>
+    </Text>
+    <Text Name="FrostbiteInside">
+      <DisplayName>冻伤</DisplayName>
+    </Text>
+    <Text Name="SnakeVenom">
+      <DisplayName>蛇毒</DisplayName>
+    </Text>
+    <Text Name="DiseaseBreath">
+      <DisplayName>疫病之息</DisplayName>
+    </Text>
+    <Text Name="HolyJudgement">
+      <DisplayName>灵力侵染</DisplayName>
+    </Text>
+    <Text Name="FirebiteInside">
+      <DisplayName>中暑</DisplayName>
+    </Text>
+    <Text Name="FoodDamage">
+      <DisplayName>缺食</DisplayName>
+    </Text>
+    <Text Name="WaterDamage">
+      <DisplayName>缺水</DisplayName>
+    </Text>
+    <Text Name="GuanyinDamage">
+      <DisplayName>吃土</DisplayName>
+    </Text>
+    <Text Name="AbdominalDistention">
+      <DisplayName>腹胀</DisplayName>
+    </Text>
+    <Text Name="AbdominalPain">
+      <DisplayName>腹痛</DisplayName>
+    </Text>
+    <Text Name="SysTooTired">
+      <DisplayName>劳累过度</DisplayName>
+    </Text>
+    <Text Name="DevilBlood_LianHun">
+      <DisplayName>炼魂之痛</DisplayName>
+    </Text>
+    <Text Name="Anaesthesia">
+      <DisplayName>麻醉</DisplayName>
+    </Text>
+    <Text Name="TEST_FULL">
+      <DisplayName>测试伤害</DisplayName>
+    </Text>
+    <Text Name="Puppet_Abrasion">
+      <DisplayName>磨损</DisplayName>
+    </Text>
+    <Text Name="SYS_LOST">
+      <DisplayName>模组遗失</DisplayName>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,20 @@
+﻿<TerrainDefs><List>
+	
+	<TerrainDef Name="HeiSoil" Parent="TerrainBase">
+		<DisplayName>黑土</DisplayName>
+		<StoryDesc>插根筷子都发芽</StoryDesc>
+		<RenderLayer>11</RenderLayer>
+		<NextBase>1</NextBase>
+		<TerrainType>Ground</TerrainType>
+		<PathCost>10</PathCost>
+		<Fertility>8</Fertility>
+		<Beauty>1</Beauty>
+		<MiniColor>989039FF</MiniColor>
+		<AddionLing>80</AddionLing>
+		<Elements>
+			<li Kind="Mu" Power="0.1"/>
+		</Elements>
+		
+	</TerrainDef>
+
+</List></TerrainDefs>

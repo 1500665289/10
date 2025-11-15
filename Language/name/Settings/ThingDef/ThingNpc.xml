@@ -1,0 +1,7 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Npc_Puppet" sParam="Npc">
+      <Desc>一个傀儡</Desc>
+    </Text>
+  </List>
+</Texts>

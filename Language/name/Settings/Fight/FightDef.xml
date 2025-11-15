@@ -1,0 +1,53 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FaBao">
+      <Packs.0.DescTags>法宝重击</Packs.0.DescTags>
+      <Packs.1.DescTags>法宝重击</Packs.1.DescTags>
+      <Packs.2.DescTags>法宝重击</Packs.2.DescTags>
+      <Packs.3.DescTags>法宝重击</Packs.3.DescTags>
+    </Text>
+    <Text Name="Skill">
+      <Packs.0.DescTags>法术轰击</Packs.0.DescTags>
+      <Packs.1.DescTags>法术轰击</Packs.1.DescTags>
+      <Packs.2.DescTags>法术轰击</Packs.2.DescTags>
+      <Packs.3.DescTags>法术轰击</Packs.3.DescTags>
+    </Text>
+    <Text Name="Jin">
+      <Packs.1.DescTags>金属性伤害</Packs.1.DescTags>
+      <Packs.2.DescTags>金属性伤害</Packs.2.DescTags>
+      <Packs.3.DescTags>金属性伤害</Packs.3.DescTags>
+      <Packs.4.DescTags>金属性伤害</Packs.4.DescTags>
+      <Packs.5.DescTags>金属性伤害</Packs.5.DescTags>
+    </Text>
+    <Text Name="Mu">
+      <Packs.1.DescTags>木属性伤害</Packs.1.DescTags>
+      <Packs.2.DescTags>木属性伤害</Packs.2.DescTags>
+      <Packs.3.DescTags>木属性伤害</Packs.3.DescTags>
+      <Packs.4.DescTags>木属性伤害</Packs.4.DescTags>
+      <Packs.5.DescTags>木属性伤害</Packs.5.DescTags>
+      <Packs.6.DescTags>木属性伤害</Packs.6.DescTags>
+    </Text>
+    <Text Name="Shui">
+      <Packs.1.DescTags>水属性伤害</Packs.1.DescTags>
+      <Packs.2.DescTags>水属性伤害</Packs.2.DescTags>
+      <Packs.3.DescTags>水属性伤害</Packs.3.DescTags>
+      <Packs.4.DescTags>水属性伤害</Packs.4.DescTags>
+      <Packs.5.DescTags>水属性伤害</Packs.5.DescTags>
+    </Text>
+    <Text Name="Huo">
+      <Packs.1.DescTags>火属性伤害</Packs.1.DescTags>
+      <Packs.2.DescTags>火属性伤害</Packs.2.DescTags>
+      <Packs.3.DescTags>火属性伤害</Packs.3.DescTags>
+      <Packs.4.DescTags>火属性伤害</Packs.4.DescTags>
+      <Packs.5.DescTags>火属性伤害</Packs.5.DescTags>
+    </Text>
+    <Text Name="Tu">
+      <Packs.1.DescTags>土属性伤害</Packs.1.DescTags>
+      <Packs.2.DescTags>土属性伤害</Packs.2.DescTags>
+      <Packs.3.DescTags>土属性伤害</Packs.3.DescTags>
+      <Packs.4.DescTags>土属性伤害</Packs.4.DescTags>
+      <Packs.5.DescTags>土属性伤害</Packs.5.DescTags>
+      <Packs.6.DescTags>土属性伤害</Packs.6.DescTags>
+    </Text>
+  </List>
+</Texts>

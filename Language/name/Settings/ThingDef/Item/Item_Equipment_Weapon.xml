@@ -1,0 +1,59 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_WeaponBow" sParam="Item">
+      <ThingName>弓</ThingName>
+      <Desc>一把弓，可以用来狩猎远处的目标。</Desc>
+      <Item.FabaoSuffix>弓</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponWoodBow" sParam="Item">
+      <ThingName>弓</ThingName>
+      <Desc>一把弓，可以用来狩猎远处的目标。</Desc>
+      <Item.FabaoSuffix>弓</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponKnife" sParam="Item">
+      <ThingName>刀</ThingName>
+      <Desc>一把刀，擅长劈砍。</Desc>
+      <Item.FabaoSuffix>刀</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponLance" sParam="Item">
+      <ThingName>长枪</ThingName>
+      <Desc>一柄长枪，可以有效的对内脏造成穿刺伤。</Desc>
+      <Item.FabaoSuffix>枪</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponSword" sParam="Item">
+      <ThingName>剑</ThingName>
+      <Desc>一柄剑，轻盈而敏捷。</Desc>
+      <Item.FabaoSuffix>剑</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponHalbert" sParam="Item">
+      <ThingName>锤</ThingName>
+      <Desc>一柄重锤，沉重的分量可以让他的敌人筋断骨折。</Desc>
+      <Item.FabaoSuffix>锤</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponAxeRing" sParam="Item">
+      <ThingName>环</ThingName>
+      <Desc>奇门兵器，套在拳套上，可以敏捷而快速的给对手身上造成大量伤口。</Desc>
+      <Item.FabaoSuffix>环</Item.FabaoSuffix>
+    </Text>
+    <Text Name="SP_Sword1" sParam="Item">
+      <ThingName>达拉崩吧</ThingName>
+      <Desc>传说在遥远的西方，有位叫达拉崩吧的勇士曾使用这把宝剑斩杀过被称为“龙”的强大生物，通体鲜红的剑身仿佛在龙血中沐浴过一般。此剑命中有几率使敌人受焚心之伤。</Desc>
+    </Text>
+    <Text Name="SP_Sword2" sParam="Item">
+      <ThingName>木雨剑</ThingName>
+      <Desc>木白仙人留下的普通木剑，看上去平平无奇，但却有呼风唤雨的神妙。</Desc>
+    </Text>
+    <Text Name="SP_Sword3" sParam="Item">
+      <ThingName>未来科技之剑</ThingName>
+      <Desc>此剑乃是未来科技掌门信物，见此剑如见老菊。持有者可以提高全体员工的劳动积极性。</Desc>
+    </Text>
+    <Text Name="SP_Sword4" sParam="Item">
+      <ThingName>双龙魔影剑</ThingName>
+      <Desc>此剑乃昔日黑光剑圣之佩剑，威力绝伦。</Desc>
+    </Text>
+    <Text Name="SP_Bow1" sParam="Item">
+      <ThingName>捕兽弓</ThingName>
+      <Desc>专门用来捕兽的弓，采用涂有麻药的无法深入肌肤特制箭支，所以一般不会造成致命伤害。</Desc>
+    </Text>
+  </List>
+</Texts>

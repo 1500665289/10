@@ -1,0 +1,25 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SYS_LOST">
+      <DisplayName>模组丢失</DisplayName>
+    </Text>
+    <Text Name="Puppet">
+      <DisplayName>傀儡</DisplayName>
+    </Text>
+    <Text Name="NY_Zhuyao">
+      <DisplayName>春节猪妖</DisplayName>
+    </Text>
+    <Text Name="NY_Jingguai">
+      <DisplayName>春节小妖</DisplayName>
+    </Text>
+    <Text Name="BodyPart">
+      <DisplayName>身体部件</DisplayName>
+    </Text>
+    <Text Name="MiniLong">
+      <DisplayName>幼龙</DisplayName>
+    </Text>
+    <Text Name="MiniFeng">
+      <DisplayName>幼凤</DisplayName>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,33 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="BuildMode_ChangeTime">
+      <DisplayName>太虚幻境</DisplayName>
+      <Desc>需要将时间调整到什么时候呢。</Desc>
+      <Selections.0.Display>早上</Selections.0.Display>
+      <Selections.1.Display>正午</Selections.1.Display>
+      <Selections.2.Display>黄昏</Selections.2.Display>
+      <Selections.3.Display>深夜</Selections.3.Display>
+      <Selections.4.Display>算了</Selections.4.Display>
+    </Text>
+    <Text Name="BuildMode_ChangeSeason">
+      <DisplayName>太虚幻境</DisplayName>
+      <Desc>需要将季节调整到什么时候呢。</Desc>
+      <Selections.0.Display>春</Selections.0.Display>
+      <Selections.1.Display>夏</Selections.1.Display>
+      <Selections.2.Display>秋</Selections.2.Display>
+      <Selections.3.Display>冬</Selections.3.Display>
+      <Selections.4.Display>算了</Selections.4.Display>
+    </Text>
+    <Text Name="BuildMode_ChangeWeather">
+      <DisplayName>太虚幻境</DisplayName>
+      <Desc>需要将天气改变成什么呢。</Desc>
+      <Selections.0.Display>小雨/雪</Selections.0.Display>
+      <Selections.1.Display>大雨/雪</Selections.1.Display>
+      <Selections.2.Display>尘暴</Selections.2.Display>
+      <Selections.3.Display>永夜</Selections.3.Display>
+      <Selections.4.Display>雷暴</Selections.4.Display>
+      <Selections.5.Display>清除所有天气</Selections.5.Display>
+      <Selections.6.Display>算了</Selections.6.Display>
+    </Text>
+  </List>
+</Texts>

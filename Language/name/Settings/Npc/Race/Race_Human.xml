@@ -1,0 +1,9 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Human">
+      <DisplayName>人族</DisplayName>
+      <MaleName>男</MaleName>
+      <FemaleName>女</FemaleName>
+    </Text>
+  </List>
+</Texts>

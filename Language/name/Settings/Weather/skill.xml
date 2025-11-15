@@ -1,0 +1,28 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="jiaolong_baoyu">
+      <DisplayName>暴雨(蛟龙)</DisplayName>
+      <StoryDesc>暴雨如瀑中</StoryDesc>
+    </Text>
+    <Text Name="xiongfeng_lieyang">
+      <DisplayName>烈阳术(凶凤)</DisplayName>
+      <StoryDesc>艳阳高照,不能被其他天气替换</StoryDesc>
+    </Text>
+    <Text Name="xiongfeng_suneye">
+      <DisplayName>太阳之眼</DisplayName>
+      <StoryDesc>地图温度将会不断上升</StoryDesc>
+    </Text>
+    <Text Name="zhulong_day">
+      <DisplayName>阳之永昼</DisplayName>
+    </Text>
+    <Text Name="zhulong_night">
+      <DisplayName>阴之永夜</DisplayName>
+    </Text>
+    <Text Name="zhulong_day_begin">
+      <DisplayName>阳之永昼</DisplayName>
+    </Text>
+    <Text Name="zhulong_night_begin">
+      <DisplayName>阴之永夜</DisplayName>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,91 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Place_Level1Base">
+      <Desc>1级地点模板</Desc>
+    </Text>
+    <Text Name="Place_DanXia">
+      <DisplayName>丹霞山</DisplayName>
+      <Desc>天下名山，道门十大洞天之三，丹霞洞天山门所在。其山势雄浑庄正，奇伟壮丽，以日落时绝壁丹霞的奇景闻名天下。丹霞山盛产老参，传闻其山内有一妙处唤作五龙池，丹霞洞天的天地灵根五色金莲就种植于此。 </Desc>
+    </Text>
+    <Text Name="Place_KunLun">
+      <DisplayName>昆仑山</DisplayName>
+      <Desc>亘古无双圣境，天下第一仙山，乃是神州龙脉之源，也是道门十大洞天之首：昆仑宫玉虚洞天所在。昆仑山特产石矿，更有天柱石出产。其山中有一洞穴直通龙脉，据说昆仑宫便在此龙脉洞窟中，培育天地灵根赭黄精。</Desc>
+    </Text>
+    <Text Name="Place_TianJi">
+      <DisplayName>天极峰</DisplayName>
+      <Desc>天极峰山高万仞，孤峰一座，直插云霄。神秘避世宗派极天宫就坐落在天极峰之巅。极天宫行事亦正亦邪，门下弟子皆为俊男美女，行走江湖往往引得修仙者争相追逐。天极峰盛产清心草，其山巅有一绝地，叫做飞云涧，据说极天宫拥有天地灵根琅琊果，就种植于此地绝壁之上。</Desc>
+    </Text>
+    <Text Name="Place_JiuHua">
+      <DisplayName>九华山</DisplayName>
+      <Desc>九华山九峰重叠掩映，山势幽深，乃是道门十大洞天紫霄宗所在，传说古代有仙人于九华山御龙凤登天。山中多产优质石材，甚至有人曾在山中开采到千棱之神玉，引为趣谈。</Desc>
+    </Text>
+    <Text Name="Place_LongHu">
+      <DisplayName>龙虎山</DisplayName>
+      <Desc>地处中原的道教名山，自古文人佳客络绎不绝，更有正派名门正一道坐落于此。传闻龙虎山中隐秘处有一片神木林，其中灵木神材比比皆是，龙虎山将天地灵根木枯藤种植于此。</Desc>
+    </Text>
+    <Text Name="Place_Shu">
+      <DisplayName>蜀山</DisplayName>
+      <Desc>天下第一奇山，山势险峻奇诡，猿猱难度，道门十大洞天之一的青莲洞天就坐落于蜀山深处云霭之外。蜀山自古深艰，多生龙蛇异兽，盛产良矿名泉，以之铸剑常为绝品。传闻青莲剑宗的仙人曾经得到五大神药之一朱果的仙种，将之种植于蜀山灵脉凝碧崖之上。</Desc>
+    </Text>
+    <Text Name="Place_WuLian">
+      <DisplayName>五莲山</DisplayName>
+      <Desc>地处西部边陲，山有五峰，山势远观如莲花迎风，故称五莲山，道门十大洞天之一的栖霞洞天就立派于此。五莲山以天池圣泉闻名天下，山中多有灵泉芝草，栖霞派借地利之便，其炼丹术在修行界大为有名。</Desc>
+    </Text>
+    <Text Name="Place_BaiMan">
+      <DisplayName>百蛮山</DisplayName>
+      <Desc>西方魔教之道场，乃是一座高大的石山，山上生灵罕见，铺满了一种叫血荆棘的剧毒植物，十里之外可闻腥臭扑鼻。百蛮山多生毒虫蛇蝎，最适合西方魔教的百毒真经修行。</Desc>
+    </Text>
+    <Text Name="Place_XianKong">
+      <DisplayName>陷空山</DisplayName>
+      <Desc>神州边境的一座奇山，山中有一无底大洞，直通地壳，被认为是通向大地之母怀抱的捷径，因此被一个信奉地母的名为七仟坞的邪教占为总坛。陷空山山势低平，因无底大洞中泄露的地壳元磁之气吸引，常常有流星陨落于此。</Desc>
+    </Text>
+    <Text Name="Place_Hei">
+      <DisplayName>黑山</DisplayName>
+      <Desc>北方魔教七杀魔宫所在，七杀魔宫号称天下第一魔窟，镇派法诀七杀剑诀杀伐之力天下绝伦。黑山有三柱顶峰，三山相依成三才之势，被七杀大法借势练成一座大阵，鬼神难犯。历年来，正邪两派在黑山山脉发生数次大战，至今仍然可见散落在七杀大阵中的残骨遗骸。</Desc>
+    </Text>
+    <Text Name="Place_HeHuan">
+      <DisplayName>合欢岛</DisplayName>
+      <Desc>东方魔教的大本营，乃是东海之上一座仙境圣地，灵气充裕。合欢教苦心经营百年，围绕岛屿五十里建立六欲桃花阵，常有凡人渔夫误入阵中，就会被魔法迷惑，沦为练功鼎炉。合欢岛弟子大多青春常驻，有人猜测合欢岛上应有一口地母灵液之泉眼。</Desc>
+    </Text>
+    <Text Name="Place_Desert">
+      <DisplayName>大漠</DisplayName>
+      <Desc>万里无垠的大沙漠，无尽黄沙下藏有数不尽的秘闻遗迹，传说神秘的万妖殿就在西荒大漠深处。</Desc>
+    </Text>
+    <Text Name="Place_SouthForest">
+      <DisplayName>南荒</DisplayName>
+      <Desc>神州南部的蛮荒，终年毒瘴弥漫，蛇虫鼠蚁横行。传说南荒有一绝地，称为虫谷，其中虫豸毒障弥漫，十分凶险，但其湿热之环境特别适合神药木枯藤生长。另有传闻，千年前南方魔教教祖邪帝的陵寝就藏在南荒深处。</Desc>
+    </Text>
+    <Text Name="Place_Snowfield">
+      <DisplayName>大雪原</DisplayName>
+      <Desc>北境一望无际的大雪原，冰天雪地中均为大片的人迹罕至的山脉松林，多产老参美玉，但是开采艰难。据说雪原深处有一永不冻结的灵泉玉晶潭，其中有天地灵根五色金莲生长。</Desc>
+    </Text>
+    <Text Name="Place_FertileField">
+      <DisplayName>江岸沃野</DisplayName>
+      <Desc>大江沿岸肥沃的平原，人口密集，粮食产量丰富。沃野其东有一山名卢山，山势奇绝，传闻绝壁之上有天地灵根琅琊果生长，不知真假。</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains">
+      <DisplayName>中原</DisplayName>
+      <Desc>中部高原，人口密集，盛产各类农作物，名山圣地众多，其中有一山曰炼丹峰，乃是医仙昔日培植天地灵根赭黄精之地。</Desc>
+    </Text>
+    <Text Name="Place_HeYinCity">
+      <DisplayName>河阴城</DisplayName>
+      <Desc>建立在大江沿岸的巨大城池，得益于其物产丰富，居民不愁吃穿，故而发展出浓郁的文化氛围。也因此，此处居民往往思维灵动，不拘一格。</Desc>
+    </Text>
+    <Text Name="Place_HuCity">
+      <DisplayName>观海城</DisplayName>
+      <Desc>建立于东海之畔的城池，交通发达，商业繁茂，人口非常稠密。观海城之人大多从商，这些经历让他们精于察言观色，神识过人。</Desc>
+    </Text>
+    <Text Name="Place_PanSheCity">
+      <DisplayName>盘蛇寨</DisplayName>
+      <Desc>南荒丛林的门户，也是南荒第一大城。盘蛇寨风俗敬畏厚土苍天，其居民往往也更具福缘。</Desc>
+    </Text>
+    <Text Name="Place_ShanCity">
+      <DisplayName>丰城</DisplayName>
+      <Desc>中南部的大城，其地处要道，依山而建，靠货运而繁荣。丰城人待人爽朗，很容易得到他人好感，具有独特的魅力。</Desc>
+    </Text>
+    <Text Name="Place_DaLiangCity">
+      <DisplayName>大凉城</DisplayName>
+      <Desc>西部边陲的大城，建立在中原与大沙漠交接的戈壁之上。此地盛产矿物，石料，自古民风彪悍，其居民往往身体健硕。</Desc>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,88 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="LeftoverMaterialBase" sParam="Item">
+      <Desc>用来铺地板或砌屋檐的细碎材料。</Desc>
+      <Item.FabaoSuffix>钉,镖,碎</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WoodLeftover" sParam="Item">
+      <ThingName>木角料</ThingName>
+      <Desc>混杂了碎木的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_HardWoodLeftover" sParam="Item">
+      <ThingName>金丝木角料</ThingName>
+      <Desc>混杂了碎金丝木的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>金丝木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ParasolWoodLeftover" sParam="Item">
+      <ThingName>梧桐木角料</ThingName>
+      <Desc>混杂了碎梧桐木的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>梧桐木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingWoodLeftover" sParam="Item">
+      <ThingName>灵木角料</ThingName>
+      <Desc>混杂了碎灵木的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>灵木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BrownRockLeftover" sParam="Item">
+      <ThingName>棕石角料</ThingName>
+      <Desc>混杂了碎棕石的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>棕石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRockLeftover" sParam="Item">
+      <ThingName>灰石角料</ThingName>
+      <Desc>混杂了碎灰石的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>灰石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_MarbleLeftover" sParam="Item">
+      <ThingName>大理石角料</ThingName>
+      <Desc>混杂了碎大理石的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>大理石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeLeftover" sParam="Item">
+      <ThingName>玉石角料</ThingName>
+      <Desc>混杂了碎玉的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>玉石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStoneLeftover" sParam="Item">
+      <ThingName>天柱石角料</ThingName>
+      <Desc>混杂了天柱石碎片的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>天柱石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStoneLeftover" sParam="Item">
+      <ThingName>灵石角料</ThingName>
+      <Desc>混杂了碎灵石的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>灵石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystalLeftover" sParam="Item">
+      <ThingName>灵晶角料</ThingName>
+      <Desc>混杂了碎灵晶的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>灵晶</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_IronRockLeftover" sParam="Item">
+      <ThingName>铁矿角料</ThingName>
+      <Desc>混杂了碎铁屑的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>铁制</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperRockLeftover" sParam="Item">
+      <ThingName>火铜角料</ThingName>
+      <Desc>混杂了火铜屑的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>火铜</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverRockLeftover" sParam="Item">
+      <ThingName>寒晶角料</ThingName>
+      <Desc>混杂了寒晶矿屑的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>寒晶</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelRockLeftover" sParam="Item">
+      <ThingName>玄铁角料</ThingName>
+      <Desc>混杂了玄铁矿屑的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>玄铁</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssenceLeftover" sParam="Item">
+      <ThingName>星髓角料</ThingName>
+      <Desc>混杂了星髓屑的建筑余料，可以用来铺地板或砌屋檐。</Desc>
+      <Item.BeMaterial.NamePrefix>星髓</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,16 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="IronOre" sParam="Plant">
+      <ThingName>铁矿脉</ThingName>
+      <Desc>富含铁矿的山体，可以从中开采出铁矿石。</Desc>
+    </Text>
+    <Text Name="CopperOre" sParam="Plant">
+      <ThingName>火铜矿脉</ThingName>
+      <Desc>富含火铜矿的山体，可以从中开采出火铜矿。</Desc>
+    </Text>
+    <Text Name="SilverOre" sParam="Plant">
+      <ThingName>寒晶矿脉</ThingName>
+      <Desc>富含寒晶矿的山体，可以从中开采出寒晶矿。</Desc>
+    </Text>
+  </List>
+</Texts>

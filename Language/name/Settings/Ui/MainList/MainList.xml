@@ -1,0 +1,478 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Wall">
+      <Type>结构</Type>
+    </Text>
+    <Text Name="Barrier">
+      <Type>结构</Type>
+    </Text>
+    <Text Name="Door">
+      <Type>结构</Type>
+    </Text>
+    <Text Name="WoodRoof">
+      <Type>结构</Type>
+    </Text>
+    <Text Name="StoneRoof">
+      <Type>结构</Type>
+    </Text>
+    <Text Name="WoodRoof_SpringFestival">
+      <Type>结构</Type>
+    </Text>
+    <Text Name="StoneRoof_SpringFestival">
+      <Type>结构</Type>
+    </Text>
+    <Text Name="Bed">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="Table">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="SmallTable">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="DoubleBed">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="WaterTank">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="Building_Tomb">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="Building_BigTomb">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="Building_ItemShelf">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="Building_ShuZhuangTai">
+      <Type>生活</Type>
+    </Text>
+    <Text Name="MaterialWorkPlace">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="WorkPlace">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="PuppetPlace">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="Bonfire">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="Well">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="Kitchen">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="HandWorkTable">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="WoodShed">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="StoneMaker">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="MedicineTable">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="WeaponMaker">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="Furnace">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="MillStone">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="TailorTable">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="TextileTable">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="CalligraphyTable">
+      <Type>工作</Type>
+    </Text>
+    <Text Name="BasePracticePlace">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="ExploreBackPlace">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="TrainingDummy">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="FengShui">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="RefiningCushion">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="DanStove">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="Cushion">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="Building_MagicCushion">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="TheGate">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="Building_SacrificialTable">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="Building_Zhong">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="Build_TheBigGate">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="Building_BigSwordPillar">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="SmallPool">
+      <Type>门派</Type>
+    </Text>
+    <Text Name="Candlestick">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Lantern1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Lantern">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Lantern3">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Lantern4">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Lantern5">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Lantern6">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="StreetLight">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="StreetLight1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="StreetLight2">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Lantern_S1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Flag1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Flag2">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Flag3">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_JiaShan1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_JiaShan2">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_PenZai1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_PenZai2">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Gu">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_ShiBei">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Tower2">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Tower">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_StoneMan">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_StoneLion">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_StoneLion2">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_StoneLion3">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_BigTripod">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_SmallTripod">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_BigCenser">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_SmallCenser">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_BigVase">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_SmallVase">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Screen1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_BookShelf">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Statue1">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Statue2">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="Building_Statue3">
+      <Type>装饰</Type>
+    </Text>
+    <Text Name="TicTacToe">
+      <Type>娱乐</Type>
+    </Text>
+    <Text Name="CageShelf">
+      <Type>娱乐</Type>
+    </Text>
+    <Text Name="GoTable">
+      <Type>娱乐</Type>
+    </Text>
+    <Text Name="GuzhengTable">
+      <Type>娱乐</Type>
+    </Text>
+    <Text Name="Firecracker">
+      <Type>娱乐</Type>
+    </Text>
+    <Text Name="RemoveFloor">
+      <Type>地板</Type>
+      <Display>拆除地板</Display>
+      <Desc>[color=#0000FF]拆除地板[/color]([keycode]RemoveFloor[/keycode])\n拆除人造地板。\n工作类型:筑工</Desc>
+    </Text>
+    <Text Name="Carpet1">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor1">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor2">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor3">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor4">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor5">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor6">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor7">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor8">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor9">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor10">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor11">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor12">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor13">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor14">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor15">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor16">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor17">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor18">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor19">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor20">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor21">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor22">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor23">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor24">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor25">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor26">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor27">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor28">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="Floor29">
+      <Type>地板</Type>
+    </Text>
+    <Text Name="AreaStorage">
+      <Type>区域</Type>
+      <Display>仓库</Display>
+      <Desc>拖拽以划分一个仓库，角色会将物品搬运到区域中存放。\n工作类型:苦工</Desc>
+    </Text>
+    <Text Name="AreaPlant">
+      <Type>区域</Type>
+      <Display>农田</Display>
+      <Desc>拖拽以划分一个农田，角色会在此种植对应的作物。\n工作类型:农人</Desc>
+    </Text>
+    <Text Name="DiscipleAreaPlant">
+      <Type>区域</Type>
+      <Display>药田</Display>
+      <Desc>拖拽以划分一个药田，角色会在此种植对应的仙草灵药。\n工作类型:农人</Desc>
+    </Text>
+    <Text Name="AreaBreeding">
+      <Type>区域</Type>
+      <Display>养殖区</Display>
+      <Desc>拖拽以划分一个养殖区，已驯养的动物的活动范围可以安排至此</Desc>
+    </Text>
+    <Text Name="RemoveStorageArea">
+      <Type>区域</Type>
+      <Display>移除仓库</Display>
+      <Desc>移除仓库。</Desc>
+    </Text>
+    <Text Name="RemovePlantArea">
+      <Type>区域</Type>
+      <Display>移除农田</Display>
+      <Desc>移除农田。</Desc>
+    </Text>
+    <Text Name="RemoveDiscipleAreaPlant">
+      <Type>区域</Type>
+      <Display>移除药田</Display>
+      <Desc>拆除药田。</Desc>
+    </Text>
+    <Text Name="RemoveAreaBreeding">
+      <Type>区域</Type>
+      <Display>移除养殖区</Display>
+      <Desc>拆除养殖区。</Desc>
+    </Text>
+    <Text Name="AreaTang">
+      <Type>区域</Type>
+      <Display>分堂</Display>
+      <Desc>拖拽以划分一个分堂区域，角色所属的分堂区域将有额外加成效果。</Desc>
+    </Text>
+    <Text Name="RemoveTangArea">
+      <Type>区域</Type>
+      <Display>移除分堂</Display>
+      <Desc>移除分堂区域</Desc>
+    </Text>
+    <Text Name="FillSoil">
+      <Type>区域</Type>
+    </Text>
+    <Text Name="FillShallowWater">
+      <Type>区域</Type>
+    </Text>
+    <Text Name="FillFertileSoil">
+      <Type>区域</Type>
+    </Text>
+    <Text Name="Harvest">
+      <Display>收获</Display>
+      <Desc>[color=#0000FF]收获植物[/color]([keycode]Harvest[/keycode])\n收获植物，以获得其果实产物。\n工作类型:农人</Desc>
+    </Text>
+    <Text Name="Log">
+      <Display>砍伐</Display>
+      <Desc>[color=#0000FF]砍伐树木[/color]([keycode]Log[/keycode])\n砍伐树木，以获得原木。\n工作类型:木客</Desc>
+    </Text>
+    <Text Name="Mine">
+      <Display>开采</Display>
+      <Desc>[color=#0000FF]开采矿藏[/color]([keycode]Mine[/keycode])\n开采山体矿脉，以获得石头或金属。\n工作类型:石工</Desc>
+    </Text>
+    <Text Name="Cutoff">
+      <Display>清除</Display>
+      <Desc>[color=#0000FF]清除区域[/color]([keycode]Cutoff[/keycode])\n清除区域内的所有植被等物。\n工作类型:木客</Desc>
+    </Text>
+    <Text Name="Dismantle">
+      <Display>拆除</Display>
+      <Desc>[color=#0000FF]拆除建筑[/color]([keycode]Dismantle[/keycode])\n拆除区域内的所有建筑。\n工作类型:筑工</Desc>
+    </Text>
+    <Text Name="Explore">
+      <Display>探索</Display>
+      <Desc>[color=#0000FF]探索区域[/color]([keycode]Explore[/keycode])\n探索一个被迷雾覆盖的区域。角色在探索过程中会消耗更多精力。\n工作类型:猎户</Desc>
+    </Text>
+    <Text Name="Hunting">
+      <Display>狩猎</Display>
+      <Desc>[color=#0000FF]狩猎动物[/color]([keycode]Hunting[/keycode])\n击杀并屠宰野生动物。\n工作类型:猎户</Desc>
+    </Text>
+    <Text Name="Melting">
+      <Display>熔炼</Display>
+      <Desc>[color=#0000FF]熔炼物品[/color]([keycode]Melting[/keycode])\n内门弟子将会尝试将物品熔炼为灵石。\n每500灵气可以熔炼为一个灵石。 如果是法宝，则法宝的品阶越高，熔炼出的灵石越多。</Desc>
+    </Text>
+    <Text Name="CancelCMD">
+      <Display>取消</Display>
+      <Desc>[color=#0000FF]取消命令[/color]([keycode]CancelCMD[/keycode])\n取消掉范围内的已经发布的命令。\n按住Ctrl后可用于取消物品的禁用状态</Desc>
+    </Text>
+    <Text Name="ClearPlant">
+      <Display>植物</Display>
+      <Desc>[color=#0000FF]清除植物[/color]\n清除区域内的所有植物。</Desc>
+    </Text>
+    <Text Name="ClearMine ">
+      <Display>矿石</Display>
+      <Desc>[color=#0000FF]清除矿石[/color]\n清除区域内的所有矿石。</Desc>
+    </Text>
+    <Text Name="ClearBuilding">
+      <Display>建筑</Display>
+      <Desc>[color=#0000FF]清除建筑[/color]\n清除区域内的所有建筑。</Desc>
+    </Text>
+    <Text Name="ClearFloor">
+      <Display>地板</Display>
+      <Desc>[color=#0000FF]清除地板[/color]\n清除区域内的人造地板。</Desc>
+    </Text>
+    <Text Name="ClearItem">
+      <Display>物品</Display>
+      <Desc>[color=#0000FF]清除物品[/color]\n清除区域内的所有物品。</Desc>
+    </Text>
+  </List>
+</Texts>

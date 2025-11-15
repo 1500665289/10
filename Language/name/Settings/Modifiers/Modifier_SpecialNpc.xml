@@ -1,0 +1,50 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_SpNpc_BasePropertie">
+      <DisplayName>保底属性</DisplayName>
+    </Text>
+    <Text Name="Modifier_SpNpc_BaseFightPropertie">
+      <DisplayName>基础战斗属性</DisplayName>
+    </Text>
+    <Text Name="Modifier_SpNpc_Ling">
+      <DisplayName>灵</DisplayName>
+      <Desc>此人根基深厚，灵气深不可测。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_Shield">
+      <DisplayName>护</DisplayName>
+      <Desc>此人铜躯铁干，极擅护体之术。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoAtk">
+      <DisplayName>锐</DisplayName>
+      <Desc>此人御器如雷，威力惊世骇俗。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoLing">
+      <DisplayName>重</DisplayName>
+      <Desc>此人御器如山，其势极为浑厚。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoSpeed">
+      <DisplayName>速</DisplayName>
+      <Desc>此人御器如电，其速快如奔雷。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoDisp">
+      <DisplayName>秀</DisplayName>
+      <Desc>此人御器之法华丽无双。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoNum">
+      <DisplayName>分</DisplayName>
+      <Desc>此人剑光分化，可御六合之器。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FightSkillAtk">
+      <DisplayName>法</DisplayName>
+      <Desc>此人术法威力天下无双</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FightSkillCD">
+      <DisplayName>迅</DisplayName>
+      <Desc>此人术法调息极快。</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_Comeback">
+      <DisplayName>宿敌</DisplayName>
+      <Desc>宿敌见面，仇恨之下实力比以往更胜一筹。</Desc>
+    </Text>
+  </List>
+</Texts>

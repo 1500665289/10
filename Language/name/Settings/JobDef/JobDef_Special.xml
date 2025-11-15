@@ -1,0 +1,13 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobFreePatrol">
+      <DisplayName>巡逻</DisplayName>
+    </Text>
+    <Text Name="JobFreeFollow">
+      <DisplayName>跟随</DisplayName>
+    </Text>
+    <Text Name="JobFollow">
+      <DisplayName>跟随</DisplayName>
+    </Text>
+  </List>
+</Texts>

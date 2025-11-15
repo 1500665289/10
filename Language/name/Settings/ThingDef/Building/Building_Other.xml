@@ -1,0 +1,38 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Building_Jiaolong_Body" sParam="Building">
+      <ThingName>蛟龙尸体</ThingName>
+    </Text>
+    <Text Name="Building_Dragon_Hole" sParam="Building">
+      <ThingName>神秘洞穴</ThingName>
+      <Desc>洞穴内偶尔会发出强大的意念，向你提出祭祀的要求。可以通过房间风水镇压，房间风水越好，其活性越低，提出祭祀的间隔越长。每次成功的祭祀都会增强神秘洞穴内意念，镇压的难度也会提高。</Desc>
+      <StoryBnts.0.Name>激怒</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>尝试填埋洞穴。</StoryBnts.0.Desc>
+      <StoryBnts.0.Script>local t = bind.ID; CS.Wnd_Message.Show("洞穴中的意念充满危险而强大的气息，确定要激怒它吗？（执行该命令会召唤出上古之兽，如果没有做好准备，将有可能导致灭门，请务必三思。）", 2, function(b) if (b ~= "1") then return end local hole = ThingMgr:FindThingByID(t); if (hole == nil) then return end hole.luaclass:GetTable():BornYaoLong() end)</StoryBnts.0.Script>
+    </Text>
+    <Text Name="Building_Xiongfeng_dan" sParam="Building">
+      <ThingName>凶凤之卵</ThingName>
+      <Desc>极热且发着耀眼的光芒，它正在吸收灵气并尝试复活。</Desc>
+    </Text>
+    <Text Name="Building_Xiongfeng_danbroken" sParam="Building">
+      <ThingName>凶凤之卵(死亡)</ThingName>
+      <Desc>已死亡</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yingdan" sParam="Building">
+      <ThingName>阴之卵</ThingName>
+      <Desc>有什么东西正试图孵化出来，需要用大吉风水镇压。</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yangdan" sParam="Building">
+      <ThingName>阳之卵</ThingName>
+      <Desc>有什么东西正试图孵化出来，需要用大凶风水镇压。</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yingdan_broken" sParam="Building">
+      <ThingName>阴之卵(死亡)</ThingName>
+      <Desc>已死亡</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yangdan_broken" sParam="Building">
+      <ThingName>阳之卵(死亡)</ThingName>
+      <Desc>已死亡</Desc>
+    </Text>
+  </List>
+</Texts>

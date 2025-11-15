@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Dandelion" sParam="Plant">
+      <ThingName>蒲公英</ThingName>
+      <Desc>美丽的小花。</Desc>
+    </Text>
+    <Text Name="Flower1" sParam="Plant">
+      <ThingName>春希草</ThingName>
+      <Desc>美丽的植物，比较好看，有微弱的木属性。</Desc>
+    </Text>
+    <Text Name="Flower2" sParam="Plant">
+      <ThingName>金霞花</ThingName>
+      <Desc>美丽的植物，比较好看，有微弱的金属性。</Desc>
+    </Text>
+    <Text Name="Flower3" sParam="Plant">
+      <ThingName>赤染香</ThingName>
+      <Desc>美丽的植物，比较好看，有微弱的火属性。</Desc>
+    </Text>
+    <Text Name="Flower4" sParam="Plant">
+      <ThingName>水蓝仙</ThingName>
+      <Desc>美丽的植物，比较好看，有微弱的水属性。</Desc>
+    </Text>
+    <Text Name="Flower5" sParam="Plant">
+      <ThingName>沉烟花</ThingName>
+      <Desc>美丽的植物，比较好看，有微弱的土属性。</Desc>
+    </Text>
+  </List>
+</Texts>

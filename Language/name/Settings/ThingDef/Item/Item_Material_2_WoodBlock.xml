@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="WoodBlockBase" sParam="Item">
+      <Item.FabaoSuffix>木,柱,桩</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_RoughWoodBlock" sParam="Item">
+      <ThingName>木料</ThingName>
+      <Desc>原木制成的木料，可以更有效地用于制作。</Desc>
+      <Item.BeMaterial.NamePrefix>木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_HardWoodBlock" sParam="Item">
+      <ThingName>金丝木料</ThingName>
+      <Desc>金丝灵木制成的木料，可以更有效地用于制作。</Desc>
+      <Item.BeMaterial.NamePrefix>金丝木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ParasolWoodBlock" sParam="Item">
+      <ThingName>梧桐木料</ThingName>
+      <Desc>梧桐木制成的木料，可以更有效地用于制作。</Desc>
+      <Item.BeMaterial.NamePrefix>梧桐木</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingWoodBlock" sParam="Item">
+      <ThingName>灵木料</ThingName>
+      <Desc>灵木制成的木料，可以更有效地用于制作。</Desc>
+      <Item.BeMaterial.NamePrefix>灵木</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

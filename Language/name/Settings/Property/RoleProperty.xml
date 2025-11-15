@@ -1,0 +1,104 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LeadExperienceAddtion">
+      <DisplayName>经历点数加成</DisplayName>
+    </Text>
+    <Text Name="BaseWorkSpeed">
+      <DisplayName>基础工作速度</DisplayName>
+      <DisplayValue>{0}点/秒</DisplayValue>
+      <Desc>人物的基础工作速度，每秒完成多少工作量的工作。</Desc>
+    </Text>
+    <Text Name="BaseEmotionAddV">
+      <DisplayName>心情基础值</DisplayName>
+      <DisplayValue>{0}点</DisplayValue>
+      <Desc>人物心情的基础值。</Desc>
+    </Text>
+    <Text Name="MaxAge">
+      <DisplayName>寿元</DisplayName>
+      <DisplayValue>{0}年</DisplayValue>
+      <Desc>人物的可以活到的最高年龄。</Desc>
+    </Text>
+    <Text Name="AgeCostSpeed">
+      <DisplayName>寿元流逝速度</DisplayName>
+      <Desc>寿命自然流逝时的速度</Desc>
+    </Text>
+    <Text Name="VisionRadius">
+      <DisplayName>感知范围</DisplayName>
+      <DisplayValue>{0:N2}米</DisplayValue>
+      <Desc>人物的感知周围环境的范围。</Desc>
+    </Text>
+    <Text Name="MoveSpeed">
+      <DisplayName>移动速度</DisplayName>
+      <DisplayValue>{0:N2}米/秒</DisplayValue>
+      <Desc>人物的移动速度。</Desc>
+    </Text>
+    <Text Name="ComfyTMin">
+      <DisplayName>最低舒适温度</DisplayName>
+      <Desc>人物感到舒适的最低温度。</Desc>
+    </Text>
+    <Text Name="ComfyTMax">
+      <DisplayName>最高舒适温度</DisplayName>
+      <Desc>人物感到舒适的最高温度。</Desc>
+    </Text>
+    <Text Name="ToleranceTMin">
+      <DisplayName>最低极限温度</DisplayName>
+      <Desc>不影响人物健康的最低温度。</Desc>
+    </Text>
+    <Text Name="ToleranceTMax">
+      <DisplayName>最高极限温度</DisplayName>
+      <Desc>不影响人物健康的最高温度。</Desc>
+    </Text>
+    <Text Name="RecoveryPower">
+      <DisplayName>自然恢复力</DisplayName>
+      <DisplayValue>{0}％/秒</DisplayValue>
+      <Desc>人物自然恢复伤病的速度。</Desc>
+    </Text>
+    <Text Name="PainTolerance">
+      <DisplayName>疼痛极限</DisplayName>
+      <Desc>人物对疼痛的忍耐程度。</Desc>
+    </Text>
+    <Text Name="IntelligenceSkillEXPConstant">
+      <DisplayName>学习速度</DisplayName>
+      <Desc>修行者从实践中获取经验的速度。</Desc>
+    </Text>
+    <Text Name="NightmareHappenPercent">
+      <DisplayName>噩梦发生几率</DisplayName>
+    </Text>
+    <Text Name="NiceDreamHappenPercent">
+      <DisplayName>美梦发生几率</DisplayName>
+    </Text>
+    <Text Name="FatigueConsumeConstant">
+      <DisplayName>精力消耗速度</DisplayName>
+    </Text>
+    <Text Name="FatigueRecoveryConstant">
+      <DisplayName>精力补充加成</DisplayName>
+    </Text>
+    <Text Name="NutritionConsumeConstant">
+      <DisplayName>食物消耗速度</DisplayName>
+    </Text>
+    <Text Name="NutritionRecoveryConstant">
+      <DisplayName>食物补充加成</DisplayName>
+    </Text>
+    <Text Name="WaterConsumeConstant">
+      <DisplayName>饮水消耗速度</DisplayName>
+    </Text>
+    <Text Name="WaterRecoveryConstant">
+      <DisplayName>饮水补充加成</DisplayName>
+    </Text>
+    <Text Name="HappyConsumeConstant">
+      <DisplayName>娱乐消耗速度</DisplayName>
+    </Text>
+    <Text Name="HappyRecoveryConstant">
+      <DisplayName>娱乐补充加成</DisplayName>
+    </Text>
+    <Text Name="PracticeFoodConsumeConstant">
+      <DisplayName>精元消耗速度</DisplayName>
+    </Text>
+    <Text Name="PracticeFoodRecoveryConstant">
+      <DisplayName>精元补充加成</DisplayName>
+    </Text>
+    <Text Name="MagicDamageRecoveryPowerAddV">
+      <DisplayName>内门伤自然恢复力</DisplayName>
+    </Text>
+  </List>
+</Texts>

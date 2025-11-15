@@ -1,0 +1,61 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobPracticeFeeling">
+      <DisplayName>感悟</DisplayName>
+    </Text>
+    <Text Name="JobPractice">
+      <DisplayName>修炼</DisplayName>
+    </Text>
+    <Text Name="JobBrokenNeck">
+      <DisplayName>突破</DisplayName>
+    </Text>
+    <Text Name="JobPracticeSkill">
+      <DisplayName>练习</DisplayName>
+    </Text>
+    <Text Name="JobReceiveApprentice">
+      <DisplayName>收徒</DisplayName>
+    </Text>
+    <Text Name="JobBuildBody">
+      <DisplayName>铸体</DisplayName>
+    </Text>
+    <Text Name="JobRobBody">
+      <DisplayName>夺舍</DisplayName>
+    </Text>
+    <Text Name="JobAbsorbLing">
+      <DisplayName>吸灵</DisplayName>
+    </Text>
+    <Text Name="JobRefiningFabao">
+      <DisplayName>炼制法宝</DisplayName>
+    </Text>
+    <Text Name="JobPaintCharm">
+      <DisplayName>绘制符咒</DisplayName>
+    </Text>
+    <Text Name="JobTeachHim">
+      <DisplayName>传授秘籍</DisplayName>
+    </Text>
+    <Text Name="JobLeave2Explore">
+      <DisplayName>历练</DisplayName>
+    </Text>
+    <Text Name="JobMasterHelp">
+      <DisplayName>护法</DisplayName>
+    </Text>
+    <Text Name="JobFeelEsoterica">
+      <DisplayName>参悟秘籍</DisplayName>
+    </Text>
+    <Text Name="JobAbsorbGong">
+      <DisplayName>获取修为</DisplayName>
+    </Text>
+    <Text Name="JobMelting">
+      <DisplayName>熔炼</DisplayName>
+    </Text>
+    <Text Name="JobEatPracticeFood">
+      <DisplayName>服用</DisplayName>
+    </Text>
+    <Text Name="JobJiangdao">
+      <DisplayName>讲道</DisplayName>
+    </Text>
+    <Text Name="JobMagicNormal">
+      <DisplayName>神通通用</DisplayName>
+    </Text>
+  </List>
+</Texts>

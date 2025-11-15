@@ -1,0 +1,21 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="FaBaoBase" sParam="Item">
+      <ThingName>法宝</ThingName>
+    </Text>
+    <Text Name="FaBaoTest" sParam="Item">
+      <ThingName>测试法宝</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>震伤</Item.Equip.AtkDamage.0.DescTags>
+    </Text>
+    <Text Name="FightFaBao" sParam="Item">
+      <ThingName>战斗法宝模板</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>震伤</Item.Equip.AtkDamage.0.DescTags>
+    </Text>
+    <Text Name="TreasureFabao" sParam="Item">
+      <ThingName>宝物法宝模板</ThingName>
+    </Text>
+    <Text Name="JieCloud" sParam="Item">
+      <ThingName>劫云</ThingName>
+    </Text>
+  </List>
+</Texts>

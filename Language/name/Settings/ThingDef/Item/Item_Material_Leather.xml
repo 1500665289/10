@@ -1,0 +1,48 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="LeatherBase" sParam="Item">
+      <Item.FabaoSuffix>革,罩,障</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BoarLeather" sParam="Item">
+      <ThingName>野猪皮</ThingName>
+      <Desc>野猪的皮，质地粗糙，但是比较结实。</Desc>
+      <Item.BeMaterial.NamePrefix>野猪皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_RabbitLeather" sParam="Item">
+      <ThingName>兔皮</ThingName>
+      <Desc>兔子的毛皮，毛质柔软，十分温暖。</Desc>
+      <Item.BeMaterial.NamePrefix>兔皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BearLeather" sParam="Item">
+      <ThingName>熊皮</ThingName>
+      <Desc>熊的毛皮，毛质柔软，十分温暖。</Desc>
+      <Item.BeMaterial.NamePrefix>熊皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_WolfLeather" sParam="Item">
+      <ThingName>狼皮</ThingName>
+      <Desc>一块狼皮，结实耐用。</Desc>
+      <Item.BeMaterial.NamePrefix>狼皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_FeiLeather" sParam="Item">
+      <ThingName>蜚之皮</ThingName>
+      <Desc>妖兽蜚的毛皮，含有神奇的力量，冬暖夏凉，甚至可以隔绝灵气造成的伤害。</Desc>
+      <Item.BeMaterial.NamePrefix>蜚皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LuShuLeather" sParam="Item">
+      <ThingName>鹿蜀之皮</ThingName>
+      <Desc>灵兽鹿蜀的毛皮，含有神奇的力量，冬暖夏凉，甚至可以隔绝灵气造成的伤害。</Desc>
+      <Item.BeMaterial.NamePrefix>鹿蜀皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YaoLeather" sParam="Item">
+      <ThingName>妖化的兽皮</ThingName>
+      <Desc>妖兽的毛皮，蕴含妖力，冬暖夏凉，甚至可以隔绝灵气造成的伤害。</Desc>
+      <Item.BeMaterial.NamePrefix>妖皮</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YaoLeather1" sParam="Item">
+      <ThingName>妖兽的韧皮</ThingName>
+      <Desc>大妖的坚韧皮，蕴含庞大的妖力，冬暖夏凉，甚至可以有效隔绝灵气造成的伤害。</Desc>
+      <Item.BeMaterial.NamePrefix>妖韧皮</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

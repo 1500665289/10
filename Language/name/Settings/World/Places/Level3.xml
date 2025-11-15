@@ -1,0 +1,43 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Place_Level3Base">
+      <Desc>3级地点模板</Desc>
+    </Text>
+    <Text Name="Place_QingLianShan">
+      <DisplayName>青莲山</DisplayName>
+      <Desc>此地乃是青莲仙人飞升前隐居之所，藏在南海一滴壬癸真水中。如无秘法指引，不可能找得到这座仙山。</Desc>
+    </Text>
+    <Text Name="Place_ChiLianYuan">
+      <DisplayName>琼楼</DisplayName>
+      <Desc>此地乃是本世界第一位飞升的仙人南宫红留下的别府，藏于海天之间一方仙家洞天之中，若没有传承秘法，不可能找到此地。</Desc>
+    </Text>
+    <Text Name="Place_YuLun">
+      <DisplayName>玉轮仙府（重做中）</DisplayName>
+    </Text>
+    <Text Name="Place_LongTai">
+      <DisplayName>龙台</DisplayName>
+      <Desc>传闻昔日龙族在龙台藏有万千宝藏，并施加无数禁制封印。如今岁月流逝，再加上千年灵潮的冲击，这些禁制大多失效，不乏有人冒险入龙台求取机缘。</Desc>
+    </Text>
+    <Text Name="Place_XuanKongDong">
+      <DisplayName>玄空洞</DisplayName>
+      <Desc>古仙袁若雪归隐之处，传说袁若雪将毕生珍藏都留在这座别府，留给后世有缘人。常有初出茅庐的正道修行者来此处撞撞机缘。</Desc>
+    </Text>
+    <Text Name="Place_JiangYuanMiJing">
+      <DisplayName>江源秘境（重做中）</DisplayName>
+    </Text>
+    <Text Name="Place_TianKeng">
+      <DisplayName>天坑（重做中）</DisplayName>
+    </Text>
+    <Text Name="Place_GuZhanChang">
+      <DisplayName>仙魔战场</DisplayName>
+      <Desc>上古时代末期第一次仙魔大战的战场遗迹，其中珍藏无数，但也密布时空破片，凶险异常。彼时修行界渐渐诞生正邪之分，古修士之间争端愈演越烈，最终于南陆爆发决战。此战持续月余，生灵涂炭。天地间阴阳之道于此崩裂，竟然于人间显化出烛龙之真形。烛龙一怒，陆沉海升，南陆崩裂，终结了仙魔第一次大战。这也是如今南荒之地的由来。</Desc>
+    </Text>
+    <Text Name="Place_YiJieLieFeng">
+      <DisplayName>异界裂缝</DisplayName>
+      <Desc>传说这片破碎的空间可以通向各个异常的时空，乃是上古第二次仙魔大战的产物，数千年来消失无踪，谁料此刻竟然再度现世。不过此地异常凶险，如无特殊机缘，就算大罗金仙也会失陷其中。</Desc>
+    </Text>
+    <Text Name="Place_ShengDianYiJi">
+      <DisplayName>圣殿遗迹（重做中）</DisplayName>
+    </Text>
+  </List>
+</Texts>

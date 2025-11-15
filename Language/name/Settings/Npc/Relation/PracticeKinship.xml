@@ -1,0 +1,44 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="PracticeMaster">
+      <DisplayNameF>师父</DisplayNameF>
+      <DisplayNameM>师父</DisplayNameM>
+    </Text>
+    <Text Name="PracticeChild">
+      <DisplayNameF>徒弟</DisplayNameF>
+      <DisplayNameM>徒弟</DisplayNameM>
+    </Text>
+    <Text Name="PracticeMasterMaster">
+      <DisplayNameF>太师父</DisplayNameF>
+      <DisplayNameM>太师父</DisplayNameM>
+    </Text>
+    <Text Name="PracticeChildChild">
+      <DisplayNameF>徒孙</DisplayNameF>
+      <DisplayNameM>徒孙</DisplayNameM>
+    </Text>
+    <Text Name="PracticeBrother">
+      <DisplayNameF>师姐,师妹</DisplayNameF>
+      <DisplayNameM>师兄,师弟</DisplayNameM>
+    </Text>
+    <Text Name="PracticeOtherBrother">
+      <DisplayNameF>师姐,师妹</DisplayNameF>
+      <DisplayNameM>师兄,师弟</DisplayNameM>
+    </Text>
+    <Text Name="PracticeOtherMaster">
+      <DisplayNameF>小师姑,师姑</DisplayNameF>
+      <DisplayNameM>小师叔,师叔</DisplayNameM>
+    </Text>
+    <Text Name="PracticeOtherChild">
+      <DisplayNameF>师侄</DisplayNameF>
+      <DisplayNameM>师侄</DisplayNameM>
+    </Text>
+    <Text Name="PracticeOtherMasterMaster">
+      <DisplayNameF>师祖</DisplayNameF>
+      <DisplayNameM>师祖</DisplayNameM>
+    </Text>
+    <Text Name="PracticeOtherChildChild">
+      <DisplayNameF>徒孙</DisplayNameF>
+      <DisplayNameM>徒孙</DisplayNameM>
+    </Text>
+  </List>
+</Texts>

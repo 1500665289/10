@@ -1,0 +1,57 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="RockBase" sParam="Item">
+      <Item.FabaoSuffix>石,印,碑,珏,圭,阙,镇</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BrownRock" sParam="Item">
+      <ThingName>棕石</ThingName>
+      <Desc>棕色的岩石，十分常见。</Desc>
+      <Item.BeMaterial.NamePrefix>棕石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRock" sParam="Item">
+      <ThingName>灰石</ThingName>
+      <Desc>灰色的岩石，十分常见。</Desc>
+      <Item.BeMaterial.NamePrefix>灰石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Marble" sParam="Item">
+      <ThingName>大理石</ThingName>
+      <Desc>大理石，常见的石材，纹理比较美观。</Desc>
+      <Item.BeMaterial.NamePrefix>大理石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Jade" sParam="Item">
+      <ThingName>玉石</ThingName>
+      <Desc>质细而坚硬的石头，有光泽，略透明，十分美观而富有灵性。</Desc>
+      <Item.BeMaterial.NamePrefix>玉</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeEssence" sParam="Item">
+      <ThingName>玉髓</ThingName>
+      <Desc>玉石的精华，质轻而光滑，非常美丽，常用来做高端装饰品，也可入药。</Desc>
+      <Item.BeMaterial.NamePrefix>玉髓</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StoneEssence" sParam="Item">
+      <ThingName>石髓</ThingName>
+      <Desc>石头的精华，轻盈而坚硬，可用来入药。</Desc>
+      <Item.BeMaterial.NamePrefix>石髓</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStone" sParam="Item">
+      <ThingName>天柱石</ThingName>
+      <Desc>罕见的岩石，传说是天柱之上挖掘出的石块，蕴含磅礴的土属性灵气。</Desc>
+      <Item.BeMaterial.NamePrefix>天柱石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ExtremeJade" sParam="Item">
+      <ThingName>千棱神玉</ThingName>
+      <Desc>修行界趋之若鹜的珍宝，天然呈现柱状结晶，有超群的灵气适应性。</Desc>
+      <Item.BeMaterial.NamePrefix>千棱玉</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStone" sParam="Item">
+      <ThingName>灵石</ThingName>
+      <Desc>灵气高度凝聚而成的固体，可以服用恢复500点灵气，并在一段时间增强对灵气的亲和。</Desc>
+      <Item.BeMaterial.NamePrefix>灵石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystal" sParam="Item">
+      <ThingName>灵晶</ThingName>
+      <Desc>灵气高度凝聚而成的结晶体，可以服用恢复20000点灵气，并在一段时间大幅增强对灵气的亲和。</Desc>
+      <Item.BeMaterial.NamePrefix>灵晶</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

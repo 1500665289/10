@@ -1,0 +1,114 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Hungry1">
+      <DisplayName>饿疯了</DisplayName>
+      <Desc>拜托，随便让我吃点啥都行。</Desc>
+      <StoryDesc>正因过度饥饿而低声呻吟</StoryDesc>
+    </Text>
+    <Text Name="Hungry2">
+      <DisplayName>非常饿</DisplayName>
+      <Desc>好饿好饿好饿，我要吃东西。</Desc>
+      <StoryDesc>正因十分饥饿而揉着肚子</StoryDesc>
+    </Text>
+    <Text Name="Hungry3">
+      <DisplayName>饥饿</DisplayName>
+      <Desc>饿了，是不是该找点东西吃？</Desc>
+      <StoryDesc>正因饥饿而有气无力的低着头</StoryDesc>
+    </Text>
+    <Text Name="Hungry4">
+      <DisplayName>腹胀</DisplayName>
+      <Desc>吃太多了，感觉好难受。</Desc>
+      <StoryDesc>正因吃的太多而面露痛苦扶着腰</StoryDesc>
+    </Text>
+    <Text Name="Thirsty1">
+      <DisplayName>极度口渴</DisplayName>
+      <Desc>太渴了，感觉灵魂都要出窍了。</Desc>
+      <StoryDesc>正按住已经因过度口渴而干裂的嘴唇</StoryDesc>
+    </Text>
+    <Text Name="Thirsty2">
+      <DisplayName>非常渴</DisplayName>
+      <Desc>我需要水，拜托。</Desc>
+      <StoryDesc>正因十分口渴而发出嘶哑的声音</StoryDesc>
+    </Text>
+    <Text Name="Thirsty3">
+      <DisplayName>口渴</DisplayName>
+      <Desc>口干舌燥，有点水喝就好了。</Desc>
+      <StoryDesc>正因口渴而吃力的吞咽</StoryDesc>
+    </Text>
+    <Text Name="Fatigue1">
+      <DisplayName>精疲力竭</DisplayName>
+      <Desc>太累了，我觉得我下一秒就会睡着。</Desc>
+      <StoryDesc>正因精疲力竭而昏昏欲睡</StoryDesc>
+    </Text>
+    <Text Name="Fatigue2">
+      <DisplayName>非常疲劳</DisplayName>
+      <Desc>我觉得我再不睡觉休息就要昏倒了。</Desc>
+      <StoryDesc>正因非常疲劳而揉了揉张不开的眼睛</StoryDesc>
+    </Text>
+    <Text Name="Fatigue3">
+      <DisplayName>疲劳</DisplayName>
+      <Desc>有点累， 想睡一会。</Desc>
+      <StoryDesc>正因疲劳而打了个哈欠</StoryDesc>
+    </Text>
+    <Text Name="Entertainment1">
+      <DisplayName>极度无聊</DisplayName>
+      <Desc>这日子过得太无聊了，找不到活着的意义了。</Desc>
+      <StoryDesc>正因极度无聊而烦躁</StoryDesc>
+    </Text>
+    <Text Name="Entertainment2">
+      <DisplayName>枯燥</DisplayName>
+      <Desc>好想做点有趣的事，这枯燥的生活什么时候到头啊。</Desc>
+      <StoryDesc>正因枯燥的生活而甩了甩手</StoryDesc>
+    </Text>
+    <Text Name="Entertainment3">
+      <DisplayName>无聊</DisplayName>
+      <Desc>最近实在是有点无聊，要不要找点乐子？</Desc>
+      <StoryDesc>正因无聊而不耐烦的摇头</StoryDesc>
+    </Text>
+    <Text Name="Entertainment4">
+      <DisplayName>平淡</DisplayName>
+      <Desc>波澜不惊的生活，也还不错？</Desc>
+      <StoryDesc>正因平淡的生活而一脸淡定</StoryDesc>
+    </Text>
+    <Text Name="Entertainment5">
+      <DisplayName>有趣</DisplayName>
+      <Desc>生活中充满了乐趣，这样的日子真的很快乐。</Desc>
+      <StoryDesc>正因有趣的生活而元气十足</StoryDesc>
+    </Text>
+    <Text Name="Entertainment6">
+      <DisplayName>多姿多彩</DisplayName>
+      <Desc>丰富多彩的生活，让人期待每一天。</Desc>
+      <StoryDesc>正因多姿多彩的生活而兴高采烈</StoryDesc>
+    </Text>
+    <Text Name="JoinSchool">
+      <DisplayName>初入山门</DisplayName>
+      <Desc>我被收下了，我也要成为仙人了！</Desc>
+      <StoryDesc>正因刚被收留而兴奋</StoryDesc>
+    </Text>
+    <Text Name="NoTool">
+      <DisplayName>需要工具</DisplayName>
+      <Desc>用手居然也能[TXT]？但这也太疼了。</Desc>
+      <StoryDesc>正因为没有合适的工具而充满怨言</StoryDesc>
+    </Text>
+    <Text Name="BeKick">
+      <DisplayName>被驱逐</DisplayName>
+      <Desc>我做错了什么，为什么要这样对我？</Desc>
+      <StoryDesc>正因被逐出门派而怒气冲冲</StoryDesc>
+    </Text>
+    <Text Name="Iamdying">
+      <DisplayName>寿元将尽</DisplayName>
+      <Desc>我要死了</Desc>
+      <StoryDesc>正因寿元将尽而焦虑不堪</StoryDesc>
+    </Text>
+    <Text Name="WalkerBeHelp">
+      <DisplayName>被帮助</DisplayName>
+      <Desc>这个世界还是好人多啊</Desc>
+      <StoryDesc>正因被帮助而神色感激</StoryDesc>
+    </Text>
+    <Text Name="WalkerBeKick">
+      <DisplayName>被驱逐</DisplayName>
+      <Desc>这个地方的人真是不可理喻</Desc>
+      <StoryDesc>正因被下逐客令而怒气冲冲</StoryDesc>
+    </Text>
+  </List>
+</Texts>

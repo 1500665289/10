@@ -1,0 +1,91 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobMine">
+      <DisplayName>挖矿</DisplayName>
+    </Text>
+    <Text Name="JobCarry">
+      <DisplayName>搬运</DisplayName>
+    </Text>
+    <Text Name="JobBuild">
+      <DisplayName>建造</DisplayName>
+    </Text>
+    <Text Name="JobFixBuilding">
+      <DisplayName>修理</DisplayName>
+    </Text>
+    <Text Name="JobMoveBuilding">
+      <DisplayName>移动建筑</DisplayName>
+    </Text>
+    <Text Name="JobSetupBuilding">
+      <DisplayName>安装建筑</DisplayName>
+    </Text>
+    <Text Name="JobPlant">
+      <DisplayName>种植</DisplayName>
+    </Text>
+    <Text Name="JobOutFire">
+      <DisplayName>灭火</DisplayName>
+    </Text>
+    <Text Name="JobHarvest">
+      <DisplayName>收获</DisplayName>
+    </Text>
+    <Text Name="JobCutoff">
+      <DisplayName>移除</DisplayName>
+    </Text>
+    <Text Name="JobCutoffTree">
+      <DisplayName>砍伐</DisplayName>
+    </Text>
+    <Text Name="JobSeachItem">
+      <DisplayName>搜索</DisplayName>
+    </Text>
+    <Text Name="JobSeachNpc">
+      <DisplayName>搜索</DisplayName>
+    </Text>
+    <Text Name="JobCarryOut">
+      <DisplayName>搬开</DisplayName>
+    </Text>
+    <Text Name="JobDismantle">
+      <DisplayName>拆除</DisplayName>
+    </Text>
+    <Text Name="JobMakeItem">
+      <DisplayName>制造</DisplayName>
+    </Text>
+    <Text Name="JobRemoveFloor">
+      <DisplayName>移除地板</DisplayName>
+    </Text>
+    <Text Name="JobTreatHim">
+      <DisplayName>治疗</DisplayName>
+    </Text>
+    <Text Name="JobCarryToBed">
+      <DisplayName>搬人上床</DisplayName>
+    </Text>
+    <Text Name="JobFeedHim">
+      <DisplayName>照顾</DisplayName>
+    </Text>
+    <Text Name="JobCarryWater">
+      <DisplayName>挑水</DisplayName>
+    </Text>
+    <Text Name="JobExplore">
+      <DisplayName>探索</DisplayName>
+    </Text>
+    <Text Name="JobBuryHim">
+      <DisplayName>埋葬</DisplayName>
+    </Text>
+    <Text Name="JobHunting">
+      <DisplayName>狩猎</DisplayName>
+    </Text>
+    <Text Name="JobSlaughter">
+      <DisplayName>屠宰</DisplayName>
+    </Text>
+    <Text Name="JobKill">
+      <DisplayName>击杀</DisplayName>
+    </Text>
+    <Text Name="JobMoveNpc">
+      <DisplayName>搬运</DisplayName>
+    </Text>
+    <Text Name="JobCleanFloor">
+      <DisplayName>清洁</DisplayName>
+    </Text>
+    <Text Name="JobSacrifice">
+      <DisplayName>献祭</DisplayName>
+    </Text>
+  </List>
+</Texts>

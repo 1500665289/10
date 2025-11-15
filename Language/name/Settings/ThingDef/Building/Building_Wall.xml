@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Wall" sParam="Building">
+      <ThingName>墙</ThingName>
+      <Desc>基本的建筑结构，可以和山体一起围成封闭的房屋。房间最小需要3格，最大不能超过400格。</Desc>
+    </Text>
+    <Text Name="Barrier" sParam="Building">
+      <ThingName>栅栏</ThingName>
+      <Desc>用来分割区域的简易木质栏杆，无法围成房间。</Desc>
+    </Text>
+    <Text Name="Door" sParam="Building">
+      <ThingName>门</ThingName>
+      <Desc>基本的结构建筑，可供人进出房间。\n(同方向且连在一起的门视为一个门)</Desc>
+    </Text>
+    <Text Name="Door_SpringFestival" sParam="Building">
+      <ThingName>门</ThingName>
+      <Desc>基本的结构建筑，可供人进出房间。张贴了福字，增添了喜庆气息。\n(同方向且连在一起的门视为一个门)</Desc>
+    </Text>
+    <Text Name="Firecracker" sParam="Building">
+      <ThingName>烟花-龙歌</ThingName>
+      <Desc>充满喜庆的烟花，点燃后会引燃周围三格最近的烟花。据说当同时有9个烟花在夜空下燃放时，可能会有神奇的事情发生。</Desc>
+    </Text>
+  </List>
+</Texts>

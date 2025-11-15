@@ -1,0 +1,95 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Cooking">
+      <Events.1.Story>[rand_lable=desc_time,desc_weather]，[name]在烹饪[obj]时，突然很想家。</Events.1.Story>
+      <Events.2.Story>[rand_lable=desc_time,desc_weather]，[name]在烹饪[obj]时，脑海中突然浮现[obj_friend]的模样。</Events.2.Story>
+      <Events.3.Story>[rand_lable=desc_time,desc_weather]，[name]在烹饪[obj]时，突然觉得旁边的[obj_nearthing]很有意思……</Events.3.Story>
+      <Events.4.Story>[rand_lable=desc_time,desc_weather]，[name]在烹饪[obj]时，突然想吃[obj_food]。</Events.4.Story>
+      <Events.5.Story>[rand_lable=desc_time,desc_weather]，[name]静静的烹饪[obj]，突然想起自己的[obj_relation]。</Events.5.Story>
+      <Events.6.Story>[rand_lable=desc_time,desc_weather]，[name]一个人烹饪[obj]，突然思绪万千。</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_weather]，[name]在烹饪[obj]时，突然流下眼泪。</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_weather]，[name]在烹饪[obj]时，突然觉得莫名烦躁。</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_weather]，[name]在烹饪[obj]时，突然想去[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]看看。</Events.9.Story>
+      <Events.10.Story>[name]虽然被[obj_badmood]的情绪困扰，但还是认真的做完[obj]。</Events.10.Story>
+      <Events.11.Story>[name]因[obj_goodmood]心情不错，烹饪[obj]时都忍不住哼着小曲儿。</Events.11.Story>
+    </Text>
+    <Text Name="CookingFailed">
+      <Events.1.Story>[name]尝了一口自己做的[obj]，差点吐出来。真的太难吃了！</Events.1.Story>
+      <Events.2.Story>[name]做[obj]时，不小心把一盒盐全倒了进去，真刺激。</Events.2.Story>
+      <Events.3.Story>[name]做[obj]时，发了发呆，等回过神来，食物已经变成了一坨漆黑。</Events.3.Story>
+      <Events.4.Story>[name]虽然被[obj_badmood]的情绪困扰，果然把[obj]做砸了。</Events.4.Story>
+      <Events.5.Story>[name]因[obj_goodmood]心情不错，烹饪[obj]时都忍不住哼着小曲儿，结果得意忘形，把[obj]做砸了。</Events.5.Story>
+    </Text>
+    <Text Name="CookingSucceed">
+      <Events.1.Story>[name]看着自己做出来的[obj]，十分满意。</Events.1.Story>
+      <Events.2.Story>[name]看着自己做出来的[obj]，忍不住先尝了两口，真好吃！</Events.2.Story>
+      <Events.3.Story>[name]虽然被[obj_badmood]的情绪困扰，但他还是把[obj]做的十分美味。</Events.3.Story>
+      <Events.4.Story>[name]因[obj_goodmood]心情不错，烹饪[obj]时都忍不住哼着小曲儿，果然把[obj]做的更好吃了。</Events.4.Story>
+    </Text>
+    <Text Name="DrugProduct">
+      <Events.1.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然很想家。</Events.1.Story>
+      <Events.2.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，脑海中突然浮现[obj_friend]的模样。</Events.2.Story>
+      <Events.3.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然觉得旁边的[obj_nearthing]很有意思……</Events.3.Story>
+      <Events.4.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然想吃[obj_food]。</Events.4.Story>
+      <Events.5.Story>[rand_lable=desc_time,desc_weather]，[name]静静的制作[obj]，突然想起自己的[obj_relation]。</Events.5.Story>
+      <Events.6.Story>[rand_lable=desc_time,desc_weather]，[name]一个人制作[obj]，突然思绪万千。</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然流下眼泪。</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然觉得莫名烦躁。</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然想去[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]看看。</Events.9.Story>
+      <Events.10.Story>[name]虽然被[obj_badmood]的情绪困扰，但还是认真的做完[obj]。</Events.10.Story>
+      <Events.11.Story>[name]因[obj_goodmood]心情不错，制作[obj]时都忍不住哼着小曲儿。</Events.11.Story>
+    </Text>
+    <Text Name="Handwork">
+      <Events.2.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然很想家。</Events.2.Story>
+      <Events.3.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，脑海中突然浮现[obj_friend]的模样。</Events.3.Story>
+      <Events.4.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然觉得旁边的[obj_nearthing]很有意思……</Events.4.Story>
+      <Events.5.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然想吃[obj_food]。</Events.5.Story>
+      <Events.6.Story>[rand_lable=desc_time,desc_weather]，[name]静静的制作[obj]，突然想起自己的[obj_relation]。</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_weather]，[name]一个人制作[obj]，突然思绪万千。</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然流下眼泪。</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然觉得莫名烦躁。</Events.9.Story>
+      <Events.10.Story>[rand_lable=desc_time,desc_weather]，[name]在制作[obj]时，突然想去[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]看看。</Events.10.Story>
+      <Events.11.Story>[name]虽然被[obj_badmood]的情绪困扰，但还是认真的做完[obj]。</Events.11.Story>
+      <Events.12.Story>[name]因[obj_goodmood]心情不错，制作[obj]时都忍不住哼着小曲儿。</Events.12.Story>
+    </Text>
+    <Text Name="Smithing">
+      <Events.2.Story>[rand_lable=desc_time,desc_weather]，[name]在锻造[obj]时，突然很想家。</Events.2.Story>
+      <Events.3.Story>[rand_lable=desc_time,desc_weather]，[name]在锻造[obj]时，脑海中突然浮现[obj_friend]的模样。</Events.3.Story>
+      <Events.4.Story>[rand_lable=desc_time,desc_weather]，[name]在锻造[obj]时，突然觉得旁边的[obj_nearthing]很有意思……</Events.4.Story>
+      <Events.5.Story>[rand_lable=desc_time,desc_weather]，[name]在锻造[obj]时，突然想吃[obj_food]。</Events.5.Story>
+      <Events.6.Story>[rand_lable=desc_time,desc_weather]，[name]静静的锻造[obj]，突然想起自己的[obj_relation]。</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_weather]，[name]一个人锻造[obj]，突然思绪万千。</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_weather]，[name]在锻造[obj]时，突然流下眼泪。</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_weather]，[name]在锻造[obj]时，突然觉得莫名烦躁。</Events.9.Story>
+      <Events.10.Story>[rand_lable=desc_time,desc_weather]，[name]在锻造[obj]时，突然想去[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]看看。</Events.10.Story>
+      <Events.11.Story>[name]虽然被[obj_badmood]的情绪困扰，但还是认真的做完[obj]。</Events.11.Story>
+      <Events.12.Story>[name]因[obj_goodmood]心情不错，锻造[obj]时都忍不住哼着小曲儿。</Events.12.Story>
+    </Text>
+    <Text Name="StoneWork">
+      <Events.1.Story>[rand_lable=desc_time,desc_weather]，[name]在打磨[obj]时，突然很想家。</Events.1.Story>
+      <Events.2.Story>[rand_lable=desc_time,desc_weather]，[name]在打磨[obj]时，脑海中突然浮现[obj_friend]的模样。</Events.2.Story>
+      <Events.3.Story>[rand_lable=desc_time,desc_weather]，[name]在打磨[obj]时，突然觉得旁边的[obj_nearthing]很有意思……</Events.3.Story>
+      <Events.4.Story>[rand_lable=desc_time,desc_weather]，[name]在打磨[obj]时，突然想吃[obj_food]。</Events.4.Story>
+      <Events.5.Story>[rand_lable=desc_time,desc_weather]，[name]静静的打磨[obj]，突然想起自己的[obj_relation]。</Events.5.Story>
+      <Events.6.Story>[rand_lable=desc_time,desc_weather]，[name]一个人打磨[obj]，突然思绪万千。</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_weather]，[name]在打磨[obj]时，突然流下眼泪。</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_weather]，[name]在打磨[obj]时，突然觉得莫名烦躁。</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_weather]，[name]在打磨[obj]时，突然想去[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]看看。</Events.9.Story>
+      <Events.10.Story>[name]虽然被[obj_badmood]的情绪困扰，但还是认真的做完[obj]。</Events.10.Story>
+      <Events.11.Story>[name]因[obj_goodmood]心情不错，打磨[obj]时都忍不住哼着小曲儿。</Events.11.Story>
+    </Text>
+    <Text Name="Sew">
+      <Events.2.Story>[rand_lable=desc_time,desc_weather]，[name]在缝制[obj]时，突然很想家。</Events.2.Story>
+      <Events.3.Story>[rand_lable=desc_time,desc_weather]，[name]在缝制[obj]时，脑海中突然浮现[obj_friend]的模样。</Events.3.Story>
+      <Events.4.Story>[rand_lable=desc_time,desc_weather]，[name]在缝制[obj]时，突然觉得旁边的[obj_nearthing]很有意思……</Events.4.Story>
+      <Events.5.Story>[rand_lable=desc_time,desc_weather]，[name]在缝制[obj]时，突然想吃[obj_food]。</Events.5.Story>
+      <Events.6.Story>[rand_lable=desc_time,desc_weather]，[name]静静的缝制[obj]，突然想起自己的[obj_relation]。</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_weather]，[name]一个人缝制[obj]，突然思绪万千。</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_weather]，[name]在缝制[obj]时，突然流下眼泪。</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_weather]，[name]在缝制[obj]时，突然觉得莫名烦躁。</Events.9.Story>
+      <Events.10.Story>[rand_lable=desc_time,desc_weather]，[name]在缝制[obj]时，突然想去[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]看看。</Events.10.Story>
+      <Events.11.Story>[name]虽然被[obj_badmood]的情绪困扰，但还是认真的做完[obj]。</Events.11.Story>
+      <Events.12.Story>[name]因[obj_goodmood]心情不错，缝制[obj]时都忍不住哼着小曲儿。</Events.12.Story>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,32 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_YaoShou">
+      <DisplayName>本能修行</DisplayName>
+      <Desc>妖兽依靠本能修行的方法。</Desc>
+      <Stages.0.DisplayName>一境</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>一境</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>二境</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>二境</Stages.1.Necks.0.DisplayName>
+      <Stages.2.DisplayName>三境</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>三境</Stages.2.Necks.0.DisplayName>
+      <Stages.3.DisplayName>四境</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>四境</Stages.3.Necks.0.DisplayName>
+      <Stages.4.DisplayName>五境</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>五境</Stages.4.Necks.0.DisplayName>
+      <Stages.5.DisplayName>六境</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>六境</Stages.5.Necks.0.DisplayName>
+      <Stages.6.DisplayName>七境</Stages.6.DisplayName>
+      <Stages.6.Necks.0.DisplayName>七境</Stages.6.Necks.0.DisplayName>
+      <Stages.7.DisplayName>八境</Stages.7.DisplayName>
+      <Stages.7.Necks.0.DisplayName>八境</Stages.7.Necks.0.DisplayName>
+      <Stages.8.DisplayName>九境</Stages.8.DisplayName>
+      <Stages.8.Necks.0.DisplayName>九境</Stages.8.Necks.0.DisplayName>
+      <Stages.9.DisplayName>十境</Stages.9.DisplayName>
+      <Stages.9.Necks.0.DisplayName>十境</Stages.9.Necks.0.DisplayName>
+      <Stages.10.DisplayName>十一境</Stages.10.DisplayName>
+      <Stages.10.Necks.0.DisplayName>十一境</Stages.10.Necks.0.DisplayName>
+      <Stages.11.DisplayName>十二境</Stages.11.DisplayName>
+      <Stages.11.Necks.0.DisplayName>十二境</Stages.11.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>

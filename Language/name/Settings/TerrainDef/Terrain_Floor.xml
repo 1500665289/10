@@ -1,0 +1,17 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FloorBase">
+      <DisplayName>地板</DisplayName>
+      <StoryDesc>门派中</StoryDesc>
+    </Text>
+    <Text Name="WoodFloor1">
+      <DisplayName>木地板</DisplayName>
+    </Text>
+    <Text Name="WoodFloor2">
+      <DisplayName>木地板</DisplayName>
+    </Text>
+    <Text Name="Carpet1">
+      <StoryDesc>红毯上,华丽的红毯上,柔软的红毯上</StoryDesc>
+    </Text>
+  </List>
+</Texts>

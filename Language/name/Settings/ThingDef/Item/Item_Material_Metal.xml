@@ -1,0 +1,32 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="MetalBase" sParam="Item">
+      <Item.FabaoSuffix>金,印,碑,珏,圭,阙,镇</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_IronRock" sParam="Item">
+      <ThingName>铁矿石</ThingName>
+      <Desc>最常见的金属矿石。拥有较高的硬度，且易于加工。</Desc>
+      <Item.BeMaterial.NamePrefix>铁</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperRock" sParam="Item">
+      <ThingName>火铜矿石</ThingName>
+      <Desc>富含火气的金属矿，靠近会有灼热的感觉。</Desc>
+      <Item.BeMaterial.NamePrefix>火铜</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverRock" sParam="Item">
+      <ThingName>寒晶矿石</ThingName>
+      <Desc>蕴含有寒气的金属矿，其质地类似银矿，靠近会觉得寒气逼人，十分漂亮。</Desc>
+      <Item.BeMaterial.NamePrefix>寒晶</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelRock" sParam="Item">
+      <ThingName>玄铁矿石</ThingName>
+      <Desc>罕见的金属，其色泽黝黑，极其沉重且坚硬，是难得的神兵材料。</Desc>
+      <Item.BeMaterial.NamePrefix>玄铁</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssence" sParam="Item">
+      <ThingName>星髓</ThingName>
+      <Desc>陨星的精华，拥有特殊的物性，是修行界难得的珍宝。</Desc>
+      <Item.BeMaterial.NamePrefix>星髓</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

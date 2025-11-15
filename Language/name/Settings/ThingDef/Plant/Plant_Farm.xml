@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Wheat" sParam="Plant">
+      <ThingName>小麦</ThingName>
+      <Desc>主要的食物来源，虽然生长周期较长，但其适应性强，在0-40度的范围内都可以生长。且产量较大。</Desc>
+    </Text>
+    <Text Name="Healroot" sParam="Plant">
+      <ThingName>药草</ThingName>
+      <Desc>最常用的基础药物，可以加工炼制成其他各类药品。只能在10-40度的范围内生长。</Desc>
+    </Text>
+    <Text Name="Cotton" sParam="Plant">
+      <ThingName>棉花</ThingName>
+      <Desc>生产布料的主要来源，适宜温度在5- 35℃。也可通过历练前往小凉山获取。</Desc>
+    </Text>
+    <Text Name="Mushroom" sParam="Plant">
+      <ThingName>香菇</ThingName>
+      <Desc>常见的菌类食物，通常生长在18-23度的环境中，只能在阴暗的环境中生长。</Desc>
+    </Text>
+  </List>
+</Texts>

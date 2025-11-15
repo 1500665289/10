@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="MetalBlockBase" sParam="Item">
+      <Item.FabaoSuffix>金,印,碑,珏,圭,阙,镇</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_IronBlock" sParam="Item">
+      <ThingName>铁锭</ThingName>
+      <Desc>铁矿熔炼的金属锭，可以用来进行进一步的制作。</Desc>
+      <Item.BeMaterial.NamePrefix>铁</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperBlock" sParam="Item">
+      <ThingName>火铜锭</ThingName>
+      <Desc>火铜矿熔炼的金属锭，可以用来进行进一步的制作。</Desc>
+      <Item.BeMaterial.NamePrefix>火铜</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverBlock" sParam="Item">
+      <ThingName>寒晶锭</ThingName>
+      <Desc>寒晶矿熔炼的金属锭，可以用来进行进一步的制作。</Desc>
+      <Item.BeMaterial.NamePrefix>寒晶</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperBlock1" sParam="Item">
+      <ThingName>火精锭</ThingName>
+      <Desc>大量火铜矿以妖灵血熔炼成金属锭，每一块都需要消耗大量时间冶炼制作。</Desc>
+      <Item.BeMaterial.NamePrefix>火精</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverBlock1" sParam="Item">
+      <ThingName>寒精锭</ThingName>
+      <Desc>大量寒晶矿以妖灵血熔炼成金属锭，每一块都需要消耗大量时间冶炼制作。</Desc>
+      <Item.BeMaterial.NamePrefix>寒精</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelBlock" sParam="Item">
+      <ThingName>玄铁锭</ThingName>
+      <Desc>玄铁矿熔炼的金属锭，可以用来进行进一步的制作。</Desc>
+      <Item.BeMaterial.NamePrefix>玄铁</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssenceBlock" sParam="Item">
+      <ThingName>星髓锭</ThingName>
+      <Desc>星髓熔炼的金属锭，可以用来进行进一步的制作。</Desc>
+      <Item.BeMaterial.NamePrefix>星髓</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

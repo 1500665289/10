@@ -1,0 +1,252 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="NI_FSZhenWu">
+      <DisplayName>逆-镇物通灵</DisplayName>
+      <Desc>房内风水镇物犯冲，角色受其影响，能力获得削弱。</Desc>
+    </Text>
+    <Text Name="SHUN_FSZhenWu">
+      <DisplayName>顺-镇物通灵</DisplayName>
+      <Desc>房内风水镇物生效，角色受其影响，能力获得增强。</Desc>
+    </Text>
+    <Text Name="FSZhenWu_1">
+      <DisplayName>全局工作速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_2">
+      <DisplayName>治疗速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_3">
+      <DisplayName>治疗效果加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_4">
+      <DisplayName>烹饪速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_5">
+      <DisplayName>屠宰速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_6">
+      <DisplayName>屠宰产量加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_7">
+      <DisplayName>石料加工速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_8">
+      <DisplayName>建筑速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_9">
+      <DisplayName>种植速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_10">
+      <DisplayName>收获速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_11">
+      <DisplayName>收获产量加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_12">
+      <DisplayName>采掘速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_13">
+      <DisplayName>采掘产量加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_14">
+      <DisplayName>制作品质加值加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_15">
+      <DisplayName>锻造速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_16">
+      <DisplayName>手工速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_17">
+      <DisplayName>缝纫速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_18">
+      <DisplayName>割除速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_19">
+      <DisplayName>救灾速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_20">
+      <DisplayName>清洁速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_21">
+      <DisplayName>心情基础值加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_22">
+      <DisplayName>移动速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_23">
+      <DisplayName>最低极限温度加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_24">
+      <DisplayName>最高极限温度加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_25">
+      <DisplayName>自然恢复力加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_26">
+      <DisplayName>疼痛极限加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_27">
+      <DisplayName>学习速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_28">
+      <DisplayName>噩梦发生几率加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_29">
+      <DisplayName>美梦发生几率加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_30">
+      <DisplayName>精力消耗速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_31">
+      <DisplayName>精力补充加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_32">
+      <DisplayName>食物消耗速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_33">
+      <DisplayName>食物消耗速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_34">
+      <DisplayName>食物补充加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_35">
+      <DisplayName>饮水消耗速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_36">
+      <DisplayName>饮水补充加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_37">
+      <DisplayName>娱乐消耗速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_38">
+      <DisplayName>娱乐补充加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_39">
+      <DisplayName>精元炼化速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_40">
+      <Desc>精元补充加成</Desc>
+    </Text>
+    <Text Name="FSZhenWu_41">
+      <DisplayName>潜力加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_42">
+      <DisplayName>修炼速度加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_43">
+      <DisplayName>心境加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_44">
+      <DisplayName>领悟发生几率加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_45">
+      <DisplayName>法宝炼制速度加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_46">
+      <DisplayName>法宝炼制成功率加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_47">
+      <DisplayName>法宝炼制品阶加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_48">
+      <DisplayName>法宝炼制品质加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_49">
+      <DisplayName>神器炼成几率加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_50">
+      <DisplayName>丹药炼制速度加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_51">
+      <DisplayName>丹药炼制成功率加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_52">
+      <DisplayName>丹药炼制产量加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_53">
+      <DisplayName>瓶颈突破概率加成</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_54">
+      <DisplayName>道行加值</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_55">
+      <DisplayName>战斗命中</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_56">
+      <DisplayName>战斗闪避</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_57">
+      <DisplayName>神识</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_58">
+      <DisplayName>根骨</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_59">
+      <DisplayName>魅力</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_60">
+      <DisplayName>悟性</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_61">
+      <DisplayName>机缘</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_62">
+      <DisplayName>五维</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1a">
+      <DisplayName>道德印</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1b">
+      <DisplayName>元始印</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1c">
+      <DisplayName>灵宝印</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_2">
+      <DisplayName>天工塔</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_3">
+      <DisplayName>万灵塔</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_4">
+      <DisplayName>汇阴瓶</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_5">
+      <DisplayName>十州鼎</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_6">
+      <DisplayName>无字灵碑</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_7">
+      <DisplayName>辟邪狮子</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_8">
+      <DisplayName>不周元石</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_9">
+      <DisplayName>三才阴阳榜</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_10">
+      <DisplayName>群鲜录</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_11">
+      <DisplayName>仙机谱</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_12">
+      <DisplayName>锁阴符</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_13">
+      <DisplayName>灵宝剑</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_14">
+      <DisplayName>兜率葫芦</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_15">
+      <DisplayName>赤龙之根</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_16">
+      <DisplayName>慧光</DisplayName>
+    </Text>
+  </List>
+</Texts>

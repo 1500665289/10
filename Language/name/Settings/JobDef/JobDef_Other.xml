@@ -1,0 +1,73 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobCloseTo">
+      <DisplayName>靠近</DisplayName>
+    </Text>
+    <Text Name="JobMoveToBed">
+      <DisplayName>休养</DisplayName>
+    </Text>
+    <Text Name="JobDemonLoseSoul">
+      <DisplayName>五感封闭</DisplayName>
+    </Text>
+    <Text Name="JobDemonClaustrophobia">
+      <DisplayName>幽闭</DisplayName>
+    </Text>
+    <Text Name="JobDemonWail">
+      <DisplayName>恸哭</DisplayName>
+    </Text>
+    <Text Name="JobDemonBlank">
+      <DisplayName>茫然</DisplayName>
+    </Text>
+    <Text Name="JobObtainThing">
+      <DisplayName>获取</DisplayName>
+    </Text>
+    <Text Name="JobEatItem">
+      <DisplayName>吃东西</DisplayName>
+    </Text>
+    <Text Name="JobEquipItem">
+      <DisplayName>装备</DisplayName>
+    </Text>
+    <Text Name="JobFaceIdle">
+      <DisplayName>交互</DisplayName>
+    </Text>
+    <Text Name="JobFighting">
+      <DisplayName>战斗中</DisplayName>
+    </Text>
+    <Text Name="JobFight">
+      <DisplayName>战斗</DisplayName>
+    </Text>
+    <Text Name="JobFightDriver">
+      <DisplayName>战斗中</DisplayName>
+    </Text>
+    <Text Name="JobLeaveMap">
+      <DisplayName>离开</DisplayName>
+    </Text>
+    <Text Name="JobWaitHelp">
+      <DisplayName>路人</DisplayName>
+    </Text>
+    <Text Name="JobTalk">
+      <DisplayName>交际</DisplayName>
+    </Text>
+    <Text Name="JobSimpleAction">
+      <DisplayName>行为</DisplayName>
+    </Text>
+    <Text Name="JobWalkerHelp">
+      <DisplayName>帮助</DisplayName>
+    </Text>
+    <Text Name="JobIdle">
+      <DisplayName>发呆</DisplayName>
+    </Text>
+    <Text Name="JobAlarmbell">
+      <DisplayName>警钟</DisplayName>
+    </Text>
+    <Text Name="JobMoveTo">
+      <DisplayName>移动到</DisplayName>
+    </Text>
+    <Text Name="JobMoveThingTo">
+      <DisplayName>搬运</DisplayName>
+    </Text>
+    <Text Name="JobYSSleep">
+      <DisplayName>沉睡</DisplayName>
+    </Text>
+  </List>
+</Texts>

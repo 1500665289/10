@@ -1,0 +1,35 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Other_BingCanSi" sParam="Item">
+      <ThingName>冰蚕丝</ThingName>
+      <Item.BeMaterial.NamePrefix>冰蚕丝</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_BuZhiMing" sParam="Item">
+      <ThingName>不知名材料</ThingName>
+    </Text>
+    <Text Name="Item_Other_JinJing" sParam="Item">
+      <ThingName>先天庚辛金精</ThingName>
+      <Item.BeMaterial.NamePrefix>先天金精</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_MuJing" sParam="Item">
+      <ThingName>先天甲乙木精</ThingName>
+      <Item.BeMaterial.NamePrefix>先天木精</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_ShuiJing" sParam="Item">
+      <ThingName>先天壬癸水精</ThingName>
+      <Item.BeMaterial.NamePrefix>先天水精</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_HuoJing" sParam="Item">
+      <ThingName>先天丙丁火精</ThingName>
+      <Item.BeMaterial.NamePrefix>先天火精</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_TuJing" sParam="Item">
+      <ThingName>先天戊己土精</ThingName>
+      <Item.BeMaterial.NamePrefix>先天土精</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_NoneJing" sParam="Item">
+      <ThingName>先天元精</ThingName>
+      <Item.BeMaterial.NamePrefix>先天元精</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

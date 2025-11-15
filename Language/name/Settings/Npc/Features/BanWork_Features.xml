@@ -1,0 +1,12 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="NoHeavyWork">
+      <DisplayName>娇生惯养</DisplayName>
+      <Desc>优越的生活让[IT]无法从事繁重的体力工作</Desc>
+    </Text>
+    <Text Name="NoMeticulousWork">
+      <DisplayName>笨手笨脚</DisplayName>
+      <Desc>这个人笨手笨脚，没法做细致的工作。</Desc>
+    </Text>
+  </List>
+</Texts>

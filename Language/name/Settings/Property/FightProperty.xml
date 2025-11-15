@@ -1,0 +1,78 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="NpcFight_BaseHitChance">
+      <DisplayName>战斗命中</DisplayName>
+    </Text>
+    <Text Name="NpcFight_BaseDodgeChance">
+      <DisplayName>战斗闪避</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoNum">
+      <DisplayName>法宝数量</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoLingRecoverK">
+      <DisplayName>法宝回灵倍率</DisplayName>
+      <Desc>法宝从角色身上吸取灵气回灵的倍率。</Desc>
+    </Text>
+    <Text Name="NpcFight_FabaoPowerAddP">
+      <DisplayName>法宝威力加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoLingRecoverAddP">
+      <DisplayName>法宝灵气恢复速度加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoCoolDownAddP">
+      <DisplayName>法宝攻击间隔加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoMaxLingAddP">
+      <DisplayName>法宝灵气最大值加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoRepelDistanceAddV">
+      <DisplayName>法宝击退距离加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoFlySpeedAddP">
+      <DisplayName>法宝飞行速度加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoTurnSpeedAddP">
+      <DisplayName>法宝转向速度加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoRepelResistanceAddV">
+      <DisplayName>法宝击退距离抗性</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FabaoTrailingLengthAddP">
+      <DisplayName>法宝拖尾长度加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_SpellLingCostAddP">
+      <DisplayName>术法灵气消耗加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_SpellCastTimeAddP">
+      <DisplayName>术法吟唱时间加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_SpellPowerAddP">
+      <DisplayName>术法伤害加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_SpellCoolDownAddP">
+      <DisplayName>术法冷却时间加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_ShieldConversionRate">
+      <DisplayName>护盾强度加值</DisplayName>
+      <DisplayValue>{0:N3}点伤害/灵气</DisplayValue>
+    </Text>
+    <Text Name="NpcFight_ShieldConversionRateAddP">
+      <DisplayName>护盾强度加成</DisplayName>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToJin">
+      <DisplayName>金属性伤害减免</DisplayName>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToMu">
+      <DisplayName>木属性伤害减免</DisplayName>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToShui">
+      <DisplayName>水属性伤害减免</DisplayName>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToHuo">
+      <DisplayName>火属性伤害减免</DisplayName>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToTu">
+      <DisplayName>土属性伤害减免</DisplayName>
+    </Text>
+  </List>
+</Texts>

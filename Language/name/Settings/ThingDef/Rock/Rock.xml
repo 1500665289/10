@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="RockBrown" sParam="Plant">
+      <ThingName>棕岩</ThingName>
+      <Desc>棕色的岩石山体，其质地松散，较难开采出可以利用的石料。</Desc>
+    </Text>
+    <Text Name="RockGray" sParam="Plant">
+      <ThingName>灰岩</ThingName>
+      <Desc>灰色的岩石山体，其质地紧密，可以开采用于建设。</Desc>
+    </Text>
+    <Text Name="RockMarble" sParam="Plant">
+      <ThingName>大理岩</ThingName>
+      <Desc>富含大理石的山体，可以开采出大理石。</Desc>
+    </Text>
+    <Text Name="RockJade" sParam="Plant">
+      <ThingName>玉岩</ThingName>
+      <Desc>含有玉石的山体，可以开采出玉石。</Desc>
+    </Text>
+    <Text Name="RockCinnabar" sParam="Plant">
+      <ThingName>朱砂岩</ThingName>
+      <Desc>含有朱砂矿山体，可以开采出朱砂。</Desc>
+    </Text>
+  </List>
+</Texts>

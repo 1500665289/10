@@ -1,0 +1,26 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_5_Tu">
+      <DisplayName>偷天诀</DisplayName>
+      <Desc>千年前绝地天通，人界灵气几近枯竭，成仙无望。绝境之中，一名天资绝艳的修行者另辟蹊径，创出此法。此法不依赖环境，以生命潜力为代价突破境界，因此必须天生体格强健之人才能修行，而且需要种种天材地宝延寿才有一线成仙之希望。</Desc>
+      <SelectDesc>此功法擅长护御之术，在金丹品级满足条件的情况下，突破必然成功，只是修炼过程中需要消耗大量寿命。是否要选择修习此功法？</SelectDesc>
+      <Stages.0.DisplayName>化血期</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>化血</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.1.DisplayName>凝气</Stages.0.Necks.1.DisplayName>
+      <Stages.1.DisplayName>舍身期</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>舍身</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.1.DisplayName>百炼</Stages.1.Necks.1.DisplayName>
+      <Stages.1.Necks.2.DisplayName>凝丹</Stages.1.Necks.2.DisplayName>
+      <Stages.2.DisplayName>换骨期</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>换骨</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.1.DisplayName>不堕</Stages.2.Necks.1.DisplayName>
+      <Stages.2.Necks.2.DisplayName>婴儿</Stages.2.Necks.2.DisplayName>
+      <Stages.3.DisplayName>燃魂期</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>燃魂</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.1.DisplayName>焚念</Stages.3.Necks.1.DisplayName>
+      <Stages.4.DisplayName>破釜期</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>破釜</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.1.DisplayName>飞升</Stages.4.Necks.1.DisplayName>
+    </Text>
+  </List>
+</Texts>

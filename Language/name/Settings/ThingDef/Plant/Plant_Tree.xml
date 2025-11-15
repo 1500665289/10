@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="TreePoplar" sParam="Plant">
+      <ThingName>杨树</ThingName>
+      <Desc>生长迅速的树木，其木质细腻稳定，是优质的木材来源。</Desc>
+    </Text>
+    <Text Name="TreePine" sParam="Plant">
+      <ThingName>松树</ThingName>
+      <Desc>生长缓慢的树木，其外形挺拔，木质坚硬。</Desc>
+    </Text>
+    <Text Name="TreePine_Big" sParam="Plant">
+      <ThingName>巨松树</ThingName>
+      <Desc>年份极高的松树。</Desc>
+    </Text>
+    <Text Name="TreePear" sParam="Plant">
+      <ThingName>梨树</ThingName>
+      <Desc>常见的果树，其木质细腻但不耐腐蚀，且产量很小。</Desc>
+    </Text>
+    <Text Name="TreeGinkgo" sParam="Plant">
+      <ThingName>银杏树</ThingName>
+      <Desc>一种生长缓慢的乔木，具有灵性，其果实可充饥，且具有不菲的药用价值。</Desc>
+    </Text>
+    <Text Name="TreeGinkgo_Big" sParam="Plant">
+      <ThingName>巨银杏</ThingName>
+      <Desc>上了年份的老银杏，巨大而充满灵气。</Desc>
+    </Text>
+  </List>
+</Texts>

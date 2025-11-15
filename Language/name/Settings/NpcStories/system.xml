@@ -1,0 +1,15 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Normal">
+      <Events.0.Story>[name]不知道怎么回事，莫名其妙发了发呆。</Events.0.Story>
+      <Events.1.Story>[name][rand_string=打了个喷嚏,打了个嗝,眼睛进了沙子,打了个哈欠,开始自言自语,揉了揉肚子,挠了挠痒,觉得有点无聊,理了理头发,鞋里进了东西,踩到了什么东西,整理了一下衣服,叹了口气,抿了抿嘴,舔了下嘴唇,吐了吐舌头,拍了拍灰尘,哼起了小曲,想和人说话,想试试写诗,喉咙有点痒,抖了抖鼻子]。</Events.1.Story>
+      <Events.2.Story>[name][rand_string=运转了下灵气,默念了几次口诀,回忆了一遍心法]。</Events.2.Story>
+      <Events.3.Story>[name]突然觉得[rand_string=右眼,左眼]跳了跳。</Events.3.Story>
+      <Events.4.Story>[name]好像听到有谁在喊自己的名字。</Events.4.Story>
+      <Events.5.Story>[name]有些关于[rand_lable=obj_friend,obj_nearthing,other=obj,obj_action]的事想找人聊聊，</Events.5.Story>
+      <Events.6.Story>[name]很喜欢[rand_lable=obj_weather,obj_action]。</Events.6.Story>
+      <Events.7.Story>[name]看着旁边的[rand_lable=obj_friend,obj_nearthing][rand_string=发呆,笑起来,若有所思]。</Events.7.Story>
+      <Events.8.Story>[name]想把[obj_equip][rand_string=换掉,清洁一下,整理一下]。</Events.8.Story>
+    </Text>
+  </List>
+</Texts>

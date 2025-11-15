@@ -1,0 +1,106 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="OrnamentBase" sParam="Building">
+      <Desc>装饰用的建筑，根据制作材料可以影响周围地块的五行属性。</Desc>
+    </Text>
+    <Text Name="Building_StoneMan" sParam="Building">
+      <ThingName>巨灵雕像</ThingName>
+    </Text>
+    <Text Name="Building_Flag1" sParam="Building">
+      <ThingName>龙旗</ThingName>
+    </Text>
+    <Text Name="Building_Flag2" sParam="Building">
+      <ThingName>八卦旗</ThingName>
+    </Text>
+    <Text Name="Building_Flag3" sParam="Building">
+      <ThingName>太极旗</ThingName>
+    </Text>
+    <Text Name="Building_StoneLion" sParam="Building">
+      <ThingName>狮子雕像</ThingName>
+    </Text>
+    <Text Name="Building_StoneLion2" sParam="Building">
+      <ThingName>狮子雕像</ThingName>
+    </Text>
+    <Text Name="Building_StoneLion3" sParam="Building">
+      <ThingName>狮子雕像</ThingName>
+    </Text>
+    <Text Name="Building_BigTripod" sParam="Building">
+      <ThingName>鼎</ThingName>
+    </Text>
+    <Text Name="Building_SmallTripod" sParam="Building">
+      <ThingName>鼎</ThingName>
+    </Text>
+    <Text Name="Building_BigCenser" sParam="Building">
+      <ThingName>香炉</ThingName>
+    </Text>
+    <Text Name="Building_SmallCenser" sParam="Building">
+      <ThingName>香炉</ThingName>
+    </Text>
+    <Text Name="Building_BigSwordPillar" sParam="Building">
+      <ThingName>护山剑阵</ThingName>
+      <Desc>可以将无用的法宝投入剑阵，在必要的时候可以开启剑阵，抵御敌人，剑阵只能锁定内门弟子的气息。法宝一旦投入剑阵就无法取出。</Desc>
+    </Text>
+    <Text Name="Building_BigVase" sParam="Building">
+      <ThingName>花瓶</ThingName>
+    </Text>
+    <Text Name="Building_SmallVase" sParam="Building">
+      <ThingName>花瓶</ThingName>
+    </Text>
+    <Text Name="Building_Screen1" sParam="Building">
+      <ThingName>屏风</ThingName>
+    </Text>
+    <Text Name="Building_BookShelf" sParam="Building">
+      <ThingName>书架</ThingName>
+    </Text>
+    <Text Name="Building_ItemShelf" sParam="Building">
+      <ThingName>置物台</ThingName>
+      <Desc>可以将指定物品摆放在置物台上。</Desc>
+    </Text>
+    <Text Name="Building_ShuZhuangTai" sParam="Building">
+      <ThingName>梳妆台</ThingName>
+    </Text>
+    <Text Name="Building_Tower" sParam="Building">
+      <ThingName>镇塔</ThingName>
+    </Text>
+    <Text Name="Building_Tower2" sParam="Building">
+      <ThingName>塔</ThingName>
+    </Text>
+    <Text Name="Building_ShiBei" sParam="Building">
+      <ThingName>碑</ThingName>
+    </Text>
+    <Text Name="Building_Zhong" sParam="Building">
+      <ThingName>钟</ThingName>
+      <Desc>一口大钟，可以敲响以发出警示，让所有的外门弟子赶来附近躲避危险，需要手动取消警示。也可用做装饰，根据制作材料可以影响周围地块的五行属性。</Desc>
+    </Text>
+    <Text Name="Building_Gu" sParam="Building">
+      <ThingName>鼓</ThingName>
+    </Text>
+    <Text Name="Building_JiaShan1" sParam="Building">
+      <ThingName>假山-层峦</ThingName>
+    </Text>
+    <Text Name="Building_JiaShan2" sParam="Building">
+      <ThingName>假山-叠嶂</ThingName>
+    </Text>
+    <Text Name="Building_PenZai1" sParam="Building">
+      <ThingName>盆栽-苍翠</ThingName>
+    </Text>
+    <Text Name="Building_PenZai2" sParam="Building">
+      <ThingName>盆栽-迎客</ThingName>
+    </Text>
+    <Text Name="Building_PenZai3" sParam="Building">
+      <ThingName>盆栽-迎仙</ThingName>
+    </Text>
+    <Text Name="Building_Tower1" sParam="Building">
+      <ThingName>鎏金塔</ThingName>
+    </Text>
+    <Text Name="Building_ShiBei1" sParam="Building">
+      <ThingName>霸下碑</ThingName>
+    </Text>
+    <Text Name="Building_Zhong1" sParam="Building">
+      <ThingName>磐龙钟</ThingName>
+    </Text>
+    <Text Name="Building_Gu1" sParam="Building">
+      <ThingName>云龙鼓</ThingName>
+    </Text>
+  </List>
+</Texts>

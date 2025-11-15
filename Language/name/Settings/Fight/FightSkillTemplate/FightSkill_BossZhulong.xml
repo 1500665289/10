@@ -1,0 +1,31 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Zhulong_fennu">
+      <DisplayName>愤怒</DisplayName>
+    </Text>
+    <Text Name="Zhulong_shennian">
+      <DisplayName>神念之雷</DisplayName>
+    </Text>
+    <Text Name="Zhulong_zuinie">
+      <DisplayName>罪孽之雷</DisplayName>
+    </Text>
+    <Text Name="Zhulong_yehuotuxi">
+      <DisplayName>业火吐息</DisplayName>
+    </Text>
+    <Text Name="Zhulong_xinmotuxi">
+      <DisplayName>心魔吐息</DisplayName>
+    </Text>
+    <Text Name="Zhulong_guangzhishenpan">
+      <DisplayName>光之审判</DisplayName>
+    </Text>
+    <Text Name="Zhulong_shenanzhiyuan">
+      <DisplayName>深暗之渊</DisplayName>
+    </Text>
+    <Text Name="Zhulong_shenanzhiyuan_bomb">
+      <DisplayName>深暗之渊</DisplayName>
+    </Text>
+    <Text Name="Zhulong_guangzhishenpan_bomb">
+      <DisplayName>光之审判</DisplayName>
+    </Text>
+  </List>
+</Texts>

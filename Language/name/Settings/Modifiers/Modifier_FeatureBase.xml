@@ -1,0 +1,18 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FeatureModifierBase">
+      <Desc>特性生成的modifier，系统使用，不要修改</Desc>
+    </Text>
+    <Text Name="ExperienceModifierBase">
+      <Desc>经历生成的modifier，系统使用，不要修改</Desc>
+    </Text>
+    <Text Name="FeatureModifier_DongShiZhang1">
+      <DisplayName>董事长的激励</DisplayName>
+      <Desc>在董事长的注视下，干活更有劲儿了！</Desc>
+    </Text>
+    <Text Name="FeatureModifier_DongShiZhang2">
+      <DisplayName>董事长的激励</DisplayName>
+      <Desc>在董事长的注视下，干活更有劲儿了！</Desc>
+    </Text>
+  </List>
+</Texts>

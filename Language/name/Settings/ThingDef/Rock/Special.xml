@@ -1,0 +1,12 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Darksteel" sParam="Plant">
+      <Desc>天地奇珍，地脉中庚金之气凝结的精华。</Desc>
+      <ThingName>玄铁矿脉</ThingName>
+    </Text>
+    <Text Name="LingStone" sParam="Plant">
+      <Desc>灵气根本，动则俱损</Desc>
+      <ThingName>灵脉</ThingName>
+    </Text>
+  </List>
+</Texts>

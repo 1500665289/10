@@ -1,0 +1,149 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="NormalAttackBase" sParam="Item">
+      <ThingName>普通攻击</ThingName>
+    </Text>
+    <Text Name="Human_NormalAttack" sParam="Item">
+      <ThingName>人类攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>牙咬,头撞,手抓</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>脚踢,拳打,头撞</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>脚踢,拳打</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="Zombie_NormalAttack" sParam="Item">
+      <ThingName>僵尸攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>头撞,脚踢</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>头撞</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>头撞</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>牙咬,手抓</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>牙咬,手抓</Item.Equip.AtkDamage.4.DescTags>
+      <Item.Equip.AtkDamage.5.DescTags>牙咬,手抓</Item.Equip.AtkDamage.5.DescTags>
+      <Item.Equip.AtkDamage.6.DescTags>牙咬,手抓</Item.Equip.AtkDamage.6.DescTags>
+    </Text>
+    <Text Name="Rabbit_NormalAttack" sParam="Item">
+      <ThingName>兔子攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>牙咬</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>头撞</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>腿蹬</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>腿蹬</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Chicken_NormalAttack" sParam="Item">
+      <ThingName>鸡攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>啄</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>爪</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>爪</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="Wolf_NormalAttack" sParam="Item">
+      <ThingName>狼攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>牙咬,爪击</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>牙咬,爪击</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>牙咬,爪击</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>牙咬,爪击</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Snake_NormalAttack" sParam="Item">
+      <ThingName>蛇攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>牙咬</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>牙咬</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>缠绕</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>缠绕</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>缠绕</Item.Equip.AtkDamage.4.DescTags>
+      <Item.Equip.AtkDamage.5.DescTags>缠绕</Item.Equip.AtkDamage.5.DescTags>
+      <Item.Equip.AtkDamage.6.DescTags>牙咬</Item.Equip.AtkDamage.6.DescTags>
+    </Text>
+    <Text Name="Boar_NormalAttack" sParam="Item">
+      <ThingName>野猪攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>牙咬</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>牙咬</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>冲撞</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>冲撞</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Bear_NormalAttack" sParam="Item">
+      <ThingName>熊攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>爪击</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>爪击</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>爪击</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>撞击</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Turtle_NormalAttack" sParam="Item">
+      <ThingName>龟攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>反震</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>咬</Item.Equip.AtkDamage.1.DescTags>
+    </Text>
+    <Text Name="Frog_NormalAttack" sParam="Item">
+      <ThingName>蛙攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>舔</Item.Equip.AtkDamage.0.DescTags>
+    </Text>
+    <Text Name="LuShu_NormalAttack" sParam="Item">
+      <ThingName>鹿蜀攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>重蹬</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>重蹬</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>重蹬</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>重蹬</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>灵力侵染</Item.Equip.AtkDamage.4.DescTags>
+    </Text>
+    <Text Name="Fei_NormalAttack" sParam="Item">
+      <ThingName>蜚攻击</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>撞击</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>撞击</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>撞击</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>撞击</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>疫病之息</Item.Equip.AtkDamage.4.DescTags>
+    </Text>
+    <Text Name="JYRabbit_NormalAttack" sParam="Item">
+      <ThingName>兔毫针</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>牙咬</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>头撞</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>腿蹬</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>腿蹬</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYWolf_NormalAttack" sParam="Item">
+      <ThingName>凶狼牙</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>牙咬,爪击</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>牙咬,爪击</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>牙咬,爪击</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>牙咬,爪击</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYSnake_NormalAttack" sParam="Item">
+      <ThingName>百炼蛇鳞</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>烈毒飞鳞</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>烈毒飞鳞</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>烈毒飞鳞</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>烈毒飞鳞</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>烈毒飞鳞</Item.Equip.AtkDamage.4.DescTags>
+    </Text>
+    <Text Name="JYBoar_NormalAttack" sParam="Item">
+      <ThingName>泥石髓</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>戊土妖雷</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>戊土妖雷</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>戊土妖雷</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>戊土妖雷</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>戊土妖雷</Item.Equip.AtkDamage.4.DescTags>
+      <Item.Equip.AtkDamage.5.DescTags>戊土妖雷</Item.Equip.AtkDamage.5.DescTags>
+    </Text>
+    <Text Name="JYBear_NormalAttack" sParam="Item">
+      <ThingName>飞熊爪</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>丙火妖雷</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>丙火妖雷</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>丙火妖雷</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="JYFrog_NormalAttack" sParam="Item">
+      <ThingName>癸水滴</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>舔</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>舔</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>舔</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="JYTurtle_NormalAttack" sParam="Item">
+      <ThingName>玄龟甲</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>癸水妖雷</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>癸水妖雷</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>癸水妖雷</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>癸水妖雷</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYLongPu_Night_NormalAttack" sParam="Item">
+      <ThingName>龙仆牙</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>癸水妖雷</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>癸水妖雷</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>癸水妖雷</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>癸水妖雷</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+  </List>
+</Texts>

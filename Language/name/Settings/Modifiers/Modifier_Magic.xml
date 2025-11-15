@@ -1,0 +1,46 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_SnatchBody">
+      <DisplayName>阴神夺舍</DisplayName>
+    </Text>
+    <Text Name="Gong_LifeBurning">
+      <DisplayName>燃烧生命</DisplayName>
+      <Desc>短时间提高能力，结束时会对身体产生伤害。</Desc>
+    </Text>
+    <Text Name="Gong_DevilBlood">
+      <DisplayName>魔化</DisplayName>
+      <Desc>沟通天魔，将身体完全魔化，身体素质大幅度上升，修炼速度大幅度上升，但从此天人共弃。</Desc>
+    </Text>
+    <Text Name="Gong_DevilBlood_LianHun">
+      <DisplayName>炼魂</DisplayName>
+      <Desc>被折磨，灵魂忍受巨大的痛苦。</Desc>
+    </Text>
+    <Text Name="Gong_HunTin_Self">
+      <DisplayName>分魂</DisplayName>
+      <Desc>因分出一部分元神施展魂体寄生，角色的神智受损。悟性，修炼速度，参悟获取速度略微降低。</Desc>
+    </Text>
+    <Text Name="Gong_TaHua_Self">
+      <DisplayName>他化共情</DisplayName>
+      <Desc>施展他化大法，从众生心念中获取参悟和修为。但受此影响，会降低心情与心境的基础值。</Desc>
+    </Text>
+    <Text Name="Gong_TaHua_Self1">
+      <DisplayName>他化共情</DisplayName>
+      <Desc>施展他化大法，从众生心念中获取参悟和修为。但受此影响，会降低心情与心境的基础值。</Desc>
+    </Text>
+    <Text Name="Gong_TianMoWu">
+      <DisplayName>天魔迷神</DisplayName>
+    </Text>
+    <Text Name="Gong_SoulKeYin">
+      <DisplayName>神魂刻印</DisplayName>
+    </Text>
+    <Text Name="Modifier_GongXinYin_Damage">
+      <DisplayName>心印诀反噬</DisplayName>
+    </Text>
+    <Text Name="WuYinKeShenRestore">
+      <DisplayName>五印刻神恢复</DisplayName>
+    </Text>
+    <Text Name="TianMoWuRestore">
+      <DisplayName>天魔舞恢复</DisplayName>
+    </Text>
+  </List>
+</Texts>

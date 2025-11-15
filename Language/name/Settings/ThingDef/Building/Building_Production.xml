@@ -1,0 +1,63 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="WorkPlace" sParam="Building">
+      <ThingName>手工点</ThingName>
+      <Desc>不需要什么制作材料，只是在地上画出一个区域，可以进行一些简单工具的制作。</Desc>
+    </Text>
+    <Text Name="MaterialWorkPlace" sParam="Building">
+      <ThingName>材料加工点</ThingName>
+      <Desc>不需要什么制作材料，只是在地上画出一个区域，可以对一些材料进行简单加工。</Desc>
+    </Text>
+    <Text Name="Bonfire" sParam="Building">
+      <ThingName>篝火</ThingName>
+      <Desc>将木头堆起来形成的简单火源，可以为周围带来光和热。利用它可以进行一些简单的烹饪。</Desc>
+    </Text>
+    <Text Name="Kitchen" sParam="Building">
+      <ThingName>炉灶</ThingName>
+      <Desc>用来烹饪食物的工作台。</Desc>
+    </Text>
+    <Text Name="StoneMaker" sParam="Building">
+      <ThingName>石匠台</ThingName>
+      <Desc>用来将粗糙的石块打磨切割为石砖的工作台。</Desc>
+    </Text>
+    <Text Name="WeaponMaker" sParam="Building">
+      <ThingName>锻铁台</ThingName>
+      <Desc>用来将金属锭锻造为各种金属器具的工作台。</Desc>
+    </Text>
+    <Text Name="Furnace" sParam="Building">
+      <ThingName>熔炉</ThingName>
+      <Desc>用来将金属矿物熔炼为金属锭的工作台。</Desc>
+    </Text>
+    <Text Name="TextileTable" sParam="Building">
+      <ThingName>纺织机</ThingName>
+      <Desc>用来将纤维纺织成布匹毛料的工作台。</Desc>
+    </Text>
+    <Text Name="TailorTable" sParam="Building">
+      <ThingName>缝纫桌</ThingName>
+      <Desc>用来制作衣物的工作台。</Desc>
+    </Text>
+    <Text Name="WoodShed" sParam="Building">
+      <ThingName>砍柴处</ThingName>
+      <Desc>将原木加工为木料，能极大的提高木材的利用效率。</Desc>
+    </Text>
+    <Text Name="MillStone" sParam="Building">
+      <ThingName>磨坊</ThingName>
+      <Desc>将粮食加工为粉状，使其更好储存，并能提高食物的利用效率。</Desc>
+    </Text>
+    <Text Name="HandWorkTable" sParam="Building">
+      <ThingName>手工桌</ThingName>
+      <Desc>进行简单的手工用品制造的工作台。</Desc>
+    </Text>
+    <Text Name="Well" sParam="Building">
+      <ThingName>水井</ThingName>
+      <Desc>可以从中打水。水井中的水相比野外的水更卫生，因此不易生病。</Desc>
+    </Text>
+    <Text Name="MedicineTable" sParam="Building">
+      <ThingName>制药桌</ThingName>
+      <Desc>进行药物制造的工作台。</Desc>
+    </Text>
+    <Text Name="Building_YiTui" sParam="Building">
+      <ThingName>仙人遗蜕</ThingName>
+    </Text>
+  </List>
+</Texts>

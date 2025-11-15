@@ -1,0 +1,32 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Xiongfeng">
+      <DisplayName>凶凤</DisplayName>
+    </Text>
+    <Text Name="Boss_XiongfengFight">
+      <DisplayName>凶凤</DisplayName>
+    </Text>
+    <Text Name="Boss_Xiongfeng_Part">
+      <DisplayName>凶凤部位</DisplayName>
+    </Text>
+    <Text Name="Boss_Xiongfeng_huoling">
+      <DisplayName>火灵之力</DisplayName>
+      <Desc>凶凤聚集火灵之力，到达100层会释放烈焰之羽，并进入真焱形态。</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_Huofeng">
+      <DisplayName>真焱形态</DisplayName>
+      <Desc>真焱形态会持续消耗火灵，结束时会回收依然存在的火羽并恢复灵气。</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_rongjin">
+      <DisplayName>熔断</DisplayName>
+      <Desc>一段时间之后将造成伤害，非金属性修行者只受到三分之二的伤害。</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_yishang">
+      <DisplayName>易伤</DisplayName>
+      <Desc>凶凤正处于易伤状态。</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_taiyangzhiyan">
+      <DisplayName>太阳之眼</DisplayName>
+    </Text>
+  </List>
+</Texts>

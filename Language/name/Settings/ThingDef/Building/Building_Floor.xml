@@ -1,0 +1,99 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="FloorBase" sParam="Building">
+      <ThingName>地板</ThingName>
+      <Desc>各种材料铺成的好看地板。</Desc>
+    </Text>
+    <Text Name="Carpet1" sParam="Building">
+      <ThingName>地毯</ThingName>
+      <Desc>各种材料铺成的好看地毯，可以清洁脚底。</Desc>
+    </Text>
+    <Text Name="Floor1" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor2" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor3" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor4" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor5" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor6" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor7" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor8" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor9" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor10" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor11" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor12" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor13" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor14" sParam="Building">
+      <ThingName>单地板</ThingName>
+    </Text>
+    <Text Name="Floor15" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor16" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor17" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor18" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor19" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor20" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor21" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor22" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor23" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor24" sParam="Building">
+      <ThingName>复合地板(小)</ThingName>
+    </Text>
+    <Text Name="Floor25" sParam="Building">
+      <ThingName>复合地板(大)</ThingName>
+    </Text>
+    <Text Name="Floor26" sParam="Building">
+      <ThingName>复合地板(大)</ThingName>
+    </Text>
+    <Text Name="Floor27" sParam="Building">
+      <ThingName>复合地板(大)</ThingName>
+    </Text>
+    <Text Name="Floor28" sParam="Building">
+      <ThingName>复合地板(大)</ThingName>
+    </Text>
+    <Text Name="Floor29" sParam="Building">
+      <ThingName>复合地板(大)</ThingName>
+    </Text>
+  </List>
+</Texts>

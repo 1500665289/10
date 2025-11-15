@@ -1,0 +1,1187 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="TESTALL">
+      <DisplayName>大能出世</DisplayName>
+      <Desc>随着千年灵潮的开启，各地纷纷有上古修行者出世的消息传出。收集各方信息，已有数名大能出世了。</Desc>
+      <Selections.0.Display>大能出世</Selections.0.Display>
+    </Text>
+    <Text Name="BaseFillingStory">
+      <DamageCache.0.DescTags>法宝重击</DamageCache.0.DescTags>
+      <DamageCache.1.DescTags>法宝重击</DamageCache.1.DescTags>
+      <DamageCache.2.DescTags>法宝重击</DamageCache.2.DescTags>
+      <DamageCache.3.DescTags>法宝重击</DamageCache.3.DescTags>
+      <DamageCache.4.DescTags>法宝重击</DamageCache.4.DescTags>
+      <DamageCache.5.DescTags>法宝重击</DamageCache.5.DescTags>
+      <DamageCache.6.DescTags>法宝重击</DamageCache.6.DescTags>
+      <DamageCache.7.DescTags>法宝重击</DamageCache.7.DescTags>
+      <DamageCache.8.DescTags>法宝重击</DamageCache.8.DescTags>
+      <DamageCache.9.DescTags>法宝重击</DamageCache.9.DescTags>
+      <DamageCache.10.DescTags>金属性伤害</DamageCache.10.DescTags>
+      <DamageCache.11.DescTags>金属性伤害</DamageCache.11.DescTags>
+      <DamageCache.12.DescTags>金属性伤害</DamageCache.12.DescTags>
+      <DamageCache.13.DescTags>金属性伤害</DamageCache.13.DescTags>
+      <DamageCache.14.DescTags>金属性伤害</DamageCache.14.DescTags>
+      <DamageCache.15.DescTags>木属性伤害</DamageCache.15.DescTags>
+      <DamageCache.16.DescTags>木属性伤害</DamageCache.16.DescTags>
+      <DamageCache.17.DescTags>木属性伤害</DamageCache.17.DescTags>
+      <DamageCache.18.DescTags>木属性伤害</DamageCache.18.DescTags>
+      <DamageCache.19.DescTags>木属性伤害</DamageCache.19.DescTags>
+      <DamageCache.20.DescTags>木属性伤害</DamageCache.20.DescTags>
+      <DamageCache.21.DescTags>水属性伤害</DamageCache.21.DescTags>
+      <DamageCache.22.DescTags>水属性伤害</DamageCache.22.DescTags>
+      <DamageCache.23.DescTags>水属性伤害</DamageCache.23.DescTags>
+      <DamageCache.24.DescTags>水属性伤害</DamageCache.24.DescTags>
+      <DamageCache.25.DescTags>水属性伤害</DamageCache.25.DescTags>
+      <DamageCache.26.DescTags>火属性伤害</DamageCache.26.DescTags>
+      <DamageCache.27.DescTags>火属性伤害</DamageCache.27.DescTags>
+      <DamageCache.28.DescTags>火属性伤害</DamageCache.28.DescTags>
+      <DamageCache.29.DescTags>火属性伤害</DamageCache.29.DescTags>
+      <DamageCache.30.DescTags>火属性伤害</DamageCache.30.DescTags>
+      <DamageCache.31.DescTags>土属性伤害</DamageCache.31.DescTags>
+      <DamageCache.32.DescTags>土属性伤害</DamageCache.32.DescTags>
+      <DamageCache.33.DescTags>土属性伤害</DamageCache.33.DescTags>
+      <DamageCache.34.DescTags>土属性伤害</DamageCache.34.DescTags>
+      <DamageCache.35.DescTags>土属性伤害</DamageCache.35.DescTags>
+      <DamageCache.36.DescTags>土属性伤害</DamageCache.36.DescTags>
+    </Text>
+    <Text Name="Free_Base">
+      <DisplayName>闲逛</DisplayName>
+      <Desc>[NAME]发现一个景色不错的地方，突然生出了兴致，他收起飞剑，落了下去游览了一番。</Desc>
+    </Text>
+    <Text Name="Free_1">
+      <DisplayName>喝茶</DisplayName>
+      <Desc>[NAME]路过一个小镇，略感疲惫，他收起神通装作普通人的样子，在村里的茶馆休息了一会。</Desc>
+    </Text>
+    <Text Name="Free_2">
+      <DisplayName>小憩</DisplayName>
+      <Desc>[NAME]赶路过程中突然觉得有点困，他找了一棵大树，靠在上面小睡了一会。</Desc>
+    </Text>
+    <Text Name="Join_Base">
+      <DisplayName>点化仙缘</DisplayName>
+      <Desc>[NAME]发现了几个有心向道的凡人，于是指点了他们宗门位置，算算时间差不多到了。</Desc>
+    </Text>
+    <Text Name="Kidnap_Base">
+      <DisplayName>掳掠凡人</DisplayName>
+      <Desc>[NAME]施展神通，掳走了几个凡人。</Desc>
+      <GlobleOKResult><![CDATA[	
+			
+			if me:GetLuck() >= me:RandomInt(4,15) then
+				me:AddMsg("[NAME]掳走了几个凡人。幸运的是，此事滴水不漏，无人察觉。");
+			elseif me:GetLuck() >= me:RandomInt(2,9) then
+				me:AddMsg("[NAME]掳走了几个凡人。不幸的是，此事走漏了风声，宣扬开来。");me:AddSchoolScore(1,-100);me:AddSchoolScore(3,100);
+			else
+				me:AddMsg("[NAME]掳走了几个凡人。不幸的是，此事走漏了风声，竟然被一伙正派人士知晓，竟然一路追索，找上门来。");lingzhi:AddEnemy(world:RandomInt(2,5),world:RandomFloat(0,1));me:AddSchoolScore(1,-100);me:AddSchoolScore(3,100);
+			end
+			local nQ = me:RandomFloat(1, 3)
+			local nN = me:RandomInt(1,6)
+			local nR = me:RandomInt(1,4)
+			if story.Place == "Place_DaLiangCity" then
+				me:GrabJoiners(nN,nR,0,nQ,0,0,0);
+			elseif story.Place == "Place_ShanCity" then
+				me:GrabJoiners(nN,nR,0,0,nQ,0,0);
+			elseif story.Place == "Place_PanSheCity" then
+				me:GrabJoiners(nN,nR,0,0,0,0,nQ);
+			elseif story.Place == "Place_HuCity" then
+				me:GrabJoiners(nN,nR,nQ,0,0,0,0);
+			elseif story.Place == "Place_HeYinCity" then
+				me:GrabJoiners(nN,nR,0,0,0,nQ,0);
+			else
+				me:GrabJoiners(nN,nR,0,0,0,0,0,0);
+			end
+		]]></GlobleOKResult>
+    </Text>
+    <Text Name="Join_1">
+      <DisplayName>点化仙缘</DisplayName>
+      <Desc>[NAME]发现一名天资绝佳的苗子，于是在梦中显化神通，赐了这名凡人一场仙缘。如果这名弟子有心求仙道长生，大概在未来一两天内就会抵达宗门所在。</Desc>
+    </Text>
+    <Text Name="Join_2">
+      <DisplayName>点化仙缘</DisplayName>
+      <Desc>[NAME]偶遇一场仇杀，他看被追杀之人似乎与本门有缘，就随手施了个法术救了那人一命，并指点他来山门报道。</Desc>
+    </Text>
+    <Text Name="Visit_Base">
+      <DisplayName>偶遇</DisplayName>
+      <Desc>[NAME]走在路上，发现了一群[SCHOOL]的弟子迎面走来。</Desc>
+      <Selections.0.Display>热情交谈</Selections.0.Display>
+      <Selections.0.OKResult>me:AddMsg("[SCHOOL]的弟子见到[NAME]连忙上来拜见，[NAME]心情不错，顺手指点了这些晚辈一些修为上的事。分别时，[SCHOOL]的弟子恭敬的邀请你来他们门派做客。");me:AddSchoolRelation(story.School,50)</Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[
+				me:AddMsg("[NAME]和[SCHOOL]的弟子热情的交谈，双方一起到附近有名的酒楼畅饮一番。临分别时，[SCHOOL]的弟子硬是送了你一些当地特产的礼物，并邀请你有空再来[SCHOOL]转转。");me:AddSchoolRelation(story.School,50);
+				
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				]]></Selections.0.NOResult>
+      <Selections.1.Display>寒暄</Selections.1.Display>
+      <Selections.1.OKResult>me:AddMsg("[NAME]和[SCHOOL]的弟子打了声招呼，大家在路边聊了聊修行界最近发生的趣事，并约好下次互相拜访。");me:AddSchoolRelation(story.School,20)</Selections.1.OKResult>
+      <Selections.1.NOResult>me:AddMsg("[NAME]对[SCHOOL]的弟子点头示意，对方看了[NAME]一眼，也点了点头。");me:AddSchoolRelation(story.School,5)</Selections.1.NOResult>
+      <Selections.2.Display>嘲讽</Selections.2.Display>
+      <Selections.2.OKResult>me:AddMsg("[SCHOOL]的弟子很愤怒，并放出狠话让[NAME]和他的宗门最近小心点。");me:AddSchoolRelation(story.School,-40)</Selections.2.OKResult>
+      <Selections.2.NOResult>me:AddMsg("[SCHOOL]的弟子很诧异的看了[NAME]一眼，不知道为何他会说出这无礼的言论。");me:AddSchoolRelation(story.School,-5)</Selections.2.NOResult>
+      <Selections.3.Display>嘲讽</Selections.3.Display>
+      <Selections.3.OKResult>me:AddMsg("[SCHOOL]的弟子冷笑两声，掏出法宝向[NAME]发起了攻击。[NAME]考虑身处敌人门派所在地，不欲恋战，施了个手法脱身而去。");me:AddSchoolRelation(story.School,-100);me:AddDamgeFromCache(story.DamageCache,2)</Selections.3.OKResult>
+      <Selections.3.NOResult>me:AddMsg("[SCHOOL]的弟子勃然大怒，掏出法宝准备动手，但似乎顾忌什么，最终留下狠话悻悻离开。");me:AddSchoolRelation(story.School,-50)</Selections.3.NOResult>
+      <Selections.4.Display>无视</Selections.4.Display>
+      <Selections.4.OKResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.4.OKResult>
+      <Selections.4.NOResult>me:AddMsg("[SCHOOL]的弟子上来跟[NAME]打了个招呼，却见[NAME]神色冷漠的匆匆离去，心中略有不满。");me:AddSchoolRelation(story.School,-10)</Selections.4.NOResult>
+      <Selections.5.Display>挑衅</Selections.5.Display>
+      <Selections.5.Tip>金丹期</Selections.5.Tip>
+      <Selections.5.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。");me:AddMsg("[NAME]技高一筹，瞅准一个破绽，将对方领头的弟子一剑枭首，对方溃败，作鸟兽散。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,20);me:AddSchoolScore(3,20);
+				
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.5.OKResult>
+      <Selections.5.NOResult>me:AddMsg("[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]也祭出法宝对敌，双方战作一团。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,-40);me:AddSchoolScore(3,20);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.5.NOResult>
+      <Selections.6.Display>挑衅</Selections.6.Display>
+      <Selections.6.Tip>金丹期</Selections.6.Tip>
+      <Selections.6.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。");me:AddMsg("[NAME]技高一筹，瞅准一个破绽，将对方领头的弟子一剑枭首，对方溃败，作鸟兽散。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,20);me:AddSchoolScore(2,20);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.6.OKResult>
+      <Selections.6.NOResult>me:AddMsg("[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]也祭出法宝对敌，双方战作一团。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,-40);me:AddSchoolScore(2,20);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.6.NOResult>
+      <Selections.7.Display>无视</Selections.7.Display>
+      <Selections.7.Tip>金丹期</Selections.7.Tip>
+      <Selections.7.OKResult>me:AddMsg("[SCHOOL]的弟子恨恨的看了看你，但摄于你的修为，并没有做什么过激的事。");</Selections.7.OKResult>
+      <Selections.7.NOResult>me:AddMsg("[NAME]选择无视对面，可[SCHOOL]的几名弟子却冷笑一声，祭出法宝向[NAME]发动了猛烈的攻击。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-40);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.7.NOResult>
+      <Selections.8.Display>无视</Selections.8.Display>
+      <Selections.8.Tip>金丹期</Selections.8.Tip>
+      <Selections.8.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的弟子看到[NAME]大怒，喊了一声魔头受死便结成阵势向[NAME]杀来。");me:AddMsg("[NAME]狞笑一声，运起真力，一道匹练似的剑光纵横飞斩，转眼间就破了敌人的攻势，对面几人被一剑一个当了[NAME]的剑下亡魂。。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,30);me:AddSchoolScore(3,30);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.8.OKResult>
+      <Selections.8.NOResult>me:AddMsg("[NAME]选择无视对面，可[SCHOOL]的几名弟子却相视一眼，大喊一声魔头受死，就祭出法宝向[NAME]发动了猛烈的攻击。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-40);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.8.NOResult>
+    </Text>
+    <Text Name="Visit_1">
+      <DisplayName>偶遇</DisplayName>
+      <Desc>[NAME]走在路上，偶遇一名[SCHOOL]的长老。</Desc>
+      <Selections.0.Display>拜会</Selections.0.Display>
+      <Selections.0.OKResult>me:AddMsg("[NAME]上前同[SCHOOL]的长老打了声招呼，两人结伴同游[SCHOOL]附近的几处胜地，品风论道，畅谈许久。临分别时，[SCHOOL]的这名长老送你一个自己炼制的小法宝作为纪念。");me:AddSchoolRelation(story.School,50);me:DropRandomItem("FightFabao", 1, 2)</Selections.0.OKResult>
+      <Selections.0.NOResult>me:AddMsg("[NAME]上前恭敬的拜见了[SCHOOL]的长老，长老很开心的同[NAME]聊了两句，并指点了他几句修行法诀。");me:AddSchoolRelation(story.School,50);me:AddPracticeResource("Stage", me:GetGLevel() * 50)</Selections.0.NOResult>
+      <Selections.1.Display>寒暄</Selections.1.Display>
+      <Selections.1.OKResult>me:AddMsg("[NAME]和[SCHOOL]的长老打了声招呼，大家聊了两句，[SCHOOL]的长老说有事在身，匆匆离去了。");me:AddSchoolRelation(story.School,20)</Selections.1.OKResult>
+      <Selections.1.NOResult>me:AddMsg("[NAME]向这名[SCHOOL]的长老打了个招呼，对方看了[NAME]一眼，微不可察的点了点头。");me:AddSchoolRelation(story.School,5)</Selections.1.NOResult>
+      <Selections.2.Display>袭击</Selections.2.Display>
+      <Selections.2.Tip>金丹期</Selections.2.Tip>
+      <Selections.2.OKResult><![CDATA[
+				me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老打了个招呼，暗中却发出了致命的一击，重创了对方。");me:AddMsg("[SCHOOL]的长老不敢置信的看着[NAME]，奋起反击，但最终还是被[NAME]接二连三的狠招夺去了性命。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,100);me:AddSchoolScore(3,100);me:DropRandomItem("FightFabao", 3, 4);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.2.OKResult>
+      <Selections.2.NOResult>me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老打了个招呼，暗中却发出了致命的一击，[SCHOOL]的长老在最后关头察觉到了这次偷袭，险之又险的躲过了这招并发起凌厉的反击。");me:AddMsg("[NAME]偷袭失败，心神一乱，被长老的绝招命中。最后使尽浑身解数，侥幸脱身。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-50);me:AddSchoolScore(3,100);me:AddDamgeFromCache(story.DamageCache,5);</Selections.2.NOResult>
+      <Selections.3.Display>袭击</Selections.3.Display>
+      <Selections.3.Tip>金丹期</Selections.3.Tip>
+      <Selections.3.OKResult><![CDATA[
+				me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老打了个招呼，暗中却发出了致命的一击，重创了对方。");me:AddMsg("[SCHOOL]的长老不敢置信的看着[NAME]，刚准备逃生，就被[NAME]接二连三的狠招夺去了性命。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:DropRandomItem("FightFabao", 3, 4);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.3.OKResult>
+      <Selections.3.NOResult>me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老打了个招呼，暗中却发出了致命的一击，[SCHOOL]的长老在最后关头察觉到了这次偷袭，险之又险的躲过了这招并发起凌厉的反击。");me:AddMsg("[NAME]偷袭失败，心神一乱，被长老的绝招命中。最后使尽浑身解数，侥幸脱身。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,5);</Selections.3.NOResult>
+      <Selections.4.Display>攻击</Selections.4.Display>
+      <Selections.4.Tip>金丹期</Selections.4.Tip>
+      <Selections.4.OKResult><![CDATA[
+				me:AddMsg("[NAME]见面不多说，先下手为强，一记狠手向[SCHOOL]的长老身上招呼，直接重创了对方。");me:AddMsg("[SCHOOL]的长老猝不及防，慌忙刚准备逃生，就被[NAME]接二连三的狠招夺去了性命。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:DropRandomItem("FightFabao", 3, 4);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.4.OKResult>
+      <Selections.4.NOResult>me:AddMsg("[NAME]见面不多说，先下手为强，一记狠手向[SCHOOL]的长老身上招呼，[SCHOOL]的长老临危不乱，险之又险的躲过了这招并发起凌厉的反击。");me:AddMsg("[NAME]偷袭失败，心神一乱，被长老的绝招命中。最后使尽浑身解数，侥幸脱身。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,5);</Selections.4.NOResult>
+      <Selections.5.Display>无视</Selections.5.Display>
+      <Selections.5.OKResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.5.OKResult>
+      <Selections.5.NOResult>me:AddMsg("[SCHOOL]的长老看[NAME]装作没看到自己，对你的无礼略感不满。");me:AddSchoolRelation(story.School,-30)</Selections.5.NOResult>
+      <Selections.6.Display>挑衅</Selections.6.Display>
+      <Selections.6.Tip>金丹期</Selections.6.Tip>
+      <Selections.6.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的长老怒极反笑，他出手就是[SCHOOL]的镇派绝招，狠狠攻向[NAME]。[NAME]狞笑一声，祭出自己的法宝迎敌。一时间空中两道流光如惊龙横空斗作一团。");me:AddMsg("两人瞬息间已过手数十招，[NAME]看重一个破绽，拼着自己受伤一招打碎了[SCHOOL]的长老的天灵盖，[SCHOOL]的长老死状惨烈，神形俱灭。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:DropRandomItem("FightFabao", 3, 4);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.6.OKResult>
+      <Selections.6.NOResult>me:AddMsg("[SCHOOL]的长老怒极反笑，他出手就是[SCHOOL]的镇派绝招，狠狠攻向[NAME]。[NAME]狞笑一声，祭出自己的法宝迎敌。但却错估了对方杀招的威力，竟然被瞬间破去了法宝。");me:AddMsg("[NAME]大惊失色，已经失了先机，虽然拼命逃走，但却被[SCHOOL]的长老打中致命的一击。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,-150);me:AddSchoolScore(3,50);me:AddDamage("VisceralRupture","Heart",0.8,"法术轰击");</Selections.6.NOResult>
+      <Selections.7.Display>挑衅</Selections.7.Display>
+      <Selections.7.Tip>金丹期</Selections.7.Tip>
+      <Selections.7.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的长老皱了皱眉，一副不想惹事的样子转身离去。暗中却向[NAME]使出[SCHOOL]的绝杀秘术，想不费吹灰之力夺取[NAME]性命。");me:AddMsg("[NAME]早已察觉，也故作中招，趁敌人大喜回身之际发出运起全身功力的一击。只一道惊龙般的神光如神矢贯月，瞬间将毫无防备的[SCHOOL]的长老打成飞灰。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:AddSchoolScore(2,50);me:DropRandomItem("FightFabao", 3, 4);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.7.OKResult>
+      <Selections.7.NOResult>me:AddMsg("[SCHOOL]的长老怒极反笑，他出手就是[SCHOOL]的镇派绝招，狠狠攻向[NAME]。[NAME]狞笑一声，祭出自己的法宝迎敌。但却错估了对方杀招的威力，竟然被瞬间破去了法宝。");me:AddMsg("[NAME]大惊失色，已经失了先机，虽然拼命逃走，但却被[SCHOOL]的长老的致命的一击打中了心脏。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,-150);me:AddSchoolScore(2,50);me:AddDamage("VisceralRupture","Heart",0.8,"法术轰击");</Selections.7.NOResult>
+      <Selections.8.Display>无视</Selections.8.Display>
+      <Selections.8.Tip>金丹期</Selections.8.Tip>
+      <Selections.8.OKResult>me:AddMsg("[SCHOOL]的长老皮笑肉不笑的看了你一样，似乎想动手，但最终掉转方向离去。");</Selections.8.OKResult>
+      <Selections.8.NOResult>me:AddMsg("[NAME]选择无视对面，可[SCHOOL]的长老却不准备放过他，他目露凶光，挥手就拦住[NAME]的去路，并发动了猛烈的攻击。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[SCHOOL]的长老招招夺命，[NAME]拼尽全力才逃脱了[SCHOOL]的长老的追杀。");me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,5,0.8);</Selections.8.NOResult>
+      <Selections.9.Display>无视</Selections.9.Display>
+      <Selections.9.Tip>金丹期</Selections.9.Tip>
+      <Selections.9.OKResult>me:AddMsg("[SCHOOL]的长老看到[NAME]神色不忿，但是想了想[NAME]在修行界的凶威还是啐了一口，扭头离去。")</Selections.9.OKResult>
+      <Selections.9.NOResult>me:AddMsg("[SCHOOL]的长老大喝一声歪门邪道，人人得而诛之，挥手祭出随身法宝，对[NAME]发起凌厉的攻势。");me:AddMsg("[NAME]见对方招数精奇，先失了胆气。只得卖了个破绽，付出受了几处伤的代价借遁光逃离。");me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,3,0.5);</Selections.9.NOResult>
+    </Text>
+    <Text Name="Visit_2">
+      <DisplayName>拜访山门</DisplayName>
+      <Desc>[NAME]正在御剑赶路，突然想起[SCHOOL]的山门就在附近。</Desc>
+      <Selections.0.Display>拜访掌门</Selections.0.Display>
+      <Selections.0.OKResult><![CDATA[
+				if story.School == 1 then  
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(11,1);me:DropFabao(0,"Item_Cinnabar",nil,"红云神砂","丹霞宗镇派法宝，以万年朱砂炼制，破一切邪秽。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 2 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(12,1);me:DropFabao(0,"Item_WeaponSword","Item_ShuiEssence","天莲剑","昆仑宫镇派法宝，以五色金莲为胎铸成剑形，深具灵性。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 3 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(13,1);me:DropFabao(0,"Item_SysAcupuncture","Item_JinEssence","天极神针","极天宫镇派法宝，以天地灵药琅琊果为材料制成针体，又用天雷淬炼百年而成。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 4 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(14,1);me:DropFabao(0,"Item_Bracelet","Item_MuEssence","紫霞锁云镯","紫霄宗镇派法宝，以天地灵药木枯藤打造而成，威力不凡。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 5 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(15,1);me:DropFabao(0,"Item_SpellPaper","Item_StarEssence","五雷镇狱神符","正一道镇派之宝，以太古陨星为原料制成的法宝，上面刻五雷天心正法，威力惊人。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 6 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(16,1);me:DropFabao(0,"Item_WeaponSword","Item_StarEssence","青索剑","青莲剑宗镇派之宝，以陨星之铁锻造，锋利无匹。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 7 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(17,1);me:DropFabao(0,"Item_Handkerchief","Item_Other_BingCanSi","寒织五云帕","栖霞宗镇派之宝，以冰蚕丝织成，神妙非常。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 8 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(18,1);me:DropFabao(0,"Item_WeaponSword","Item_SoulPearl","百灵腐仙剑","百蛮山镇派邪剑，以数百妖兽内丹铸成，一旦祭出，邪气滔天。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 9 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(19,1);me:DropFabao(0,"Item_WeaponAxeRing","Item_LingCrystal","元磁两心环","七仟坞镇派之宝，威力惊人且深具灵性，传说法宝有自我意识，只要认主，哪怕是白痴都可以使用。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 10 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(20,1);me:DropFabao(0,"Item_WeaponSword","Item_ExtremeJade","七杀剑","黑山镇派之宝，历经数次正邪大战，无物不斩。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 11 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(21,1);me:DropFabao(0,"Item_SmallBell","Item_ExtremeJade","合欢铃","合欢派镇派法宝，用千棱神玉制成，细看之下有神光流转其中。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				elseif story.School == 12 then
+					me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将镇派法宝赠与[NAME]。希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(22,1);me:DropFabao(0,"Item_Umbrella","Item_HuoEssence","七炎伞","万妖殿镇派之宝，以神药朱果之核雕成，祭出有焚山煮海之力。",1,11);world:AddAchievementCount("SchoolFabao_Count",1)
+				end;
+				]]></Selections.0.OKResult>
+      <Selections.1.Display>极天宫之托</Selections.1.Display>
+      <Selections.1.OKResult><![CDATA[
+					me:AddMsg("[NAME]此次来极天宫，无意间看到极天宫一名刚入门的弟子正喃喃自语的阅读一本书册。[NAME]十分好奇，遂上前询问。那名弟子考虑到[NAME]的宗门也是名满天下的大派且与本派交好，于是便笑着解释了一番。");me:AddMsg("原来极天宫开派宗师开宗立派后便游历人间，最后下落不明。只有古代留下的孤本《群仙录》记载其最后游戏人间的传说故事。历代极天宫弟子无事之时都会翻阅此册，一方面瞻仰祖师，一方面也希望都在据此寻找开派宗师的遗蜕线索。");me:AddMsg("[NAME]心中一动，便问这名弟子讨要了一份副本好回去研读。");world:SetWorldFlag(49,1);me:DropEsoteric("QunXianLu_3");
+				]]></Selections.1.OKResult>
+      <Selections.2.Display>拜山</Selections.2.Display>
+      <Selections.2.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]上下十分欢迎你的来访，他们盛情邀请[NAME]在此小住了几天，并带他游览了[SCHOOL]附近。在这些日子里，[NAME]与诸位同道切磋道法，谈天说地，十分尽兴。");me:AddMsg("临走之时，[SCHOOL]送了[NAME]一份珍贵的礼物，希望两派的友谊可以长存。");me:AddSchoolRelation(story.School,100);me:AddPracticeResource("Stage", me:GetGLevel() * 100);me:UnLockPlaceFromCache(story.PlaceChildren);me:DropAwardItemFromCache(story.ItemCache3, 1, 1)</Selections.2.OKResult>
+      <Selections.2.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL],[SCHOOL]派中的几个弟子奉命接待了[NAME]。双方愉快的谈了一个下午，[NAME]看看天色已晚，便告辞而去。");me:AddSchoolRelation(story.School,50)</Selections.2.NOResult>
+      <Selections.3.Display>拜山</Selections.3.Display>
+      <Selections.3.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，但[SCHOOL]的看门弟子表示派中有突发急事，不便待客。");me:AddSchoolRelation(story.School,-10)</Selections.3.OKResult>
+      <Selections.3.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]的两个年轻弟子在客房简单接待了他。他们表示派中长辈都在闭关， 不方便待客。");me:AddSchoolRelation(story.School,10)</Selections.3.NOResult>
+      <Selections.4.Display>拜山</Selections.4.Display>
+      <Selections.4.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]上下十分欢迎你的来访，他们盛情邀请[NAME]在此小住了几天，并带他游览了[SCHOOL]附近。在这些日子里，[NAME]与诸位同道切磋道法，谈天说地，十分尽兴。");me:AddMsg("临走之时，[SCHOOL]送了[NAME]一份珍贵的礼物，希望两派的友谊可以长存。");me:AddSchoolRelation(story.School,100);me:AddPracticeResource("Stage", me:GetGLevel() * 100);me:UnLockPlaceFromCache(story.PlaceChildren);me:DropAwardItemFromCache(story.ItemCache3, 1, 1)</Selections.4.OKResult>
+      <Selections.4.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL],[SCHOOL]派中的几个弟子奉命接待了[NAME]。双方愉快的谈了一个下午，[NAME]看看天色已晚，便告辞而去。");me:AddSchoolRelation(story.School,50)</Selections.4.NOResult>
+      <Selections.5.Display>拜山</Selections.5.Display>
+      <Selections.5.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，但[SCHOOL]的看门弟子表示派中有突发急事，不便待客。");me:AddSchoolRelation(story.School,-10)</Selections.5.OKResult>
+      <Selections.5.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]的两个年轻弟子在客房简单接待了他。他们表示派中长辈都在闭关，不方便待客。");me:AddSchoolRelation(story.School,10)</Selections.5.NOResult>
+      <Selections.6.Display>拜山</Selections.6.Display>
+      <Selections.6.Tip>元神期或双方关系良好</Selections.6.Tip>
+      <Selections.6.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]派两个弟子接待了他。双方在密室聊了不少时间。");me:AddSchoolRelation(story.School,50);me:AddSchoolScore(3,50)</Selections.6.OKResult>
+      <Selections.6.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]派两个弟子接待了他，并邀请[NAME]去密室商谈。");me:AddMsg("在[NAME]走进密室后，才发现这是一个陷阱，他被[SCHOOL]抓住，成为了活靶子，几经折磨后，他假死闭气，被弃尸荒野，侥幸逃了出来。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,10);</Selections.6.NOResult>
+      <Selections.7.Display>潜入</Selections.7.Display>
+      <Selections.7.Tip>元神期及机缘不错</Selections.7.Tip>
+      <Selections.7.OKResult><![CDATA[
+				if story.School == 3 and world:GetWorldFlag(49) == 0 and me:GetSchoolScore(0) >= 6000 then
+					me:AddMsg("[NAME]潜入极天宫的藏宝库，竟然发现藏宝库最中心供奉有一本书册。");me:AddMsg("[NAME]心中一动，想到宗门在修行界收集到的一些极天宫的传言，于是将这本书册悄悄偷了出来。");world:SetWorldFlag(49,1);me:DropEsoteric("QunXianLu_3");
+				else
+					me:AddMsg("[NAME]偷偷潜入了[SCHOOL]，他几经周折，终于找到了[SCHOOL]的藏宝室，并从中偷拿了几件宝物。事后，[SCHOOL]以术法推算，从蛛丝马迹中得知偷盗者的身份，为此恼怒不已。");me:AddSchoolRelation(story.School,-500);
+					for i = 1, me:RandomInt(1, 4)do
+						local nR = me:RandomInt(1, 6)
+						if nR == 1 then
+							me:DropRandomItem("FightFabao", 5, 5)
+						elseif nR == 2 then
+							me:DropRandomItem("Esoterica")
+						elseif nR == 3 then
+							me:DropAwardItemFromCache(story.ItemCache3, 1, 1)
+						else 
+							me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+						end
+					end
+				end;
+				]]></Selections.7.OKResult>
+      <Selections.7.NOResult><![CDATA[				me:AddMsg("[NAME]偷偷潜入了[SCHOOL]，他几经周折，终于找到了[SCHOOL]的藏宝室，然而在破解禁制时，不小心触动了警报。[NAME]寡不敌众，身受重伤，被当场拿下。");me:AddMsg("[NAME]的双眼被挖，四肢被打断并被扔下悬崖，只侥幸留下一条残命。[SCHOOL]严厉警告了他的宗门，让他们管好自己的弟子。");me:AddSchoolRelation(story.School,-500);me:AddSchoolScore(1,-200);me:AddDamage("Destroy", "RightEye", 1, "酷刑");me:AddDamage("Destroy","LeftEye", 1, "酷刑");me:AddDamage("Fabao_CutOff","LeftScapula", 1, "法宝重击");me:AddDamage("Fabao_CutOff","RightScapula", 1, "法宝重击");me:AddDamage("Fabao_CutOff","LeftThighbone", 1, "法宝重击");me:AddDamage("Fabao_CutOff","RightThighbone", 1, "法宝重击")
+				]]></Selections.7.NOResult>
+      <Selections.8.Display>无视</Selections.8.Display>
+      <Selections.8.OKResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.8.OKResult>
+      <Selections.8.NOResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.8.NOResult>
+    </Text>
+    <Text Name="Story_Base">
+      <DisplayName>游戏红尘</DisplayName>
+      <Desc>[NAME]路过一个小城，突然起了凡心，[IT]施展神通，变化成了一个凡人的样子，混到了城里。</Desc>
+      <Selections.0.Display>游戏红尘</Selections.0.Display>
+      <Selections.0.OKResult>me:AddMsg("[NAME]刻意收了神通，以凡人之身体会凡人之心，游戏人间，随心而为。某日清晨，[IT]心中忽然一动，竟然有所领悟。");me:AddMsg("[NAME]哈哈大笑，化作一道金光离去，给当地留下无数传说。");me:AddPracticeResource("Stage",me:GetGLevel() * 100);me:AddSchoolScore(1,30)</Selections.0.OKResult>
+      <Selections.1.Display>搅乱红尘</Selections.1.Display>
+      <Selections.1.OKResult>me:AddMsg("[NAME]在人间利用神通混的风生水起，[IT]并不在乎人间的道德，只凭喜恶行事：顺心者赐之富贵，忤逆者夺其性命。随心所欲的生活让他心性通达，不知不觉竟然修为大有长进。");me:AddMsg("[NAME]逐渐对这种生活感到了厌倦，[IT]毫不犹豫的离开这座城市。");me:AddPracticeResource("Stage",me:GetGLevel() * 100);me:AddSchoolScore(2,10);me:AddSchoolScore(3,30)</Selections.1.OKResult>
+    </Text>
+    <Text Name="Story_1">
+      <DisplayName>游戏红尘</DisplayName>
+      <Desc>[NAME]在河边看到一个老太太在磨铁杵。</Desc>
+      <Selections.0.Display>询问（善意）</Selections.0.Display>
+      <Selections.0.OKResult>me:AddMsg("[NAME]问老太太你在干什么。老太太说：我在磨针啊，你眼神不好使么。[NAME]觉得这个老太太一定是年纪大了，脑子有点不清楚。他施展法术治疗了老太太的脑疾，随后便御剑离去。");me:AddMsg("老太太惊呼神仙，对[NAME]感恩不已。");me:AddSchoolScore(2,10);me:SetFlag(1,1)</Selections.0.OKResult>
+      <Selections.1.Display>有所悟</Selections.1.Display>
+      <Selections.1.OKResult>me:AddMsg("[NAME]问老太太你在干什么。老太太说：我在磨针啊，你眼神不好使么。[IT]突然有所领悟，他觉得修行之道如铁杵磨针，需要苦下功夫才能有所成就。");me:AddMsg("[NAME]偷偷给老太太留下一片金叶子作为报答，便乘风而去。");me:AddModifier("Story_PracticeSpeed1");me:AddSchoolScore(2,10);me.SetFlag(1,2)</Selections.1.OKResult>
+      <Selections.2.Display>询问（恶意）</Selections.2.Display>
+      <Selections.2.OKResult>me:AddMsg("[NAME]问老太太你在干什么。老太太说：我在磨针啊，你眼神不好使么。[NAME]恼羞成怒，一个凡人老太婆也敢与仙人说教？。");me:AddMsg("[NAME]愤怒的杀掉了这名凡人，离开了这里。");me:AddSchoolScore(3,20);me.SetFlag(1,3)</Selections.2.OKResult>
+      <Selections.3.Display>又是她</Selections.3.Display>
+      <Selections.3.OKResult>me:AddMsg("[NAME]觉得有点奇怪，怎么犯病的老太太这么多。");me:AddMsg("[NAME]再次偷偷治疗了老太太，默默离去，深藏功与名。")</Selections.3.OKResult>
+      <Selections.4.Display>又是她</Selections.4.Display>
+      <Selections.4.OKResult>me:AddMsg("[NAME]满怀敬意的看了这名老者一眼，转身离去。")</Selections.4.OKResult>
+      <Selections.5.Display>又是她</Selections.5.Display>
+      <Selections.5.OKResult>me:AddMsg("[NAME]觉得有点奇怪，怎么又遇到一个磨针的老太太。");me:AddMsg("[NAME]懒得搭话，转身离去了。")</Selections.5.OKResult>
+    </Text>
+    <Text Name="Story_2">
+      <DisplayName>游戏红尘</DisplayName>
+      <Desc>[NAME]路遇一处自然造化的绝景，[IT]被突如其来的感动震慑，立刻盘膝坐下，不知道是否会有所感悟。</Desc>
+      <Selections.0.Display>参悟玄妙</Selections.0.Display>
+      <Selections.0.Tip>悟性</Selections.0.Tip>
+      <Selections.0.OKResult>me:AddMsg("[NAME]在此地打坐一夜，大有所获，修行上的几个困惑不翼而飞。");me:AddPracticeResource("Stage",me:GetGLevel() * 100)</Selections.0.OKResult>
+      <Selections.0.NOResult>me:AddMsg("[NAME]在此处打坐一夜，始终找不到那一点灵感，最终只能遗憾离去。");</Selections.0.NOResult>
+      <Selections.1.Display>吸纳灵气</Selections.1.Display>
+      <Selections.1.OKResult>
+				me:AddMsg("[NAME]在此处打坐一夜，第二天醒来竟然发现全身灵气都已恢复，甚至还比以前更雄厚了");me:SetFlag(28,(me:GetFlag(28) + 1));me:AddModifier("Story_LingMax1");me:AddPracticeResource("Ling",me:GetProperty("NpcLingMaxValue"))
+				</Selections.1.OKResult>
+      <Selections.1.NOResult>me:AddMsg("[NAME]在此处打坐一夜，第二天醒来竟然发现全身灵气都已恢复");me:AddPracticeResource("Ling",me:GetProperty("NpcLingMaxValue"))</Selections.1.NOResult>
+    </Text>
+    <Text Name="Story_3">
+      <DisplayName>游戏红尘</DisplayName>
+      <Desc>[NAME]偶然间看到两只异兽在空中争斗，二兽各展神通，你来我往，妙招如天成。[NAME]福至心灵，觉得这两只异兽的争斗中，似乎隐藏着什么奥秘。</Desc>
+      <Selections.0.Display>模仿异兽</Selections.0.Display>
+      <Selections.0.Tip>神识</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				
+				if me:RandomInt(1, 15) <= me:GetPerception() then
+					me:SetFlag(27, (me:GetFlag(27) + 1))
+					
+					local nR = me:RandomInt(1,5)
+					if nR == 1 then
+						me:AddMsg("[NAME]模仿异兽的进攻轨迹，竟然大有所得。他们的进攻方式似乎是某种浑然天成的剑诀。");me:AddModifier("Story_FabaoPower1");
+					elseif nR == 2 then
+						me:AddMsg("[NAME]仔细模仿了异兽的呼吸吐纳，竟然大有所得。这种吐纳的方法十分高明，可以更高效的吸收灵气。");me:AddModifier("Story_LingAbsorbSpeed1");
+					elseif nR == 3 then
+						me:AddMsg("[NAME]观察了异兽飞行的姿势，若有所悟。他们的行动能很好地利用空气的流动，让飞行变得更迅速。");me:AddModifier("Story_WorldMapFlySpeedAddP1");
+					elseif nR == 4 then
+						me:AddMsg("[NAME]参考了异兽满是皱褶的皮肤，恍然大悟。这样的结构确实可以更好的消解攻击中的冲击力。");me:AddModifier("Story_ShieldConversionRate1");
+					end
+				else
+					me:AddMsg("[NAME]努力的观察模仿，但是始终学不到其中的那点神髓，总是差了点灵感。异兽争斗了一会，便各自离去了。");
+				end
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult>
+					me:AddMsg("多次的围观异兽的警觉，两只异兽竟然一起向[NAME]发动了凌厉的攻击，[NAME]猝不及防，一番纠缠争斗之下，受了不少伤才得以脱身。");me:AddDamgeFromCache(story.DamageCache,4);
+				</Selections.0.NOResult>
+      <Selections.1.Display>无视</Selections.1.Display>
+      <Selections.1.OKResult><![CDATA[	
+				me:AddMsg("[NAME]不想招惹这两只异兽，扭头离开了。");
+				]]></Selections.1.OKResult>
+    </Text>
+    <Text Name="GoodFight_Base">
+      <DisplayName>瘟疫肆虐</DisplayName>
+      <Desc>[NAME]御剑路过一座城镇，发现此处瘟疫肆虐。在城门口似乎有几个修行者在帮助这些凡人抵御瘟疫，只是情况越来越危急，似乎快要抵御不住了。</Desc>
+      <Selections.0.Display>帮忙</Selections.0.Display>
+      <Selections.0.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local school = world:GetSchoolName(nR);
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群"..school.."的内门弟子。", nR);me:AddMsg("[NAME]表明来意，"..school.."的弟子表示了对你的感谢。众人合力施法，终于遏制了瘟疫的扩散。", nR);me:AddSchoolRelation(nR,50);me:AddSchoolScore(1,30);me:AddSchoolScore(2,20);
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local school = world:GetSchoolName(nR);
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群"..school.."的内门弟子。", nR);me:AddMsg("[NAME]表明来意，"..school.."的弟子虽然对你邪派出身将信将疑，但因情况紧急，还是略带防备的同意了你。", nR);me:AddMsg("众人合力施法，终于遏制了瘟疫的扩散。"..school.."的弟子也为之前对你的怀疑道歉。", nR);me:AddSchoolRelation(nR,50);me:AddSchoolScore(1,30);me:AddSchoolScore(2,20);
+				]]></Selections.0.NOResult>
+      <Selections.1.Display>假意帮忙</Selections.1.Display>
+      <Selections.1.Tip>练气期</Selections.1.Tip>
+      <Selections.1.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local school = world:GetSchoolName(nR);
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群"..school.."的内门弟子。", nR);me:AddMsg("[NAME]表明来意，"..school.."的弟子大喜，表达了对你的感谢。", nR);me:AddMsg("然而，在众人合力施法的关键时刻，[NAME]突然发难，剧烈的法力反噬重创了其他参与者，也让整个城镇化为尸山血海。[NAME]不费吹灰之力的击杀了这些"..school.."的弟子，搜刮了他们的宝物。", nR);me:AddSchoolRelation(nR,-150);me:AddSchoolScore(3,200);
+				if me:GetGLevel() < 4 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				for i = 1, me:RandomInt(1, 4), 1 do
+				local nR = me:RandomInt(1, 3)
+				if nR == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nR == 2 then
+					me:DropRandomItem("Esoterica")
+				end
+				end;
+				]]></Selections.1.OKResult>
+      <Selections.1.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local school = world:GetSchoolName(nR);
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群"..school.."的内门弟子。", nR);me:AddMsg("[NAME]表明来意，"..school.."的弟子大喜，表达了对你的感谢。", nR);me:AddMsg("在众人合力施法的关键时刻，[NAME]突然发难，其他人猝不及防，被阵法反噬重创。[NAME]谋划得逞，不由的放松了精神。然而"..school.."的领头弟子却运起残存真气，一剑洞穿了[NAME]。", nR);me:AddMsg("[NAME]受伤颇重，如惊弓之鸟，慌忙逃窜，保住了性命。", nR);me:AddSchoolRelation(nR,-150);me:AddSchoolScore(3,100);me:AddDamgeFromCache(story.DamageCache,4);
+				]]></Selections.1.NOResult>
+      <Selections.2.Display>假意帮忙</Selections.2.Display>
+      <Selections.2.Tip>结丹期</Selections.2.Tip>
+      <Selections.2.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local school = world:GetSchoolName(nR);
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群"..school.."的内门弟子。", nR);me:AddMsg("[NAME]表明来意，"..school.."的弟子虽然对你邪派出身将信将疑，但因情况紧急，还是略带防备的同意了你。", nR);me:AddMsg("在众人合力施法的关键时刻，[NAME]突然发难，剧烈的法力反噬重创了其他参与者，也让整个城镇化为尸山血海。[NAME]不费吹灰之力的击杀了这些[SCHOOL]的弟子，搜刮了他们的宝物。", nR);me:AddSchoolRelation(nR,-150);me:AddSchoolScore(3,200);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				for i = 1, me:RandomInt(1, 4), 1 do
+				local nR = me:RandomInt(1, 3)
+				if nR == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nR == 2 then
+					me:DropRandomItem("Esoterica")
+				end
+				end;
+				]]></Selections.2.OKResult>
+      <Selections.2.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local school = world:GetSchoolName(nR);
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群"..school.."的内门弟子。", nR);me:AddMsg("[NAME]表明来意，"..school.."的弟子虽然对你邪派出身将信将疑，但因情况紧急，还是略带防备的同意了你。", nR);me:AddMsg("在众人合力施法的关键时刻，[NAME]突然发难，然而他人却早有防备，逆转阵法反而重创了[NAME]。[NAME]慌乱中夺路而逃，保住一条性命，但是身负重伤，功力大损。", nR);me:AddSchoolRelation(nR,-150);me:AddSchoolScore(3,100);me:AddPracticeResource("Ling",-0.5 * me:GetProperty("NpcLingMaxValue"));me:AddPracticeResource("Ling",-0.5 * me:GetProperty("NpcLingMaxValue"));me:AddDamgeFromCache(story.DamageCache,4);
+				]]></Selections.2.NOResult>
+      <Selections.3.Display>无视</Selections.3.Display>
+      <Selections.3.OKResult><![CDATA[	
+				me:AddMsg("[NAME]不想惹这些闲事，扭头就走。");
+				]]></Selections.3.OKResult>
+    </Text>
+    <Text Name="GoodFight_1">
+      <DisplayName>正邪之斗</DisplayName>
+      <Desc>[NAME]远远看到远处剑光闪动，似乎有人在斗法。</Desc>
+      <Selections.0.Display>攻击邪派弟子</Selections.0.Display>
+      <Selections.0.Tip>结丹期</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，施了一个剑诀。法宝如同电光惊龙，斩向这帮{1}的邪魔。\n双方本来势均力敌，[NAME]的加入使得邪魔迅速溃败，他们丢下几具尸体后便四散逃命去了。\n{0}的弟子感谢了[NAME]施以援手，并将战利品拿出来供他挑选。", sR, sQ);
+				me:AddSchoolRelation(nR,50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,30);me:AddSchoolScore(2,20);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);
+				
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，加入战团。对这群{1}的邪魔发动了攻击。\n一番苦斗，众人各自负伤，邪派妖人见形势不妙，使了个脱身的手段，逃离了此处。\n因[NAME]修为太低，并没有帮上什么实质的忙，{0}的弟子感谢了[NAME]的援手，就告辞离去了。",sR, sQ);
+				me:AddSchoolRelation(nR,50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,30);me:AddSchoolScore(2,20);me:AddDamgeFromCache(story.DamageCache,2);
+				]]></Selections.0.NOResult>
+      <Selections.1.Display>攻击邪派弟子</Selections.1.Display>
+      <Selections.1.Tip>结丹期</Selections.1.Tip>
+      <Selections.1.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);				
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派弟子。\n虽同为邪道，[NAME]却与{1}的这几名弟子早有私怨。他狞笑两声，毫无声息的向这帮{1}的弟子发动偷袭。由于毫无防备，[NAME]一招就重创对方数人。\n双方本来势均力敌，[NAME]的偷袭使得{1}迅速溃败，[NAME]放开手脚，大杀特杀，将这群{1}的弟子全歼当场。不过[NAME]不欲与正道纠缠，搜了几个无主的宝物便迅速离去。",sR,sQ);me:AddSchoolRelation(nR,50);me:AddSchoolRelation(nQ,-100);me:AddSchoolScore(1,30);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.1.OKResult>
+      <Selections.1.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派弟子。\n虽同为邪道，[NAME]却与{1}的这几名弟子早有私怨。他狞笑两声，毫无声息的向这帮{1}的弟子发动偷袭。但是由于[NAME]修为太低，他的偷袭却被早早识破，反而暴露了自己的身形。\n在[NAME]出手的瞬间，{1}的弟子突然大喊，感谢救援云云，同时向[NAME]发动了狠辣的攻击。正派弟子闻言大惊失色，以为来了援军，调转法宝也向[NAME]攻去。[NAME]万万没想到局面变成这样，腹背受敌，瞬间遭到重创，只得仓皇逃窜。",sR, sQ);me:AddSchoolRelation(nR,-50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,-150);me:AddDamgeFromCache(story.DamageCache,6);
+				]]></Selections.1.NOResult>
+      <Selections.2.Display>攻击正派弟子</Selections.2.Display>
+      <Selections.2.Tip>结丹期</Selections.2.Tip>
+      <Selections.2.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正派弟子。\n[NAME]二话不说，施了一个剑诀。法宝如同电光惊龙，斩向这帮{0}的伪君子。\n双方本来势均力敌，[NAME]的加入使得正道弟子迅速溃败，他们丢下几具尸体后便四散逃命去了。\n{1}的弟子感谢了[NAME]施以援手，并将战利品拿出来供他挑选。", sR, sQ);me:AddSchoolRelation(nR,-50);me:AddSchoolRelation(nQ,50);me:AddSchoolScore(1,30);me:AddSchoolScore(3,20);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.2.OKResult>
+      <Selections.2.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正道弟子。\n[NAME]二话不说，加入战团。对这群{0}的伪君子发动了攻击。\n一番苦斗，众人各自负伤，正道弟子见形势不妙，使了个脱身的手段，逃离了此处。\n因[NAME]修为太低，并没有帮上什么实质的忙，{1}的弟子冷笑着发出两声讽刺，就离开了此处。", sR, sQ);me:AddSchoolRelation(nR, -50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,-30);me:AddDamgeFromCache(story.DamageCache,2);
+				]]></Selections.2.NOResult>
+      <Selections.3.Display>攻击正派弟子</Selections.3.Display>
+      <Selections.3.Tip>结丹期</Selections.3.Tip>
+      <Selections.3.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正派。\n虽同为正道，[NAME]却与{0}的这几名弟子早有私怨。他偷偷运转法宝，毫无声息的向这帮{0}的弟子发动偷袭。由于毫无防备，[NAME]一招就重创对方数人。\n双方本来势均力敌，[NAME]的偷袭使得{0}迅速溃败，[NAME]看局面必死，也没有现出身形，搜了几个无主的宝物便迅速离去。",sR, sQ);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.3.OKResult>
+      <Selections.3.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正派弟子。\n虽同为正道，[NAME]却与{0}的这几名弟子早有私怨。他偷偷运转法宝，毫无声息的向这帮{0}的弟子发动偷袭。但是由于[NAME]修为太低，他的偷袭却被早早识破，反而暴露了自己的身形。\n{0}的弟子对你的偷袭感到异常震怒，他们甚至拼着受伤，向[NAME]施展出{0}的镇派绝杀，将之狠狠重创。[NAME]偷鸡不成蚀把米，慌不择路的逃离战场。\n借着绝杀余威，{0}的弟子杀出包围，逃离了战场。随后，他们向修行界曝光了[NAME]的卑劣行径。", sR, sQ);me:AddSchoolRelation(nQ,-300);me:AddSchoolScore(1,-100);me:AddSchoolScore(2,-200);me:AddDamgeFromCache(story.DamageCache,6);
+				]]></Selections.3.NOResult>
+      <Selections.4.Display>无视</Selections.4.Display>
+      <Selections.4.OKResult><![CDATA[	
+				me:AddMsg("[NAME]不想惹这些闲事，扭头就走。");
+				]]></Selections.4.OKResult>
+    </Text>
+    <Text Name="BadFight_Base">
+      <DisplayName>邪阵炼魂</DisplayName>
+      <Desc>[NAME]御剑路过一座城镇，发现此处怨气冲天。似乎有人在运炼某种邪术。</Desc>
+      <Selections.0.Display>帮忙</Selections.0.Display>
+      <Selections.0.OKResult><![CDATA[	
+				
+				local nR = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群{0}的内门弟子在用化血大阵收取冤魂练功，只是这座城池太大，进度甚为缓慢。\n[NAME]表明来意，愿意帮忙，只是需要分润一些好处。{0}的弟子略一沉吟答应了你的请求。众人合力施法，成功将整座城池的活人炼化。吸取了大量精纯的血气，[NAME]感到自己修为大进。", sR);me:AddSchoolRelation(nR,50);me:AddSchoolScore(3,50);me:AddPracticeResource("Stage",me:GetGLevel() * 500)
+				]]></Selections.0.OKResult>
+      <Selections.1.Display>假意帮忙</Selections.1.Display>
+      <Selections.1.Tip>金丹期</Selections.1.Tip>
+      <Selections.1.OKResult><![CDATA[	
+				local nR = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);				
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群{0}的内门弟子在用化血大阵收取冤魂练功，只是这座城池太大，进度甚为缓慢。\n[NAME]念头一动，却起了更大的贪意。他上前表明可以帮助，只是需要分润一些好处。{0}的弟子略一沉吟答应了你的请求。然而在众人合力施法即将功成时，[NAME]却突然出手，将{0}的几名弟子打入阵中。大阵运转之下，其中活物无一幸免。[NAME]搜刮了{0}的几名弟子的全部珍藏，独吞了全部的好处，修为大进。", sR);me:AddSchoolRelation(nR,-150);me:AddSchoolScore(3,200);me:AddPracticeResource("Stage",me:GetGLevel() * 1500);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				for i = 1, me:RandomInt(1, 4), 1 do
+				local nR = me:RandomInt(1, 5)
+				if nR == 1 then
+					me:DropRandomItem("Esoterica")
+				else
+					me:DropRandomItem("FightFabao", 1, 2)
+				end
+				end;
+				]]></Selections.1.OKResult>
+      <Selections.1.NOResult><![CDATA[	
+				local nR = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);						
+				me:AddMsg("[NAME]收起飞剑，落下云端。走到近处，才发现这是一群{0}的内门弟子在用化血大阵收取冤魂练功，只是这座城池太大，进度甚为缓慢。\n[NAME]念头一动，却起了更大的贪意。他上前表明可以帮助，只是需要分润一些好处。{0}的弟子略一沉吟答应了你的请求。然而在众人合力施法即将功成时，[NAME]却突然出手，试图将{0}的几名弟子打入阵中。\n然而{0}的这几名弟子也不是省油的灯，他们也早已心怀歹意，在你动手的时候，他们趁势逆转阵法，强烈的反噬将将[NAME]重创，[NAME]侥幸脱身，但还是身受重伤，功力大损。", sR);me:AddSchoolRelation(nR,-150);me:AddSchoolScore(3,100);me:AddPracticeResource("Ling",-0.5 * me:GetProperty("NpcLingMaxValue"));me:AddPracticeResource("Ling",-0.5 * me:GetProperty("NpcLingMaxValue"));me:AddDamgeFromCache(story.DamageCache,4);
+				]]></Selections.1.NOResult>
+      <Selections.2.Display>阻止他们</Selections.2.Display>
+      <Selections.2.Tip>金丹期</Selections.2.Tip>
+      <Selections.2.OKResult><![CDATA[	
+				local nR = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);						
+				me:AddMsg("[NAME]惊怒交加，御剑赶了过去，发现这是一群{0}的邪魔布下化血大阵收人生魂，修炼魔功。\n[NAME]眼见情况紧急，来不及多想，运起全身功力轰破阵眼。{0}的弟子受阵法反噬，纷纷受伤，勃然大怒。放出性命交修的法宝向[NAME]攻来。\n[NAME]含怒出手，毫不容情，不消的几个回合便将敌手尽数诛杀，拯救了这个城镇的凡人。", sR);me:AddSchoolRelation(nR,-150);me:AddSchoolScore(2,200);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				for i = 1, me:RandomInt(1, 4), 1 do
+				local nR = me:RandomInt(1, 3)
+				if nR == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nR == 2 then
+					me:DropRandomItem("Esoterica")
+				end
+				end;
+				]]></Selections.2.OKResult>
+      <Selections.2.NOResult><![CDATA[	
+				local nR = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);		
+				
+				me:AddMsg("[NAME]惊怒交加，御剑赶了过去，发现这是一群{0}的邪魔布下化血大阵收人生魂，修炼魔功。\n[NAME]眼见情况紧急，来不及多想，运起全身功力轰破阵眼。{0}的弟子受阵法反噬，纷纷受伤，又被[NAME]坏了大事，勃然大怒，各自放出性命交修的法宝向[NAME]攻来。\n双方苦斗半日，[NAME]渐渐感到真气不济，暗暗叫苦。敌人却仿佛看穿了[NAME]的窘境，合力一击击碎了[NAME]的护体真气。[NAME]鲜血狂喷，勉强护住心脉，逃离战场。", sR);me:AddSchoolRelation(nR,-150);me:AddDamgeFromCache(story.DamageCache,4);
+				]]></Selections.2.NOResult>
+      <Selections.3.Display>无视</Selections.3.Display>
+      <Selections.3.OKResult><![CDATA[	
+				me:AddMsg("[NAME]不想惹这些闲事，扭头就走。");
+				]]></Selections.3.OKResult>
+    </Text>
+    <Text Name="BadFight_1">
+      <DisplayName>正邪之斗</DisplayName>
+      <Desc>[NAME]远远看到远处剑光闪动，似乎有人在斗法。</Desc>
+      <Selections.0.Display>攻击邪派弟子</Selections.0.Display>
+      <Selections.0.Tip>结丹期</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，施了一个剑诀。法宝如同电光惊龙，斩向这帮{1}的邪魔。\n双方本来势均力敌，[NAME]的加入使得邪魔迅速溃败，他们丢下几具尸体后便四散逃命去了。\n{0}的弟子感谢了[NAME]施以援手，并将战利品拿出来供他挑选。", sR, sQ);me:AddSchoolRelation(nR,50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,30);me:AddSchoolScore(2,20);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，加入战团。对这群{1}的邪魔发动了攻击。\n一番苦斗，众人各自负伤，邪派妖人见形势不妙，使了个脱身的手段，逃离了此处。\n因[NAME]修为太低，并没有帮上什么实质的忙，{0}的弟子感谢了[NAME]的援手，就告辞离去了。", sR, sQ);me:AddSchoolRelation(nR,50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,30);me:AddSchoolScore(2,20);me:AddDamgeFromCache(story.DamageCache,2);
+				]]></Selections.0.NOResult>
+      <Selections.1.Display>攻击邪派弟子</Selections.1.Display>
+      <Selections.1.Tip>结丹期</Selections.1.Tip>
+      <Selections.1.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派弟子。\n虽同为邪道，[NAME]却与{1}的这几名弟子早有私怨。他狞笑两声，毫无声息的向这帮{1}的弟子发动偷袭。由于毫无防备，[NAME]一招就重创对方数人\n双方本来势均力敌，[NAME]的偷袭使得{1}迅速溃败，[NAME]放开手脚，大杀特杀，将这群{1}的弟子全歼当场。不过[NAME]不欲与正道纠缠，搜了几个无主的宝物便迅速离去。",sR, sQ);me:AddSchoolRelation(nR,50);me:AddSchoolRelation(nQ,-100);me:AddSchoolScore(1,30);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.1.OKResult>
+      <Selections.1.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);	
+				
+				me:AddMsg("[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派弟子。\n虽同为邪道，[NAME]却与{1}的这几名弟子早有私怨。他狞笑两声，毫无声息的向这帮{1}的弟子发动偷袭。但是由于[NAME]修为太低，他的偷袭却被早早识破，反而暴露了自己的身形。\n在[NAME]出手的瞬间，{1}的弟子突然大喊，感谢救援云云，同时向[NAME]发动了狠辣的攻击。正派弟子闻言大惊失色，以为来了援军，调转法宝也向[NAME]攻去。[NAME]万万没想到局面变成这样，腹背受敌，瞬间遭到重创，只得仓皇逃窜。",sR,sQ);me:AddSchoolRelation(nR,-50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,-150);me:AddDamgeFromCache(story.DamageCache,6);
+				]]></Selections.1.NOResult>
+      <Selections.2.Display>攻击正派弟子</Selections.2.Display>
+      <Selections.2.Tip>结丹期</Selections.2.Tip>
+      <Selections.2.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);					
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正派弟子。\n[NAME]二话不说，施了一个剑诀。法宝如同电光惊龙，斩向这帮{0}的伪君子。\n双方本来势均力敌，[NAME]的加入使得正道弟子迅速溃败，他们丢下几具尸体后便四散逃命去了。\n{1}的弟子感谢了[NAME]施以援手，并将战利品拿出来供他挑选。", sR, sQ);me:AddSchoolRelation(nR,-50);me:AddSchoolRelation(nQ,50);me:AddSchoolScore(1,30);me:AddSchoolScore(3,20);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.2.OKResult>
+      <Selections.2.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);						
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正道弟子。\n[NAME]二话不说，加入战团。对这群{0}的伪君子发动了攻击。\n一番苦斗，众人各自负伤，正道弟子见形势不妙，使了个脱身的手段，逃离了此处。\n因[NAME]修为太低，并没有帮上什么实质的忙，{1}的弟子冷笑着发出两声讽刺，就离开了此处。", sR, sQ);me:AddSchoolRelation(nR, -50);me:AddSchoolRelation(nQ,-50);me:AddSchoolScore(1,-30);me:AddDamgeFromCache(story.DamageCache,2);
+				]]></Selections.2.NOResult>
+      <Selections.3.Display>攻击正派弟子</Selections.3.Display>
+      <Selections.3.Tip>结丹期</Selections.3.Tip>
+      <Selections.3.OKResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);					
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正派。\n虽同为正道，[NAME]却与{0}的这几名弟子早有私怨。他偷偷运转法宝，毫无声息的向这帮{0}的弟子发动偷袭。由于毫无防备，[NAME]一招就重创对方数人\n双方本来势均力敌，[NAME]的偷袭使得{0}迅速溃败，[NAME]看局面必死，也没有现出身形，搜了几个无主的宝物便迅速离去。",sR, sQ);
+				if me:GetGLevel() < 7 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end;
+				local nW = me:RandomInt(1, 4)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				]]></Selections.3.OKResult>
+      <Selections.3.NOResult><![CDATA[	
+				local nR = world:RandomSchool(2,4);
+				local nQ = world:RandomSchool(-4,-2);
+				local sR = world:GetSchoolName(nR);
+				local sQ = world:GetSchoolName(nQ);		
+				
+				me:AddMsg("[NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正派弟子。\n虽同为正道，[NAME]却与{0}的这几名弟子早有私怨。他偷偷运转法宝，毫无声息的向这帮{0}的弟子发动偷袭。但是由于[NAME]修为太低，他的偷袭却被早早识破，反而暴露了自己的身形。\n{0}的弟子对你的偷袭感到异常震怒，他们甚至拼着受伤，向[NAME]施展出{0}的镇派绝杀，将之狠狠重创。[NAME]偷鸡不成蚀把米，慌不择路的逃离战场。",sR, sQ);me:AddMsg("借着绝杀余威，[SCHOOL]的弟子杀出包围，逃离了战场。随后，他们向修行界曝光了[NAME]的卑劣行径。", nQ);me:AddSchoolRelation(nQ,-300);me:AddSchoolScore(1,-100);me:AddSchoolScore(2,-200);me:AddDamgeFromCache(story.DamageCache,6);
+				]]></Selections.3.NOResult>
+      <Selections.4.Display>无视</Selections.4.Display>
+      <Selections.4.OKResult><![CDATA[	
+				me:AddMsg("[NAME]不想惹这些闲事，扭头就走。");
+				]]></Selections.4.OKResult>
+    </Text>
+    <Text Name="Treasure_Base">
+      <DisplayName>遗迹寻宝</DisplayName>
+      <Desc>[NAME]无意之间发现一名修行者的隐居之地，看上去似乎已经荒废很久。</Desc>
+      <Selections.0.Display>进去看看</Selections.0.Display>
+      <Selections.0.Tip>机缘</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				me:AddMsg("[NAME]搜索了此处，发现了一些原主人留下的宝物。");
+				for i = 1 , me:RandomInt(1, 4) do
+				local nW = me:RandomInt(1, 5)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache3, 1, 1)
+				elseif nW == 4 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				end;
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				me:AddMsg("[NAME]搜寻了一番，什么都没有发现。", nR);
+				]]></Selections.0.NOResult>
+    </Text>
+    <Text Name="Treasure_1">
+      <DisplayName>深潭奇遇</DisplayName>
+      <Desc>[NAME]连日赶路，有些疲惫，这日傍晚寻得一处风景清丽的深潭，便决定在此潭边休息一晚。到了夜晚，[NAME]惊奇的发现潭水深处似乎有点奇异的闪光。</Desc>
+      <Selections.0.Display>下去看看</Selections.0.Display>
+      <Selections.0.Tip>修行境界</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				me:AddMsg("[NAME]运起真气，潜入深潭，没想到越到深处，潭水越寒冷，简直钻心透骨，无法忍耐。就在[NAME]准备放弃时，面前突然出现一片法力开辟的空间，里面放了数件宝光莹然的事物。");
+				for i = 1 , me:RandomInt(1, 3) do
+				local nW = me:RandomInt(1, 5)
+				if nW == 1 then
+					me:DropRandomItem("FightFabao", 1, 2)
+				elseif nW == 2 then
+					me:DropRandomItem("Esoterica")
+				elseif nW == 3 then
+					me:DropAwardItemFromCache(story.ItemCache3, 1, 1)
+				elseif nW == 4 then
+					me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+				end
+				end;
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				me:AddMsg("[NAME]运起真气，潜入深潭，没想到越到深处，潭水越寒冷，简直钻心透骨，无法忍耐。无奈之下，只得作罢。", nR);
+				]]></Selections.0.NOResult>
+    </Text>
+    <Text Name="Find_Base">
+      <DisplayName>收集资源</DisplayName>
+      <Desc>[NAME]游历此地时发现此处物产颇丰，于是收集一些特产运回了门派。</Desc>
+    </Text>
+    <Text Name="City_Base">
+      <DisplayName>城市</DisplayName>
+      <Desc>[NAME]来到了[PLACE]，发现此地人烟稠密，贸易兴盛。</Desc>
+      <Selections.0.Display>寻觅弟子</Selections.0.Display>
+      <Selections.0.Tip>机缘与魅力</Selections.0.Tip>
+      <Selections.0.NOResult>me:AddMsg("[NAME]并没有找到合适的修行种子。");</Selections.0.NOResult>
+      <Selections.1.Display>掳掠凡人</Selections.1.Display>
+      <Selections.2.Display>采购物资</Selections.2.Display>
+      <Selections.3.Display>离去</Selections.3.Display>
+      <Selections.3.OKResult><![CDATA[	
+				me:AddMsg("[NAME]什么都不想做，还是离开这里吧。");
+				]]></Selections.3.OKResult>
+    </Text>
+    <Text Name="Business_Base">
+      <DisplayName>采购物资</DisplayName>
+      <Desc>[NAME]发现此处货商业发达，物美价廉，便决定采购一批物资回山门。</Desc>
+      <Selections.0.Display>采购食物</Selections.0.Display>
+      <Selections.1.Display>采购大理石</Selections.1.Display>
+      <Selections.2.Display>采购木料</Selections.2.Display>
+      <Selections.3.Display>采购铁矿石</Selections.3.Display>
+      <Selections.4.Display>采购棉花</Selections.4.Display>
+    </Text>
+    <Text Name="Highfind_Base">
+      <DisplayName>收集宝物</DisplayName>
+      <Desc>[NAME]听说[PLACE]出产一些于修行大有用处的珍物。</Desc>
+      <Selections.0.Display>寻觅一番</Selections.0.Display>
+      <Selections.0.Tip>机缘</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	me:AddMsg("[NAME]机缘不错，成功收集到了宝物。");me:DropAwardItemFromCache(story.PlaceHighProduce, 1, 1);
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				me:AddMsg("[NAME]寻觅许久，却毫无线索。[IT]知道宝物有缘者得，无奈之下，只得作罢。", nR);
+				]]></Selections.0.NOResult>
+    </Text>
+    <Text Name="Secret_Base">
+      <DisplayName>发现线索</DisplayName>
+      <Desc>[NAME]游历中路过[PLACE]，发现很多当地人兴致勃勃的谈论着什么。[IT]尝试着打听了一下。</Desc>
+      <Selections.0.Display>寻找传闻</Selections.0.Display>
+    </Text>
+    <Text Name="Place_Base">
+      <DisplayName>发现地点</DisplayName>
+      <Desc>[NAME]在[PLACE]听说附近有不少特别的地方，突然起了游兴。[IT]也不作进一步打听，只是寻幽访道，随缘而行。</Desc>
+      <Selections.0.Display>寻幽访道</Selections.0.Display>
+      <Selections.0.OKResult><![CDATA[	
+				local rs = me:UnLockPlaceFromCache(story.PlaceChildren);
+				if rs == false then 
+					me:AddMsg("[NAME]虽然没找到什么有趣的地方，但也在山野之间别有感悟。");me:AddTreeExp(3000)
+				end
+				]]></Selections.0.OKResult>
+    </Text>
+    <Text Name="Story_Cold">
+      <DisplayName>雪原奇遇</DisplayName>
+      <Desc>[NAME]路遇一处自然造化的绝景，[IT]被突如其来的感动震慑，立刻盘膝坐下，不知道是否会有所感悟。</Desc>
+      <Selections.0.Display>参悟玄妙</Selections.0.Display>
+      <Selections.0.Tip>悟性</Selections.0.Tip>
+      <Selections.0.OKResult>me:AddMsg("[NAME]在此地打坐一夜，大有所获，修行上的几个困惑不翼而飞。");me:AddPracticeResource("Stage",me:GetGLevel() * 100)</Selections.0.OKResult>
+      <Selections.0.NOResult>me:AddMsg("[NAME]在此处打坐一夜，始终找不到那一点灵感，最终只能遗憾离去。");</Selections.0.NOResult>
+      <Selections.1.Display>吸纳灵气</Selections.1.Display>
+      <Selections.1.OKResult>
+				me:AddMsg("[NAME]在此处打坐一夜，第二天醒来竟然发现全身灵气都已恢复，甚至还比以前更雄厚了");me:SetFlag(28,(me:GetFlag(28) + 1));me:AddModifier("Story_LingMax1");me:AddPracticeResource("Ling",me:GetProperty("NpcLingMaxValue"))
+				</Selections.1.OKResult>
+      <Selections.1.NOResult>me:AddMsg("[NAME]在此处打坐一夜，第二天醒来竟然发现全身灵气都已恢复");me:AddPracticeResource("Ling",me:GetProperty("NpcLingMaxValue"))</Selections.1.NOResult>
+      <Selections.2.Display>太冷了</Selections.2.Display>
+      <Selections.2.OKResult><![CDATA[	
+				me:AddMsg("这里实在太冷了，[NAME]尝试打坐却被彻骨寒意冻得无法入定，只能无奈离开。");
+				]]></Selections.2.OKResult>
+    </Text>
+    <Text Name="Story_Cold2">
+      <DisplayName>雪原奇遇</DisplayName>
+      <Desc>[NAME]偶然间看到两只异兽在空中争斗，二兽各展神通，你来我往，妙招如天成。[NAME]福至心灵，觉得这两只异兽的争斗中，似乎隐藏着什么奥秘。</Desc>
+      <Selections.0.Display>模仿异兽</Selections.0.Display>
+      <Selections.0.Tip>神识</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				if me:RandomInt(1, 15) <= me:GetPerception() then
+				
+					me:SetFlag(27, me:GetFlag(27)+1)
+					local nR = me:RandomInt(1,5)
+					if nR == 1 then
+						me:AddMsg("[NAME]模仿异兽的进攻轨迹，竟然大有所得。他们的进攻方式似乎是某种浑然天成的剑诀。");me:AddModifier("Story_FabaoPower1");
+					elseif nR == 2 then
+						me:AddMsg("[NAME]仔细模仿了异兽的呼吸吐纳，竟然大有所得。这种吐纳的方法十分高明，可以更高效的吸收灵气。");me:AddModifier("Story_LingAbsorbSpeed1");
+					elseif nR == 3 then
+						me:AddMsg("[NAME]观察了异兽飞行的姿势，若有所悟。他们的行动能很好地利用空气的流动，让飞行变得更迅速。");me:AddModifier("Story_WorldMapFlySpeedAddP1");
+					elseif nR == 4 then
+						me:AddMsg("[NAME]参考了异兽满是皱褶的皮肤，恍然大悟。这样的结构确实可以更好的消解攻击中的冲击力。");me:AddModifier("Story_ShieldConversionRate1");
+					end
+				else
+					me:AddMsg("[NAME]努力的观察模仿，但是始终学不到其中的那点神髓，总是差了点灵感。异兽争斗了一会，便各自离去了。");
+				end
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult>
+					me:AddMsg("多次的围观异兽的警觉，两只异兽竟然一起向[NAME]发动了凌厉的攻击，[NAME]猝不及防，一番纠缠争斗之下，受了不少伤才得以脱身。");me:AddDamgeFromCache(story.DamageCache,4);
+				</Selections.0.NOResult>
+      <Selections.1.Display>无视</Selections.1.Display>
+      <Selections.1.OKResult><![CDATA[	
+				me:AddMsg("[NAME]不想招惹这两只异兽，扭头离开了。");
+				]]></Selections.1.OKResult>
+      <Selections.2.Display>太冷了</Selections.2.Display>
+      <Selections.2.OKResult><![CDATA[	
+				me:AddMsg("[NAME]知道这是一个难得的机缘，不过这里实在太冷了，他只能匆匆离开。");
+				]]></Selections.2.OKResult>
+    </Text>
+    <Text Name="Secret_Cold_Base">
+      <DisplayName>发现线索</DisplayName>
+      <Desc>[NAME]游历到[PLACE]，[IT]早就听说此处有不少神奇的传闻，就尝试着寻觅了一下。</Desc>
+      <Selections.0.Display>寻找传闻</Selections.0.Display>
+      <Selections.0.Tip>寒冷抵抗</Selections.0.Tip>
+      <Selections.0.NOResult><![CDATA[	
+				me:AddMsg("[PLACE]实在是太冷了，[NAME]的功力完全无法深入此地，只能无奈离开。", nR);
+				]]></Selections.0.NOResult>
+    </Text>
+    <Text Name="Place_Cold_Base">
+      <DisplayName>发现地点</DisplayName>
+      <Desc>[NAME]在[PLACE]听说附近有不少特别的地方，突然起了游兴。[IT]也不作进一步打听，只是寻幽访道，随缘而行。</Desc>
+      <GlobleNOResult>me:AddMsg("[NAME]虽然一无所获，但也在山野之间别有感悟。");me:AddTreeExp(3000)</GlobleNOResult>
+      <Selections.0.Display>寻幽访道</Selections.0.Display>
+      <Selections.0.Tip>寒冷抵抗</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				local rs = me:UnLockPlaceFromCache(story.PlaceChildren);
+				if rs == false then 
+					me:AddMsg("[NAME]虽然没找到什么有趣的地方，但也在山野之间别有感悟。");me:AddTreeExp(3000)
+				end
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				me:AddMsg("[PLACE]实在是太冷了，[NAME]的功力完全无法深入此地，只能无奈离开。", nR);
+				]]></Selections.0.NOResult>
+    </Text>
+    <Text Name="Find_Cold_Base">
+      <DisplayName>收集资源</DisplayName>
+      <Desc>[NAME]游历时发现[PLACE]物产颇丰，于是想收集一些带回门派。</Desc>
+      <Selections.0.Display>收集特产</Selections.0.Display>
+      <Selections.0.Tip>寒冷抵抗</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	
+				me:AddMsg("[NAME]找到了不少的特产资源，于是施了个唤风的法诀，将之搬回了门派。", nR);me:DropAwardItemFromCache(story.PlaceProduce, 1, me:RandomInt(1, 3));
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				me:AddMsg("[PLACE]实在是太冷了，[NAME]的功力完全无法深入此地，只能无奈离开。", nR);
+				]]></Selections.0.NOResult>
+    </Text>
+    <Text Name="Highfind_Cold_Base">
+      <DisplayName>收集宝物</DisplayName>
+      <Desc>[NAME]听说[PLACE]出产一些于修行大有用处的珍物。</Desc>
+      <Selections.0.Display>寻觅一番</Selections.0.Display>
+      <Selections.0.Tip>机缘</Selections.0.Tip>
+      <Selections.0.OKResult><![CDATA[	me:AddMsg("[NAME]机缘不错，在一处人迹罕至的山坳里发现了宝物。");me:DropAwardItemFromCache(story.PlaceHighProduce, 1, 1);
+				]]></Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[	
+				me:AddMsg("[NAME]寻觅许久，却毫无线索。[IT]知道宝物有缘者得，无奈之下，只得作罢。", nR);
+				]]></Selections.0.NOResult>
+      <Selections.1.Display>太冷了</Selections.1.Display>
+      <Selections.1.OKResult><![CDATA[	
+				me:AddMsg("[NAME]尝试深入寻找，不过这里实在太冷了，[IT]根本无法忍受，只能遗憾离去。");
+				]]></Selections.1.OKResult>
+    </Text>
+    <Text Name="Visit_Old_Base">
+      <DisplayName>偶遇</DisplayName>
+      <Desc>[NAME]走在路上，发现了一群[SCHOOL]的弟子迎面走来。</Desc>
+      <Selections.0.Display>热情交谈</Selections.0.Display>
+      <Selections.0.OKResult>me:AddMsg("[SCHOOL]的弟子见到[NAME]连忙上来拜见，[NAME]心情不错，顺手指点了这些晚辈一些修为上的事。分别时，[SCHOOL]的弟子恭敬的邀请你来他们门派做客。");me:AddSchoolRelation(story.School,50)</Selections.0.OKResult>
+      <Selections.0.NOResult><![CDATA[
+				me:AddMsg("[NAME]和[SCHOOL]的弟子热情的交谈，双方一起到附近有名的酒楼畅饮一番。临分别时，[SCHOOL]的弟子硬是送了你一些当地特产的礼物，并邀请你有空再来[SCHOOL]转转。");me:AddSchoolRelation(story.School,50);
+				
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				]]></Selections.0.NOResult>
+      <Selections.1.Display>寒暄</Selections.1.Display>
+      <Selections.1.OKResult>me:AddMsg("[NAME]和[SCHOOL]的弟子打了声招呼，大家在路边聊了聊修行界最近发生的趣事，并约好下次互相拜访。");me:AddSchoolRelation(story.School,20)</Selections.1.OKResult>
+      <Selections.1.NOResult>me:AddMsg("[NAME]对[SCHOOL]的弟子点头示意，对方看了[NAME]一眼，也点了点头。");me:AddSchoolRelation(story.School,5)</Selections.1.NOResult>
+      <Selections.2.Display>嘲讽</Selections.2.Display>
+      <Selections.2.OKResult>me:AddMsg("[SCHOOL]的弟子很愤怒，并放出狠话让[NAME]和他的宗门最近小心点。");me:AddSchoolRelation(story.School,-40)</Selections.2.OKResult>
+      <Selections.2.NOResult>me:AddMsg("[SCHOOL]的弟子很诧异的看了[NAME]一眼，不知道为何他会说出这无礼的言论。");me:AddSchoolRelation(story.School,-5)</Selections.2.NOResult>
+      <Selections.3.Display>嘲讽</Selections.3.Display>
+      <Selections.3.OKResult>me:AddMsg("[SCHOOL]的弟子冷笑两声，掏出法宝向[NAME]发起了攻击。[NAME]考虑身处敌人门派所在地，不欲恋战，施了个手法脱身而去。");me:AddSchoolRelation(story.School,-100);me:AddDamgeFromCache(story.DamageCache,2)</Selections.3.OKResult>
+      <Selections.3.NOResult>me:AddMsg("[SCHOOL]的弟子勃然大怒，掏出法宝准备动手，但似乎顾忌什么，最终留下狠话悻悻离开。");me:AddSchoolRelation(story.School,-50)</Selections.3.NOResult>
+      <Selections.4.Display>无视</Selections.4.Display>
+      <Selections.4.OKResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.4.OKResult>
+      <Selections.4.NOResult>me:AddMsg("[SCHOOL]的弟子上来跟[NAME]打了个招呼，却见[NAME]神色冷漠的匆匆离去，心中略有不满。");me:AddSchoolRelation(story.School,-10)</Selections.4.NOResult>
+      <Selections.5.Display>挑衅</Selections.5.Display>
+      <Selections.5.Tip>金丹期</Selections.5.Tip>
+      <Selections.5.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。");me:AddMsg("[NAME]技高一筹，瞅准一个破绽，将对方领头的弟子一剑枭首，对方溃败，作鸟兽散。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,20);me:AddSchoolScore(3,20);
+				
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.5.OKResult>
+      <Selections.5.NOResult>me:AddMsg("[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]也祭出法宝对敌，双方战作一团。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,-40);me:AddSchoolScore(3,20);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.5.NOResult>
+      <Selections.6.Display>挑衅</Selections.6.Display>
+      <Selections.6.Tip>金丹期</Selections.6.Tip>
+      <Selections.6.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。");me:AddMsg("[NAME]技高一筹，瞅准一个破绽，将对方领头的弟子一剑枭首，对方溃败，作鸟兽散。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,20);me:AddSchoolScore(2,20);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.6.OKResult>
+      <Selections.6.NOResult>me:AddMsg("[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]也祭出法宝对敌，双方战作一团。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-150);me:AddSchoolScore(1,-40);me:AddSchoolScore(2,20);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.6.NOResult>
+      <Selections.7.Display>无视</Selections.7.Display>
+      <Selections.7.Tip>金丹期</Selections.7.Tip>
+      <Selections.7.OKResult>me:AddMsg("[SCHOOL]的弟子恨恨的看了看你，但摄于你的修为，并没有做什么过激的事。");</Selections.7.OKResult>
+      <Selections.7.NOResult>me:AddMsg("[NAME]选择无视对面，可[SCHOOL]的几名弟子却冷笑一声，祭出法宝向[NAME]发动了猛烈的攻击。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-40);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.7.NOResult>
+      <Selections.8.Display>无视</Selections.8.Display>
+      <Selections.8.Tip>金丹期</Selections.8.Tip>
+      <Selections.8.OKResult><![CDATA[
+				me:AddMsg("[SCHOOL]的弟子看到[NAME]大怒，喊了一声魔头受死便结成阵势向[NAME]杀来。");me:AddMsg("[NAME]狞笑一声，运起真力，一道匹练似的剑光纵横飞斩，转眼间就破了敌人的攻势，对面几人被一剑一个当了[NAME]的剑下亡魂。。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,30);me:AddSchoolScore(3,30);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.8.OKResult>
+      <Selections.8.NOResult>me:AddMsg("[NAME]选择无视对面，可[SCHOOL]的几名弟子却相视一眼，大喊一声魔头受死，就祭出法宝向[NAME]发动了猛烈的攻击。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-40);me:AddDamgeFromCache(story.DamageCache,5,0.5);</Selections.8.NOResult>
+    </Text>
+    <Text Name="Visit_Old_1">
+      <DisplayName>偶遇</DisplayName>
+      <Desc>[NAME]走在路上，偶遇一名[SCHOOL]的长老。</Desc>
+      <Selections.0.Display>拜会</Selections.0.Display>
+      <Selections.0.OKResult>local schoolnpcname = me:RandomOldSchoolNpcName(); me:AddMsg("[NAME]上前同[SCHOOL]的长老"..schoolnpcname.."打了声招呼，两人结伴同游[SCHOOL]附近的几处胜地，品风论道，畅谈许久。临分别时，"..schoolnpcname.."长老送你一个自己炼制的小法宝作为纪念。");me:AddSchoolRelation(story.School,50);me:DropRandomItem("FightFabao", 1, 2)</Selections.0.OKResult>
+      <Selections.0.NOResult>local schoolnpcname = me:RandomOldSchoolNpcName(); me:AddMsg("[NAME]上前恭敬的拜见了[SCHOOL]的长老"..schoolnpcname.."，长老很开心的同[NAME]聊了两句，并指点了他几句修行法诀。");me:AddSchoolRelation(story.School,50);me:AddPracticeResource("Stage", me:GetGLevel() * 50)</Selections.0.NOResult>
+      <Selections.1.Display>寒暄</Selections.1.Display>
+      <Selections.1.OKResult>local schoolnpcname = me:RandomOldSchoolNpcName();  me:AddMsg("[NAME]和[SCHOOL]的长老"..schoolnpcname.."打了声招呼，大家聊了两句，"..schoolnpcname.."长老说有事在身，匆匆离去了。");me:AddSchoolRelation(story.School,20)</Selections.1.OKResult>
+      <Selections.1.NOResult>local schoolnpcname = me:RandomOldSchoolNpcName();  me:AddMsg("[NAME]向[SCHOOL]的长老"..schoolnpcname.."打了个招呼，对方看了[NAME]一眼，微不可察的点了点头。");me:AddSchoolRelation(story.School,5)</Selections.1.NOResult>
+      <Selections.2.Display>袭击</Selections.2.Display>
+      <Selections.2.Tip>金丹期</Selections.2.Tip>
+      <Selections.2.OKResult><![CDATA[
+				
+				local sN = me:RandomOldSchoolNpcName()	me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老"..sN.."打了个招呼，暗中却发出了致命的一击，重创了对方。");me:AddMsg(sN.."长老不敢置信的看着[NAME]，奋起反击，但最终还是被[NAME]接二连三的狠招夺去了性命。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,100);me:AddSchoolScore(3,100);me:DropRandomItem("FightFabao", 3, 4);me:RemoveOldSchoolNpcName(sN);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.2.OKResult>
+      <Selections.2.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()	
+				me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老"..sN.."打了个招呼，暗中却发出了致命的一击，"..sN.."长老在最后关头察觉到了这次偷袭，险之又险的躲过了这招并发起凌厉的反击。");me:AddMsg("[NAME]偷袭失败，心神一乱，被"..sN.."长老的绝招命中。最后使尽浑身解数，侥幸脱身。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-50);me:AddSchoolScore(3,100);me:AddDamgeFromCache(story.DamageCache,5);
+				]]></Selections.2.NOResult>
+      <Selections.3.Display>袭击</Selections.3.Display>
+      <Selections.3.Tip>金丹期</Selections.3.Tip>
+      <Selections.3.OKResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()	
+				me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老"..sN.."打了个招呼，暗中却发出了致命的一击，重创了对方。");me:AddMsg(sN.."长老不敢置信的看着[NAME]，刚准备逃生，就被[NAME]接二连三的狠招夺去了性命。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:DropRandomItem("FightFabao", 3, 4);me:RemoveOldSchoolNpcName(sN);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.3.OKResult>
+      <Selections.3.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()	me:AddMsg("[NAME]笑嘻嘻的同[SCHOOL]的长老"..sN.."打了个招呼，暗中却发出了致命的一击，"..sN.."长老在最后关头察觉到了这次偷袭，险之又险的躲过了这招并发起凌厉的反击。");me:AddMsg("[NAME]偷袭失败，心神一乱，被长老的绝招命中。最后使尽浑身解数，侥幸脱身。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,5);
+				]]></Selections.3.NOResult>
+      <Selections.4.Display>攻击</Selections.4.Display>
+      <Selections.4.Tip>金丹期</Selections.4.Tip>
+      <Selections.4.OKResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()	
+				me:AddMsg("[NAME]见面不多说，先下手为强，一记狠手向[SCHOOL]的长老"..sN.."身上招呼，直接重创了对方。");me:AddMsg(sN.."长老猝不及防，慌忙刚准备逃生，就被[NAME]接二连三的狠招夺去了性命。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:DropRandomItem("FightFabao", 3, 4);me:RemoveOldSchoolNpcName(sN);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.4.OKResult>
+      <Selections.4.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()	me:AddMsg("[NAME]见面不多说，先下手为强，一记狠手向[SCHOOL]的长老"..sN.."身上招呼，"..sN.."长老临危不乱，险之又险的躲过了这招并发起凌厉的反击。");me:AddMsg("[NAME]偷袭失败，心神一乱，被"..sN.."长老的绝招命中。最后使尽浑身解数，侥幸脱身。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,5);
+				]]></Selections.4.NOResult>
+      <Selections.5.Display>无视</Selections.5.Display>
+      <Selections.5.OKResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.5.OKResult>
+      <Selections.5.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()
+				me:AddMsg("[SCHOOL]的长老"..sN.."看[NAME]装作没看到自己，对你的无礼略感不满。");me:AddSchoolRelation(story.School,-30)
+				]]></Selections.5.NOResult>
+      <Selections.6.Display>挑衅</Selections.6.Display>
+      <Selections.6.Tip>金丹期</Selections.6.Tip>
+      <Selections.6.OKResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()	
+				me:AddMsg("[SCHOOL]的长老"..sN.."怒极反笑，他出手就是[SCHOOL]的镇派绝招，狠狠攻向[NAME]。[NAME]狞笑一声，祭出自己的法宝迎敌。一时间空中两道流光如惊龙横空斗作一团。");me:AddMsg("两人瞬息间已过手数十招，[NAME]看重一个破绽，拼着自己受伤一招打碎了"..sN.."长老的天灵盖，"..sN.."长老死状惨烈，神形俱灭。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:DropRandomItem("FightFabao", 3, 4);me:RemoveOldSchoolNpcName(sN);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.6.OKResult>
+      <Selections.6.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()
+				me:AddMsg("[SCHOOL]的长老"..sN.."怒极反笑，他出手就是[SCHOOL]的镇派绝招，狠狠攻向[NAME]。[NAME]狞笑一声，祭出自己的法宝迎敌。但却错估了对方杀招的威力，竟然被瞬间破去了法宝。");me:AddMsg("[NAME]大惊失色，已经失了先机，虽然拼命逃走，但却被"..sN.."长老打中致命的一击。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,-150);me:AddSchoolScore(3,50);me:AddDamage("VisceralRupture","Heart",0.8,"法术轰击");
+				]]></Selections.6.NOResult>
+      <Selections.7.Display>挑衅</Selections.7.Display>
+      <Selections.7.Tip>金丹期</Selections.7.Tip>
+      <Selections.7.OKResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()	
+				me:AddMsg("[SCHOOL]的长老"..sN.."皱了皱眉，一副不想惹事的样子转身离去。暗中却向[NAME]使出[SCHOOL]的绝杀秘术，想不费吹灰之力夺取[NAME]性命。");me:AddMsg("[NAME]早已察觉，也故作中招，趁敌人大喜回身之际发出运起全身功力的一击。只一道惊龙般的神光如神矢贯月，瞬间将毫无防备的"..sN.."长老打成飞灰。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,150);me:AddSchoolScore(2,50);me:DropRandomItem("FightFabao", 3, 4);me:RemoveOldSchoolNpcName(sN);
+				local tbTable = GameMain:GetMod("MapStoryHelper");
+				tbTable:VisitAward(me);
+				if me:GetGLevel() < 10 then;
+					me:AddDamgeFromCache(story.DamageCache,1,0.5);
+				end
+				]]></Selections.7.OKResult>
+      <Selections.7.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()
+				me:AddMsg("[SCHOOL]的长老"..sN.."怒极反笑，他出手就是[SCHOOL]的镇派绝招，狠狠攻向[NAME]。[NAME]狞笑一声，祭出自己的法宝迎敌。但却错估了对方杀招的威力，竟然被瞬间破去了法宝。");me:AddMsg("[NAME]大惊失色，已经失了先机，虽然拼命逃走，但却被"..sN.."长老的致命的一击打中了心脏。");me:AddSchoolRelation(story.School,-200);me:AddSchoolScore(1,-150);me:AddSchoolScore(2,50);me:AddDamage("VisceralRupture","Heart",0.8,"法术轰击");
+				]]></Selections.7.NOResult>
+      <Selections.8.Display>无视</Selections.8.Display>
+      <Selections.8.Tip>金丹期</Selections.8.Tip>
+      <Selections.8.OKResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()
+				me:AddMsg("[SCHOOL]的长老"..sN.."皮笑肉不笑的看了你一样，似乎想动手，但最终掉转方向离去。");
+				]]></Selections.8.OKResult>
+      <Selections.8.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()
+				me:AddMsg("[NAME]选择无视对面，可[SCHOOL]的长老"..sN.."却不准备放过他，他目露凶光，挥手就拦住[NAME]的去路，并发动了猛烈的攻击。");me:AddMsg("双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。"..sN.."长老招招夺命，[NAME]拼尽全力才逃脱了追杀。");me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,5,0.8);
+				]]></Selections.8.NOResult>
+      <Selections.9.Display>无视</Selections.9.Display>
+      <Selections.9.Tip>金丹期</Selections.9.Tip>
+      <Selections.9.OKResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()
+				me:AddMsg("[SCHOOL]的长老"..sN.."看到[NAME]神色不忿，但是想了想[NAME]在修行界的凶威还是啐了一口，扭头离去。")
+				]]></Selections.9.OKResult>
+      <Selections.9.NOResult><![CDATA[
+				local sN = me:RandomOldSchoolNpcName()
+				me:AddMsg("[SCHOOL]的长老"..sN.."大喝一声歪门邪道，人人得而诛之，挥手祭出随身法宝，对[NAME]发起凌厉的攻势。");me:AddMsg("[NAME]见对方招数精奇，先失了胆气。只得卖了个破绽，付出受了几处伤的代价借遁光逃离。");me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,3,0.5);
+				]]></Selections.9.NOResult>
+    </Text>
+    <Text Name="Visit_Old_2">
+      <DisplayName>拜访山门</DisplayName>
+      <Desc>[NAME]正在御剑赶路，突然想起[SCHOOL]的山门就在附近。</Desc>
+      <Selections.0.Display>拜访掌门</Selections.0.Display>
+      <Selections.0.OKResult><![CDATA[
+				me:AddMsg("[NAME]拜访了[SCHOOL]的掌门，两人交谈许久，十分尽兴。[SCHOOL]的掌门十分珍惜两派自前代便结下的缘分与交情，于是代表[SCHOOL]将尘封已久的镇派法宝赠与[NAME]，也算是因果纠葛，物归原主。只希望两派可以在将来继续守望相助，友谊长存。");world:SetWorldFlag(81,1);me:DropOldSchoolFabao()
+				
+				]]></Selections.0.OKResult>
+      <Selections.1.Display>拜山</Selections.1.Display>
+      <Selections.1.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]上下十分欢迎你的来访，他们盛情邀请[NAME]在此小住了几天，并带他游览了[SCHOOL]附近。在这些日子里，[NAME]与诸位同道切磋道法，谈天说地，十分尽兴。");me:AddMsg("临走之时，[SCHOOL]送了[NAME]一份珍贵的礼物，希望两派的友谊可以长存。");me:AddSchoolRelation(story.School,100);me:AddPracticeResource("Stage", me:GetGLevel() * 100);me:UnLockPlaceFromCache(story.PlaceChildren);me:DropAwardItemFromCache(story.ItemCache3, 1, 1)</Selections.1.OKResult>
+      <Selections.1.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL],[SCHOOL]派中的几个弟子奉命接待了[NAME]。双方愉快的谈了一个下午，[NAME]看看天色已晚，便告辞而去。");me:AddSchoolRelation(story.School,50)</Selections.1.NOResult>
+      <Selections.2.Display>拜山</Selections.2.Display>
+      <Selections.2.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，但[SCHOOL]的看门弟子表示派中有突发急事，不便待客。");me:AddSchoolRelation(story.School,-10)</Selections.2.OKResult>
+      <Selections.2.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]的两个年轻弟子在客房简单接待了他。他们表示派中长辈都在闭关， 不方便待客。");me:AddSchoolRelation(story.School,10)</Selections.2.NOResult>
+      <Selections.3.Display>拜山</Selections.3.Display>
+      <Selections.3.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]上下十分欢迎你的来访，他们盛情邀请[NAME]在此小住了几天，并带他游览了[SCHOOL]附近。在这些日子里，[NAME]与诸位同道切磋道法，谈天说地，十分尽兴。");me:AddMsg("临走之时，[SCHOOL]送了[NAME]一份珍贵的礼物，希望两派的友谊可以长存。");me:AddSchoolRelation(story.School,100);me:AddPracticeResource("Stage", me:GetGLevel() * 100);me:UnLockPlaceFromCache(story.PlaceChildren);me:DropAwardItemFromCache(story.ItemCache3, 1, 1)</Selections.3.OKResult>
+      <Selections.3.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL],[SCHOOL]派中的几个弟子奉命接待了[NAME]。双方愉快的谈了一个下午，[NAME]看看天色已晚，便告辞而去。");me:AddSchoolRelation(story.School,50)</Selections.3.NOResult>
+      <Selections.4.Display>拜山</Selections.4.Display>
+      <Selections.4.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，但[SCHOOL]的看门弟子表示派中有突发急事，不便待客。");me:AddSchoolRelation(story.School,-10)</Selections.4.OKResult>
+      <Selections.4.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]的两个年轻弟子在客房简单接待了他。他们表示派中长辈都在闭关，不方便待客。");me:AddSchoolRelation(story.School,10)</Selections.4.NOResult>
+      <Selections.5.Display>拜山</Selections.5.Display>
+      <Selections.5.Tip>元神期或双方关系良好</Selections.5.Tip>
+      <Selections.5.OKResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]派两个弟子接待了他。双方在密室聊了不少时间。");me:AddSchoolRelation(story.School,50);me:AddSchoolScore(3,50)</Selections.5.OKResult>
+      <Selections.5.NOResult>me:AddMsg("[NAME]拜访了[SCHOOL]，[SCHOOL]派两个弟子接待了他，并邀请[NAME]去密室商谈。");me:AddMsg("在[NAME]走进密室后，才发现这是一个陷阱，他被[SCHOOL]抓住，成为了活靶子，几经折磨后，他假死闭气，被弃尸荒野，侥幸逃了出来。");me:AddSchoolRelation(story.School,-100);me:AddSchoolScore(1,-100);me:AddDamgeFromCache(story.DamageCache,10);</Selections.5.NOResult>
+      <Selections.6.Display>潜入</Selections.6.Display>
+      <Selections.6.Tip>元神期及机缘不错</Selections.6.Tip>
+      <Selections.6.OKResult><![CDATA[
+					me:AddMsg("[NAME]偷偷潜入了[SCHOOL]，他几经周折，终于找到了[SCHOOL]的藏宝室，并从中偷拿了几件宝物。事后，[SCHOOL]以术法推算，从蛛丝马迹中得知偷盗者的身份，为此恼怒不已。");me:AddSchoolRelation(story.School,-500);
+					for i = 1, me:RandomInt(1, 4)do
+						local nR = me:RandomInt(1, 6)
+						if nR == 1 then
+							me:DropRandomItem("FightFabao", 5, 5)
+						elseif nR == 2 then
+							me:DropRandomItem("Esoterica")
+						elseif nR == 3 then
+							me:DropAwardItemFromCache(story.ItemCache3, 1, 1)
+						else 
+							me:DropAwardItemFromCache(story.ItemCache4, 1, 1)
+						end
+					end
+				]]></Selections.6.OKResult>
+      <Selections.6.NOResult><![CDATA[			
+					if me:GetSchoolRelation(story.School) > 0 then
+						me:AddMsg("[NAME]偷偷潜入了[SCHOOL]，他几经周折，终于找到了[SCHOOL]的藏宝室，然而在破解禁制时，不小心触动了警报。[NAME]寡不敌众，被当场拿下。");me:AddMsg("[SCHOOL]看在两派渊源深厚的份上并没下重手便释放了[NAME]，只是对[NAME]的宗门十分失望。");me:AddSchoolRelation(story.School,-500);
+					else
+						me:AddMsg("[NAME]偷偷潜入了[SCHOOL]，他几经周折，终于找到了[SCHOOL]的藏宝室，然而在破解禁制时，不小心触动了警报。[NAME]寡不敌众，身受重伤，被当场拿下。");me:AddMsg("[NAME]的双眼被挖，四肢被打断并被扔下悬崖，只侥幸留下一条残命。[SCHOOL]严厉警告了他的宗门，让他们管好自己的弟子。");me:AddSchoolRelation(story.School,-500);me:AddSchoolScore(1,-200);me:AddDamage("Destroy", "RightEye", 1, "酷刑");me:AddDamage("Destroy","LeftEye", 1, "酷刑");me:AddDamage("Fabao_CutOff","LeftScapula", 1, "法宝重击");me:AddDamage("Fabao_CutOff","RightScapula", 1, "法宝重击");me:AddDamage("Fabao_CutOff","LeftThighbone", 1, "法宝重击");me:AddDamage("Fabao_CutOff","RightThighbone", 1, "法宝重击");
+					end
+				]]></Selections.6.NOResult>
+      <Selections.7.Display>无视</Selections.7.Display>
+      <Selections.7.OKResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.7.OKResult>
+      <Selections.7.NOResult>me:AddMsg("[NAME]忙于赶路，匆匆离去了。");</Selections.7.NOResult>
+    </Text>
+  </List>
+</Texts>

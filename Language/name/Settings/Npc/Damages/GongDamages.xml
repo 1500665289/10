@@ -1,0 +1,121 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SwordBallDamage">
+      <DisplayName>剑气裂体</DisplayName>
+    </Text>
+    <Text Name="XueGuLianXing">
+      <DisplayName>炼心咒</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul3_Damage">
+      <DisplayName>神智有损</DisplayName>
+    </Text>
+    <Text Name="ZaoHuaYuLu_YuanShenJiMie">
+      <DisplayName>元神寂灭</DisplayName>
+    </Text>
+    <Text Name="SoulOutOfBrain">
+      <DisplayName>魂魄不合</DisplayName>
+    </Text>
+    <Text Name="LostSoul">
+      <DisplayName>锁闭</DisplayName>
+    </Text>
+    <Text Name="Damage_GongXinYin_Damage">
+      <DisplayName>神魂重创</DisplayName>
+    </Text>
+    <Text Name="Damage_TianDaoBenYuan1">
+      <DisplayName>神魂受损</DisplayName>
+    </Text>
+    <Text Name="Damage_Kidnap_MiHun">
+      <DisplayName>迷魂术</DisplayName>
+    </Text>
+    <Text Name="Damage_TianDaoBenYuan2">
+      <DisplayName>神识湮灭</DisplayName>
+    </Text>
+    <Text Name="DiffEnergyInvade">
+      <DisplayName>异种真气</DisplayName>
+    </Text>
+    <Text Name="MeridianRupture">
+      <DisplayName>断裂</DisplayName>
+    </Text>
+    <Text Name="MeridianIncomplete">
+      <DisplayName>残缺</DisplayName>
+    </Text>
+    <Text Name="ElixirFieldShock">
+      <DisplayName>丹田震荡</DisplayName>
+    </Text>
+    <Text Name="Damage_Boss_LingBoom">
+      <DisplayName>真气暴走</DisplayName>
+    </Text>
+    <Text Name="JieNanHuangu">
+      <DisplayName>换骨之苦</DisplayName>
+    </Text>
+    <Text Name="LingSpillsInjury_Sp">
+      <DisplayName>经脉重伤</DisplayName>
+    </Text>
+    <Text Name="LingSpillsInjury">
+      <DisplayName>真气溢伤</DisplayName>
+    </Text>
+    <Text Name="SevereInjury">
+      <DisplayName>元气大伤</DisplayName>
+    </Text>
+    <Text Name="Jin_ThunderDamage">
+      <DisplayName>雷殛</DisplayName>
+    </Text>
+    <Text Name="Jin_BoneNail">
+      <DisplayName>骨刺</DisplayName>
+    </Text>
+    <Text Name="Jin_SwordLight1">
+      <DisplayName>剑气入体（轻）</DisplayName>
+    </Text>
+    <Text Name="Jin_SwordLight2">
+      <DisplayName>剑气入体（重）</DisplayName>
+    </Text>
+    <Text Name="Mu_VitalityDevour1">
+      <DisplayName>蚀命之息（轻）</DisplayName>
+    </Text>
+    <Text Name="Mu_VitalityDevour2">
+      <DisplayName>蚀命之息（重）</DisplayName>
+    </Text>
+    <Text Name="Mu_Failure">
+      <DisplayName>衰竭</DisplayName>
+    </Text>
+    <Text Name="Mu_Corrosion">
+      <DisplayName>腐败</DisplayName>
+    </Text>
+    <Text Name="Mu_Parasitic">
+      <DisplayName>寄生</DisplayName>
+    </Text>
+    <Text Name="Shui_Frostbite">
+      <DisplayName>冻创</DisplayName>
+    </Text>
+    <Text Name="Shui_ColdBlood">
+      <DisplayName>寒脉</DisplayName>
+    </Text>
+    <Text Name="Shui_ColdPoison">
+      <DisplayName>寒毒</DisplayName>
+    </Text>
+    <Text Name="Huo_VisceralBurn">
+      <DisplayName>内焚</DisplayName>
+    </Text>
+    <Text Name="Huo_BurnOfPain">
+      <DisplayName>灼痛</DisplayName>
+    </Text>
+    <Text Name="Huo_MarrowDry">
+      <DisplayName>枯髓之症</DisplayName>
+    </Text>
+    <Text Name="Huo_HeartBurn">
+      <DisplayName>焚心</DisplayName>
+    </Text>
+    <Text Name="Tu_Weathering">
+      <DisplayName>风化</DisplayName>
+    </Text>
+    <Text Name="Tu_Petrifaction1">
+      <DisplayName>僵化（轻）</DisplayName>
+    </Text>
+    <Text Name="Tu_Petrifaction2">
+      <DisplayName>僵化（重）</DisplayName>
+    </Text>
+    <Text Name="Tu_BrainClose">
+      <DisplayName>锁神症</DisplayName>
+    </Text>
+  </List>
+</Texts>

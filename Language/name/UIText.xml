@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- InGame - ActiveModList -->
+  <string name="0xrxw6g7azeuovox-n1_vsqv" mz="frame">已激活内容</string>
+  <!-- InGame - BackStoriesGenerate -->
+  <string name="0xrxw6g7tifuvno-n160_czwu" mz="n160">出身历世</string>
+  <string name="0xrxw6g7tifuvno-n159_m8j0" mz="n159">故事列表</string>
+  <!-- InGame - BackStoryItem -->
+  <string name="0xrxw6g7lfk7a6-n18_izp4" mz="title">遗失的童年</string>
+  <!-- InGame - Bagua -->
+  <string name="0xrxw6g7gtsug4-n97_gtsu" mz="n97">点击查看风水布局</string>
+  <!-- InGame - bnt_building -->
+  <string name="0xrxw6g7qah58y-n89_qah5" mz="n89">无主材料</string>
+  <!-- InGame - bnt_buildType -->
+  <string name="0xrxw6g7qah58x-n74_qah5" mz="title">外门</string>
+  <!-- InGame - Bnt_EnterBang -->
+  <string name="0xrxw6g7puw9jx-n4" mz="title">三才榜</string>
+  <!-- InGame - Bnt_NpcHead -->
+  <string name="0xrxw6g7ubwd34-n4" mz="title">五个字</string>
+  <!-- InGame - Bnt_NpcHeadSimple -->
+  <string name="0xrxw6g7kg5fvnv-n0_kg5f" mz="title">五个字</string>
+  <!-- InGame - Bnt_ProduceItem -->
+  <string name="0xrxw6g7hdhl1q-n5_hdhl" mz="title">顶顶顶</string>
+  <string name="0xrxw6g7hdhl1q-n22_7xka" mz="count">x100</string>
+  <string name="0xrxw6g7hdhl1q-n16_i6er" mz="n16">无主材料</string>
+  <string name="0xrxw6g7hdhl1q-n19_mqnd-tips" mz="Element">主材料筛选，默认为任意</string>
+  <string name="0xrxw6g7hdhl1q-n14_q3f7-tips" mz="n14">取消</string>
+  <string name="0xrxw6g7hdhl1q-n25_7xka-tips" mz="Up">置顶</string>
+  <string name="0xrxw6g7hdhl1q-n26_7xka-tips" mz="Loop">循环</string>
+  <!-- InGame - Bnt_ProduceItemStuff -->
+  <string name="0xrxw6g7snk12r-n16_snk1-0" mz="n16">X1</string>
+  <string name="0xrxw6g7snk12r-n16_snk1-1" mz="n16">X2</string>
+  <string name="0xrxw6g7snk12r-n16_snk1-2" mz="n16">dasdas</string>
+  <string name="0xrxw6g7snk12r-n5_hdhl" mz="title">普通</string>
+  <!-- InGame - bnt_ptarget -->
+  <string name="0xrxw6g7gtsug6-n74_qah5" mz="title">外门</string>
+  <!-- InGame - Bnt_SelectNpcItem -->
+  <string name="0xrxw6g7fevgbf-n39_lgdu" mz="title">五个字</string>
+  <!-- InGame - Bnt_Stuff -->
+  <string name="0xrxw6g7qah594-n31_qah5" mz="title">伙同顶</string>
+  <!-- InGame - bnt_UpdateBig -->
+  <string name="0xrxw6g7rseblf-n115_rseb" mz="title">妖族圣地龙崖石刻重现人间界，带来诸多早已失传的妖族修行之法。本来在修行界处于绝对劣势的妖族，亦获得重新崛起的机会。藏匿于大漠中的万妖殿也迈出了重出江湖的脚步。</string>
+  <!-- InGame - bnt_UpdateMenu -->
+  <string name="0xrxw6g7rseblg-n165_rseb" mz="title">开发计划</string>
+  <!-- InGame - BntExperience -->
+  <string name="0xrxw6g7y9j1i1-n48_xnq0-tips" mz="n48">新手推荐</string>
+  <!-- InGame - Bntkey -->
+  <string name="0xrxw6g7c0eghq-n98_c0eg" mz="title">A</string>
+  <!-- InGame - BntNickItemLeft -->
+  <string name="0xrxw6g77xrwaj-n85_7xrw" mz="title">意门</string>
+  <string name="0xrxw6g77xrwaj-n87_tvk1" mz="ColdDown">1000秒</string>
+  <!-- InGame - BntPlace -->
+  <string name="0xrxw6g7nd594g-n4" mz="title">确定</string>
+  <!-- InGame - BntPlace_Npc -->
+  <string name="0xrxw6g7eb9i4n-n4" mz="title">确定</string>
+  <!-- InGame - BntPlaceMiWen -->
+  <string name="0xrxw6g7x04x4o-n10_x04x" mz="title">自动测试</string>
+  <!-- InGame - BntSkillTree -->
+  <string name="0xrxw6g7cfyni4-n5_cfyn" mz="title">Lv.1</string>
+  <!-- InGame - BossFouseWindow -->
+  <string name="0xrxw6g7gnb4vmw-n113_gnb4" mz="name">蛟龙</string>
+  <!-- InGame - bufficon -->
+  <string name="0xrxw6g7ihfi3r-n61_pah4" mz="title">M</string>
+  <!-- InGame - Button_GlobleMsg -->
+  <string name="0xrxw6g7fqbc44-n10_hc25" mz="title">看看看看看看看看看</string>
+  <!-- InGame - Button_NpcData2 -->
+  <string name="0xrxw6g7lfk7aa-n9_lfk7" mz="title">社交情绪</string>
+  <!-- InGame - ChainEventBox -->
+  <string name="0xrxw6g7lld3nk-n112_coc5" mz="title">消息内容</string>
+  <!-- InGame - Clock -->
+  <string name="0xrxw6g7fqbc3v-n21_o449" mz="n21">100天 12:20</string>
+  <!-- InGame - cmd_icon -->
+  <string name="0xrxw6g7qah58s-n69_qah5" mz="title">砍伐</string>
+  <!-- InGame - Com_Bagua -->
+  <string name="0xrxw6g7ggkk8i-n65_ggkk" mz="n65">点击查看风水布局</string>
+  <!-- InGame - Com_Fengshui -->
+  <string name="0xrxw6g7dfsa4x-n4_oip2" mz="title">大吉</string>
+  <string name="0xrxw6g7dfsa4x-n4_oip2-texts_0" mz="title">无</string>
+  <string name="0xrxw6g7dfsa4x-n4_oip2-texts_1" mz="title">吉</string>
+  <string name="0xrxw6g7dfsa4x-n4_oip2-texts_2" mz="title">小吉</string>
+  <string name="0xrxw6g7dfsa4x-n4_oip2-texts_3" mz="title">小凶</string>
+  <string name="0xrxw6g7dfsa4x-n4_oip2-texts_4" mz="title">凶</string>
+  <string name="0xrxw6g7dfsa4x-n4_oip2-texts_5" mz="title">大凶</string>
+  <string name="0xrxw6g7dfsa4x-n4_oip2-texts_def" mz="title">大吉</string>
+  <!-- InGame - ComboBox -->
+  <string name="0xrxw6g7hdhl1i-n4" mz="title">啊啊</string>
+  <!-- InGame - ConsoleBtn -->
+  <string name="0xrxw6g7zc5cnn-n3_xko6" mz="title">笑嘻嘻</string>
+  <!-- InGame - ConsoleBtn3 -->
+  <string name="0xrxw6g7zc5cnp-n3_fzve" mz="title">Clear</string>
+  <!-- InGame - ConsoleBtn4 -->
+  <string name="0xrxw6g7zc5cnq-n3_fzve" mz="title">Clear</string>
+  <!-- InGame - ConsoleWindow -->
+  <string name="0xrxw6g7zc5cnt-n110_fzve" mz="frame">控制台</string>
+  <string name="0xrxw6g7zc5cnt-n121_fzve" mz="DO">DO</string>
+  <string name="0xrxw6g7zc5cnt-n123_fzve-tips" mz="Clear">Clear the contents of the console</string>
+  <string name="0xrxw6g7zc5cnt-n124_fzve-tips" mz="Collapse">Hide repeated messages</string>
+  <string name="0xrxw6g7zc5cnt-n124_fzve" mz="Collapse">Collapse</string>
+  <string name="0xrxw6g7zc5cnt-n129_h8k8-tips" mz="copy">Hide repeated messages</string>
+  <string name="0xrxw6g7zc5cnt-n129_h8k8" mz="copy">copy</string>
+  <!-- InGame - CreatModBtn -->
+  <string name="0xrxw6g7tifuvnq-n101_tifu" mz="title">三国任务包</string>
+  <string name="0xrxw6g7tifuvnq-n102_tifu" mz="type">轮回者</string>
+  <!-- InGame - CreatUpdate -->
+  <string name="0xrxw6g7tifuvnr-n154_tifu" mz="frame">分享</string>
+  <string name="0xrxw6g7tifuvnr-n174_czwu" mz="n174">*选择可更新已有分享</string>
+  <string name="0xrxw6g7tifuvnr-n169_rm3r" mz="changePreview">更换预览图</string>
+  <string name="0xrxw6g7tifuvnr-n159_tifu-prompt" mz="name">名称</string>
+  <string name="0xrxw6g7tifuvnr-n161_tifu-prompt" mz="intro">介绍</string>
+  <string name="0xrxw6g7tifuvnr-n162_tifu" mz="up">上 传</string>
+  <string name="0xrxw6g7tifuvnr-n165_mgm1" mz="n165">已有分享</string>
+  <string name="0xrxw6g7tifuvnr-n166_igxw" mz="cancel">取消</string>
+  <!-- InGame - CusList -->
+  <string name="0xrxw6g7m8j0ovnz-n95_te3v" mz="title">轮回者列表</string>
+  <string name="0xrxw6g7m8j0ovnz-n149_ke7p" mz="dele">删除</string>
+  <string name="0xrxw6g7m8j0ovnz-n150_yl3n" mz="upload">上传</string>
+  <string name="0xrxw6g7m8j0ovnz-n151_m8j0" mz="save">保存</string>
+  <!-- InGame - CusTagslist -->
+  <string name="0xrxw6g7pm3novof-n106_mgr9" mz="frame">选择特性</string>
+  <string name="0xrxw6g7pm3novof-n111_zx1x" mz="n111">可选特性：</string>
+  <!-- InGame - CustomEditorFunctionWindow -->
+  <string name="0xrxw6g7q9xpn2-n90_f045" mz="ReincarnationFunction">制作轮回者</string>
+  <string name="0xrxw6g7q9xpn2-n137_jjvf" mz="ReincarnationFunction2">制作物品</string>
+  <string name="0xrxw6g7q9xpn2-n138_jjvf" mz="ReincarnationFunction3">制作秘籍</string>
+  <string name="0xrxw6g7q9xpn2-n139_jjvf" mz="ReincarnationFunction4">制作功法</string>
+  <string name="0xrxw6g7q9xpn2-n99_c3vt" mz="Quit">返回主菜单</string>
+  <!-- InGame - CustomTags -->
+  <string name="0xrxw6g7r7fzovol-n106_mgr9" mz="bg">选择特性</string>
+  <string name="0xrxw6g7r7fzovol-n111_zx1x" mz="n111">可选特性：</string>
+  <!-- InGame - Demo -->
+  <string name="0xrxw6g7hdhl19-n0_wf5i" mz="n0">Demo Button</string>
+  <string name="0xrxw6g7hdhl19-n1_wf5i" mz="n1">Checkbox 1</string>
+  <string name="0xrxw6g7hdhl19-n2_wf5i" mz="n2">RadioButton 1</string>
+  <string name="0xrxw6g7hdhl19-n3_wf5i" mz="n3">Demo Text</string>
+  <string name="0xrxw6g7hdhl19-n5_wf5i" mz="n5">Demo Text</string>
+  <string name="0xrxw6g7hdhl19-n9_wf5i-0" mz="n9">ListItem 1</string>
+  <string name="0xrxw6g7hdhl19-n9_wf5i-1" mz="n9">ListItem 2</string>
+  <string name="0xrxw6g7hdhl19-n9_wf5i-2" mz="n9">ListItem 3</string>
+  <string name="0xrxw6g7hdhl19-n9_wf5i-3" mz="n9">ListItem 4</string>
+  <string name="0xrxw6g7hdhl19-n13_wf5i" mz="n13">ComboBox</string>
+  <string name="0xrxw6g7hdhl19-n21_wf5i" mz="n21">Icon Button</string>
+  <string name="0xrxw6g7hdhl19-n14_wf5i" mz="n14">Tab 1</string>
+  <string name="0xrxw6g7hdhl19-n15_wf5i" mz="n15">Tab 2</string>
+  <string name="0xrxw6g7hdhl19-n16_wf5i" mz="n16">Tab 3</string>
+  <!-- InGame - Diy_Event_item -->
+  <string name="0xrxw6g7qx12vns-n121_fak9" mz="n121">正常</string>
+  <string name="0xrxw6g7qx12vns-n123_qx12" mz="n123">保护时间</string>
+  <!-- InGame - diy_eventitem -->
+  <string name="0xrxw6g7qx12vnr-n185_qx12" mz="title">事件频率</string>
+  <!-- InGame - Diy_item -->
+  <string name="0xrxw6g7fak9vnp-n121_fak9" mz="n121">正常</string>
+  <string name="0xrxw6g7fak9vnp-n122_fak9" mz="n122">基础工作效率</string>
+  <!-- InGame - EditModInfoWindow -->
+  <string name="0xrxw6g7j4somq-n122_j4so" mz="frame">提交模组</string>
+  <string name="0xrxw6g7j4somq-n124_j4so" mz="n124">标题</string>
+  <string name="0xrxw6g7j4somq-n156_j4so" mz="n156">作者</string>
+  <string name="0xrxw6g7j4somq-n157_j4so" mz="n157">模组版本</string>
+  <string name="0xrxw6g7j4somq-n158_j4so" mz="n158">需求游戏版本</string>
+  <string name="0xrxw6g7j4somq-n159_j4so" mz="n159">模组介绍</string>
+  <string name="0xrxw6g7j4somq-n160_j4so" mz="n160">更新日志</string>
+  <string name="0xrxw6g7j4somq-n136_j4so" mz="n136">提交</string>
+  <string name="0xrxw6g7j4somq-n170_bv7o" mz="n166">更换预览图</string>
+  <string name="0xrxw6g7j4somq-n175_bv7o" mz="n175">选择标签</string>
+  <!-- InGame - EnterBnt -->
+  <string name="0xrxw6g7rvujjd-n4" mz="title">确定</string>
+  <!-- InGame - FeatureItem_Paint -->
+  <string name="0xrxw6g7rz8yjt-n18_izp4" mz="title">遗失的童年</string>
+  <!-- InGame - fengshuiView -->
+  <string name="0xrxw6g79fbecf-n90_9fbe-tips" mz="n90">金生水克木</string>
+  <string name="0xrxw6g79fbecf-n91_9fbe-tips" mz="n91">木生火克土</string>
+  <string name="0xrxw6g79fbecf-n92_9fbe-tips" mz="n92">水生木克火</string>
+  <string name="0xrxw6g79fbecf-n93_9fbe-tips" mz="n93">火生土克金</string>
+  <string name="0xrxw6g79fbecf-n94_9fbe-tips" mz="n94">土生金克水</string>
+  <string name="0xrxw6g79fbecf-n101_7kkh" mz="n101">灵气：++++++++++</string>
+  <!-- InGame - FiveBaseShow -->
+  <string name="0xrxw6g7qfkrgb-n91_qfkr" mz="n91">神识</string>
+  <string name="0xrxw6g7qfkrgb-n92_qfkr" mz="n92">根骨</string>
+  <string name="0xrxw6g7qfkrgb-n93_qfkr" mz="n93">魅力</string>
+  <string name="0xrxw6g7qfkrgb-n94_qfkr" mz="n94">悟性</string>
+  <string name="0xrxw6g7qfkrgb-n95_qfkr" mz="n95">机缘</string>
+  <string name="0xrxw6g7qfkrgb-n96_qfkr" mz="n96">潜力</string>
+  <!-- InGame - FiveElement -->
+  <string name="0xrxw6g7fevgb8-n64_fevg-tips" mz="n64">金生水克木</string>
+  <string name="0xrxw6g7fevgb8-n65_fevg-tips" mz="n65">木生火克土</string>
+  <string name="0xrxw6g7fevgb8-n66_fevg-tips" mz="n66">水生木克火</string>
+  <string name="0xrxw6g7fevgb8-n67_fevg-tips" mz="n67">火生土克金</string>
+  <string name="0xrxw6g7fevgb8-n68_fevg-tips" mz="n68">土生金克水</string>
+  <!-- InGame - GameMainList -->
+  <string name="0xrxw6g7el231z-n10_qah5" mz="n10">主材料</string>
+  <!-- InGame - GameMenu -->
+  <string name="0xrxw6g7yfwmbr-n14_i7jl" mz="bbg">经典模式</string>
+  <string name="0xrxw6g7yfwmbr-n14_i7jl-texts_0" mz="bbg">太虚幻境</string>
+  <string name="0xrxw6g7yfwmbr-n14_i7jl-texts_def" mz="bbg">经典模式</string>
+  <string name="0xrxw6g7yfwmbr-n15_i7jl" mz="n15">地图尺寸</string>
+  <string name="0xrxw6g7yfwmbr-n15_i7jl-0" mz="n15">小型</string>
+  <string name="0xrxw6g7yfwmbr-n15_i7jl-1" mz="n15">标准</string>
+  <string name="0xrxw6g7yfwmbr-n15_i7jl-2" mz="n15">大型</string>
+  <string name="0xrxw6g7yfwmbr-n16_i7jl" mz="n16">游戏难度</string>
+  <string name="0xrxw6g7yfwmbr-n16_i7jl-0" mz="n16">波澜不惊</string>
+  <string name="0xrxw6g7yfwmbr-n16_i7jl-1" mz="n16">芸芸众生</string>
+  <string name="0xrxw6g7yfwmbr-n16_i7jl-2" mz="n16">大起大落</string>
+  <string name="0xrxw6g7yfwmbr-n17_i7jl" mz="n17">确定</string>
+  <string name="0xrxw6g7yfwmbr-n59_w4fx-tips" mz="n59">在同一地图尺寸下相同的种子可以生成一样的地图。</string>
+  <string name="0xrxw6g7yfwmbr-n59_w4fx" mz="n59">地图种子</string>
+  <string name="0xrxw6g7yfwmbr-n63_puw9-tips" mz="n35">真仙模式会拥有最完整的游戏体验。真仙模式只有一个存档。真仙模式自动存档间隔固定。真仙模式会记录数据和获得成就。真仙模式会隐藏部分提示。真仙模式会考验玩家对游戏的终极理解。真仙模式只适合真的仙人。</string>
+  <string name="0xrxw6g7yfwmbr-n63_puw9" mz="n35">真仙模式</string>
+  <string name="0xrxw6g7yfwmbr-n68_doa6" mz="n35_2">太虚幻境</string>
+  <string name="0xrxw6g7yfwmbr-n32_u3bn-tips" mz="n32">基础教学对游戏的玩法和操作进行了最基础的介绍。</string>
+  <string name="0xrxw6g7yfwmbr-n32_u3bn" mz="n32">基础教学</string>
+  <string name="0xrxw6g7yfwmbr-n64_puw9-tips" mz="n64">新人模式下会使用我们预制好的地图和角色开局，这会让作为新人的你更加容易的上手游戏。</string>
+  <string name="0xrxw6g7yfwmbr-n64_puw9" mz="n64">新人模式</string>
+  <string name="0xrxw6g7yfwmbr-n6_yfwm-tips" mz="n6">来一场只属于你的修仙之旅吧。</string>
+  <string name="0xrxw6g7yfwmbr-n6_yfwm" mz="n6">经典模式</string>
+  <string name="0xrxw6g7yfwmbr-n67_doa6" mz="n67">太虚幻境</string>
+  <string name="0xrxw6g7yfwmbr-n8_yfwm" mz="n8">读取存档</string>
+  <string name="0xrxw6g7yfwmbr-n81_f045-tips" mz="CustomEditor">通过工具制作分享或者下载玩家自定义内容。</string>
+  <string name="0xrxw6g7yfwmbr-n81_f045" mz="CustomEditor">万界天宫</string>
+  <string name="0xrxw6g7yfwmbr-n10_yfwm-tips" mz="n46">模组管理器以及模组商店</string>
+  <string name="0xrxw6g7yfwmbr-n10_yfwm" mz="n46">模组管理</string>
+  <string name="0xrxw6g7yfwmbr-n93_p06n-tips" mz="n47">模组商店</string>
+  <string name="0xrxw6g7yfwmbr-n93_p06n" mz="n47">模组商店</string>
+  <string name="0xrxw6g7yfwmbr-n20_i7jl" mz="loadbg">读取存档</string>
+  <string name="0xrxw6g7yfwmbr-n24_i7jl" mz="n24">确定</string>
+  <string name="0xrxw6g7yfwmbr-n26_nn7d" mz="n26">更新日志</string>
+  <string name="0xrxw6g7yfwmbr-n27_nn7d" mz="updatebg">更新日志</string>
+  <string name="0xrxw6g7yfwmbr-n31_nn7d" mz="new">New</string>
+  <string name="0xrxw6g7yfwmbr-n12_yfwm" mz="n12">系统设置</string>
+  <string name="0xrxw6g7yfwmbr-n36_ipul-tips" mz="n36">只有真仙模式才会记录数据和获得成就。</string>
+  <string name="0xrxw6g7yfwmbr-n36_ipul" mz="n36">数据成就</string>
+  <string name="0xrxw6g7yfwmbr-n61_ebpx" mz="n61">抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。</string>
+  <string name="0xrxw6g7yfwmbr-n83_iqu5-tips" mz="n74">《了不起的修仙模拟器》官方微博</string>
+  <string name="0xrxw6g7yfwmbr-n89_11tsn-tips" mz="qqbnt">《了不起的修仙模拟器》官方QQ群:一群  812437476二群  929894747三群  726436614  四群  775358415 五群  735494239六群  736224123七群  732225037 如果所加群已满，请顺延。</string>
+  <string name="0xrxw6g7yfwmbr-n82_iqu5-tips" mz="LagSelect">语言选择</string>
+  <string name="0xrxw6g7yfwmbr-n92_qedx-tips" mz="n92">离开游戏</string>
+  <string name="0xrxw6g7yfwmbr-n40_ek0k" mz="n40">您正在试玩《了不起的修仙模拟器》的Alpha版本。基于你反馈的宝贵信息，我们会对游戏进行修复，升级并增加功能。以完善本游戏。
+      在游玩过程中，您可能会遇到BUG，这些BUG可能会让你很讨厌，也可能会很搞笑。为了帮助我们，请务必加入我们的QQ群或者关注我们的社交媒体账号。参与讨论并向我们发送任何您觉得必要的反馈。
+     衷心感谢在 Alpha 版本开发过程中参与试玩支持我们的每一位玩家！你们的创意，反馈，建议和鼓励将会使这款游戏拥有更加美好的未来。
+     最重要的是您能享受游戏本身带来的快乐。谢谢你玩我们的游戏，我们期待一直与您同行。</string>
+  <string name="0xrxw6g7yfwmbr-n43_ek0k" mz="n43">GSQ@GSQStudio.com</string>
+  <string name="0xrxw6g7yfwmbr-n71_ehpx" mz="n71">载入地图故事</string>
+  <string name="0xrxw6g7yfwmbr-n69_xip1-tips" mz="saving">正在写入存档...请不要关闭游戏</string>
+  <!-- InGame - GongLable -->
+  <string name="0xrxw6g7do0z3d-n107_gebq" mz="title">无计划</string>
+  <!-- InGame - GongProgressBarDouble -->
+  <string name="0xrxw6g79dyc3h-n4_izp4" mz="text">机能</string>
+  <!-- InGame - GongStateUnit1 -->
+  <string name="0xrxw6g77xkab1-n24_7xka" mz="title">三个字</string>
+  <!-- InGame - IllustratedHandbookContext -->
+  <string name="0xrxw6g7ea74vn2-n109_ea74" mz="content">测试</string>
+  <string name="0xrxw6g7ea74vn2-n108_ea74" mz="title">项目</string>
+  <!-- InGame - IllustratedHandbookDiagram -->
+  <string name="0xrxw6g7ea74vn0-n122_q2sc" mz="lock">尚未解锁</string>
+  <!-- InGame - IllustratedHandbookWindow -->
+  <string name="0xrxw6g7ea74vmz-n97_ea74" mz="frame">古兽图鉴</string>
+  <!-- InGame - InitKeys -->
+  <string name="0xrxw6g7xko6m8-n95_mykk" mz="title">测试任务</string>
+  <!-- InGame - InputItem -->
+  <string name="0xrxw6g7k8u8m4-n9_k8u8" mz="n9">上上下下</string>
+  <!-- InGame - InputWindow -->
+  <string name="0xrxw6g7k8u8m2-n12_i8c2" mz="n12">该键位已被系统使用</string>
+  <string name="0xrxw6g7k8u8m2-n17_xko6" mz="InitKeys">初始化快捷键</string>
+  <!-- InGame - Item_Damages -->
+  <string name="0xrxw6g7pkzn2j-n109_pkzn" mz="n109">左腿</string>
+  <!-- InGame - Item_Storage -->
+  <string name="0xrxw6g7s29t2y-n17_s29t-0" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-1" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-2" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-3" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-4" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-5" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-6" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-7" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-8" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-9" mz="n17">Wood</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-10" mz="n17">Bodypart</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-11" mz="n17">Bodypart</string>
+  <string name="0xrxw6g7s29t2y-n17_s29t-12" mz="n17">Bodypart</string>
+  <string name="0xrxw6g7s29t2y-n22_s29t" mz="title">材料</string>
+  <!-- InGame - ItemFu -->
+  <string name="0xrxw6g7fevgbb-n194_tvk1" mz="title">天妖化血术</string>
+  <!-- InGame - ItemTextMemery -->
+  <string name="0xrxw6g7ls7pid-n110_ls7p" mz="n110">第1天 23:23</string>
+  <!-- InGame - ItemTextOnlyWork -->
+  <string name="0xrxw6g7u2183u-n107_gebq" mz="title">测试</string>
+  <!-- InGame - JinengProgressBar -->
+  <string name="0xrxw6g7lfk7ac-n4_izp4" mz="text">机能</string>
+  <!-- InGame - LoadLable -->
+  <string name="0xrxw6g7i7jlbu-n107_gebq" mz="title">无计划</string>
+  <string name="0xrxw6g7i7jlbu-n107_gebq-texts_0" mz="title">睡  觉</string>
+  <string name="0xrxw6g7i7jlbu-n107_gebq-texts_1" mz="title">吃  饭</string>
+  <string name="0xrxw6g7i7jlbu-n107_gebq-texts_2" mz="title">修  炼</string>
+  <string name="0xrxw6g7i7jlbu-n107_gebq-texts_def" mz="title">无计划</string>
+  <!-- InGame - MessageItem -->
+  <string name="0xrxw6g7qp12ly-n6_r19j" mz="n6">消息</string>
+  <!-- InGame - MessageWindowBox -->
+  <string name="0xrxw6g7qp12m0-n5_r19j-tips" mz="n5">打开消息管理器</string>
+  <!-- InGame - ModCheckbox -->
+  <string name="0xrxw6g7a1h9mk-n11_p06n" mz="n11">点击
+激活</string>
+  <!-- InGame - ModListItem -->
+  <string name="0xrxw6g7a1h9mj-n1_a1h9-tips" mz="n1">激活/反激活</string>
+  <string name="0xrxw6g7a1h9mj-n6_a1h9-tips" mz="up">提高排序</string>
+  <string name="0xrxw6g7a1h9mj-n7_a1h9-tips" mz="down">降低排序</string>
+  <string name="0xrxw6g7a1h9mj-n9_n819" mz="n9">本地</string>
+  <string name="0xrxw6g7a1h9mj-n10_n819" mz="n10">工坊</string>
+  <!-- InGame - ModMainWindow -->
+  <string name="0xrxw6g7a1h9mg-n91_a1h9" mz="game">游戏社区</string>
+  <string name="0xrxw6g7a1h9mg-n100_a1h9" mz="n100">模组列表</string>
+  <string name="0xrxw6g7a1h9mg-n105_a1h9" mz="n105">作   者：</string>
+  <string name="0xrxw6g7a1h9mg-n107_a1h9" mz="n107">版   本：</string>
+  <string name="0xrxw6g7a1h9mg-n109_a1h9" mz="n109">游戏版本：</string>
+  <string name="0xrxw6g7a1h9mg-n124_fnug" mz="n124">更新说明</string>
+  <string name="0xrxw6g7a1h9mg-n138_m8j0" mz="n138">未激活</string>
+  <string name="0xrxw6g7a1h9mg-n138_m8j0-texts_0" mz="n138">未安装</string>
+  <string name="0xrxw6g7a1h9mg-n138_m8j0-texts_1" mz="n138">已激活</string>
+  <string name="0xrxw6g7a1h9mg-n138_m8j0-texts_2" mz="n138">无法使用</string>
+  <string name="0xrxw6g7a1h9mg-n138_m8j0-texts_def" mz="n138">未激活</string>
+  <string name="0xrxw6g7a1h9mg-n167_gaom-tips" mz="good">好评</string>
+  <string name="0xrxw6g7a1h9mg-n167_gaom" mz="good">好评</string>
+  <string name="0xrxw6g7a1h9mg-n168_gaom-tips" mz="bad">差评</string>
+  <string name="0xrxw6g7a1h9mg-n168_gaom" mz="bad">差评</string>
+  <string name="0xrxw6g7a1h9mg-n116_n819-tips" mz="modUp">将本地模组发布到工坊</string>
+  <string name="0xrxw6g7a1h9mg-n116_n819" mz="modUp">发布</string>
+  <string name="0xrxw6g7a1h9mg-n156_iqu5-tips" mz="openModUrl">查看模组在工坊的对应页面</string>
+  <string name="0xrxw6g7a1h9mg-n156_iqu5" mz="openModUrl">页面</string>
+  <string name="0xrxw6g7a1h9mg-n128_bv7o" mz="more">模组商店</string>
+  <string name="0xrxw6g7a1h9mg-n170_9pvb-tips" mz="cancelsub">取消订阅当前模组</string>
+  <string name="0xrxw6g7a1h9mg-n170_9pvb" mz="cancelsub">取消订阅</string>
+  <!-- InGame - ModType -->
+  <string name="0xrxw6g7ikk5vnm-n3_fzve" mz="title">Clear</string>
+  <!-- InGame - ModWindowContext -->
+  <string name="0xrxw6g7iqu5ovo5-n108_ea74" mz="title">项目</string>
+  <string name="0xrxw6g7iqu5ovo5-n109_ea74" mz="content">测试</string>
+  <!-- InGame - MyTextField -->
+  <string name="0xrxw6g7bj4lovop-n60_bj4l" mz="title">sasadsad
+dasdas
+das</string>
+  <!-- InGame - NormalPopupMenu_item -->
+  <string name="0xrxw6g77xkaax-n3" mz="title">TEST</string>
+  <!-- InGame - NormlSelectItem -->
+  <string name="0xrxw6g7fevgbd-n194_tvk1" mz="title">天妖化血术</string>
+  <!-- InGame - NormlSelectItemNoBG -->
+  <string name="0xrxw6g7yfwmbo-n194_tvk1" mz="title">天妖化血术</string>
+  <!-- InGame - npcFightSeting -->
+  <string name="0xrxw6g7uuyik2-n119_uuyi-tips" mz="n119">外门弟子在空闲时也将会努力筑基。</string>
+  <string name="0xrxw6g7uuyik2-n119_uuyi" mz="n119">自动迎敌</string>
+  <string name="0xrxw6g7uuyik2-n120_uuyi-tips" mz="n120">外门弟子在空闲时也将会努力筑基。</string>
+  <string name="0xrxw6g7uuyik2-n120_uuyi" mz="n120">动物灵兽</string>
+  <string name="0xrxw6g7uuyik2-n121_uuyi-tips" mz="n121">外门弟子在空闲时也将会努力筑基。</string>
+  <string name="0xrxw6g7uuyik2-n121_uuyi" mz="n121">无修为者</string>
+  <string name="0xrxw6g7uuyik2-n122_uuyi-tips" mz="n122">外门弟子在空闲时也将会努力筑基。</string>
+  <string name="0xrxw6g7uuyik2-n122_uuyi" mz="n122">修行者</string>
+  <string name="0xrxw6g7uuyik2-n123_uuyi-tips" mz="n123">外门弟子在空闲时也将会努力筑基。</string>
+  <string name="0xrxw6g7uuyik2-n123_uuyi" mz="n123">倒地单位</string>
+  <!-- InGame - NpcGenerate -->
+  <string name="0xrxw6g7gzi126-n49_izp4" mz="entergame">进入游戏</string>
+  <string name="0xrxw6g7gzi126-n80_em8k" mz="n80">主要角色未选择经历</string>
+  <string name="0xrxw6g7gzi126-n85_mykk" mz="back">返回</string>
+  <!-- InGame - NpcHealthPanel -->
+  <string name="0xrxw6g7pkzn2i-n120_lfk7-0" mz="n120">核心机能</string>
+  <string name="0xrxw6g7pkzn2i-n126_7xrw" mz="n126">非常健康</string>
+  <!-- InGame - NpcInfo -->
+  <string name="0xrxw6g7jq2v2h-n80_lfk7-0" mz="NpcInfoBnts">背景属性</string>
+  <string name="0xrxw6g7jq2v2h-n80_lfk7-1" mz="NpcInfoBnts">社交情绪</string>
+  <string name="0xrxw6g7jq2v2h-n80_lfk7-2" mz="NpcInfoBnts">状态健康</string>
+  <string name="0xrxw6g7jq2v2h-n80_lfk7-3" mz="NpcInfoBnts">功法修行</string>
+  <string name="0xrxw6g7jq2v2h-n80_lfk7-4" mz="NpcInfoBnts">道具装备</string>
+  <string name="0xrxw6g7jq2v2h-n129_7xrw" mz="frame2">属性</string>
+  <string name="0xrxw6g7jq2v2h-n135_7xrw" mz="frame22">耐药性</string>
+  <string name="0xrxw6g7jq2v2h-n139_i7ry" mz="frame23">已知关系</string>
+  <string name="0xrxw6g7jq2v2h-n134_7xrw-tips" mz="n134">显示耐药性</string>
+  <string name="0xrxw6g7jq2v2h-n133_7xrw-tips" mz="n133">显示所有属性</string>
+  <string name="0xrxw6g7jq2v2h-n142_i7ry-tips" mz="n142">显示已知社会关系</string>
+  <string name="0xrxw6g7jq2v2h-n149_l10g-tips" mz="n149">更换称号</string>
+  <!-- InGame - NpcInfoLable -->
+  <string name="0xrxw6g7lfk7a8-n83_lfk7" mz="title">人类</string>
+  <!-- InGame - NpcInfoListItem -->
+  <string name="0xrxw6g7izp428-n18_izp4" mz="title">遗失的童年</string>
+  <!-- InGame - NpcMiniInfo -->
+  <string name="0xrxw6g7t3s5ovot-n73_t3s5-0" mz="n73">特性</string>
+  <string name="0xrxw6g7t3s5ovot-n73_t3s5-1" mz="n73">特性2</string>
+  <string name="0xrxw6g7t3s5ovot-n73_t3s5-2" mz="n73">特性3</string>
+  <string name="0xrxw6g7t3s5ovot-n73_t3s5-3" mz="n73">特性4</string>
+  <string name="0xrxw6g7t3s5ovot-n73_t3s5-4" mz="n73">特性5</string>
+  <string name="0xrxw6g7t3s5ovot-n87_t3s5-0" mz="n87">神识</string>
+  <string name="0xrxw6g7t3s5ovot-n87_t3s5-1" mz="n87">根骨</string>
+  <string name="0xrxw6g7t3s5ovot-n87_t3s5-2" mz="n87">魅力</string>
+  <string name="0xrxw6g7t3s5ovot-n87_t3s5-3" mz="n87">悟性</string>
+  <string name="0xrxw6g7t3s5ovot-n87_t3s5-4" mz="n87">机缘</string>
+  <string name="0xrxw6g7t3s5ovot-n87_t3s5-5" mz="n87">潜力</string>
+  <!-- InGame - NpcMiniPItem -->
+  <string name="0xrxw6g7t3s5ovov-n80_t3s5" mz="title">根骨</string>
+  <!-- InGame - NpcPracticePanel -->
+  <string name="0xrxw6g7shy138-n104_shy1" mz="n104">筑 基</string>
+  <string name="0xrxw6g7shy138-n149_9dyc" mz="n149">晋升内门</string>
+  <string name="0xrxw6g7shy138-n168_shh8" mz="n168">如果当天没有练功
+筑基值将会下降1000</string>
+  <string name="0xrxw6g7shy138-n262_uuyi-tips" mz="n262">外门弟子在空闲时也将会努力筑基。</string>
+  <string name="0xrxw6g7shy138-n262_uuyi" mz="n262">勤学苦练</string>
+  <string name="0xrxw6g7shy138-n119_shy1" mz="n119">心境</string>
+  <string name="0xrxw6g7shy138-n179_7xrw" mz="gongname">太和十六洞天</string>
+  <string name="0xrxw6g7shy138-n182_7xrw" mz="stagename">凝气期</string>
+  <string name="0xrxw6g7shy138-n183_7xrw" mz="nextstage">结丹期</string>
+  <string name="0xrxw6g7shy138-n155_7a6u" mz="n155">一品</string>
+  <string name="0xrxw6g7shy138-n191_tvk1" mz="masterrank">三十八代弟子</string>
+  <string name="0xrxw6g7shy138-n192_tvk1" mz="master">师父:张三丰</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-0" mz="FightPs">法宝攻击 +1234</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-1" mz="FightPs">法宝灵气</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-2" mz="FightPs">法宝回灵</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-3" mz="FightPs">法宝攻击间隔</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-4" mz="FightPs">法宝速度</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-5" mz="FightPs">术法伤害加成</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-6" mz="FightPs">术法冷却加成</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-7" mz="FightPs">术法消耗加成</string>
+  <string name="0xrxw6g7shy138-n203_tvk1-8" mz="FightPs">护盾效果</string>
+  <string name="0xrxw6g7shy138-n208_tvk1-tips" mz="n208">当前位置的舒适系数对你修炼功法的帮助。修炼建筑材料越高级，帮助越大</string>
+  <string name="0xrxw6g7shy138-n208_tvk1" mz="n208">舒适系数</string>
+  <string name="0xrxw6g7shy138-n209_tvk1-tips" mz="n209">环境的灵气浓度对修炼功法的帮助</string>
+  <string name="0xrxw6g7shy138-n209_tvk1" mz="n209">灵气系数</string>
+  <string name="0xrxw6g7shy138-n210_tvk1-tips" mz="n210">情绪对修炼的影响</string>
+  <string name="0xrxw6g7shy138-n210_tvk1" mz="n210">情绪系数</string>
+  <string name="0xrxw6g7shy138-n211_tvk1-tips" mz="n211">心境对修炼的影响</string>
+  <string name="0xrxw6g7shy138-n211_tvk1" mz="n211">心境系数</string>
+  <string name="0xrxw6g7shy138-n212_tvk1-tips" mz="n212">环境五行属性与功法的匹配程度</string>
+  <string name="0xrxw6g7shy138-n212_tvk1" mz="n212">五行匹配</string>
+  <string name="0xrxw6g7shy138-n213_tvk1-tips" mz="n213">师傅对你修炼功法的帮助</string>
+  <string name="0xrxw6g7shy138-n213_tvk1" mz="n213">师徒系数</string>
+  <string name="0xrxw6g7shy138-n215_tvk1-tips" mz="n215">自身五维属性与功法的匹配程度</string>
+  <string name="0xrxw6g7shy138-n215_tvk1" mz="n215">功法匹配</string>
+  <string name="0xrxw6g7shy138-n228_gtsu" mz="n228">修炼速度</string>
+  <string name="0xrxw6g7shy138-n259_n4xf-tips" mz="n259">时节对修炼的影响</string>
+  <string name="0xrxw6g7shy138-n259_n4xf" mz="n259">时节系数</string>
+  <string name="0xrxw6g7shy138-n237_gtsu" mz="n237">神通</string>
+  <string name="0xrxw6g7shy138-n234_gtsu" mz="n234">战斗属性</string>
+  <string name="0xrxw6g7shy138-n239_f4a0-tips" mz="tianqian">天谴值受角色行为影响，天谴值越高角色渡劫时雷劫的强度越强。</string>
+  <string name="0xrxw6g7shy138-n244_qcd3" mz="prank">三十八代弟子</string>
+  <string name="0xrxw6g7shy138-n256_kqlu" mz="n256">术法</string>
+  <string name="0xrxw6g7shy138-n261_ta1v-tips" mz="n261">内门弟子会主动进食来维持精元的补充。</string>
+  <string name="0xrxw6g7shy138-n261_ta1v" mz="n261">食物自理</string>
+  <string name="0xrxw6g7shy138-n263_bhyf-tips" mz="n263">优先食用相关丹药，比如[饮气丹]</string>
+  <string name="0xrxw6g7shy138-n263_bhyf" mz="n263">丹药优先</string>
+  <string name="0xrxw6g7shy138-n267_lnrv" mz="n267">空</string>
+  <string name="0xrxw6g7shy138-n164_n6wt" mz="n164">感 悟</string>
+  <string name="0xrxw6g7shy138-n176_7xrw" mz="n176">感悟会在任何时候发生
+这取决于行为和一点点运气</string>
+  <string name="0xrxw6g7shy138-n170_qpu3" mz="n170">我不知道该如何修炼</string>
+  <string name="0xrxw6g7shy138-n250_vezm" mz="n250">参悟</string>
+  <!-- InGame - NpcPropertyPanel -->
+  <string name="0xrxw6g7jq2v2a-n100_v22f-tips" mz="globle">团队中当前技能的最大评分</string>
+  <string name="0xrxw6g7jq2v2a-n101_v22f" mz="n101">*团队最高：</string>
+  <string name="0xrxw6g7jq2v2a-n132_rvuj" mz="n132">技    能</string>
+  <string name="0xrxw6g7jq2v2a-n68_r0hw" mz="n68">12岁
+男性
+人类</string>
+  <string name="0xrxw6g7jq2v2a-n13_izp4" mz="n13">出 身：</string>
+  <string name="0xrxw6g7jq2v2a-n14_izp4" mz="n14">历 世：</string>
+  <string name="0xrxw6g7jq2v2a-n15_izp4" mz="n15">特 殊：</string>
+  <string name="0xrxw6g7jq2v2a-n76_duea-tips" mz="n76">修改角色姓名</string>
+  <string name="0xrxw6g7jq2v2a-n119_rvuj" mz="n119">基础信息</string>
+  <string name="0xrxw6g7jq2v2a-n44_izp4" mz="n44">不能从事</string>
+  <string name="0xrxw6g7jq2v2a-n48_izp4-tips" mz="n48">随机产生角色属性，可以修改姓名。</string>
+  <string name="0xrxw6g7jq2v2a-n48_izp4" mz="n48">随机角色</string>
+  <string name="0xrxw6g7jq2v2a-n78_k319-tips" mz="n78">使用名字和性别来召唤一个独特的人物角色，他们比正常人更加强大。不可修改姓名和经历。</string>
+  <string name="0xrxw6g7jq2v2a-n78_k319" mz="n78">轮回者</string>
+  <!-- InGame - NpcSelectLable -->
+  <string name="0xrxw6g7sz063m-n107_gebq" mz="title">无计划</string>
+  <string name="0xrxw6g7sz063m-n114_sz06" mz="n114">内</string>
+  <!-- InGame - NpcStatePanel -->
+  <string name="0xrxw6g7jq2v2b-n89_jq2v-0" mz="n89">乐芙兰</string>
+  <string name="0xrxw6g7jq2v2b-n80_jq2v" mz="n80">好 感</string>
+  <!-- InGame - NpcTreeNode -->
+  <string name="0xrxw6g7fuvb3n-n11_q2bi-tips" mz="n11">驱逐弟子</string>
+  <string name="0xrxw6g7fuvb3n-n14_yfwm" mz="title">这个</string>
+  <!-- InGame - NpcWorkCheckList -->
+  <string name="0xrxw6g7aigs2o-n17_s08x-tips" mz="n17">特别关注的工作行为会优先于其他工作行为</string>
+  <!-- InGame - OnlineContent -->
+  <string name="0xrxw6g7ikk5vnk-n82_ikk5" mz="frame">万界天宫</string>
+  <string name="0xrxw6g7ikk5vnk-n84_ikk5-tips" mz="make">进入万界天宫内容编辑器</string>
+  <string name="0xrxw6g7ikk5vnk-n84_ikk5" mz="make">内容编辑器</string>
+  <string name="0xrxw6g7ikk5vnk-n108_ewc1" mz="n108">订阅</string>
+  <string name="0xrxw6g7ikk5vnk-n109_ewc1" mz="n109">名称</string>
+  <string name="0xrxw6g7ikk5vnk-n110_ewc1" mz="n110">类型</string>
+  <string name="0xrxw6g7ikk5vnk-n111_ewc1" mz="n111">订阅数</string>
+  <string name="0xrxw6g7ikk5vnk-n124_ghm0" mz="search">搜索</string>
+  <string name="0xrxw6g7ikk5vnk-n142_pm3n" mz="refresh">刷新</string>
+  <string name="0xrxw6g7ikk5vnk-n130_ghm0" mz="downpage">下一页</string>
+  <string name="0xrxw6g7ikk5vnk-n131_ghm0" mz="uppage">上一页</string>
+  <string name="0xrxw6g7ikk5vnk-n139_fmjr" mz="n139">筛选</string>
+  <string name="0xrxw6g7ikk5vnk-n87_ikk5" mz="n87">过滤</string>
+  <string name="0xrxw6g7ikk5vnk-n89_ikk5" mz="owned">已拥有</string>
+  <string name="0xrxw6g7ikk5vnk-n116_ewc1" mz="loacl">非本地</string>
+  <string name="0xrxw6g7ikk5vnk-n147_rm3r-tips" mz="good">好评</string>
+  <string name="0xrxw6g7ikk5vnk-n147_rm3r" mz="good">好评</string>
+  <string name="0xrxw6g7ikk5vnk-n148_rm3r-tips" mz="bad">差评</string>
+  <string name="0xrxw6g7ikk5vnk-n148_rm3r" mz="bad">差评</string>
+  <!-- InGame - panel_building -->
+  <string name="0xrxw6g7qah58w-n79_qah5" mz="n79">主材料</string>
+  <!-- InGame - panel_Gong -->
+  <string name="0xrxw6g77xkaay-n36_fevg" mz="n36">匹配属性</string>
+  <string name="0xrxw6g77xkaay-n41_fevg" mz="n41">尚未获得</string>
+  <string name="0xrxw6g77xkaay-n43_fevg" mz="lock">尚未获得</string>
+  <string name="0xrxw6g77xkaay-n43_fevg-texts_0" mz="lock">隐藏</string>
+  <string name="0xrxw6g77xkaay-n43_fevg-texts_def" mz="lock">尚未获得</string>
+  <string name="0xrxw6g77xkaay-n44_fevg" mz="n44">尚未获得</string>
+  <string name="0xrxw6g77xkaay-n39_fevg" mz="n39">选择功法</string>
+  <string name="0xrxw6g77xkaay-n40_fevg" mz="n40">匹配程度：100%</string>
+  <string name="0xrxw6g77xkaay-n47_fevg" mz="n47">角色属性</string>
+  <!-- InGame - Panel_HeadMsg -->
+  <string name="0xrxw6g7qffm4v-n40_qffm" mz="title">等等</string>
+  <!-- InGame - Panel_NpcFavour -->
+  <string name="0xrxw6g7do0z3e-n130_ls7p-0" mz="n130">乐芙兰</string>
+  <string name="0xrxw6g7do0z3e-n129_lfk7" mz="n129">好感</string>
+  <string name="0xrxw6g7do0z3e-n134_ls7p" mz="n134">记忆</string>
+  <!-- InGame - panel_NpcInfo -->
+  <string name="0xrxw6g7lfk7a9-n81_lfk7-tips" mz="n81">性别</string>
+  <string name="0xrxw6g7lfk7a9-n81_lfk7" mz="n81">男</string>
+  <string name="0xrxw6g7lfk7a9-n84_lfk7" mz="n84">性别</string>
+  <string name="0xrxw6g7lfk7a9-n85_lfk7-tips" mz="n85">年龄</string>
+  <string name="0xrxw6g7lfk7a9-n86_lfk7" mz="n86">年龄</string>
+  <string name="0xrxw6g7lfk7a9-n87_lfk7-tips" mz="n87">预计寿命</string>
+  <string name="0xrxw6g7lfk7a9-n88_lfk7" mz="n88">寿元</string>
+  <string name="0xrxw6g7lfk7a9-n101_lfk7-tips" mz="n101">角色感觉舒服的温度范围</string>
+  <string name="0xrxw6g7lfk7a9-n101_lfk7" mz="n101">-100℃至300℃</string>
+  <string name="0xrxw6g7lfk7a9-n102_lfk7" mz="n102">最适温度</string>
+  <string name="0xrxw6g7lfk7a9-n116_lfk7-tips" mz="n116">超出极限温度角色将会受到伤害</string>
+  <string name="0xrxw6g7lfk7a9-n116_lfk7" mz="n116">-100℃至300℃</string>
+  <string name="0xrxw6g7lfk7a9-n117_lfk7" mz="n117">极限温度</string>
+  <string name="0xrxw6g7lfk7a9-n119_lfk7-tips" mz="n119">感知周围环境的半径距离</string>
+  <string name="0xrxw6g7lfk7a9-n119_lfk7" mz="n119">3米</string>
+  <string name="0xrxw6g7lfk7a9-n120_lfk7" mz="n120">感知半径</string>
+  <string name="0xrxw6g7lfk7a9-n122_lfk7-tips" mz="n122">在光滑平地上的最大移动速度</string>
+  <string name="0xrxw6g7lfk7a9-n122_lfk7" mz="n122">23米/秒</string>
+  <string name="0xrxw6g7lfk7a9-n123_lfk7" mz="n123">移动速度</string>
+  <string name="0xrxw6g7lfk7a9-n125_lfk7-tips" mz="n125">攻击命中率</string>
+  <string name="0xrxw6g7lfk7a9-n126_lfk7" mz="n126">攻击命中</string>
+  <string name="0xrxw6g7lfk7a9-n128_lfk7-tips" mz="n128">被攻击的闪避概率</string>
+  <string name="0xrxw6g7lfk7a9-n129_lfk7" mz="n129">攻击闪避</string>
+  <string name="0xrxw6g7lfk7a9-n131_wczt-tips" mz="n131">反应修行者的能力，道行越高，学习新的能力时面临的困难就越大，消耗的经验也就越多。</string>
+  <string name="0xrxw6g7lfk7a9-n132_wczt" mz="n132">道行</string>
+  <!-- InGame - Panel_NpcMood -->
+  <string name="0xrxw6g7do0z3f-n82_lfk7" mz="n82">情绪</string>
+  <!-- InGame - Panel_ThingInfo -->
+  <string name="0xrxw6g7snk12t-n12_snk1" mz="n12">木制桌子</string>
+  <string name="0xrxw6g7snk12t-n25_snk1" mz="count">x100</string>
+  <string name="0xrxw6g7snk12t-n41_shy1" mz="n41">心境</string>
+  <string name="0xrxw6g7snk12t-n45_pp5n" mz="n45">修炼目标</string>
+  <string name="0xrxw6g7snk12t-n47_pp5n-0" mz="n47">自动</string>
+  <string name="0xrxw6g7snk12t-n47_pp5n-1" mz="n47">修行</string>
+  <string name="0xrxw6g7snk12t-n47_pp5n-2" mz="n47">调心</string>
+  <string name="0xrxw6g7snk12t-n47_pp5n-3" mz="n47">练功</string>
+  <string name="0xrxw6g7snk12t-n56_lwyq-tips" mz="Permission">使用权限</string>
+  <string name="0xrxw6g7snk12t-n56_lwyq" mz="Permission">使用权限</string>
+  <string name="0xrxw6g7snk12t-n56_lwyq-0" mz="Permission">任何</string>
+  <string name="0xrxw6g7snk12t-n56_lwyq-1" mz="Permission">房间</string>
+  <string name="0xrxw6g7snk12t-n56_lwyq-2" mz="Permission">外门</string>
+  <string name="0xrxw6g7snk12t-n56_lwyq-3" mz="Permission">内门</string>
+  <string name="0xrxw6g7snk12t-n52_gi9c-tips" mz="fengshui">风水状况</string>
+  <string name="0xrxw6g7snk12t-n60_vods-tips" mz="n60">修改名字或昵称</string>
+  <string name="0xrxw6g7snk12t-n68_b6zr-tips" mz="Level">工作优先级优先级高建筑发布的命令会被优先执行。</string>
+  <string name="0xrxw6g7snk12t-n40_shy1" mz="n40">情绪</string>
+  <string name="0xrxw6g7snk12t-n76_b6zr" mz="n76">灵气</string>
+  <string name="0xrxw6g7snk12t-n102_tvk1" mz="n102">+12/秒</string>
+  <string name="0xrxw6g7snk12t-n82_b6zr-0" mz="NpcInfoBnts">基础属性(快捷键:[keycode]AttributePanel[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n82_b6zr-1" mz="NpcInfoBnts">情绪与社交(快捷键:[keycode]MoodPanel[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n82_b6zr-2" mz="NpcInfoBnts">状态和健康(快捷键:[keycode]HealthPanel[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n82_b6zr-3" mz="NpcInfoBnts">功法修行(快捷键:[keycode]PracticePanel[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n82_b6zr-4" mz="NpcInfoBnts">道具装备(快捷键:[keycode]EquipmentPanel[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n85_xdfl-tips" mz="atk">选择一个目标，对其发起攻击。(快捷键：[keycode]Attack[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n87_xdfl-tips" mz="atkleave">脱离战斗并尝试逃跑(快捷键：[keycode]RunAway[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n135_bu23-tips" mz="def">守护模式</string>
+  <string name="0xrxw6g7snk12t-n137_bu23-tips" mz="target">守护模式</string>
+  <string name="0xrxw6g7snk12t-n172_brqn-tips" mz="moveto">移动到指定地点(右击可取消)。非战斗状态下会等待当前任务完成，战斗状态下会立即移动。(快捷键：[keycode]Moveto[/keycode])</string>
+  <string name="0xrxw6g7snk12t-n103_mqe1-tips" mz="Roomfengshui">风水状况</string>
+  <string name="0xrxw6g7snk12t-n120_skp2" mz="n120">优先级</string>
+  <string name="0xrxw6g7snk12t-n24_snk1-tips" mz="n24">跳转</string>
+  <string name="0xrxw6g7snk12t-n129_p23w-tips" mz="zhuji">筑基</string>
+  <string name="0xrxw6g7snk12t-n145_r7oi" mz="n145">灵煞值</string>
+  <string name="0xrxw6g7snk12t-n166_r7oi" mz="lingshaspeed">+0.01/天</string>
+  <string name="0xrxw6g7snk12t-n174_gnb4-tips" mz="setfocus">锁定焦点，弹出焦点窗口。</string>
+  <string name="0xrxw6g7snk12t-n174_gnb4" mz="setfocus">焦点</string>
+  <!-- InGame - Panel_TimePlan -->
+  <string name="0xrxw6g7hc2547-n28_hc25" mz="n28">外门时间规划</string>
+  <!-- InGame - PanelTeach -->
+  <string name="0xrxw6g7h1t8bx-n87_h1t8" mz="title">给角色装备伐木斧，以提高伐木效率</string>
+  <!-- InGame - pop_selectTimePlan -->
+  <string name="0xrxw6g7hc2546-n27_v4kf-0" mz="n27">工 作</string>
+  <string name="0xrxw6g7hc2546-n27_v4kf-1" mz="n27">睡 觉</string>
+  <string name="0xrxw6g7hc2546-n27_v4kf-2" mz="n27">吃 饭</string>
+  <string name="0xrxw6g7hc2546-n27_v4kf-3" mz="n27">修 炼</string>
+  <!-- InGame - PracticeModePlanLable -->
+  <string name="0xrxw6g7do0z3g-n107_gebq" mz="title">无计划</string>
+  <!-- InGame - PracticeModePlanLableWnd -->
+  <string name="0xrxw6g7qe8348-n107_gebq" mz="title">无计划</string>
+  <!-- InGame - PracticeNeckFlag -->
+  <string name="0xrxw6g7tuo13j-n159_jr2h" mz="n159">苦功劫</string>
+  <string name="0xrxw6g7tuo13j-n160_ihfi" mz="n160">10000秒</string>
+  <!-- InGame - PracticeSpeedItem -->
+  <string name="0xrxw6g7tvk1aq-n201_tvk1" mz="title">建筑系数</string>
+  <string name="0xrxw6g7tvk1aq-n203_tvk1-texts_5" mz="n203">×</string>
+  <!-- InGame - qqItem -->
+  <string name="0xrxw6g7jdg5ovoz-n85_11tsn" mz="title">812437476（一群）</string>
+  <!-- InGame - ReincarnationEditor -->
+  <string name="0xrxw6g7ewc1vnv-n141_hn34" mz="save">保存</string>
+  <string name="0xrxw6g7ewc1vnv-n142_hn34" mz="dele">删除</string>
+  <string name="0xrxw6g7ewc1vnv-n150_u86j" mz="editdesc">修改描述</string>
+  <string name="0xrxw6g7ewc1vnv-n149_r7fz-0" mz="n149">轮回者</string>
+  <string name="0xrxw6g7ewc1vnv-n149_r7fz-1" mz="n149">出身历世</string>
+  <string name="0xrxw6g7ewc1vnv-n140_hn34" mz="back">退出</string>
+  <!-- InGame - ReincarnationGenerate -->
+  <string name="0xrxw6g7tifuvnn-n156_mgm1" mz="frame">轮回者描述</string>
+  <string name="0xrxw6g7tifuvnn-n158_mgm1" mz="descOk">确定</string>
+  <string name="0xrxw6g7tifuvnn-n159_mgm1" mz="descBack">取消</string>
+  <!-- InGame - ReincarnationPropertyPanel -->
+  <string name="0xrxw6g7q9xpn4-n13_izp4" mz="n13">出 身：</string>
+  <string name="0xrxw6g7q9xpn4-n14_izp4" mz="n14">历 世：</string>
+  <string name="0xrxw6g7q9xpn4-n15_izp4" mz="n15">特 殊：</string>
+  <string name="0xrxw6g7q9xpn4-n76_duea-tips" mz="n76">修改角色姓名</string>
+  <string name="0xrxw6g7q9xpn4-n119_rvuj" mz="n119">基础信息</string>
+  <string name="0xrxw6g7q9xpn4-n159_te3v" mz="n159">身体：</string>
+  <string name="0xrxw6g7q9xpn4-n161_te3v" mz="n161">头发：</string>
+  <string name="0xrxw6g7q9xpn4-n163_te3v" mz="n163">胡须：</string>
+  <string name="0xrxw6g7q9xpn4-n168_te3v" mz="n168">种族：</string>
+  <string name="0xrxw6g7q9xpn4-n169_te3v" mz="n169">性别：</string>
+  <string name="0xrxw6g7q9xpn4-n171_te3v" mz="n171">肤色：</string>
+  <string name="0xrxw6g7q9xpn4-n173_te3v" mz="n173">年龄：</string>
+  <string name="0xrxw6g7q9xpn4-n175_c3vt" mz="n175">衣服：</string>
+  <string name="0xrxw6g7q9xpn4-n241_u86j-tips" mz="Desc">填写轮回者描述</string>
+  <string name="0xrxw6g7q9xpn4-n44_izp4" mz="n44">不能从事</string>
+  <string name="0xrxw6g7q9xpn4-n231_rqwx-tips" mz="globle">团队中当前技能的最大评分</string>
+  <string name="0xrxw6g7q9xpn4-n232_rqwx" mz="n232">*团队最高：</string>
+  <string name="0xrxw6g7q9xpn4-n234_rqwx" mz="n234">技    能</string>
+  <!-- InGame - SchoolJiagouNpc -->
+  <string name="0xrxw6g7golkkf-n134_golk-tips" mz="n134">修改堂口名单</string>
+  <!-- InGame - SchoolJiegouUnit -->
+  <string name="0xrxw6g7golkke-n159_golk-tips" mz="n159">取消堂口</string>
+  <string name="0xrxw6g7golkke-n144_golk-tips" mz="n144">更换分堂专精</string>
+  <string name="0xrxw6g7golkke-n168_golk-tips" mz="n168">更换分堂堂主</string>
+  <string name="0xrxw6g7golkke-n168_golk" mz="n168">设定堂主</string>
+  <string name="0xrxw6g7golkke-n170_golk-tips" mz="n170">修改分堂名字</string>
+  <string name="0xrxw6g7golkke-n155_golk" mz="n155">建立分堂</string>
+  <!-- InGame - SelectStuffPopupMenu -->
+  <string name="0xrxw6g7q3f723-n3_hihu" mz="frame">选择主材料</string>
+  <!-- InGame - SelectStuffPopupMenu_item -->
+  <string name="0xrxw6g7q3f722-n3" mz="title">TEST</string>
+  <!-- InGame - sesson -->
+  <string name="0xrxw6g7joca80-n25_ggkk" mz="n25">20℃</string>
+  <string name="0xrxw6g7joca80-n15_fqbc" mz="n15">春</string>
+  <string name="0xrxw6g7joca80-n15_fqbc-texts_0" mz="n15">夏</string>
+  <string name="0xrxw6g7joca80-n15_fqbc-texts_1" mz="n15">秋</string>
+  <string name="0xrxw6g7joca80-n15_fqbc-texts_2" mz="n15">冬</string>
+  <string name="0xrxw6g7joca80-n15_fqbc-texts_def" mz="n15">春</string>
+  <!-- InGame - SkillProgressBar -->
+  <string name="0xrxw6g7izp427-n4_izp4" mz="text">机能</string>
+  <!-- InGame - SkillProgressBarDouble -->
+  <string name="0xrxw6g7iu2931-n4_izp4" mz="text">机能</string>
+  <string name="0xrxw6g7iu2931-n15_v22f-tips" mz="globle">团队中当前技能的最大评分</string>
+  <!-- InGame - SkillProgressBarMini -->
+  <string name="0xrxw6g7t3s5ovou-n4_izp4" mz="text">机能</string>
+  <string name="0xrxw6g7t3s5ovou-n15_v22f-tips" mz="globle">团队中当前技能的最大评分</string>
+  <string name="0xrxw6g7t3s5ovou-n23_t3s5-tips" mz="levelb">点击修改</string>
+  <string name="0xrxw6g7t3s5ovou-n24_t3s5-tips" mz="love">修改喜爱程度</string>
+  <!-- InGame - SkillTreeRow -->
+  <string name="0xrxw6g7cfyni3-n145_cfyn" mz="title">爱爱爱</string>
+  <!-- InGame - StoriesBasePropertyProgressBarDouble -->
+  <string name="0xrxw6g7p7bwnu-n4_izp4" mz="text">机能</string>
+  <string name="0xrxw6g7p7bwnu-n26_xi71-tips" mz="leveltxt">点击修改</string>
+  <!-- InGame - StoriesPanel -->
+  <string name="0xrxw6g79g33ni-n118_9g33" mz="n118">背景名称</string>
+  <string name="0xrxw6g79g33ni-n122_9g33" mz="n122">背景描述</string>
+  <string name="0xrxw6g79g33ni-n146_yl3n" mz="n146">背景特性</string>
+  <!-- InGame - StoriesSkillProgressBarDouble -->
+  <string name="0xrxw6g7ibrenl-n4_izp4" mz="text">机能</string>
+  <string name="0xrxw6g7ibrenl-n15_v22f-tips" mz="globle">团队中当前技能的最大评分</string>
+  <string name="0xrxw6g7ibrenl-n26_xi71-tips" mz="levelb">点击修改</string>
+  <string name="0xrxw6g7ibrenl-n31_qgzb-tips" mz="love">修改喜爱程度</string>
+  <!-- InGame - TaskItem -->
+  <string name="0xrxw6g7mykkjy-n95_mykk" mz="title">测试任务</string>
+  <!-- InGame - ThingCMDButton -->
+  <string name="0xrxw6g7s9299g-n4" mz="title">砍伐</string>
+  <string name="0xrxw6g7s9299g-n8_nels" mz="shift">多目标</string>
+  <string name="0xrxw6g7s9299g-n9_p1gw" mz="inputkey">F1</string>
+  <!-- InGame - ThingSelectItem -->
+  <string name="0xrxw6g7fevgbg-n194_tvk1" mz="title">天妖化血术</string>
+  <!-- InGame - TimePlanLable -->
+  <string name="0xrxw6g7v4kf33-n107_gebq" mz="title">练  功</string>
+  <string name="0xrxw6g7v4kf33-n107_gebq-texts_0" mz="title">工 作</string>
+  <string name="0xrxw6g7v4kf33-n107_gebq-texts_1" mz="title">睡  觉</string>
+  <string name="0xrxw6g7v4kf33-n107_gebq-texts_2" mz="title">吃  饭</string>
+  <string name="0xrxw6g7v4kf33-n107_gebq-texts_3" mz="title">练  功</string>
+  <!-- InGame - Tip_Mouse -->
+  <string name="0xrxw6g7rvsk4r-n4_oip2" mz="title">12×12</string>
+  <!-- InGame - WindF -->
+  <string name="0xrxw6g7xko6mb-n46_xko6" mz="title">自定义快捷键</string>
+  <!-- InGame - WindowAchievement -->
+  <string name="0xrxw6g7ipulhr-n7_hdhl" mz="frame">数据与成就</string>
+  <string name="0xrxw6g7ipulhr-n38_ipul" mz="n38">C</string>
+  <string name="0xrxw6g7ipulhr-n46_ebpx" mz="n46">*真仙模式才会记录数据和获得成就</string>
+  <string name="0xrxw6g7ipulhr-n54_l5aj-tips" mz="Refresh">重新同步平台与游戏的成就数据。</string>
+  <string name="0xrxw6g7ipulhr-n54_l5aj" mz="Refresh">同步</string>
+  <!-- InGame - WindowAchievementShow -->
+  <string name="0xrxw6g7g125hw-n65_c0eg" mz="Title2">新成就</string>
+  <string name="0xrxw6g7g125hw-n73_g125" mz="title">新成就</string>
+  <!-- InGame - WindowBang -->
+  <string name="0xrxw6g7puw9jv-n7_hdhl" mz="frame">三才榜</string>
+  <string name="0xrxw6g7puw9jv-n53_puw9-0" mz="n53">天</string>
+  <string name="0xrxw6g7puw9jv-n53_puw9-1" mz="n53">地</string>
+  <string name="0xrxw6g7puw9jv-n53_puw9-2" mz="n53">人</string>
+  <string name="0xrxw6g7puw9jv-n58_puw9" mz="n58">特别鸣谢</string>
+  <string name="0xrxw6g7puw9jv-n59_puw9" mz="n59">群仙殿</string>
+  <!-- InGame - WindowBrokenNeck -->
+  <string name="0xrxw6g7jr2h3l-n135_shy1" mz="neckname">平均平均平均</string>
+  <string name="0xrxw6g7jr2h3l-n189_rvsk" mz="n189">成功率:</string>
+  <string name="0xrxw6g7jr2h3l-n189_rvsk-texts_0" mz="n189">丹品预估:</string>
+  <string name="0xrxw6g7jr2h3l-n189_rvsk-texts_def" mz="n189">成功率:</string>
+  <string name="0xrxw6g7jr2h3l-n148_jr2h" mz="n148">物品消耗：</string>
+  <string name="0xrxw6g7jr2h3l-n147_shy1" mz="n147">资源消耗：</string>
+  <string name="0xrxw6g7jr2h3l-n165_rvsk" mz="rescost">灵气：123灵气：123灵气：123</string>
+  <string name="0xrxw6g7jr2h3l-n187_rvsk-texts_0" mz="n187">想突破此瓶颈需要将其派出门派历练，于红尘中去体悟本心，这对修行者的社交和魅力提出考验，一个不善交际的人可能会花费更多时间。</string>
+  <string name="0xrxw6g7jr2h3l-n187_rvsk-texts_1" mz="n187">当修行者尝试突破这一境界，他会失去所有的内门神通，变得和凡人一样。他必须在凡人的生活中感悟，找回失去的自我才能突破这一困境。</string>
+  <string name="0xrxw6g7jr2h3l-n187_rvsk-texts_2" mz="n187">结丹的过程就是将灵气凝结为金丹的过程，结丹的过程中一旦开始，就无法补充灵气。结丹的过程中会持续消耗修行者身上的灵气，灵气全部消耗完，则结丹完成。</string>
+  <string name="0xrxw6g7jr2h3l-n187_rvsk-texts_3" mz="n187">天劫即将来临，修行者必须在倒计时结束前做好渡劫的准备。天劫一旦开始将不会停止，失败的结果轻则道基全毁，重则粉身碎骨。</string>
+  <string name="0xrxw6g7jr2h3l-n187_rvsk-texts_4" mz="n187">修行的最终境界，破碎虚空，飞升成仙。每隔一定周期将会降临属性随机的雷劫，且会越来越强。渡劫成功即可滞留在人间。期间可随时选择飞升离开。</string>
+  <string name="0xrxw6g7jr2h3l-n187_rvsk-texts_5" mz="n187">该功法修炼至此已经达到极限，无法更进一步了。</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt" mz="cancel">放弃突破</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt-texts_0" mz="cancel">放弃突破</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt-texts_1" mz="cancel">需要历练</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt-texts_2" mz="cancel">放弃突破</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt-texts_3" mz="cancel">放弃突破</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt-texts_4" mz="cancel">择地飞升</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt-texts_5" mz="cancel">无法突破</string>
+  <string name="0xrxw6g7jr2h3l-n197_n6wt-texts_def" mz="cancel">择地突破</string>
+  <string name="0xrxw6g7jr2h3l-n190_rvsk" mz="n190">所选地点：</string>
+  <string name="0xrxw6g7jr2h3l-n145_shy1" mz="n145">择地突破</string>
+  <string name="0xrxw6g7jr2h3l-n145_shy1-texts_0" mz="n145">需要历练</string>
+  <string name="0xrxw6g7jr2h3l-n145_shy1-texts_1" mz="n145">开始突破</string>
+  <string name="0xrxw6g7jr2h3l-n145_shy1-texts_2" mz="n145">择地渡劫</string>
+  <string name="0xrxw6g7jr2h3l-n145_shy1-texts_3" mz="n145">择地渡劫</string>
+  <string name="0xrxw6g7jr2h3l-n145_shy1-texts_4" mz="n145">无法突破</string>
+  <string name="0xrxw6g7jr2h3l-n145_shy1-texts_def" mz="n145">择地突破</string>
+  <string name="0xrxw6g7jr2h3l-n150_ihfi" mz="time">100s</string>
+  <string name="0xrxw6g7jr2h3l-n216_y0oq" mz="n216">天劫属性：</string>
+  <string name="0xrxw6g7jr2h3l-n222_c2vz-tips" mz="n222">历练进度</string>
+  <string name="0xrxw6g7jr2h3l-n223_v12h-tips" mz="n223">破碎虚空，飞升成仙。</string>
+  <string name="0xrxw6g7jr2h3l-n223_v12h" mz="n223">择地飞升</string>
+  <string name="0xrxw6g7jr2h3l-n226_v12h-tips" mz="n226">滞留次数雷劫会随着滞留次数变得越来越强大。</string>
+  <!-- InGame - WindowBug -->
+  <string name="0xrxw6g7pee8hb-n88_9fbe" mz="frame">问题报告</string>
+  <string name="0xrxw6g7pee8hb-n97_pee8-prompt" mz="n97">其他说明</string>
+  <string name="0xrxw6g7pee8hb-n99_pee8" mz="n99">提交</string>
+  <string name="0xrxw6g7pee8hb-n100_ek0k-tips" mz="n100">选择这个选项将会向我们提交你的游戏截图</string>
+  <string name="0xrxw6g7pee8hb-n100_ek0k" mz="n100">提交截图</string>
+  <string name="0xrxw6g7pee8hb-n104_10x7u" mz="n104">正在上传报告或者写入存档中，这可能需要几分钟时间……</string>
+  <string name="0xrxw6g7pee8hb-n108_oszn-prompt" mz="n98">简单描述</string>
+  <string name="0xrxw6g7pee8hb-n111_oszn-prompt" mz="nLIanxi">如果可以请留下联系方式</string>
+  <!-- InGame - WindowCamera -->
+  <string name="0xrxw6g77kkhkj-n90_f4up" mz="frame">拍照模式</string>
+  <string name="0xrxw6g77kkhkj-n126_7kkh-tips" mz="n126">选中后截屏时会隐藏界面</string>
+  <string name="0xrxw6g77kkhkj-n126_7kkh" mz="n126">隐藏界面</string>
+  <string name="0xrxw6g77kkhkj-n130_7kkh-tips" mz="n130">截取当前屏幕</string>
+  <string name="0xrxw6g77kkhkj-n130_7kkh" mz="n130">截屏</string>
+  <string name="0xrxw6g77kkhkj-n131_7kkh-tips" mz="n131">生成一张全景图片</string>
+  <string name="0xrxw6g77kkhkj-n131_7kkh" mz="n131">全景</string>
+  <string name="0xrxw6g77kkhkj-n132_jjea-tips" mz="n133">摄像机滤镜</string>
+  <string name="0xrxw6g77kkhkj-n132_jjea" mz="n133">滤镜</string>
+  <string name="0xrxw6g77kkhkj-n133_jjea-tips" mz="n132">图片质量</string>
+  <string name="0xrxw6g77kkhkj-n133_jjea" mz="n132">品质</string>
+  <string name="0xrxw6g77kkhkj-n133_jjea-0" mz="n132">普通品质</string>
+  <string name="0xrxw6g77kkhkj-n133_jjea-1" mz="n132">较高品质</string>
+  <string name="0xrxw6g77kkhkj-n133_jjea-2" mz="n132">极佳品质</string>
+  <!-- InGame - WindowConsole -->
+  <string name="0xrxw6g7hl5lkd-n7_hdhl" mz="frame">控制台</string>
+  <string name="0xrxw6g7hl5lkd-n65_hl5l" mz="n65">dasdasd</string>
+  <string name="0xrxw6g7hl5lkd-n68_hl5l-prompt" mz="n68">CMD</string>
+  <!-- InGame - WindowEquip -->
+  <string name="0xrxw6g7k0zi4b-n63_k0zi" mz="hat">帽子</string>
+  <string name="0xrxw6g7k0zi4b-n68_k0zi" mz="FlyFabao">飞行法宝</string>
+  <string name="0xrxw6g7k0zi4b-n69_k0zi" mz="treasure1">宝物</string>
+  <string name="0xrxw6g7k0zi4b-n70_k0zi" mz="treasure2">宝物</string>
+  <string name="0xrxw6g7k0zi4b-n87_of47-0" mz="n87">道具</string>
+  <string name="0xrxw6g7k0zi4b-n87_of47-1" mz="n87">道具</string>
+  <string name="0xrxw6g7k0zi4b-n87_of47-2" mz="n87">道具</string>
+  <string name="0xrxw6g7k0zi4b-n87_of47-3" mz="n87">道具</string>
+  <string name="0xrxw6g7k0zi4b-n87_of47-4" mz="n87">道具</string>
+  <string name="0xrxw6g7k0zi4b-n87_of47-5" mz="n87">道具</string>
+  <string name="0xrxw6g7k0zi4b-n97_jniz-tips" mz="n97">选中后角色会根据当前气温自动更换衣服</string>
+  <string name="0xrxw6g7k0zi4b-n97_jniz" mz="n97">冷暖自知</string>
+  <string name="0xrxw6g7k0zi4b-n64_k0zi" mz="clothes">衣服</string>
+  <string name="0xrxw6g7k0zi4b-n65_k0zi" mz="trousers">裤子</string>
+  <string name="0xrxw6g7k0zi4b-n66_k0zi" mz="Weapon">武器</string>
+  <string name="0xrxw6g7k0zi4b-n67_k0zi" mz="AtkFabao">法宝</string>
+  <string name="0xrxw6g7k0zi4b-n91_alsd" mz="miji">秘籍</string>
+  <string name="0xrxw6g7k0zi4b-n98_l068" mz="fu1">符咒</string>
+  <string name="0xrxw6g7k0zi4b-n108_l068-tips" mz="fu1_a">激活/反激活符咒</string>
+  <string name="0xrxw6g7k0zi4b-n94_ikjz" mz="fu4">符咒</string>
+  <string name="0xrxw6g7k0zi4b-n112_l068-tips" mz="fu4_a">激活/反激活符咒</string>
+  <string name="0xrxw6g7k0zi4b-n99_l068" mz="fu2">符咒</string>
+  <string name="0xrxw6g7k0zi4b-n110_l068-tips" mz="fu2_a">激活/反激活符咒</string>
+  <string name="0xrxw6g7k0zi4b-n95_ikjz" mz="fu5">符咒</string>
+  <string name="0xrxw6g7k0zi4b-n113_l068-tips" mz="fu5_a">激活/反激活符咒</string>
+  <string name="0xrxw6g7k0zi4b-n100_l068" mz="fu3">符咒</string>
+  <string name="0xrxw6g7k0zi4b-n111_l068-tips" mz="fu3_a">激活/反激活符咒</string>
+  <string name="0xrxw6g7k0zi4b-n96_ipul" mz="fu6">符咒</string>
+  <string name="0xrxw6g7k0zi4b-n114_l068-tips" mz="fu6_a">激活/反激活符咒</string>
+  <string name="0xrxw6g7k0zi4b-n123_aemh" mz="AtkFabao2">法宝</string>
+  <string name="0xrxw6g7k0zi4b-n124_aemh" mz="AtkFabao3">法宝</string>
+  <string name="0xrxw6g7k0zi4b-n125_aemh" mz="AtkFabao4">法宝</string>
+  <string name="0xrxw6g7k0zi4b-n126_aemh" mz="AtkFabao5">法宝</string>
+  <string name="0xrxw6g7k0zi4b-n127_aemh" mz="AtkFabao6">法宝</string>
+  <!-- InGame - WindowFrame -->
+  <string name="0xrxw6g7hdhl1j-n6_wf5i" mz="title">Title</string>
+  <!-- InGame - WindowGameDiy -->
+  <string name="0xrxw6g7fak9vnk-n88_9fbe" mz="frame">经典模式</string>
+  <string name="0xrxw6g7fak9vnk-n127_fak9" mz="n127">游戏难度</string>
+  <string name="0xrxw6g7fak9vnk-n152_qx12" mz="n152">游戏节奏</string>
+  <string name="0xrxw6g7fak9vnk-n160_qx12" mz="n160">事件频率</string>
+  <string name="0xrxw6g7fak9vnk-n171_qx12" mz="n171">种子</string>
+  <string name="0xrxw6g7fak9vnk-n172_qx12" mz="n172">尺寸</string>
+  <string name="0xrxw6g7fak9vnk-n179_qx12-tips" mz="n35">真仙模式会拥有最完整的游戏体验。真仙模式将会固定难度配置。真仙模式只有一个存档。真仙模式自动存档间隔固定。真仙模式会记录数据和获得成就。真仙模式会隐藏部分提示。真仙模式会考验玩家对游戏的终极理解。真仙模式只适合真的仙人。</string>
+  <string name="0xrxw6g7fak9vnk-n179_qx12" mz="n35">真仙模式</string>
+  <string name="0xrxw6g7fak9vnk-n188_qx12-tips" mz="n188">修改名字或昵称</string>
+  <string name="0xrxw6g7fak9vnk-n175_qx12" mz="n175">确定</string>
+  <string name="0xrxw6g7fak9vnk-n176_qx12" mz="n176">取消</string>
+  <string name="0xrxw6g7fak9vnk-n178_qx12" mz="n178">事件细节</string>
+  <string name="0xrxw6g7fak9vnk-n183_qx12-tips" mz="n183">事件细节设置</string>
+  <string name="0xrxw6g7fak9vnk-n186_qx12-tips" mz="n186">导出配置分享码</string>
+  <string name="0xrxw6g7fak9vnk-n186_qx12" mz="n186">导出</string>
+  <string name="0xrxw6g7fak9vnk-n187_qx12-tips" mz="n187">导入配置分享码</string>
+  <string name="0xrxw6g7fak9vnk-n187_qx12" mz="n187">导入</string>
+  <string name="0xrxw6g7fak9vnk-n193_sa5f" mz="n193">*非真仙档可以在游戏中上调难度</string>
+  <!-- InGame - WindowGameMain -->
+  <string name="0xrxw6g7el231y-n5_snk1-0" mz="TopMenu">调试</string>
+  <string name="0xrxw6g7el231y-n64_ggkk-tips" mz="guanxing">点击查看风水布局</string>
+  <string name="0xrxw6g7el231y-n43_joca" mz="n43">100天 12:20  吃饭</string>
+  <string name="0xrxw6g7el231y-n99_e9zu" mz="n99">天苍234年</string>
+  <string name="0xrxw6g7el231y-n91_mykk-0" mz="task">测试任务</string>
+  <string name="0xrxw6g7el231y-n98_mykk" mz="n98">生存目标</string>
+  <string name="0xrxw6g7el231y-n69_qah5" mz="buildbnt">建 造</string>
+  <string name="0xrxw6g7el231y-n86_fevg-tips" mz="ShowElement">五行图</string>
+  <string name="0xrxw6g7el231y-n90_gtsu" mz="n90">20℃</string>
+  <string name="0xrxw6g7el231y-n1_el23-0" mz="MainMenu">工作</string>
+  <string name="0xrxw6g7el231y-n1_el23-1" mz="MainMenu">门派</string>
+  <string name="0xrxw6g7el231y-n1_el23-2" mz="MainMenu">天下</string>
+  <string name="0xrxw6g7el231y-n1_el23-3" mz="MainMenu">帮助</string>
+  <string name="0xrxw6g7el231y-n1_el23-4" mz="MainMenu">系统</string>
+  <string name="0xrxw6g7el231y-n103_nyy5-tips" mz="n103">打开或者关闭小地图</string>
+  <string name="0xrxw6g7el231y-n103_nyy5" mz="n103">小地图</string>
+  <!-- InGame - WindowGetDisciple -->
+  <string name="0xrxw6g7do0z39-n7_hdhl" mz="frame">晋升内门</string>
+  <string name="0xrxw6g7do0z39-n25_duea" mz="n25">选择功法</string>
+  <string name="0xrxw6g7do0z39-n38_duea" mz="n38">招 式</string>
+  <string name="0xrxw6g7do0z39-n37_duea" mz="n37">御物</string>
+  <string name="0xrxw6g7do0z39-n39_duea" mz="n39">无</string>
+  <string name="0xrxw6g7do0z39-n71_9dyc" mz="n71">术法</string>
+  <string name="0xrxw6g7do0z39-n73_9dyc" mz="n73">无</string>
+  <string name="0xrxw6g7do0z39-n75_9dyc" mz="n75">护体</string>
+  <string name="0xrxw6g7do0z39-n77_9dyc" mz="n77">无</string>
+  <!-- InGame - WindowGM -->
+  <string name="0xrxw6g77a6u3p-n7_hdhl" mz="frame">GM</string>
+  <string name="0xrxw6g77a6u3p-n55_pa4a-prompt" mz="n55">搜索</string>
+  <!-- InGame - WindowHelp -->
+  <string name="0xrxw6g79fbec4-n88_9fbe" mz="frame">帮助</string>
+  <string name="0xrxw6g79fbec4-n94_9fbe" mz="Text">[img]ui/Help/001[/img]</string>
+  <string name="0xrxw6g79fbec4-n96_ea74" mz="boss">古兽图鉴</string>
+  <!-- InGame - WindowMessage -->
+  <string name="0xrxw6g7ic0m35-n15_s29t" mz="frame">创建游戏</string>
+  <string name="0xrxw6g7ic0m35-n27_f5tj" mz="n27">好的</string>
+  <string name="0xrxw6g7ic0m35-n30_f5tj" mz="n30">是的</string>
+  <string name="0xrxw6g7ic0m35-n31_f5tj" mz="n31">算了</string>
+  <string name="0xrxw6g7ic0m35-n50_u2ni" mz="input">搞事情</string>
+  <string name="0xrxw6g7ic0m35-n44_xtpi-tips" mz="SuffixBnt">门派发展到不同阶段会获得更多的后缀选择</string>
+  <string name="0xrxw6g7ic0m35-n44_xtpi" mz="SuffixBnt">门</string>
+  <string name="0xrxw6g7ic0m35-n53_lnxd" mz="n53">点击选择门派后缀。
+门派发展到不同阶段会获得更多的后缀选择。</string>
+  <!-- InGame - WindowNpcWork -->
+  <string name="0xrxw6g7aigs2m-n7_hdhl" mz="frame">外门工作安排</string>
+  <string name="0xrxw6g7aigs2m-n25_s08x" mz="n25">特别优先</string>
+  <!-- InGame - WindowPainter -->
+  <string name="0xrxw6g7icii51-n7_hdhl" mz="frame">绘制灵符</string>
+  <string name="0xrxw6g7icii51-n47_duea" mz="n47">符咒模板</string>
+  <string name="0xrxw6g7icii51-n51_tuo1" mz="n51">确定</string>
+  <string name="0xrxw6g7icii51-n56_icii" mz="n56">重画</string>
+  <string name="0xrxw6g7icii51-n62_q030-tips" mz="n62">已经绘制过的符咒可以进行快速画符，品质为你曾绘制的最高品质的95%。</string>
+  <string name="0xrxw6g7icii51-n62_q030" mz="n62">快速画符</string>
+  <!-- InGame - WindowPlaces -->
+  <string name="0xrxw6g7md4p4d-n41_nd59" mz="name">奇怪的地方</string>
+  <string name="0xrxw6g7md4p4d-n43_nd59" mz="goexp">历练</string>
+  <string name="0xrxw6g7md4p4d-n46_nd59" mz="desc">aaaaaaa</string>
+  <string name="0xrxw6g7md4p4d-n44_nd59" mz="n44">归属：</string>
+  <string name="0xrxw6g7md4p4d-n76_k41a" mz="n76">消耗灵气：</string>
+  <string name="0xrxw6g7md4p4d-n81_fevg" mz="n81">产出</string>
+  <string name="0xrxw6g7md4p4d-n83_mgpd-tips" mz="allunlock">该地周边探索解锁程度。100%即周边地点已经全部解锁。</string>
+  <string name="0xrxw6g7md4p4d-n97_g3xf" mz="gostay">驻扎</string>
+  <string name="0xrxw6g7md4p4d-n50_eb9i" mz="callbacknpc">召回</string>
+  <string name="0xrxw6g7md4p4d-n93_uba2" mz="tmjt">天魔解体</string>
+  <string name="0xrxw6g7md4p4d-n94_uba2" mz="dxdf">天心正法</string>
+  <string name="0xrxw6g7md4p4d-n62_x04x" mz="bnt_miwen">秘闻</string>
+  <string name="0xrxw6g7md4p4d-n63_x04x" mz="goexp2">秘闻</string>
+  <string name="0xrxw6g7md4p4d-n71_v5oe" mz="title">天 下</string>
+  <!-- InGame - WindowSchool -->
+  <string name="0xrxw6g7v4kf32-n67_md4p-0" mz="Head">基础信息</string>
+  <string name="0xrxw6g7v4kf32-n67_md4p-1" mz="Head">门派结构</string>
+  <string name="0xrxw6g7v4kf32-n67_md4p-2" mz="Head">弟子列表</string>
+  <string name="0xrxw6g7v4kf32-n67_md4p-3" mz="Head">门派关系</string>
+  <string name="0xrxw6g7v4kf32-n7_hdhl" mz="frame">门派</string>
+  <string name="0xrxw6g7v4kf32-n60_p73i" mz="create">开宗立派</string>
+  <string name="0xrxw6g7v4kf32-n61_p73i" mz="createtip">需要内门弟子</string>
+  <string name="0xrxw6g7v4kf32-n104_iue6" mz="n104">功   法</string>
+  <string name="0xrxw6g7v4kf32-n103_iue6-tips" mz="n103">查看所有功法</string>
+  <string name="0xrxw6g7v4kf32-n32_cbrj-tips" mz="n32">需要有灶台，在饭前的2个小时会按照门派人数自动发布做饭任务。</string>
+  <string name="0xrxw6g7v4kf32-n32_cbrj" mz="n32">门派伙食</string>
+  <string name="0xrxw6g7v4kf32-n36_ubwd-0" mz="n31">家常</string>
+  <string name="0xrxw6g7v4kf32-n36_ubwd-1" mz="n31">美味</string>
+  <string name="0xrxw6g7v4kf32-n36_ubwd-2" mz="n31">珍馐</string>
+  <string name="0xrxw6g7v4kf32-n94_iue6" mz="n94">风水宝地</string>
+  <string name="0xrxw6g7v4kf32-n110_yfwm" mz="n110">声名远播</string>
+  <string name="0xrxw6g7v4kf32-n95_iue6" mz="n95">声名远播</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-0" mz="FightPs">门派规模：派</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-1" mz="FightPs">门派掌门：张三丰</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-2" mz="FightPs">弟子总数：12/15</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-3" mz="FightPs">外门弟子：12</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-4" mz="FightPs">内门弟子：1/1</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-5" mz="FightPs">死亡弟子：12</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-6" mz="FightPs">击败普通人：12</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-7" mz="FightPs">击败修行者：12</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-8" mz="FightPs">提供帮助：12</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-9" mz="FightPs">历练次数：123</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-10" mz="FightPs">发现地点：12个</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-11" mz="FightPs">发现秘籍：12个</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-13" mz="FightPs">绘制符文：22张</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-14" mz="FightPs">绘制符文：22张</string>
+  <string name="0xrxw6g7v4kf32-n108_yfwm-15" mz="FightPs">施展神通：1次</string>
+  <string name="0xrxw6g7v4kf32-n115_vpeb-tips" mz="n115">选中后会显示已经死亡的弟子</string>
+  <string name="0xrxw6g7v4kf32-n115_vpeb" mz="n115">已死亡</string>
+  <string name="0xrxw6g7v4kf32-n136_tx2b-tips" mz="n136">点击更换掌门</string>
+  <string name="0xrxw6g7v4kf32-n136_tx2b" mz="n136">指定掌门</string>
+  <string name="0xrxw6g7v4kf32-n141_gbiq" mz="n141">掌门</string>
+  <string name="0xrxw6g7v4kf32-n114_deor-tips" mz="n114">修改门派后缀</string>
+  <!-- InGame - WindowSelectCommon -->
+  <string name="0xrxw6g7yvh83t-n7_hdhl" mz="frame">请选择</string>
+  <string name="0xrxw6g7yvh83t-n27_sz06" mz="n27">确定</string>
+  <!-- InGame - WindowSelectGong -->
+  <string name="0xrxw6g7do0z3a-n7_hdhl" mz="frame">门派功法</string>
+  <string name="0xrxw6g7do0z3a-n36_duea" mz="n36">属性适配</string>
+  <string name="0xrxw6g7do0z3a-n52_cc7s" mz="n52">无</string>
+  <string name="0xrxw6g7do0z3a-n30_duea" mz="n30">功法</string>
+  <string name="0xrxw6g7do0z3a-n34_duea" mz="n34">道统：</string>
+  <string name="0xrxw6g7do0z3a-n48_duea" mz="n48">无</string>
+  <string name="0xrxw6g7do0z3a-n44_duea" mz="n44">境 界</string>
+  <string name="0xrxw6g7do0z3a-n47_duea" mz="n47">拥有功法</string>
+  <string name="0xrxw6g7do0z3a-n51_tuo1" mz="n51">确定</string>
+  <!-- InGame - WindowSelectGong2 -->
+  <string name="0xrxw6g7fevgb5-n61_fevg" mz="title">功法列表</string>
+  <!-- InGame - WindowSelectNpc -->
+  <string name="0xrxw6g7do0z3b-n7_hdhl" mz="frame">选择人物</string>
+  <string name="0xrxw6g7do0z3b-n27_sz06" mz="n27">确定</string>
+  <string name="0xrxw6g7do0z3b-n35_sz06" mz="n35">请选择:</string>
+  <!-- InGame - WindowSetting -->
+  <string name="0xrxw6g7f4upcl-n90_f4up" mz="frame">系统设置</string>
+  <string name="0xrxw6g7f4upcl-n92_f4up" mz="n92">音乐</string>
+  <string name="0xrxw6g7f4upcl-n94_f4up" mz="n94">音效</string>
+  <string name="0xrxw6g7f4upcl-n97_f4up" mz="n97">界面
+缩放</string>
+  <string name="0xrxw6g7f4upcl-n105_f4up" mz="n105">重置</string>
+  <string name="0xrxw6g7f4upcl-n106_f4up" mz="n106">界面缩放重启才能生效</string>
+  <string name="0xrxw6g7f4upcl-n108_in78" mz="n108">自动
+存档</string>
+  <string name="0xrxw6g7f4upcl-n111_in78" mz="n111">30分钟</string>
+  <string name="0xrxw6g7f4upcl-n113_vizc" mz="n113">屏幕分辨率</string>
+  <string name="0xrxw6g7f4upcl-n110_in78-tips" mz="save">自动存档的间隔</string>
+  <string name="0xrxw6g7f4upcl-n115_vizc" mz="n115">屏幕</string>
+  <string name="0xrxw6g7f4upcl-n116_ta1v" mz="n116">游戏中不能修改分辨率</string>
+  <string name="0xrxw6g7f4upcl-n117_kn11-tips" mz="n117">关闭教学配音</string>
+  <string name="0xrxw6g7f4upcl-n117_kn11" mz="n117">关闭教学配音</string>
+  <string name="0xrxw6g7f4upcl-n118_4z9v-tips" mz="n118">选中后角色的名字会一直显示</string>
+  <string name="0xrxw6g7f4upcl-n118_4z9v" mz="n118">显示角色名</string>
+  <string name="0xrxw6g7f4upcl-n119_4z9v-tips" mz="n119">游戏运行的最大倍数</string>
+  <string name="0xrxw6g7f4upcl-n119_4z9v" mz="n119">最高速度</string>
+  <string name="0xrxw6g7f4upcl-n119_4z9v-0" mz="n119">3倍速</string>
+  <string name="0xrxw6g7f4upcl-n119_4z9v-1" mz="n119">4倍速</string>
+  <string name="0xrxw6g7f4upcl-n119_4z9v-2" mz="n119">5倍速</string>
+  <string name="0xrxw6g7f4upcl-n121_n0xf-tips" mz="n121">选中后屏幕左下角会显示凡人的真实时间。</string>
+  <string name="0xrxw6g7f4upcl-n121_n0xf" mz="n121">显示现实时间</string>
+  <string name="0xrxw6g7f4upcl-n123_uuyi-tips" mz="n123">点击后会重置教学提示</string>
+  <string name="0xrxw6g7f4upcl-n123_uuyi" mz="n123">重置提示</string>
+  <string name="0xrxw6g7f4upcl-n124_9jgj-tips" mz="n124">渲染效果</string>
+  <string name="0xrxw6g7f4upcl-n124_9jgj" mz="n124">画质表现</string>
+  <string name="0xrxw6g7f4upcl-n124_9jgj-0" mz="n124">低品质</string>
+  <string name="0xrxw6g7f4upcl-n124_9jgj-1" mz="n124">中品质</string>
+  <string name="0xrxw6g7f4upcl-n124_9jgj-2" mz="n124">高品质</string>
+  <string name="0xrxw6g7f4upcl-n125_gbiq-tips" mz="n125">选中后角色的名字下面会显示当前称号。</string>
+  <string name="0xrxw6g7f4upcl-n125_gbiq" mz="n125">显示称号</string>
+  <string name="0xrxw6g7f4upcl-n126_pnv9-tips" mz="n133">摄像机滤镜</string>
+  <string name="0xrxw6g7f4upcl-n126_pnv9" mz="n133">滤镜</string>
+  <string name="0xrxw6g7f4upcl-n127_hu2p-tips" mz="n127">勾选后程序处于后台也会继续播放声音</string>
+  <string name="0xrxw6g7f4upcl-n127_hu2p" mz="n127">后台播放声音</string>
+  <string name="0xrxw6g7f4upcl-n129_xip1-tips" mz="n130">启用后在建造时会显示辅助线</string>
+  <string name="0xrxw6g7f4upcl-n129_xip1" mz="n130">建造辅助线</string>
+  <string name="0xrxw6g7f4upcl-n130_j8m6-tips" mz="n129">启用后可以较大幅度提高后期游戏效率，目前还在持续开发和测试阶段。</string>
+  <string name="0xrxw6g7f4upcl-n130_j8m6" mz="n129">多线程优化*</string>
+  <string name="0xrxw6g7f4upcl-n131_vbb9-tips" mz="n131">启用后在角色产生记忆时会出现气泡</string>
+  <string name="0xrxw6g7f4upcl-n131_vbb9" mz="n131">记忆气泡</string>
+  <string name="0xrxw6g7f4upcl-n132_n7j0" mz="n132">背景
+音乐</string>
+  <string name="0xrxw6g7f4upcl-n133_n7j0" mz="bgmtimetxt">3天</string>
+  <string name="0xrxw6g7f4upcl-n134_n7j0-tips" mz="BGM">播放BGM的时间间隔</string>
+  <string name="0xrxw6g7f4upcl-n135_bfm8-tips" mz="n135">游戏运行的最大倍数</string>
+  <string name="0xrxw6g7f4upcl-n135_bfm8" mz="n135">弟子顺序</string>
+  <string name="0xrxw6g7f4upcl-n135_bfm8-0" mz="n135">入门时间</string>
+  <string name="0xrxw6g7f4upcl-n135_bfm8-1" mz="n135">晋升时间</string>
+  <string name="0xrxw6g7f4upcl-n135_bfm8-2" mz="n135">弟子代数</string>
+  <string name="0xrxw6g7f4upcl-n135_bfm8-3" mz="n135">境界高低</string>
+  <string name="0xrxw6g7f4upcl-n136_bfm8" mz="n136">弟子显
+示顺序</string>
+  <string name="0xrxw6g7f4upcl-n137_hj7p" mz="n137">屏幕模式</string>
+  <string name="0xrxw6g7f4upcl-n137_hj7p-0" mz="n137">全屏独占</string>
+  <string name="0xrxw6g7f4upcl-n137_hj7p-1" mz="n137">窗口模式</string>
+  <!-- InGame - WindowShowPic -->
+  <string name="0xrxw6g7qt1q4s-n70_qt1q" mz="n70">我升天啦！</string>
+  <!-- InGame - WindowSkillTree -->
+  <string name="0xrxw6g7cfyni2-n141_cfyn" mz="frame">参悟</string>
+  <string name="0xrxw6g7cfyni2-n145_cfyn-0" mz="tree">炼气期</string>
+  <string name="0xrxw6g7cfyni2-n145_cfyn-1" mz="tree">结丹期</string>
+  <string name="0xrxw6g7cfyni2-n145_cfyn-2" mz="tree">金丹期</string>
+  <string name="0xrxw6g7cfyni2-n145_cfyn-3" mz="tree">元神期</string>
+  <string name="0xrxw6g7cfyni2-n145_cfyn-4" mz="tree">在世仙人</string>
+  <string name="0xrxw6g7cfyni2-n149_mkhx" mz="title">角色技能</string>
+  <string name="0xrxw6g7cfyni2-n153_mkhx" mz="title">附加秘籍</string>
+  <string name="0xrxw6g7cfyni2-n155_dwgv-tips" mz="n155">获取参悟经验的最终值会受角色心境和悟性影响。</string>
+  <!-- InGame - WindowStorage -->
+  <string name="0xrxw6g7s29t2x-n15_s29t" mz="frame">储存区</string>
+  <string name="0xrxw6g7s29t2x-n25_s29t-0" mz="n25">原材料</string>
+  <string name="0xrxw6g7s29t2x-n25_s29t-1" mz="n25">消耗品</string>
+  <string name="0xrxw6g7s29t2x-n25_s29t-2" mz="n25">装备</string>
+  <string name="0xrxw6g7s29t2x-n25_s29t-3" mz="n25">其他</string>
+  <string name="0xrxw6g7s29t2x-n33_l0f4" mz="n33">品 阶</string>
+  <string name="0xrxw6g7s29t2x-n34_l0f4" mz="n34">(0阶</string>
+  <string name="0xrxw6g7s29t2x-n35_l0f4" mz="n35">12阶]</string>
+  <string name="0xrxw6g7s29t2x-n61_jqzn" mz="n61">五 行</string>
+  <string name="0xrxw6g7s29t2x-n43_jqzn" mz="n43">金</string>
+  <string name="0xrxw6g7s29t2x-n46_jqzn" mz="n46">木</string>
+  <string name="0xrxw6g7s29t2x-n49_jqzn" mz="n49">水</string>
+  <string name="0xrxw6g7s29t2x-n52_jqzn" mz="n52">火</string>
+  <string name="0xrxw6g7s29t2x-n55_jqzn" mz="n55">土</string>
+  <string name="0xrxw6g7s29t2x-n58_jqzn" mz="n58">无</string>
+  <string name="0xrxw6g7s29t2x-n64_jqzn-tips" mz="Level">优先级优先级高的仓库会被优先选择</string>
+  <string name="0xrxw6g7s29t2x-n65_jqzn" mz="n65">优先级</string>
+  <string name="0xrxw6g7s29t2x-n75_l6xy" mz="n75">品 质</string>
+  <string name="0xrxw6g7s29t2x-n77_l6xy-tips" mz="nq1">小于30%</string>
+  <string name="0xrxw6g7s29t2x-n77_l6xy" mz="nq1">糟糕</string>
+  <string name="0xrxw6g7s29t2x-n80_l6xy-tips" mz="nq2">品质在30%到60%</string>
+  <string name="0xrxw6g7s29t2x-n80_l6xy" mz="nq2">一般</string>
+  <string name="0xrxw6g7s29t2x-n83_l6xy-tips" mz="nq3">品质在60%到90%</string>
+  <string name="0xrxw6g7s29t2x-n83_l6xy" mz="nq3">优秀</string>
+  <string name="0xrxw6g7s29t2x-n86_l6xy-tips" mz="nq4">品质大于等于90%</string>
+  <string name="0xrxw6g7s29t2x-n86_l6xy" mz="nq4">精品</string>
+  <string name="0xrxw6g7s29t2x-n92_l6xy-tips" mz="nq0">无品质属性，大部分食物原材料等均无品质属性。</string>
+  <string name="0xrxw6g7s29t2x-n92_l6xy" mz="nq0">无品质</string>
+  <string name="0xrxw6g7s29t2x-n96_tkf3" mz="zw0">仅镇物</string>
+  <!-- InGame - WindowStory -->
+  <string name="0xrxw6g7nd594k-n33_md4p" mz="frame">历练</string>
+  <string name="0xrxw6g7nd594k-n59_nd59" mz="desc">aAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAAaAAA</string>
+  <string name="0xrxw6g7nd594k-n61_r2rn-tips" mz="jump">跳到事件发生地</string>
+  <string name="0xrxw6g7nd594k-n63_z80o-tips" mz="playerinfo">角色属性</string>
+  <!-- InGame - WindowTalk -->
+  <string name="0xrxw6g7c0egho-n65_c0eg" mz="Title">神秘人</string>
+  <string name="0xrxw6g7c0egho-n75_kyu2-tips" mz="n75">打开详细帮助页面</string>
+  <string name="0xrxw6g7c0egho-n75_kyu2" mz="n75">转到帮助</string>
+  <!-- InGame - WindowTeach -->
+  <string name="0xrxw6g7h1t8c1-n97_c0eg" mz="n97">W</string>
+  <string name="0xrxw6g7h1t8c1-n98_c0eg" mz="n98">A</string>
+  <string name="0xrxw6g7h1t8c1-n99_c0eg" mz="n99">S</string>
+  <string name="0xrxw6g7h1t8c1-n100_c0eg" mz="n100">D</string>
+  <string name="0xrxw6g7h1t8c1-n103_c0eg" mz="n103">使用按键或者鼠标中键拖动可以移动摄像机</string>
+  <string name="0xrxw6g7h1t8c1-n109_c0eg" mz="n109">滚轮缩放镜头</string>
+  <string name="0xrxw6g7h1t8c1-n110_c0eg" mz="n110">左键选择</string>
+  <string name="0xrxw6g7h1t8c1-n111_c0eg" mz="n111">右键取消</string>
+  <string name="0xrxw6g7h1t8c1-n113_c0eg" mz="n113">ALT</string>
+  <string name="0xrxw6g7h1t8c1-n114_c0eg" mz="n114">显示所有物品名字</string>
+  <string name="0xrxw6g7h1t8c1-n93_h1t8" mz="n93">知道了</string>
+  <string name="0xrxw6g7h1t8c1-n120_c0eg" mz="n120">Space</string>
+  <string name="0xrxw6g7h1t8c1-n121_c0eg" mz="n121">Q</string>
+  <string name="0xrxw6g7h1t8c1-n122_c0eg" mz="n122">E</string>
+  <string name="0xrxw6g7h1t8c1-n124_c0eg" mz="n124">减少游戏速度</string>
+  <string name="0xrxw6g7h1t8c1-n125_c0eg" mz="n125">暂停或者继续游戏</string>
+  <string name="0xrxw6g7h1t8c1-n127_qc1e" mz="n127">增加游戏速度</string>
+  <!-- InGame - WindowThingInfo -->
+  <string name="0xrxw6g7d8g51u-n0_d8g5" mz="frame">ThingInfo</string>
+  <string name="0xrxw6g7d8g51u-n10_8lul" mz="Desc">这是一棵温带丛林常见的大树，是一种非常好用的原材料。</string>
+  <string name="0xrxw6g7d8g51u-n17_8lul" mz="ThingInfoTxt">美观：赏心悦目
+灵气：123456
+易燃：高
+易燃：高
+五行：木</string>
+  <!-- InGame - WindowUpdate -->
+  <string name="0xrxw6g7rseble-n88_9fbe" mz="frame">问题报告</string>
+  <string name="0xrxw6g7rseble-n113_rseb" mz="n113">来自上古的巨兽复苏，在修行界掀起腥风血雨，亦带来全新的机遇。各派隐藏的老祖大能为保卫山门，猎杀古兽，也纷纷出山。修行界亦因此进入风起云涌的时代。</string>
+  <string name="0xrxw6g7rseble-n151_rseb" mz="n151">上古之兽复苏带来修行界格局的剧变，围绕古兽的一系列争斗激化了各派的矛盾。暗流汹涌，风雨欲来。蚩尤之旗划破长空，仇恨的种子已经发芽，因果纠缠之下，无人能超脱此劫。唯有举剑征伐天下，方能争得一线生机。</string>
+  <string name="0xrxw6g7rseble-n152_rseb" mz="n152">修行界大战让各派多有损失，为补充血液，寻找优秀的弟子，收集资源，各派亦开始重入凡间，开辟自己门派的凡间代理。红尘之中行事自当有所收敛，各派弟子重入红尘，虽然带来竞争，但亦带来更多的交流。</string>
+  <string name="0xrxw6g7rseble-n153_rseb" mz="n153">妖族圣地龙崖石刻重现人间界，带来诸多早已失传的妖族修行之法。本来在修行界处于绝对劣势的妖族，亦获得重新崛起的机会。藏匿于大漠中的万妖殿也迈出了重出修行界的步伐。</string>
+  <string name="0xrxw6g7rseble-n131_rseb" mz="n131">九月</string>
+  <string name="0xrxw6g7rseble-n135_rseb" mz="n135">发布
+时间</string>
+  <string name="0xrxw6g7rseble-n122_rseb" mz="n122">了不起的修行计划</string>
+  <string name="0xrxw6g7rseble-n123_rseb" mz="n123">六月</string>
+  <string name="0xrxw6g7rseble-n146_rseb" mz="n146">十二月</string>
+  <string name="0xrxw6g7rseble-n149_rseb" mz="n149">三月</string>
+  <string name="0xrxw6g7rseble-n154_rseb-tips" mz="n154">风水镇物随古兽复苏而出土的稀有神物，可以一定程度上镇压风水。</string>
+  <string name="0xrxw6g7rseble-n156_rseb-tips" mz="n156">大能出世为保卫山门，猎杀上古之兽，真正的强者开始在世界游走，各门各派中隐藏的大能纷纷出山。这些敌人的出现将给玩家带来全新的挑战。</string>
+  <string name="0xrxw6g7rseble-n157_rseb-tips" mz="n157">神药种植各派大能行走修行界亦带来了更深度的交流，本为各派隐秘的朱果，五色金莲等神药专属的种植方式，亦渐渐流通开来。</string>
+  <string name="0xrxw6g7rseble-n158_rseb-tips" mz="n158">巨兽攻山上古复苏的巨兽入侵山门。这将是对整个门派最强的考验之一。</string>
+  <string name="0xrxw6g7rseble-n159_rseb-tips" mz="n159">动物养殖圈养动物，让门派更加生机勃勃。</string>
+  <string name="0xrxw6g7rseble-n160_rseb-tips" mz="n160">建筑重制重制建筑外形，追加自由旋转的功能，房间布局随心摆放。</string>
+  <string name="0xrxw6g7rseble-n181_rseb-tips" mz="n181">秘宝炼制传承自上古的秘宝，不同于随手炼制的普通法宝。秘宝必须以特定的材料，辅以特定的步骤才能练成。百灵斩仙剑，五毒诛仙剑……秘传之宝，一一再现。</string>
+  <string name="0xrxw6g7rseble-n182_rseb-tips" mz="n182">阵法系统借灵宝之妙布阵眼，引天地之力起仙阵。布阵保护自己的宗门免受浩劫，或破阵进攻敌人宗门。</string>
+  <string name="0xrxw6g7rseble-n183_rseb-tips" mz="n183">多种天劫杀劫将起，天道亦为此杀伐之气侵染，生成多种天劫以之制衡。</string>
+  <string name="0xrxw6g7rseble-n184_rseb-tips" mz="n184">门派征伐进入其他门派的山门，于征伐之中，夺一线生机。</string>
+  <string name="0xrxw6g7rseble-n185_rseb-tips" mz="n185">合练之术衣甲器物，刀兵法宝与各种蕴含灵气的宝物合练，或可产生新的神妙之用。</string>
+  <string name="0xrxw6g7rseble-n188_rseb-tips" mz="n188">结交天下正派少年英豪？魔教新生凶孽？或与之结交，解决他们的困难，获得他们的友谊。或与之生死相搏，一争长短。</string>
+  <string name="0xrxw6g7rseble-n189_rseb-tips" mz="n189">交易系统与天下道友互通有无，各取所需。</string>
+  <string name="0xrxw6g7rseble-n190_rseb-tips" mz="n190">诸多剧情太一门灭门之谜，正道外道数千年的纷争，仙魔战场的遗迹……均会一一浮出水面。深入剧情旋涡探索真相？或是置身事外只求逍遥？任君选择。</string>
+  <string name="0xrxw6g7rseble-n191_rseb-tips" mz="n191">门派扩张派遣弟子前往世界各地建立凡间代理，扩张门派势力，获取当地物资。</string>
+  <string name="0xrxw6g7rseble-n192_rseb-tips" mz="n192">修行之法随着修行界进入大交流时代，更多的修行之法亦开始流通，符咒修行，神道修行，酒道修行，尸道修行……大道三千，条条登仙！</string>
+  <string name="0xrxw6g7rseble-n193_rseb-tips" mz="n193">归宿系统逐出师门的弟子后来又怎样际遇？不幸殒命的弟子魂归何方？飞升的祖师一生又有怎样的回顾？天命阁重新开启，众生归宿尽在其中。轮回转世修行之道自古便劫难重重，渡劫失败，斗法陨落，走火入魔……中意之弟子一旦不测，往往痛憾。如今各位掌门可寻其轮回之身，接引回山，重续仙缘。</string>
+  <string name="0xrxw6g7rseble-n195_rseb-tips" mz="n195">万物通灵桌椅木石，兵甲粮草皆可通灵成精。</string>
+  <string name="0xrxw6g7rseble-n196_rseb-tips" mz="n196">体修之法灵气淬身，体如精钢。修至深处，甚至可肉体抵挡飞剑刺杀。</string>
+  <string name="0xrxw6g7rseble-n197_rseb-tips" mz="n197">灵兽养成灵兽幼年自有灵性，行为不可捉摸。在其成长过程中，对它的行为进行奖惩，以慢慢塑造灵兽之灵性，让灵兽成为你想要的模样，如臂指使。</string>
+  <string name="0xrxw6g7rseble-n198_rseb-tips" mz="n198">妖族修行众生皆有可能开启灵智，踏上修行之途，来自龙崖石刻上的上古修行方式和功法让妖族再一次崛起了。</string>
+  <string name="0xrxw6g7rseble-n202_rseb" mz="n202">*最终内容和时间在开发过程中可能发生调整</string>
+  <string name="0xrxw6g7rseble-n175_rseb" mz="n175">正在获取数据中...</string>
+  <string name="0xrxw6g7rseble-n173_rseb" mz="n173">更新日志</string>
+  <string name="0xrxw6g7rseble-n168_rseb-0" mz="n168">更新日志</string>
+  <string name="0xrxw6g7rseble-n168_rseb-1" mz="n168">开发计划</string>
+  <!-- InGame - WindR -->
+  <string name="0xrxw6g7jsx7nc-n46_xko6" mz="title">背景故事</string>
+  <!-- InGame - Wnd_InputNpc -->
+  <string name="0xrxw6g7k3194w-n79_k319" mz="frame">轮回者</string>
+  <string name="0xrxw6g7k3194w-n79_k319-texts_0" mz="frame">轮回者</string>
+  <string name="0xrxw6g7k3194w-n79_k319-texts_1" mz="frame">角色命名</string>
+  <string name="0xrxw6g7k3194w-n99_k319" mz="n99">男</string>
+  <string name="0xrxw6g7k3194w-n100_k319" mz="n100">女</string>
+  <string name="0xrxw6g7k3194w-n83_k319-prompt" mz="F">姓</string>
+  <string name="0xrxw6g7k3194w-n84_k319-prompt" mz="L">名</string>
+  <string name="0xrxw6g7k3194w-n107_q030" mz="n107">除我们已公布的轮回者外，所有轮回者均由算法随机生成，纯属虚构，与真实人物经历无任何关系。如有疑问请直接与我们联系。</string>
+  <!-- InGame - Wnd_LoadTemp -->
+  <string name="0xrxw6g7s69xvnj-n0_q8j7" mz="frame">轮回修正</string>
+  <string name="0xrxw6g7s69xvnj-n3_q8j7" mz="n3">确定</string>
+  <string name="0xrxw6g7s69xvnj-n6_s69x" mz="input">搞事情</string>
+  <string name="0xrxw6g7s69xvnj-n8_s69x" mz="input">搞事情</string>
+  <!-- InGame - Wnd_PaintPage -->
+  <string name="0xrxw6g7rz8yjr-n8_rpoo" mz="n8">九个字九个字九个字</string>
+  <string name="0xrxw6g7rz8yjr-n17_rz8y" mz="n17">角色属性</string>
+  <string name="0xrxw6g7rz8yjr-n13_rz8y" mz="n13">轮回</string>
+  <string name="0xrxw6g7rz8yjr-n32_rz8y" mz="n32">直接打印</string>
+  <!-- InGame - Wnd_Save -->
+  <string name="0xrxw6g7q8j7hx-n0_q8j7" mz="frame">存档</string>
+  <string name="0xrxw6g7q8j7hx-n3_q8j7" mz="n3">确定</string>
+  <string name="0xrxw6g7q8j7hx-n5_q8j7" mz="input">搞事情</string>
+  <!-- InGame - WndBnt -->
+  <string name="0xrxw6g7d8g51x-n4" mz="title">确定</string>
+  <!-- InGame - WndBnt2 -->
+  <string name="0xrxw6g7g14xgc-n4" mz="title">确定</string>
+  <!-- InGame - WndBnt_Fuxuan -->
+  <string name="0xrxw6g7jj174z-n4" mz="title">确定</string>
+  <!-- InGame - WndBnt_Menu -->
+  <string name="0xrxw6g7nele25-n4" mz="title">确定</string>
+  <!-- InGame - WndBnt_MenuBuild -->
+  <string name="0xrxw6g7qah58v-n4" mz="title">建 造</string>
+  <!-- InGame - WndBnt_NpcGenerate_H -->
+  <string name="0xrxw6g7iue6bj-n4" mz="title">确定确定</string>
+  <!-- InGame - WndBnt_StorySelect -->
+  <string name="0xrxw6g7nd594m-n10_fy4x" mz="title">确定</string>
+  <!-- InGame - WndBntList -->
+  <string name="0xrxw6g7d8g51v-n0_d8g5-0" mz="n0">TETETETE</string>
+</resources>

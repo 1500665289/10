@@ -1,0 +1,28 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Reader">
+      <DisplayName>读书人</DisplayName>
+      <Desc>此人受过良好的教育，能很好的理解艰涩的内容。</Desc>
+    </Text>
+    <Text Name="Craftsman">
+      <DisplayName>手艺人</DisplayName>
+      <Desc>此人擅长动手，[IT]做东西又快又好。</Desc>
+    </Text>
+    <Text Name="CraftsmanEX">
+      <DisplayName>钢普拉爱好者</DisplayName>
+      <Desc>此人沉迷钢普拉，也因此获得一双巧手，[IT]做东西又快又好。</Desc>
+    </Text>
+    <Text Name="Artist">
+      <DisplayName>艺术家</DisplayName>
+      <Desc>此人拥有丰富的情感和敏感的内心，[IT]天生拥有超人的想象力。</Desc>
+    </Text>
+    <Text Name="Warrior">
+      <DisplayName>战士</DisplayName>
+      <Desc>此人是天生的战士，[IT]能忍耐痛苦，并时刻保持沉着冷静。</Desc>
+    </Text>
+    <Text Name="DeepPotential">
+      <DisplayName>慧根</DisplayName>
+      <Desc>此人天生慧根，比别人更容易修炼。</Desc>
+    </Text>
+  </List>
+</Texts>

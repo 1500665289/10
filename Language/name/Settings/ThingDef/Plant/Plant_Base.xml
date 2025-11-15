@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="SYS_LOSTPLANT" sParam="Plant">
+      <ThingName>失落的植物</ThingName>
+      <Desc>失落之物，没有人认识这个。\n（模组丢失）</Desc>
+    </Text>
+  </List>
+</Texts>

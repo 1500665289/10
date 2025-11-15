@@ -1,0 +1,92 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Pessimism">
+      <DisplayName>悲观</DisplayName>
+      <Desc>这个人很悲观，总是想着不好的事情。</Desc>
+    </Text>
+    <Text Name="Optimistic">
+      <DisplayName>乐观</DisplayName>
+      <Desc>这个人很乐观，能自己逗自己开心。</Desc>
+    </Text>
+    <Text Name="Numbness">
+      <DisplayName>麻木</DisplayName>
+      <Desc>奔波于生活让这个人的精神已经麻木，[IT]不会思考，也不会因为情绪过低而怠工。</Desc>
+    </Text>
+    <Text Name="Sensitive">
+      <DisplayName>敏感</DisplayName>
+      <Desc>[IT]对世界充满好奇，对乏味的生活尤其不能容忍。</Desc>
+    </Text>
+    <Text Name="Enthusiasm">
+      <DisplayName>热情</DisplayName>
+      <Desc>[IT]对所有人都很热情。</Desc>
+    </Text>
+    <Text Name="Distrust">
+      <DisplayName>冷漠</DisplayName>
+      <Desc>[IT]不相信人和人之间有真感情，对谁都不信任。</Desc>
+    </Text>
+    <Text Name="Strong">
+      <DisplayName>坚强</DisplayName>
+      <Desc>[IT]的意志十分坚定，更能忍耐痛苦。</Desc>
+    </Text>
+    <Text Name="Weak">
+      <DisplayName>柔弱</DisplayName>
+      <Desc>[IT]从没吃过什么苦，轻微的疼痛都让[IT]无法忍受。</Desc>
+    </Text>
+    <Text Name="BadMentality">
+      <DisplayName>心浮气躁</DisplayName>
+      <Desc>[IT]总是心浮气躁，静不下心做事。</Desc>
+    </Text>
+    <Text Name="GoodMentality">
+      <DisplayName>心如止水</DisplayName>
+      <Desc>[IT]的心态十分好，不以物喜不以己悲。</Desc>
+    </Text>
+    <Text Name="Rugged">
+      <DisplayName>粗心</DisplayName>
+      <Desc>[IT]做事大大咧咧，总是很快做完，不求细节。</Desc>
+    </Text>
+    <Text Name="Careful">
+      <DisplayName>细心</DisplayName>
+      <Desc>[IT]做事十分细心，而且很谨慎，做的慢，但是做得好。</Desc>
+    </Text>
+    <Text Name="Lazy">
+      <DisplayName>懒惰</DisplayName>
+      <Desc>[IT]很懒，不想干活。</Desc>
+    </Text>
+    <Text Name="Industrious">
+      <DisplayName>勤快</DisplayName>
+      <Desc>[IT]很勤快，做事很有效率。</Desc>
+    </Text>
+    <Text Name="Feminization">
+      <DisplayName>娘炮</DisplayName>
+      <Desc>[IT]虽然是男子，但是做事说话却很娘娘腔。</Desc>
+    </Text>
+    <Text Name="Masculinity">
+      <DisplayName>女汉子</DisplayName>
+      <Desc>[IT]虽然是女子，但是却有着男子的性格做派。</Desc>
+    </Text>
+    <Text Name="Affinity">
+      <DisplayName>亲和</DisplayName>
+      <Desc>此人有一种让人与之亲近的魅力。</Desc>
+    </Text>
+    <Text Name="Cruel">
+      <DisplayName>残酷</DisplayName>
+      <Desc>此人为人苛刻，让人很不舒服。</Desc>
+    </Text>
+    <Text Name="HeartKnot">
+      <DisplayName>心结</DisplayName>
+      <Desc>此人有很重的心结，终日郁郁，睡眠不好，被噩梦困扰。</Desc>
+    </Text>
+    <Text Name="Depressed">
+      <DisplayName>消沉</DisplayName>
+      <Desc>经历了重大的情感打击，这个人常年限于消沉之中，无法解脱。</Desc>
+    </Text>
+    <Text Name="Anatman">
+      <DisplayName>天人合一</DisplayName>
+      <Desc>此人的心境修为已经到达无我之境。</Desc>
+    </Text>
+    <Text Name="FearFlame">
+      <DisplayName>畏火</DisplayName>
+      <Desc>此人特别害怕火焰，无法从事与火打交道的工作。</Desc>
+    </Text>
+  </List>
+</Texts>

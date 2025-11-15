@@ -1,0 +1,24 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Long_Test">
+      <DisplayName>蛟龙</DisplayName>
+      <FightParts.0.DisplayName>身体</FightParts.0.DisplayName>
+      <FightParts.1.DisplayName>龙尾</FightParts.1.DisplayName>
+      <FightParts.2.DisplayName>龙角</FightParts.2.DisplayName>
+      <FightParts.3.DisplayName>龙左前爪</FightParts.3.DisplayName>
+      <FightParts.4.DisplayName>龙右前爪</FightParts.4.DisplayName>
+      <FightParts.5.DisplayName>龙左后爪</FightParts.5.DisplayName>
+      <FightParts.6.DisplayName>龙右后爪</FightParts.6.DisplayName>
+      <FightParts.7.DisplayName>逆鳞</FightParts.7.DisplayName>
+    </Text>
+    <Text Name="Boss_Feng_Test">
+      <DisplayName>凶凤</DisplayName>
+      <FightParts.0.DisplayName>身体</FightParts.0.DisplayName>
+      <FightParts.1.DisplayName>头羽</FightParts.1.DisplayName>
+      <FightParts.2.DisplayName>左翅</FightParts.2.DisplayName>
+      <FightParts.3.DisplayName>右翅</FightParts.3.DisplayName>
+      <FightParts.4.DisplayName>尾羽</FightParts.4.DisplayName>
+      <FightParts.5.DisplayName>太阳之眼</FightParts.5.DisplayName>
+    </Text>
+  </List>
+</Texts>

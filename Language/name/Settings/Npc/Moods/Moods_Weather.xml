@@ -1,0 +1,149 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Weather_Sunny">
+      <DisplayName>晴天</DisplayName>
+      <Desc>今天天气很好。</Desc>
+      <StoryDesc>正因晴朗的天气而笑容满面</StoryDesc>
+    </Text>
+    <Text Name="Weather_Overcast">
+      <DisplayName>阴天</DisplayName>
+      <Desc>今天天色阴沉沉的。</Desc>
+      <StoryDesc>正因阴沉的天气而一脸沉闷</StoryDesc>
+    </Text>
+    <Text Name="Weather_LightRain">
+      <DisplayName>小雨</DisplayName>
+      <Desc>下了一点小雨！</Desc>
+      <StoryDesc>正因小雨沥沥而面色宁静</StoryDesc>
+    </Text>
+    <Text Name="Weather_HeavyRain">
+      <DisplayName>大雨</DisplayName>
+      <Desc>下大雨了。</Desc>
+      <StoryDesc>正因大雨瓢泊而面色烦躁</StoryDesc>
+    </Text>
+    <Text Name="Weather_LightSnow">
+      <DisplayName>小雪</DisplayName>
+      <Desc>下了一点小雪！</Desc>
+      <StoryDesc>正因小雪飘扬而略感开心</StoryDesc>
+    </Text>
+    <Text Name="Weather_HeavySnow">
+      <DisplayName>大雪</DisplayName>
+      <Desc>下大雪了。</Desc>
+      <StoryDesc>正因大雪纷飞而感到喜悦</StoryDesc>
+    </Text>
+    <Text Name="Weather_DenseFog">
+      <DisplayName>大雾</DisplayName>
+      <Desc>罕见的大雾，伸手不见五指。</Desc>
+      <StoryDesc>正因为大雾弥漫而略显烦躁</StoryDesc>
+    </Text>
+    <Text Name="Weather_SpringAir">
+      <DisplayName>春天的气息</DisplayName>
+      <Desc>春天来了，充满期待。</Desc>
+      <StoryDesc>正因想着一年之初而充满干劲</StoryDesc>
+    </Text>
+    <Text Name="Weather_Melancholy">
+      <DisplayName>愁绪弥漫</DisplayName>
+      <Desc>不知道为什么，最近大家都很忧愁，让我也心生抑郁。</Desc>
+      <StoryDesc>正因弥漫的愁绪而愁眉苦脸</StoryDesc>
+    </Text>
+    <Text Name="Weather_HarvestAir">
+      <DisplayName>丰收的气息</DisplayName>
+      <Desc>丰收的季节，很快乐。</Desc>
+      <StoryDesc>正因期待着丰收而笑容满面</StoryDesc>
+    </Text>
+    <Text Name="Weather_Impetuous">
+      <DisplayName>浮躁之风</DisplayName>
+      <Desc>最近心思很浮躁，很难静下心来。</Desc>
+      <StoryDesc>正因浮躁的风气而满脸不耐烦</StoryDesc>
+    </Text>
+    <Text Name="Weather_Hail">
+      <DisplayName>冰雹</DisplayName>
+      <Desc>下冰雹了。</Desc>
+      <StoryDesc>正因下冰雹而满脸忧色</StoryDesc>
+    </Text>
+    <Text Name="Weather_MouldRains">
+      <DisplayName>梅雨</DisplayName>
+      <Desc>梅雨季来了。</Desc>
+      <StoryDesc>正因持续的梅雨而充满烦躁</StoryDesc>
+    </Text>
+    <Text Name="Weather_Drought">
+      <DisplayName>干旱</DisplayName>
+      <Desc>干旱季来临了。</Desc>
+      <StoryDesc>正因持续的干旱而满面忧色</StoryDesc>
+    </Text>
+    <Text Name="Weather_Rainstorm">
+      <DisplayName>暴雨</DisplayName>
+      <Desc>下暴雨了。</Desc>
+      <StoryDesc>正因暴雨如注而感到担忧</StoryDesc>
+    </Text>
+    <Text Name="Weather_Fohn">
+      <DisplayName>焚风</DisplayName>
+      <Desc>一阵焚风刮来。</Desc>
+      <StoryDesc>正因焚风来袭而揉了揉干燥的脸庞</StoryDesc>
+    </Text>
+    <Text Name="Weather_DustStorm">
+      <DisplayName>尘暴</DisplayName>
+      <Desc>一场尘暴发生了。</Desc>
+      <StoryDesc>正因尘暴肆虐而吐了口沙子</StoryDesc>
+    </Text>
+    <Text Name="Weather_LingRarefiedWave">
+      <DisplayName>灵气枯潮</DisplayName>
+      <Desc>一次灵气枯潮到来。</Desc>
+      <StoryDesc>正因灵气枯潮而感到不安</StoryDesc>
+    </Text>
+    <Text Name="Weather_LingUpWave">
+      <DisplayName>灵气爆发</DisplayName>
+      <Desc>一次灵气爆发到来。</Desc>
+      <StoryDesc>正因灵气爆发而感到喜悦</StoryDesc>
+    </Text>
+    <Text Name="Weather_HeatWave">
+      <DisplayName>酷暑</DisplayName>
+      <Desc>酷暑袭来，太热了……</Desc>
+      <StoryDesc>正因酷暑来袭而感到焦躁</StoryDesc>
+    </Text>
+    <Text Name="Weather_ColdWave">
+      <DisplayName>凛冬</DisplayName>
+      <Desc>凛冬已至，太冷了……</Desc>
+      <StoryDesc>正因凛冬将至而感到不安</StoryDesc>
+    </Text>
+    <Text Name="Weather_HeatWaveInWinter">
+      <DisplayName>暖流</DisplayName>
+      <Desc>寒冬中，一股暖流到来，太舒服了……</Desc>
+      <StoryDesc>正在暖流之中伸了个懒腰</StoryDesc>
+    </Text>
+    <Text Name="Weather_ColdWaveInSummer">
+      <DisplayName>凉风</DisplayName>
+      <Desc>盛夏时，一股凉风吹来，太舒服了……</Desc>
+      <StoryDesc>正在凉风下发出一声舒适的叹息</StoryDesc>
+    </Text>
+    <Text Name="Weather_PermanentNight">
+      <DisplayName>永夜</DisplayName>
+      <Desc>永夜降临。</Desc>
+      <StoryDesc>正因永夜降临而感到恐惧</StoryDesc>
+    </Text>
+    <Text Name="Weather_Miasma">
+      <DisplayName>瘴气</DisplayName>
+      <Desc>一股瘴气在附近蔓延。</Desc>
+      <StoryDesc>正因瘴气蔓延而捂住口鼻</StoryDesc>
+    </Text>
+    <Text Name="Weather_LightningStorm">
+      <DisplayName>雷暴</DisplayName>
+      <Desc>一场雷暴正在肆虐。</Desc>
+      <StoryDesc>正因雷暴肆虐而紧张万分</StoryDesc>
+    </Text>
+    <Text Name="Weather_LuShu_SunnyDay">
+      <DisplayName>奇妙的歌声</DisplayName>
+      <Desc>听到灵兽鹿蜀的叫声，好像人在唱动听的歌曲，真的很好听~</Desc>
+      <StoryDesc>正沉醉于灵兽鹿蜀的叫声中而笑容满面</StoryDesc>
+    </Text>
+    <Text Name="Weather_SpringFestival">
+      <DisplayName>春节庆典</DisplayName>
+      <Desc>节日的气氛，让人沉醉。</Desc>
+      <StoryDesc>正沉浸在节日的喜悦中</StoryDesc>
+    </Text>
+    <Text Name="Weather_ZuShiBiHu">
+      <DisplayName>祖师庇护</DisplayName>
+      <Desc>祖师降下庇护，门派中仙气弥漫。</Desc>
+      <StoryDesc>正沉浸在仙界降下的气息中</StoryDesc>
+    </Text>
+  </List>
+</Texts>

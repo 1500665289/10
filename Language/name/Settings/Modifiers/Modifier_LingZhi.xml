@@ -1,0 +1,81 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_LingZhi_DiaoXie">
+      <DisplayName>交感</DisplayName>
+      <Desc>与灵根交感，感受到凋谢中的灵植透露出哀伤的气息，心境略有扰动。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Jin">
+      <DisplayName>金灵交感</DisplayName>
+      <Desc>在金灵根附近修炼，与其进入交感之态。神识提高，心境提高，修炼速度降低，潜力提高。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Jin">
+      <DisplayName>金煞交感</DisplayName>
+      <Desc>在金灵根附近修炼，与其进入交感之态。神识提高，心境降低，修炼速度提高，潜力降低。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Mu">
+      <DisplayName>木灵交感</DisplayName>
+      <Desc>在木灵根附近修炼，与其进入交感之态。根骨提高，心境提高，修炼速度降低，潜力提高。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Mu">
+      <DisplayName>木煞交感</DisplayName>
+      <Desc>在木灵根附近修炼，与其进入交感之态。根骨提高，心境降低，修炼速度提高，潜力降低。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Shui">
+      <DisplayName>水灵交感</DisplayName>
+      <Desc>在水灵根附近修炼，与其进入交感之态。魅力提高，心境提高，修炼速度降低，潜力提高。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Shui">
+      <DisplayName>水煞交感</DisplayName>
+      <Desc>在水灵根附近修炼，与其进入交感之态。魅力提高，心境降低，修炼速度提高，潜力降低。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Huo">
+      <DisplayName>火灵交感</DisplayName>
+      <Desc>在火灵根附近修炼，与其进入交感之态。悟性提高，心境提高，修炼速度降低，潜力提高。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Huo">
+      <DisplayName>火煞交感</DisplayName>
+      <Desc>在火灵根附近修炼，与其进入交感之态。悟性提高，心境降低，修炼速度提高，潜力降低。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Tu">
+      <DisplayName>土灵交感</DisplayName>
+      <Desc>在土灵根附近修炼，与其进入交感之态。机缘提高，心境提高，修炼速度降低，潜力提高。</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Tu">
+      <DisplayName>土煞交感</DisplayName>
+      <Desc>在土灵根附近修炼，与其进入交感之态。机缘提高，心境降低，修炼速度提高，潜力降低。</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_XinJing1">
+      <DisplayName>心境空明</DisplayName>
+      <Desc>短期内心境提高。</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_XinJing2">
+      <DisplayName>心境紊乱</DisplayName>
+      <Desc>短期内心境降低。</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_MaxLing1">
+      <DisplayName>灵气被夺</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing1">
+      <DisplayName>灵植成熟灵性效果1</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing2">
+      <DisplayName>灵植成熟灵性效果2</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing3">
+      <DisplayName>灵植成熟灵性效果3</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing4">
+      <DisplayName>灵植成熟灵性效果4</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing5">
+      <DisplayName>灵植成熟灵性效果5</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing_A">
+      <DisplayName>灵息涤荡</DisplayName>
+      <Desc>受灵植成熟的气息滋润，全身的内门伤势都在好转。</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_RipeSha">
+      <DisplayName>灵植成熟煞性效果</DisplayName>
+    </Text>
+  </List>
+</Texts>

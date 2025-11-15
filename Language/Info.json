@@ -1,0 +1,10 @@
+﻿{
+	"Name":"Heisoil",		
+	"DisplayName":"黑土地", 
+	"Desc":"种植效率很高灵气很高的土地",
+	"Enable":true,			
+	"GameVersion":0.94954,		
+	"Version":1,			
+	"Author":"RC.WANG",			
+	"Sort":"1",				
+}

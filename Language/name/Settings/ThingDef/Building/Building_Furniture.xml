@@ -1,0 +1,103 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Bed" sParam="Building">
+      <ThingName>床</ThingName>
+      <Desc>一张可以供单人使用的床，可以让你睡个好觉。</Desc>
+    </Text>
+    <Text Name="DoubleBed" sParam="Building">
+      <ThingName>双人床</ThingName>
+      <Desc>一张适合两个有需要的人使用的大床。</Desc>
+    </Text>
+    <Text Name="SmallTable" sParam="Building">
+      <ThingName>桌子</ThingName>
+      <Desc>简易的桌子，可供人们在上面吃饭。</Desc>
+    </Text>
+    <Text Name="Table" sParam="Building">
+      <ThingName>小方桌</ThingName>
+      <Desc>传统的方桌，可供人们在上面吃饭。</Desc>
+    </Text>
+    <Text Name="WaterTank" sParam="Building">
+      <ThingName>水缸</ThingName>
+      <Desc>一口可以用来装水的容器，可以净化水质，放在需要频繁用水的场合可以提供极大地方便。</Desc>
+    </Text>
+    <Text Name="SmallPool" sParam="Building">
+      <ThingName>造化灵池</ThingName>
+      <Desc>以火铜寒晶打造的灵池，核心融入一枚造化玉籽。其灵效可缓慢改善周围土质。</Desc>
+    </Text>
+    <Text Name="StreetLight" sParam="Building">
+      <ThingName>灯柱</ThingName>
+      <Desc>精美的照明建筑，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="StreetLight1" sParam="Building">
+      <ThingName>灯柱</ThingName>
+      <Desc>精美的照明建筑，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="StreetLight2" sParam="Building">
+      <ThingName>灯柱</ThingName>
+      <Desc>精美的照明建筑，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Lantern" sParam="Building">
+      <ThingName>灯笼</ThingName>
+      <Desc>照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Lantern1" sParam="Building">
+      <ThingName>灯笼</ThingName>
+      <Desc>照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Lantern2" sParam="Building">
+      <ThingName>灯笼-照影</ThingName>
+    </Text>
+    <Text Name="Lantern3" sParam="Building">
+      <ThingName>灯笼</ThingName>
+      <Desc>照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Lantern4" sParam="Building">
+      <ThingName>灯笼</ThingName>
+      <Desc>照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Lantern5" sParam="Building">
+      <ThingName>灯笼-万化安</ThingName>
+      <Desc>照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Lantern6" sParam="Building">
+      <ThingName>灯笼-四海同</ThingName>
+      <Desc>照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Lantern_S1" sParam="Building">
+      <ThingName>神鹤灯</ThingName>
+      <Desc>照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="Candlestick" sParam="Building">
+      <ThingName>油灯</ThingName>
+      <Desc>室内常用的照明设施，会在夜晚点亮，照亮周围。</Desc>
+    </Text>
+    <Text Name="TicTacToe" sParam="Building">
+      <ThingName>井字棋</ThingName>
+      <Desc>不需要什么制作材料，只是在地上划出一块空地，在上面下井字棋。</Desc>
+    </Text>
+    <Text Name="GoTable" sParam="Building">
+      <ThingName>围棋桌</ThingName>
+      <Desc>一张下棋用的矮桌，桌面刻有十九路棋盘，可供两人对弈，产出名局。</Desc>
+    </Text>
+    <Text Name="GuzhengTable" sParam="Building">
+      <ThingName>琴台</ThingName>
+      <Desc>摆放古筝的台子，可以供一个人抚琴，谱写琴曲。</Desc>
+    </Text>
+    <Text Name="CalligraphyTable" sParam="Building">
+      <ThingName>画符桌</ThingName>
+      <Desc>一张放置笔墨纸砚的桌几案，可以在上面制作符咒。除此之外，也可以闲暇之时供人娱乐。</Desc>
+    </Text>
+    <Text Name="CageShelf" sParam="Building">
+      <ThingName>虫鸟架</ThingName>
+      <Desc>一个供人养鸟逗虫的娱乐设施，构造精巧而美观。</Desc>
+    </Text>
+    <Text Name="Building_Tomb" sParam="Building">
+      <ThingName>坟墓</ThingName>
+      <Desc>用来埋葬死者的简陋墓穴。</Desc>
+    </Text>
+    <Text Name="Building_BigTomb" sParam="Building">
+      <ThingName>陵墓</ThingName>
+      <Desc>用来埋葬死者的墓穴。</Desc>
+    </Text>
+  </List>
+</Texts>

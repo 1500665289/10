@@ -1,0 +1,147 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FacialScar">
+      <DisplayName>脸部疤痕</DisplayName>
+      <Desc>一道狰狞的疤痕留在脸上。</Desc>
+    </Text>
+    <Text Name="UglyFace1">
+      <DisplayName>面相丑陋</DisplayName>
+      <Desc>此人长的很丑，让人厌恶。</Desc>
+    </Text>
+    <Text Name="UglyFace2">
+      <DisplayName>丑陋至极</DisplayName>
+      <Desc>此人长的不成人形，让人望而生畏。</Desc>
+    </Text>
+    <Text Name="BeautifulFace1">
+      <DisplayName>容貌俊美</DisplayName>
+      <Desc>此人的面孔异常俊美。</Desc>
+    </Text>
+    <Text Name="BeautifulFace2">
+      <DisplayName>惊世美貌</DisplayName>
+      <Desc>此人的面孔异常俊美。</Desc>
+    </Text>
+    <Text Name="OldViscusInjury">
+      <DisplayName>脏腑旧损</DisplayName>
+      <Desc>此人脏腑受过重伤，迟迟不能痊愈。</Desc>
+    </Text>
+    <Text Name="CrippleLeft">
+      <DisplayName>瘸腿（左）</DisplayName>
+      <Desc>此人的左腿因为顽疾而不太灵便。</Desc>
+    </Text>
+    <Text Name="CrippleRight">
+      <DisplayName>瘸腿（右）</DisplayName>
+      <Desc>此人的右腿因为顽疾而不太灵便。</Desc>
+    </Text>
+    <Text Name="BanLeftTibia">
+      <DisplayName>断腿（左）</DisplayName>
+      <Desc>此人的右腿断掉了</Desc>
+    </Text>
+    <Text Name="BanRightTibia">
+      <DisplayName>断腿（右）</DisplayName>
+      <Desc>此人的右腿断掉了</Desc>
+    </Text>
+    <Text Name="BanLeftScapula">
+      <DisplayName>断臂（左）</DisplayName>
+      <Desc>此人的左手齐肩断掉了</Desc>
+    </Text>
+    <Text Name="BanRightScapula">
+      <DisplayName>断臂（右）</DisplayName>
+      <Desc>此人的右手齐肩断掉了</Desc>
+    </Text>
+    <Text Name="Deaf">
+      <DisplayName>耳聋</DisplayName>
+      <Desc>此人有先天耳疾。</Desc>
+    </Text>
+    <Text Name="BanLeftEye">
+      <DisplayName>瞎眼（左）</DisplayName>
+      <Desc>左眼瞎了</Desc>
+    </Text>
+    <Text Name="BanRightEye">
+      <DisplayName>瞎眼（右）</DisplayName>
+      <Desc>右眼瞎了</Desc>
+    </Text>
+    <Text Name="BanLeftEar">
+      <DisplayName>耳聋（左）</DisplayName>
+      <Desc>左耳聋了</Desc>
+    </Text>
+    <Text Name="BanRightEar">
+      <DisplayName>耳聋（右）</DisplayName>
+      <Desc>右耳聋了</Desc>
+    </Text>
+    <Text Name="MeridianIncomplete">
+      <DisplayName>经脉残缺</DisplayName>
+      <Desc>此人天生经脉残缺。</Desc>
+    </Text>
+    <Text Name="HealthOverdraft1">
+      <DisplayName>身体透支</DisplayName>
+      <Desc>此人透支了身体，比一般人短命。</Desc>
+    </Text>
+    <Text Name="HealthOverdraft2">
+      <DisplayName>身体衰竭</DisplayName>
+      <Desc>此人严重透支了身体，比一般人短命很多。</Desc>
+    </Text>
+    <Text Name="HealthMaintain1">
+      <DisplayName>保养良好</DisplayName>
+      <Desc>此人很懂保养，比一般人长寿。</Desc>
+    </Text>
+    <Text Name="HealthMaintain2">
+      <DisplayName>养尊处优</DisplayName>
+      <Desc>此人很懂保养，比一般人长寿很多。</Desc>
+    </Text>
+    <Text Name="ColdPatience">
+      <DisplayName>耐寒</DisplayName>
+      <Desc>此人常年生活在寒冷地区，能很好的适应寒冷。</Desc>
+    </Text>
+    <Text Name="HotPatience">
+      <DisplayName>耐热</DisplayName>
+      <Desc>此人常年生活在炎热地区，能很好的适应炎热。</Desc>
+    </Text>
+    <Text Name="DarkPatience">
+      <DisplayName>喜欢黑暗</DisplayName>
+      <Desc>此人喜欢黑暗的地方。</Desc>
+    </Text>
+    <Text Name="HighMan">
+      <DisplayName>高大</DisplayName>
+      <Desc>此人身形比一般人高大很多，强壮的身体让他习惯用暴力解决问题。</Desc>
+    </Text>
+    <Text Name="LowMan">
+      <DisplayName>矮小</DisplayName>
+      <Desc>此人身形矮小，像个孩童，身体的弱小让他更习惯思考和观察去解决问题。</Desc>
+    </Text>
+    <Text Name="NoHair">
+      <DisplayName>光头</DisplayName>
+      <Desc>此人没有头发。</Desc>
+    </Text>
+    <Text Name="LeftHanded">
+      <DisplayName>左撇子</DisplayName>
+      <Desc>此人习惯使用左手。</Desc>
+    </Text>
+    <Text Name="Mute">
+      <DisplayName>哑巴</DisplayName>
+      <Desc>此人无法与他人交流</Desc>
+    </Text>
+    <Text Name="BanRightMiddleFinger">
+      <DisplayName>断手指</DisplayName>
+    </Text>
+    <Text Name="RunFast">
+      <DisplayName>步履如飞</DisplayName>
+      <Desc>此人腿脚轻便，步履如飞。</Desc>
+    </Text>
+    <Text Name="Indigestion">
+      <DisplayName>消化不良</DisplayName>
+      <Desc>此人肠胃不好，对食物吸收差。</Desc>
+    </Text>
+    <Text Name="IronStomach">
+      <DisplayName>铁胃</DisplayName>
+      <Desc>此人天生体质异常，对食物的吸收特别好。</Desc>
+    </Text>
+    <Text Name="GoodEyesight">
+      <DisplayName>视力好</DisplayName>
+      <Desc>此人眼神很好，能看的很远。</Desc>
+    </Text>
+    <Text Name="ShallowSleep">
+      <DisplayName>浅睡眠</DisplayName>
+      <Desc>此人睡不踏实。</Desc>
+    </Text>
+  </List>
+</Texts>

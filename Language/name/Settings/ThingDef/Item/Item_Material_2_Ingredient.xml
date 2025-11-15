@@ -1,0 +1,29 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Flour" sParam="Item">
+      <ThingName>面粉</ThingName>
+      <Desc>一袋面粉，烹饪材料。</Desc>
+      <Item.FabaoSuffix>粉,散,袋</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Pear" sParam="Item">
+      <ThingName>梨</ThingName>
+      <Desc>一筐梨。</Desc>
+      <Item.FabaoSuffix>果,珠,丸,球,罩</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Wheat" sParam="Item">
+      <ThingName>小麦</ThingName>
+      <Desc>一捆小麦。</Desc>
+      <Item.FabaoSuffix>索,丝</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Mushroom" sParam="Item">
+      <ThingName>香菇</ThingName>
+      <Desc>一篮香菇。</Desc>
+      <Item.FabaoSuffix>篮,菇</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Lotusroot" sParam="Item">
+      <ThingName>莲藕</ThingName>
+      <Desc>一截莲藕。</Desc>
+      <Item.FabaoSuffix>藕</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

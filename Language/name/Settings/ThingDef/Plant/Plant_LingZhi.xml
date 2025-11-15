@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="LingZhi_Huo" sParam="Plant">
+      <ThingName>火灵根-朱果树</ThingName>
+      <Desc>五行神药朱果的植株，需要生长在灵气浓烈，五行相应，土壤丰饶之地。因其性特异，必须在200度以上的环境中才能生长。</Desc>
+    </Text>
+    <Text Name="LingZhi_Jin" sParam="Plant">
+      <ThingName>金灵根-琅琊神木</ThingName>
+      <Desc>五行神药琅琊果的植株，需要生长在灵气浓烈，五行相应，土壤丰饶之地。其对高温十分敏感，但相对耐寒，必须在小于20度的环境中才能生长。</Desc>
+    </Text>
+    <Text Name="LingZhi_Mu" sParam="Plant">
+      <ThingName>木灵根-木枯藤</ThingName>
+      <Desc>五行神药木枯藤的植株，需要生长在灵气浓烈，五行相应，土壤丰饶之地。其对生长对温度要求十分严苛，必须在15-35度的范围内才能生长。</Desc>
+    </Text>
+    <Text Name="LingZhi_Shui" sParam="Plant">
+      <ThingName>水灵根-五色金莲</ThingName>
+      <Desc>五行神药五色金莲的植株，需要生长在灵气浓烈，五行相应，土壤丰饶的水中。其性喜低温，必须在-120度以下的环境中才能生长。</Desc>
+    </Text>
+    <Text Name="LingZhi_Tu" sParam="Plant">
+      <ThingName>土灵根-赭黄精</ThingName>
+      <Desc>五行神药赭黄精的植株，需要生长在灵气浓烈，五行相应，土壤丰饶之地。其生长十分忌讳低温，必须在30度以上的环境中才能生长。</Desc>
+    </Text>
+  </List>
+</Texts>

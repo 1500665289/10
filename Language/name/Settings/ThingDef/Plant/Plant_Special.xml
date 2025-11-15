@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Ginseng" sParam="Plant">
+      <ThingName>人参</ThingName>
+      <Desc>珍惜的药材，极有药用价值，能大补元气，可以在-30到40度的范围内生长。需要生长在有一定的灵气地方。</Desc>
+    </Text>
+    <Text Name="GanodermaLucidum" sParam="Plant">
+      <ThingName>芝草</ThingName>
+      <Desc>珍惜的药材，极有药用价值，能大补元气，可以在10到40度的范围内生长。需要生长在有一定的灵气地方。</Desc>
+    </Text>
+    <Text Name="Mint" sParam="Plant">
+      <ThingName>清心草</ThingName>
+      <Desc>常见的药材，药性清凉，可以让人安神宁气，可以在-30到40度的范围内生长。需要生长在有一定的灵气地方。</Desc>
+    </Text>
+    <Text Name="MagicHerb" sParam="Plant">
+      <ThingName>灵仙草</ThingName>
+      <Desc>富含灵力的药草，本来十分罕见，可以在-30到40度的范围内生长。需要生长在有一定的灵气地方。中原炼丹峰医仙洞府外，有漫山遍野的灵仙草生长。</Desc>
+    </Text>
+  </List>
+</Texts>

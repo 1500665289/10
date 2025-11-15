@@ -1,0 +1,50 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Rabbit">
+      <DisplayName>兔子</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="Chicken">
+      <DisplayName>鸡</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="Wolf">
+      <DisplayName>狼</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="Snake">
+      <DisplayName>蛇</DisplayName>
+      <MaleName>雄</MaleName>
+      <FemaleName>雌</FemaleName>
+    </Text>
+    <Text Name="Boar">
+      <DisplayName>野猪</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="Bear">
+      <DisplayName>熊</DisplayName>
+      <MaleName>公</MaleName>
+      <FemaleName>母</FemaleName>
+    </Text>
+    <Text Name="Turtle">
+      <DisplayName>龟</DisplayName>
+      <MaleName>雄</MaleName>
+      <FemaleName>雌</FemaleName>
+    </Text>
+    <Text Name="Frog">
+      <DisplayName>青蛙</DisplayName>
+      <MaleName>雄</MaleName>
+      <FemaleName>雌</FemaleName>
+    </Text>
+    <Text Name="Fei">
+      <DisplayName>蜚</DisplayName>
+    </Text>
+    <Text Name="Lushu">
+      <DisplayName>鹿蜀</DisplayName>
+    </Text>
+  </List>
+</Texts>

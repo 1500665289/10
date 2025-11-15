@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="RockBlockBase" sParam="Item">
+      <Item.FabaoSuffix>石,印,碑,珏,圭,阙,镇</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BrownRockBlock" sParam="Item">
+      <ThingName>棕石砖</ThingName>
+      <Desc>棕石切割成的砖块，十分常见，可以更有效的用来进行制作，只是美观度很差。</Desc>
+      <Item.BeMaterial.NamePrefix>棕石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRockBlock" sParam="Item">
+      <ThingName>灰石砖</ThingName>
+      <Desc>灰石切割成的砖块，可以更有效的用来进行制作，美观度很一般。</Desc>
+      <Item.BeMaterial.NamePrefix>灰石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_MarbleBlock" sParam="Item">
+      <ThingName>大理石砖</ThingName>
+      <Desc>大理石切割成的砖块，可以更有效的用来进行制作。纹理比较美观。</Desc>
+      <Item.BeMaterial.NamePrefix>大理石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeBlock" sParam="Item">
+      <ThingName>玉石砖</ThingName>
+      <Desc>玉石切割成的砖块，可以更有效的用来进行制作。</Desc>
+      <Item.BeMaterial.NamePrefix>玉石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStoneBlock" sParam="Item">
+      <ThingName>天柱石砖</ThingName>
+      <Desc>天柱石切割成的砖块，可以更有效的用来进行制作。</Desc>
+      <Item.BeMaterial.NamePrefix>天柱石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStoneBlock" sParam="Item">
+      <ThingName>灵石砖</ThingName>
+      <Desc>灵石切割成的砖块，可以更有效的用来进行制作。</Desc>
+      <Item.BeMaterial.NamePrefix>灵石</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystalBlock" sParam="Item">
+      <ThingName>灵晶砖</ThingName>
+      <Desc>灵晶切割成的砖块，可以更有效的用来进行制作。</Desc>
+      <Item.BeMaterial.NamePrefix>灵晶</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

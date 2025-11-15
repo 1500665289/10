@@ -1,0 +1,150 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="PotentialOfBasepracticeAddValue">
+      <DisplayName>潜力加值</DisplayName>
+      <Desc>人物的潜力值，影响筑基速度，影响炼精化气的效率。</Desc>
+    </Text>
+    <Text Name="GodPenaltyAddV">
+      <DisplayName>天谴加值</DisplayName>
+      <Desc>人物的天谴加值。</Desc>
+    </Text>
+    <Text Name="MaxAccumulativeLingAddV">
+      <DisplayName>鼎炉之限加值</DisplayName>
+      <Desc>鼎炉之限的加值</Desc>
+    </Text>
+    <Text Name="BasepracticeSpeedCoefficient">
+      <DisplayName>筑基速度加成</DisplayName>
+    </Text>
+    <Text Name="DeepPracticeSpeedSpecialCoefficient">
+      <DisplayName>修炼速度加成</DisplayName>
+    </Text>
+    <Text Name="MindStateBaseValue">
+      <DisplayName>心境的基础值</DisplayName>
+    </Text>
+    <Text Name="SpeedOfMindStateCoefficient">
+      <DisplayName>心境稳定程度</DisplayName>
+    </Text>
+    <Text Name="SpeedOfMindStateCoefficientByMoods">
+      <DisplayName>心情影响心境改变速度</DisplayName>
+    </Text>
+    <Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
+      <DisplayName>心情影响心境改变速度</DisplayName>
+    </Text>
+    <Text Name="InspirationCoefficient">
+      <DisplayName>领悟悟性倍率</DisplayName>
+      <Desc>悟性越高的人越容易在生活中发生领悟。</Desc>
+    </Text>
+    <Text Name="LingAbsorbSpeed">
+      <DisplayName>灵气吸收速度加成</DisplayName>
+    </Text>
+    <Text Name="_SPECIAL_NOADD_NpcLingMaxValue">
+      <DisplayName>根本灵气</DisplayName>
+    </Text>
+    <Text Name="NpcLingMaxValue">
+      <DisplayName>灵气最大值</DisplayName>
+    </Text>
+    <Text Name="FabaoMake_SpeedAddV">
+      <DisplayName>法宝炼制速度加值</DisplayName>
+      <Desc>炼制法宝时，炼制速度加值。</Desc>
+    </Text>
+    <Text Name="FabaoMake_SuccessRateAddV">
+      <DisplayName>法宝炼制成功率加值</DisplayName>
+      <Desc>炼制法宝时，成功率加值。</Desc>
+    </Text>
+    <Text Name="FabaoMake_LingInheritRateAddV">
+      <DisplayName>法宝炼制品阶加成</DisplayName>
+      <Desc>炼制法宝时，原材料灵气对法宝品阶加成的幅度。</Desc>
+    </Text>
+    <Text Name="FabaoMake_QualityAddV">
+      <DisplayName>法宝炼制品质加值</DisplayName>
+      <Desc>炼制法宝时，成品品质的加值。</Desc>
+    </Text>
+    <Text Name="FabaoMake_TwelveRateChance">
+      <DisplayName>神器炼成基础几率</DisplayName>
+      <Desc>神器炼成基础几率</Desc>
+    </Text>
+    <Text Name="DanMake_Speed">
+      <DisplayName>丹药炼制速度</DisplayName>
+      <Desc>炼制丹药时，炼丹技能带来的炼制速度。</Desc>
+    </Text>
+    <Text Name="DanMake_SpeedAddV">
+      <DisplayName>丹药炼制速度加值</DisplayName>
+      <Desc>炼制丹药时，额外的炼制速度加值。</Desc>
+    </Text>
+    <Text Name="DanMake_SuccessRate">
+      <DisplayName>炼丹技能炼制成功率</DisplayName>
+      <Desc>炼制丹药时，炼丹技能带来的成功率。</Desc>
+    </Text>
+    <Text Name="DanMake_SuccessRateAddV">
+      <DisplayName>丹药炼制成功率加值</DisplayName>
+      <Desc>炼制丹药时，额外的成功率加值。</Desc>
+    </Text>
+    <Text Name="DanMake_Yield">
+      <DisplayName>炼丹技能炼制产量加成</DisplayName>
+      <Desc>炼制丹药时，炼丹技能带来的产量加成。</Desc>
+    </Text>
+    <Text Name="DanMake_YieldAddP">
+      <DisplayName>丹药炼制产量加值</DisplayName>
+      <Desc>炼制丹药时，额外的产量加值。</Desc>
+    </Text>
+    <Text Name="PracticeRateAddPFromDan">
+      <DisplayName>瓶颈突破概率加成系数</DisplayName>
+      <Desc>瓶颈突破概率加成系数。</Desc>
+    </Text>
+    <Text Name="WorldMapFlySpeed">
+      <DisplayName>历练飞行速度</DisplayName>
+      <DisplayValue>{0:N1}百里/息</DisplayValue>
+      <Desc>下山历练赶路时，御剑飞行的最大速度。</Desc>
+    </Text>
+    <Text Name="WorldMapFlySpeedAddP">
+      <DisplayName>历练飞行速度加成</DisplayName>
+      <Desc>下山历练赶路时，御剑飞行的速度加成。</Desc>
+    </Text>
+    <Text Name="ExperienceNeckTimeCostCoefficient">
+      <DisplayName>历练型瓶颈时间放大系数</DisplayName>
+      <Desc>突破瓶颈下山历练时，所花的时间的放大系数。</Desc>
+    </Text>
+    <Text Name="NeckCountdownAddV">
+      <DisplayName>瓶颈倒计时推迟时间</DisplayName>
+      <DisplayValue>{0:N0}秒</DisplayValue>
+      <Desc>瓶颈倒计时推迟时间。</Desc>
+    </Text>
+    <Text Name="EsotericaNum">
+      <DisplayName>秘籍数量限制</DisplayName>
+      <Desc>秘籍的最大数量</Desc>
+    </Text>
+    <Text Name="AbilityLvAddV">
+      <DisplayName>道行加值</DisplayName>
+      <Desc>真实道行的附加值</Desc>
+    </Text>
+    <Text Name="ExperiencePrestigeAddP">
+      <DisplayName>历练声望放大系数</DisplayName>
+      <Desc>历练时，门派声望以及门派关系获取时加成倍率</Desc>
+    </Text>
+    <Text Name="ExperienceFindSpeedAddV">
+      <DisplayName>历练探索速度</DisplayName>
+      <Desc>历练时探索新地点的速度加成。</Desc>
+    </Text>
+    <Text Name="NutritionToJingYuanK">
+      <DisplayName>精元获得率</DisplayName>
+      <Desc>每点饱食度转化的精元值。</Desc>
+    </Text>
+    <Text Name="NutritionWaterAutoRecover">
+      <DisplayName>饮气效率</DisplayName>
+      <DisplayValue>{0:N2}点/秒</DisplayValue>
+      <Desc>从天地间直接获取能量维持饥饿和饮水度的能力。</Desc>
+    </Text>
+    <Text Name="YaoShou_BaseLing">
+      <DisplayName>妖兽灵气值壳属性</DisplayName>
+      <Desc>妖兽灵气值壳属性</Desc>
+    </Text>
+    <Text Name="YaoShou_BaseAttack">
+      <DisplayName>妖兽攻击力壳属性</DisplayName>
+      <Desc>妖兽攻击力壳属性</Desc>
+    </Text>
+    <Text Name="YaoShou_BaseFabaoNum">
+      <DisplayName>妖兽法宝数量壳属性</DisplayName>
+      <Desc>妖兽法宝数量壳属性</Desc>
+    </Text>
+  </List>
+</Texts>
