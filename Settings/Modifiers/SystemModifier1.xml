@@ -1,35 +1,41 @@
-﻿<ModifierDefs><List>
-	<Modifier Name="SysNpcPuppet" Type="Normal"><!--傀儡附带modifier-->
-		<DisplayName>傀儡</DisplayName>
-		<Desc>这是一具傀儡，它会在工作中被磨损，无法修复。</Desc>
-	        <MaxHitPoints>2100000</MaxHitPoints>
-		<MaxStack>1</MaxStack>
-		<Duration>-1</Duration>
-		<Display>1</Display>
-		<SpecialFlags>
-			<li>FLAG_NOMAGIC</li>
-			<li>FLAG_NONEED</li>
-			<li>FLAG_NOCOMMUNICATE</li>
-			<li>FLAG_NOMOOD</li>
-			<li>FLAG_NOTNEGATIVE</li>
-			<li>FLAG_FREEPATH</li>
-			<li>FLAG_NOLING</li>
-			<li>FLAG_NOFIGHT</li>
-		</SpecialFlags>
-		<Properties>
-			<li Name="MoveSpeed" AddP="50"/>
-			<li Name="NpcFight_BaseDodgeChance" AddP="20"/>
-			<li Name="BaseWorkSpeed" AddP="2"/>
-		</Properties>
-	</Modifier> 
-	<Modifier Name="SysFlyingModifier" Type="Normal"><!---->
-		<DisplayName>飞行状态..</DisplayName>
-		<Desc></Desc>
-		<MaxStack>1</MaxStack>
-		<Duration>-1</Duration>
-		<Display>0</Display>
-		<Properties>
-			<!--<li Name="MoveSpeed" AddV="1000"/>-->
-		</Properties>
-	</Modifier> 
-</List></ModifierDefs>
+﻿<ModifierDefs>
+    <List>
+        <!-- 傀儡附带modifier -->
+        <Modifier Name="SysNpcPuppet" Type="Normal">
+            <DisplayName>傀儡</DisplayName>
+            <Desc>这是一具傀儡，它会在工作中被磨损，无法修复。</Desc>
+            <MaxHitPoints>2100000</MaxHitPoints>
+            <MaxStack>1</MaxStack>
+            <Duration>-1</Duration>
+            <Display>1</Display>
+            <SpecialFlags>
+                <li>FLAG_NOMAGIC</li>
+                <li>FLAG_NO_NEED</li> <!-- 修正可能的拼写错误 -->
+                <li>FLAG_NOCOMMUNICATE</li>
+                <li>FLAG_NOMOOD</li>
+                <li>FLAG_NOTNEGATIVE</li>
+                <li>FLAG_FREEPATH</li>
+                <li>FLAG_NOLING</li>
+                <li>FLAG_NOFIGHT</li>
+            </SpecialFlags>
+            <Properties>
+                <li Name="MoveSpeed" AddP="50"/>
+                <li Name="NpcFight_BaseDodgeChance" AddP="20"/>
+                <li Name="BaseWorkSpeed" AddP="2"/>
+            </Properties>
+        </Modifier> 
+        
+        <!-- 飞行状态修饰器 -->
+        <Modifier Name="SysFlyingModifier" Type="Normal">
+            <DisplayName>飞行状态</DisplayName>
+            <Desc>处于飞行状态，移动速度大幅提升</Desc>
+            <MaxStack>1</MaxStack>
+            <Duration>-1</Duration>
+            <Display>0</Display>
+            <Properties>
+                <li Name="MoveSpeed" AddP="200"/> <!-- 取消注释并设置实际效果 -->
+                <li Name="IgnoreTerrain" AddV="1"/> <!-- 添加忽略地形效果 -->
+            </Properties>
+        </Modifier> 
+    </List>
+</ModifierDefs>

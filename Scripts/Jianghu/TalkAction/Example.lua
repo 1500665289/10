@@ -1,6 +1,8 @@
 local tbTable = GameMain:GetMod("JianghuMgr");
-local tbTalkAction = tbTable:GetTalkAction("Mod_Example");
+-- 建议：局部引用可能用到的其他模块，避免全局变量问题
+local JianghuMgr = tbTable; -- 假设 JianghuMgr 就是这个 tbTable
 
+local tbTalkAction = tbTable:GetTalkAction("Mod_Example");
 
 --类会复用，如果有局部变量，记得在init里初始化
 function tbTalkAction:Init()	
@@ -13,7 +15,6 @@ end
 function tbTalkAction:GetDesc(player,target)
 	return "演示功能";
 end
-
 
 --按钮什么时候可见
 function tbTalkAction:CheckActive(player,target)
@@ -34,31 +35,29 @@ function tbTalkAction:Action(player,target)
 	self:SetTxt("演示：演示演示演示演示\n接下来会演示回调和自定义选项。", self.TestFinished);
 end
 
-function tbTalkAction.TestFinished(player,target)
+-- 使用冒号语法定义和调用
+function tbTalkAction:TestFinished(player,target)
 	print(111)
-	tbTalkAction:AddTempActions({
+	self:AddTempActions({
 		[1] = {"自定义选项","选项1介绍"},
 		[2] = {"选择物品","这个选项演示选择物品"},
 		[3] = {"返回", "返回很有必要"},
 	},
 	function(p, t, index)
-		print("选择了选项"..index);
-		tbTalkAction:SetTxt("选择了选项"..index, 
+		print("选择了选项" .. tostring(index)); -- 使用 tostring 更安全
+		self:SetTxt("选择了选项" .. tostring(index), 
 		function()
 			if index == 3 then
-				tbTalkAction:ExitTempAction();
+				self:ExitTempAction();
 			end		
 			if index == 2 then
-				tbTalkAction:SelectItem(
+				self:SelectItem(
 				function(p, t ,item)
 					if item ~= nil then
-						tbTalkAction:SetTxt("选择了:"..item:GetName());
+						self:SetTxt("选择了:"..item:GetName());
 					end
 				end);
 			end
 		end);
-		
 	end);
 end
-
-
